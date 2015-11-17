@@ -1,0 +1,1874 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+The	O	O	0
+task	O	O	1
+Mother	PER	PER	4
+Teresa	PER	PER	4
+began	O	O	1
+alone	O	O	0
+in	O	O	0
+1949	O	O	0
+in	O	O	0
+the	O	O	0
+slums	O	O	0
+of	O	O	1
+densely-populated	O	O	0
+Calcutta	LOC	LOC	4
+,	O	O	0
+and	O	O	0
+grew	O	O	0
+to	O	O	0
+touch	O	O	0
+the	O	O	0
+hearts	O	O	0
+of	O	O	1
+people	O	O	0
+around	O	O	0
+the	O	O	0
+world	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.008,LOC=0.000,ORG=0.002,O=0.990]	O	O
+Mother	[PER=0.759,LOC=0.071,ORG=0.020,O=0.149]	PER	PER
+Teresa	[PER=0.815,LOC=0.135,ORG=0.021,O=0.029]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.008,LOC=0.000,ORG=0.002,O=0.990]	O	O
+Mother	[PER=0.759,LOC=0.071,ORG=0.020,O=0.149]	PER	PER
+Teresa	[PER=0.815,LOC=0.135,ORG=0.021,O=0.029]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@7b1e1c25
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.008,LOC=0.000,ORG=0.002,O=0.990]	O	O
+Mother	[PER=0.759,LOC=0.071,ORG=0.020,O=0.149]	PER	PER
+Teresa	[PER=0.815,LOC=0.135,ORG=0.021,O=0.029]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.008,LOC=0.000,ORG=0.002,O=0.990]	O	O
+Mother	[PER=0.759,LOC=0.071,ORG=0.020,O=0.149]	PER	PER
+Teresa	[PER=0.815,LOC=0.135,ORG=0.021,O=0.029]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1b2adb50
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.008,LOC=0.000,ORG=0.002,O=0.990]	O	O
+Mother	[PER=0.759,LOC=0.071,ORG=0.020,O=0.149]	PER	PER
+Teresa	[PER=0.815,LOC=0.135,ORG=0.021,O=0.029]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.008,LOC=0.000,ORG=0.002,O=0.990]	O	O
+Mother	[PER=0.759,LOC=0.071,ORG=0.020,O=0.149]	PER	PER
+Teresa	[PER=0.815,LOC=0.135,ORG=0.021,O=0.029]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@6fffb752
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.008,LOC=0.000,ORG=0.002,O=0.990]	O	O
+Mother	[PER=0.759,LOC=0.071,ORG=0.020,O=0.149]	PER	PER
+Teresa	[PER=0.815,LOC=0.135,ORG=0.021,O=0.029]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.008,LOC=0.000,ORG=0.002,O=0.990]	O	O
+Mother	[PER=0.759,LOC=0.071,ORG=0.020,O=0.149]	PER	PER
+Teresa	[PER=0.815,LOC=0.135,ORG=0.021,O=0.029]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@747ce98c
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.008,LOC=0.000,ORG=0.002,O=0.990]	O	O
+Mother	[PER=0.759,LOC=0.071,ORG=0.020,O=0.149]	PER	PER
+Teresa	[PER=0.815,LOC=0.135,ORG=0.021,O=0.029]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 1 "task"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.008,LOC=0.000,ORG=0.002,O=0.990]	O	O
+Mother	[PER=0.759,LOC=0.071,ORG=0.020,O=0.149]	PER	PER
+Teresa	[PER=0.815,LOC=0.135,ORG=0.021,O=0.029]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	task
+-----------
+Move choice:
+Launch query on token 2 "Mother"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.008,LOC=0.000,ORG=0.002,O=0.990]	O	O
+Mother	[PER=0.759,LOC=0.071,ORG=0.020,O=0.149]	PER	PER
+Teresa	[PER=0.815,LOC=0.135,ORG=0.021,O=0.029]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Mother
+	task
+-----------
+Next event:
+Got response on token 1 "task" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.759,LOC=0.072,ORG=0.019,O=0.150]	PER	PER
+Teresa	[PER=0.815,LOC=0.136,ORG=0.020,O=0.029]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Mother
+-----------
+Move choice:
+Launch query on token 2 "Mother"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.759,LOC=0.072,ORG=0.019,O=0.150]	PER	PER
+Teresa	[PER=0.815,LOC=0.136,ORG=0.020,O=0.029]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Mother
+	Mother
+-----------
+Move choice:
+Launch query on token 2 "Mother"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.759,LOC=0.072,ORG=0.019,O=0.150]	PER	PER
+Teresa	[PER=0.815,LOC=0.136,ORG=0.020,O=0.029]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Mother
+	Mother
+	Mother
+-----------
+Move choice:
+Launch query on token 2 "Mother"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.759,LOC=0.072,ORG=0.019,O=0.150]	PER	PER
+Teresa	[PER=0.815,LOC=0.136,ORG=0.020,O=0.029]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Mother
+	Mother
+	Mother
+	Mother
+-----------
+Move choice:
+Launch query on token 3 "Teresa"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.759,LOC=0.072,ORG=0.019,O=0.150]	PER	PER
+Teresa	[PER=0.815,LOC=0.136,ORG=0.020,O=0.029]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Mother
+	Mother
+	Mother
+	Mother
+	Teresa
+-----------
+Next event:
+Got response on token 2 "Mother" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.957,LOC=0.013,ORG=0.003,O=0.027]	PER	PER
+Teresa	[PER=0.939,LOC=0.041,ORG=0.005,O=0.014]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.994]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Mother
+	Mother
+	Mother
+	Teresa
+-----------
+Next event:
+Got response on token 2 "Mother" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.994,LOC=0.002,ORG=0.001,O=0.004]	PER	PER
+Teresa	[PER=0.963,LOC=0.024,ORG=0.003,O=0.011]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.994]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Mother
+	Mother
+	Teresa
+-----------
+Next event:
+Got response on token 2 "Mother" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+Teresa	[PER=0.966,LOC=0.021,ORG=0.002,O=0.011]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.994]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Mother
+	Teresa
+-----------
+Move choice:
+Launch query on token 3 "Teresa"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+Teresa	[PER=0.966,LOC=0.021,ORG=0.002,O=0.011]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.994]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Teresa
+	Mother
+	Teresa
+-----------
+Next event:
+Got response on token 3 "Teresa" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+Teresa	[PER=0.953,LOC=0.021,ORG=0.015,O=0.011]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.994]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Teresa
+	Mother
+-----------
+Next event:
+Got response on token 2 "Mother" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.997,LOC=0.002,ORG=0.000,O=0.001]	PER	PER
+Teresa	[PER=0.952,LOC=0.022,ORG=0.015,O=0.011]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.994]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Teresa
+-----------
+Move choice:
+Launch query on token 3 "Teresa"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.997,LOC=0.002,ORG=0.000,O=0.001]	PER	PER
+Teresa	[PER=0.952,LOC=0.022,ORG=0.015,O=0.011]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.994]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Teresa
+	Teresa
+-----------
+Move choice:
+Launch query on token 4 "began"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.997,LOC=0.002,ORG=0.000,O=0.001]	PER	PER
+Teresa	[PER=0.952,LOC=0.022,ORG=0.015,O=0.011]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.994]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	began
+	Teresa
+	Teresa
+-----------
+Move choice:
+Launch query on token 11 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.997,LOC=0.002,ORG=0.000,O=0.001]	PER	PER
+Teresa	[PER=0.952,LOC=0.022,ORG=0.015,O=0.011]	PER	PER
+began	[PER=0.005,LOC=0.000,ORG=0.000,O=0.994]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	began
+	Teresa
+	Teresa
+	of
+-----------
+Next event:
+Got response on token 4 "began" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.997,LOC=0.002,ORG=0.000,O=0.001]	PER	PER
+Teresa	[PER=0.952,LOC=0.022,ORG=0.015,O=0.011]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Teresa
+	Teresa
+	of
+-----------
+Move choice:
+Launch query on token 13 "Calcutta"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.997,LOC=0.002,ORG=0.000,O=0.001]	PER	PER
+Teresa	[PER=0.952,LOC=0.022,ORG=0.015,O=0.011]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Teresa
+	Teresa
+	of
+	Calcutta
+-----------
+Next event:
+Got response on token 3 "Teresa" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.988,LOC=0.010,ORG=0.000,O=0.002]	PER	PER
+Teresa	[PER=0.840,LOC=0.137,ORG=0.013,O=0.009]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Teresa
+	of
+	Calcutta
+-----------
+Next event:
+Got response on token 3 "Teresa" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.998,LOC=0.002,ORG=0.000,O=0.001]	PER	PER
+Teresa	[PER=0.974,LOC=0.023,ORG=0.002,O=0.002]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.993]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.995]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.135,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	of
+	Calcutta
+-----------
+Next event:
+Got response on token 11 "of" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.998,LOC=0.002,ORG=0.000,O=0.001]	PER	PER
+Teresa	[PER=0.974,LOC=0.023,ORG=0.002,O=0.002]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.996]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.134,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Calcutta
+-----------
+Move choice:
+Launch query on token 3 "Teresa"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.998,LOC=0.002,ORG=0.000,O=0.001]	PER	PER
+Teresa	[PER=0.974,LOC=0.023,ORG=0.002,O=0.002]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.996]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.134,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Teresa
+	Calcutta
+-----------
+Move choice:
+Launch query on token 13 "Calcutta"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.998,LOC=0.002,ORG=0.000,O=0.001]	PER	PER
+Teresa	[PER=0.974,LOC=0.023,ORG=0.002,O=0.002]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.996]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.134,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Teresa
+	Calcutta
+	Calcutta
+-----------
+Move choice:
+Launch query on token 13 "Calcutta"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.998,LOC=0.002,ORG=0.000,O=0.001]	PER	PER
+Teresa	[PER=0.974,LOC=0.023,ORG=0.002,O=0.002]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.996]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.134,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Teresa
+	Calcutta
+	Calcutta
+	Calcutta
+-----------
+Move choice:
+Launch query on token 21 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.998,LOC=0.002,ORG=0.000,O=0.001]	PER	PER
+Teresa	[PER=0.974,LOC=0.023,ORG=0.002,O=0.002]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+densely-populated	[PER=0.001,LOC=0.001,ORG=0.002,O=0.996]	O	O
+Calcutta	[PER=0.027,LOC=0.826,ORG=0.134,O=0.012]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	of
+	Teresa
+	Calcutta
+	Calcutta
+	Calcutta
+-----------
+Next event:
+Got response on token 13 "Calcutta" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.998,LOC=0.002,ORG=0.000,O=0.001]	PER	PER
+Teresa	[PER=0.974,LOC=0.023,ORG=0.002,O=0.002]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+densely-populated	[PER=0.000,LOC=0.002,ORG=0.000,O=0.997]	O	O
+Calcutta	[PER=0.005,LOC=0.971,ORG=0.023,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	of
+	Teresa
+	Calcutta
+	Calcutta
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@6616a114
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.998,LOC=0.002,ORG=0.000,O=0.001]	PER	PER
+Teresa	[PER=0.974,LOC=0.023,ORG=0.002,O=0.002]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+densely-populated	[PER=0.000,LOC=0.002,ORG=0.000,O=0.997]	O	O
+Calcutta	[PER=0.005,LOC=0.971,ORG=0.023,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	of
+	Teresa
+	Calcutta
+	Calcutta
+-----------
+Next event:
+Got response on token 3 "Teresa" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Teresa	[PER=0.996,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+densely-populated	[PER=0.000,LOC=0.002,ORG=0.000,O=0.997]	O	O
+Calcutta	[PER=0.005,LOC=0.971,ORG=0.023,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	of
+	Calcutta
+	Calcutta
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@11c2a590
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Teresa	[PER=0.996,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+densely-populated	[PER=0.000,LOC=0.002,ORG=0.000,O=0.997]	O	O
+Calcutta	[PER=0.005,LOC=0.971,ORG=0.023,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	of
+	Calcutta
+	Calcutta
+-----------
+Next event:
+Got response on token 13 "Calcutta" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Teresa	[PER=0.996,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+densely-populated	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+Calcutta	[PER=0.001,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	of
+	Calcutta
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@43a4f469
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Teresa	[PER=0.996,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+densely-populated	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+Calcutta	[PER=0.001,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	of
+	Calcutta
+-----------
+Next event:
+Got response on token 21 "of" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Teresa	[PER=0.996,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+densely-populated	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+Calcutta	[PER=0.001,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Calcutta
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@460b7e48
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Teresa	[PER=0.996,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+densely-populated	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+Calcutta	[PER=0.001,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Calcutta
+-----------
+Next event:
+Got response on token 13 "Calcutta" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Teresa	[PER=0.996,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+densely-populated	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+Calcutta	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 13 "Calcutta"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Teresa	[PER=0.996,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+densely-populated	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+Calcutta	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Calcutta
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1546799c
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Teresa	[PER=0.996,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+densely-populated	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+Calcutta	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Calcutta
+-----------
+Next event:
+Got response on token 13 "Calcutta" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+task	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Teresa	[PER=0.996,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+began	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+alone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+slums	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+densely-populated	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+Calcutta	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+touch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hearts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+around	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+world	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@112ca081

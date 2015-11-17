@@ -1,0 +1,991 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Last	O	O	1
+October	O	O	2
+he	O	O	0
+was	O	O	0
+invited	O	O	0
+to	O	O	0
+attend	O	O	0
+the	O	O	0
+referendum	O	O	0
+held	O	O	0
+on	O	O	0
+Iraq	LOC	LOC	1
+'s	O	O	0
+presidency	O	O	0
+,	O	O	0
+which	O	O	0
+extended	O	O	0
+Saddam	PER	PER	2
+'s	O	O	0
+term	O	O	0
+for	O	O	0
+seven	O	O	0
+more	O	O	0
+years	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.180,LOC=0.066,ORG=0.064,O=0.689]	O	O
+October	[PER=0.245,LOC=0.084,ORG=0.068,O=0.603]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.024,LOC=0.923,ORG=0.026,O=0.026]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.636,LOC=0.297,ORG=0.039,O=0.028]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.180,LOC=0.066,ORG=0.064,O=0.689]	O	O
+October	[PER=0.245,LOC=0.084,ORG=0.068,O=0.603]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.024,LOC=0.923,ORG=0.026,O=0.026]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.636,LOC=0.297,ORG=0.039,O=0.028]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.180,LOC=0.066,ORG=0.064,O=0.689]	O	O
+October	[PER=0.245,LOC=0.084,ORG=0.068,O=0.603]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.024,LOC=0.923,ORG=0.026,O=0.026]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.636,LOC=0.297,ORG=0.039,O=0.028]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.180,LOC=0.066,ORG=0.064,O=0.689]	O	O
+October	[PER=0.245,LOC=0.084,ORG=0.068,O=0.603]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.024,LOC=0.923,ORG=0.026,O=0.026]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.636,LOC=0.297,ORG=0.039,O=0.028]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.180,LOC=0.066,ORG=0.064,O=0.689]	O	O
+October	[PER=0.245,LOC=0.084,ORG=0.068,O=0.603]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.024,LOC=0.923,ORG=0.026,O=0.026]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.636,LOC=0.297,ORG=0.039,O=0.028]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.180,LOC=0.066,ORG=0.064,O=0.689]	O	O
+October	[PER=0.245,LOC=0.084,ORG=0.068,O=0.603]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.024,LOC=0.923,ORG=0.026,O=0.026]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.636,LOC=0.297,ORG=0.039,O=0.028]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.180,LOC=0.066,ORG=0.064,O=0.689]	O	O
+October	[PER=0.245,LOC=0.084,ORG=0.068,O=0.603]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.024,LOC=0.923,ORG=0.026,O=0.026]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.636,LOC=0.297,ORG=0.039,O=0.028]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.180,LOC=0.066,ORG=0.064,O=0.689]	O	O
+October	[PER=0.245,LOC=0.084,ORG=0.068,O=0.603]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.024,LOC=0.923,ORG=0.026,O=0.026]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.636,LOC=0.297,ORG=0.039,O=0.028]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.180,LOC=0.066,ORG=0.064,O=0.689]	O	O
+October	[PER=0.245,LOC=0.084,ORG=0.068,O=0.603]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.024,LOC=0.923,ORG=0.026,O=0.026]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.636,LOC=0.297,ORG=0.039,O=0.028]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.180,LOC=0.066,ORG=0.064,O=0.689]	O	O
+October	[PER=0.245,LOC=0.084,ORG=0.068,O=0.603]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.024,LOC=0.923,ORG=0.026,O=0.026]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.636,LOC=0.297,ORG=0.039,O=0.028]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.180,LOC=0.066,ORG=0.064,O=0.689]	O	O
+October	[PER=0.245,LOC=0.084,ORG=0.068,O=0.603]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.024,LOC=0.923,ORG=0.026,O=0.026]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.636,LOC=0.297,ORG=0.039,O=0.028]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 17 "Saddam"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.180,LOC=0.066,ORG=0.064,O=0.689]	O	O
+October	[PER=0.245,LOC=0.084,ORG=0.068,O=0.603]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.024,LOC=0.923,ORG=0.026,O=0.026]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.636,LOC=0.297,ORG=0.039,O=0.028]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Saddam
+-----------
+Move choice:
+Launch query on token 1 "October"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.180,LOC=0.066,ORG=0.064,O=0.689]	O	O
+October	[PER=0.245,LOC=0.084,ORG=0.068,O=0.603]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.024,LOC=0.923,ORG=0.026,O=0.026]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.636,LOC=0.297,ORG=0.039,O=0.028]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	October
+	Saddam
+-----------
+Move choice:
+Launch query on token 0 "Last"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.180,LOC=0.066,ORG=0.064,O=0.689]	O	O
+October	[PER=0.245,LOC=0.084,ORG=0.068,O=0.603]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.024,LOC=0.923,ORG=0.026,O=0.026]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.636,LOC=0.297,ORG=0.039,O=0.028]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	October
+	Last
+	Saddam
+-----------
+Next event:
+Got response on token 1 "October" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.063,LOC=0.067,ORG=0.032,O=0.838]	O	O
+October	[PER=0.053,LOC=0.018,ORG=0.015,O=0.914]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.024,LOC=0.923,ORG=0.026,O=0.026]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.636,LOC=0.297,ORG=0.039,O=0.028]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Last
+	Saddam
+-----------
+Next event:
+Got response on token 17 "Saddam" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.063,LOC=0.067,ORG=0.032,O=0.838]	O	O
+October	[PER=0.053,LOC=0.018,ORG=0.015,O=0.914]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.024,LOC=0.923,ORG=0.026,O=0.026]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.924,LOC=0.062,ORG=0.008,O=0.006]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Last
+-----------
+Move choice:
+Launch query on token 11 "Iraq"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.063,LOC=0.067,ORG=0.032,O=0.838]	O	O
+October	[PER=0.053,LOC=0.018,ORG=0.015,O=0.914]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.024,LOC=0.923,ORG=0.026,O=0.026]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.924,LOC=0.062,ORG=0.008,O=0.006]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Last
+	Iraq
+-----------
+Move choice:
+Launch query on token 17 "Saddam"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.063,LOC=0.067,ORG=0.032,O=0.838]	O	O
+October	[PER=0.053,LOC=0.018,ORG=0.015,O=0.914]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.024,LOC=0.923,ORG=0.026,O=0.026]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.924,LOC=0.062,ORG=0.008,O=0.006]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Last
+	Saddam
+	Iraq
+-----------
+Next event:
+Got response on token 0 "Last" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.010,LOC=0.011,ORG=0.005,O=0.973]	O	O
+October	[PER=0.025,LOC=0.016,ORG=0.007,O=0.951]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.024,LOC=0.923,ORG=0.026,O=0.026]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.924,LOC=0.062,ORG=0.008,O=0.006]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Saddam
+	Iraq
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1c4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.010,LOC=0.011,ORG=0.005,O=0.973]	O	O
+October	[PER=0.025,LOC=0.016,ORG=0.007,O=0.951]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.024,LOC=0.923,ORG=0.026,O=0.026]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.924,LOC=0.062,ORG=0.008,O=0.006]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Saddam
+	Iraq
+-----------
+Next event:
+Got response on token 11 "Iraq" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.010,LOC=0.011,ORG=0.005,O=0.973]	O	O
+October	[PER=0.025,LOC=0.016,ORG=0.007,O=0.951]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.004,LOC=0.988,ORG=0.004,O=0.004]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.924,LOC=0.062,ORG=0.008,O=0.006]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Saddam
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@204
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.010,LOC=0.011,ORG=0.005,O=0.973]	O	O
+October	[PER=0.025,LOC=0.016,ORG=0.007,O=0.951]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.004,LOC=0.988,ORG=0.004,O=0.004]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.924,LOC=0.062,ORG=0.008,O=0.006]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Saddam
+-----------
+Next event:
+Got response on token 17 "Saddam" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.010,LOC=0.011,ORG=0.005,O=0.973]	O	O
+October	[PER=0.025,LOC=0.016,ORG=0.007,O=0.951]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.004,LOC=0.988,ORG=0.004,O=0.004]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.988,LOC=0.009,ORG=0.001,O=0.001]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 1 "October"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.010,LOC=0.011,ORG=0.005,O=0.973]	O	O
+October	[PER=0.025,LOC=0.016,ORG=0.007,O=0.951]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.004,LOC=0.988,ORG=0.004,O=0.004]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.988,LOC=0.009,ORG=0.001,O=0.001]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	October
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@280
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.010,LOC=0.011,ORG=0.005,O=0.973]	O	O
+October	[PER=0.025,LOC=0.016,ORG=0.007,O=0.951]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.004,LOC=0.988,ORG=0.004,O=0.004]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.988,LOC=0.009,ORG=0.001,O=0.001]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	October
+-----------
+Next event:
+Got response on token 1 "October" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Last	[PER=0.006,LOC=0.011,ORG=0.004,O=0.980]	O	O
+October	[PER=0.004,LOC=0.002,ORG=0.001,O=0.993]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+referendum	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+held	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.004,LOC=0.988,ORG=0.004,O=0.004]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+presidency	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+extended	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saddam	[PER=0.988,LOC=0.009,ORG=0.001,O=0.001]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+term	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+more	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+years	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@2b6

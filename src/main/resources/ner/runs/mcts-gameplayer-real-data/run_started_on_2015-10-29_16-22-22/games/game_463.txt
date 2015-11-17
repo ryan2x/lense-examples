@@ -1,0 +1,977 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Lauck	PER	PER	2
+,	O	O	0
+from	O	O	0
+Lincoln	LOC	LOC	2
+,	O	O	0
+Nebraska	LOC	LOC	2
+,	O	O	0
+yelled	O	O	0
+a	O	O	0
+tirade	O	O	0
+of	O	O	0
+abuse	O	O	0
+at	O	O	0
+the	O	O	0
+court	O	O	1
+after	O	O	0
+his	O	O	0
+conviction	O	O	0
+for	O	O	0
+inciting	O	O	0
+racial	O	O	0
+hatred	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.596,LOC=0.234,ORG=0.146,O=0.024]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Lincoln	[PER=0.186,LOC=0.656,ORG=0.121,O=0.036]	LOC	LOC
+,	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Nebraska	[PER=0.120,LOC=0.713,ORG=0.162,O=0.005]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.596,LOC=0.234,ORG=0.146,O=0.024]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Lincoln	[PER=0.186,LOC=0.656,ORG=0.121,O=0.036]	LOC	LOC
+,	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Nebraska	[PER=0.120,LOC=0.713,ORG=0.162,O=0.005]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.596,LOC=0.234,ORG=0.146,O=0.024]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Lincoln	[PER=0.186,LOC=0.656,ORG=0.121,O=0.036]	LOC	LOC
+,	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Nebraska	[PER=0.120,LOC=0.713,ORG=0.162,O=0.005]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.596,LOC=0.234,ORG=0.146,O=0.024]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Lincoln	[PER=0.186,LOC=0.656,ORG=0.121,O=0.036]	LOC	LOC
+,	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Nebraska	[PER=0.120,LOC=0.713,ORG=0.162,O=0.005]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.596,LOC=0.234,ORG=0.146,O=0.024]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Lincoln	[PER=0.186,LOC=0.656,ORG=0.121,O=0.036]	LOC	LOC
+,	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Nebraska	[PER=0.120,LOC=0.713,ORG=0.162,O=0.005]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.596,LOC=0.234,ORG=0.146,O=0.024]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Lincoln	[PER=0.186,LOC=0.656,ORG=0.121,O=0.036]	LOC	LOC
+,	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Nebraska	[PER=0.120,LOC=0.713,ORG=0.162,O=0.005]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.596,LOC=0.234,ORG=0.146,O=0.024]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Lincoln	[PER=0.186,LOC=0.656,ORG=0.121,O=0.036]	LOC	LOC
+,	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Nebraska	[PER=0.120,LOC=0.713,ORG=0.162,O=0.005]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.596,LOC=0.234,ORG=0.146,O=0.024]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Lincoln	[PER=0.186,LOC=0.656,ORG=0.121,O=0.036]	LOC	LOC
+,	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Nebraska	[PER=0.120,LOC=0.713,ORG=0.162,O=0.005]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.596,LOC=0.234,ORG=0.146,O=0.024]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Lincoln	[PER=0.186,LOC=0.656,ORG=0.121,O=0.036]	LOC	LOC
+,	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Nebraska	[PER=0.120,LOC=0.713,ORG=0.162,O=0.005]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.596,LOC=0.234,ORG=0.146,O=0.024]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Lincoln	[PER=0.186,LOC=0.656,ORG=0.121,O=0.036]	LOC	LOC
+,	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Nebraska	[PER=0.120,LOC=0.713,ORG=0.162,O=0.005]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.596,LOC=0.234,ORG=0.146,O=0.024]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Lincoln	[PER=0.186,LOC=0.656,ORG=0.121,O=0.036]	LOC	LOC
+,	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Nebraska	[PER=0.120,LOC=0.713,ORG=0.162,O=0.005]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 5 "Nebraska"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.596,LOC=0.234,ORG=0.146,O=0.024]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Lincoln	[PER=0.186,LOC=0.656,ORG=0.121,O=0.036]	LOC	LOC
+,	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Nebraska	[PER=0.120,LOC=0.713,ORG=0.162,O=0.005]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Nebraska
+-----------
+Move choice:
+Launch query on token 3 "Lincoln"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.596,LOC=0.234,ORG=0.146,O=0.024]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Lincoln	[PER=0.186,LOC=0.656,ORG=0.121,O=0.036]	LOC	LOC
+,	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Nebraska	[PER=0.120,LOC=0.713,ORG=0.162,O=0.005]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Nebraska
+	Lincoln
+-----------
+Move choice:
+Launch query on token 14 "court"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.596,LOC=0.234,ORG=0.146,O=0.024]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Lincoln	[PER=0.186,LOC=0.656,ORG=0.121,O=0.036]	LOC	LOC
+,	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Nebraska	[PER=0.120,LOC=0.713,ORG=0.162,O=0.005]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Nebraska
+	Lincoln
+	court
+-----------
+Next event:
+Got response on token 5 "Nebraska" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.596,LOC=0.234,ORG=0.146,O=0.024]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Lincoln	[PER=0.186,LOC=0.657,ORG=0.120,O=0.037]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Nebraska	[PER=0.023,LOC=0.946,ORG=0.031,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lincoln
+	court
+-----------
+Move choice:
+Launch query on token 0 "Lauck"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.596,LOC=0.234,ORG=0.146,O=0.024]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Lincoln	[PER=0.186,LOC=0.657,ORG=0.120,O=0.037]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Nebraska	[PER=0.023,LOC=0.946,ORG=0.031,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lincoln
+	court
+	Lauck
+-----------
+Next event:
+Got response on token 14 "court" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.596,LOC=0.234,ORG=0.146,O=0.024]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Lincoln	[PER=0.186,LOC=0.657,ORG=0.120,O=0.037]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Nebraska	[PER=0.023,LOC=0.946,ORG=0.031,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lincoln
+	Lauck
+-----------
+Next event:
+Got response on token 3 "Lincoln" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.596,LOC=0.234,ORG=0.146,O=0.024]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Lincoln	[PER=0.038,LOC=0.931,ORG=0.024,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Nebraska	[PER=0.023,LOC=0.946,ORG=0.031,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lauck
+-----------
+Move choice:
+Launch query on token 0 "Lauck"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.596,LOC=0.234,ORG=0.146,O=0.024]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Lincoln	[PER=0.038,LOC=0.931,ORG=0.024,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Nebraska	[PER=0.023,LOC=0.946,ORG=0.031,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lauck
+	Lauck
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@16a
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.596,LOC=0.234,ORG=0.146,O=0.024]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Lincoln	[PER=0.038,LOC=0.931,ORG=0.024,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Nebraska	[PER=0.023,LOC=0.946,ORG=0.031,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lauck
+	Lauck
+-----------
+Next event:
+Got response on token 0 "Lauck" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.912,LOC=0.051,ORG=0.032,O=0.005]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Lincoln	[PER=0.038,LOC=0.931,ORG=0.024,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Nebraska	[PER=0.023,LOC=0.946,ORG=0.031,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lauck
+-----------
+Move choice:
+Launch query on token 5 "Nebraska"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.912,LOC=0.051,ORG=0.032,O=0.005]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Lincoln	[PER=0.038,LOC=0.931,ORG=0.024,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Nebraska	[PER=0.023,LOC=0.946,ORG=0.031,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lauck
+	Nebraska
+-----------
+Move choice:
+Launch query on token 3 "Lincoln"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.912,LOC=0.051,ORG=0.032,O=0.005]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Lincoln	[PER=0.038,LOC=0.931,ORG=0.024,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Nebraska	[PER=0.023,LOC=0.946,ORG=0.031,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lincoln
+	Lauck
+	Nebraska
+-----------
+Next event:
+Got response on token 5 "Nebraska" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.912,LOC=0.051,ORG=0.032,O=0.005]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Lincoln	[PER=0.038,LOC=0.931,ORG=0.024,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Nebraska	[PER=0.003,LOC=0.992,ORG=0.005,O=0.000]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lincoln
+	Lauck
+-----------
+Next event:
+Got response on token 0 "Lauck" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.986,LOC=0.008,ORG=0.005,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Lincoln	[PER=0.038,LOC=0.931,ORG=0.024,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Nebraska	[PER=0.003,LOC=0.992,ORG=0.005,O=0.000]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lincoln
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@262
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.986,LOC=0.008,ORG=0.005,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Lincoln	[PER=0.038,LOC=0.931,ORG=0.024,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Nebraska	[PER=0.003,LOC=0.992,ORG=0.005,O=0.000]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lincoln
+-----------
+Next event:
+Got response on token 3 "Lincoln" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lauck	[PER=0.986,LOC=0.008,ORG=0.005,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Lincoln	[PER=0.006,LOC=0.989,ORG=0.004,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Nebraska	[PER=0.003,LOC=0.992,ORG=0.005,O=0.000]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+yelled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+tirade	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+abuse	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+court	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+conviction	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inciting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+racial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+hatred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@29b

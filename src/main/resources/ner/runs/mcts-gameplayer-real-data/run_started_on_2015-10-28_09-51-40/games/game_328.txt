@@ -1,0 +1,843 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Doctor	O	O	5
+Masserigne	PER	PER	1
+Ndiaye	PER	PER	3
+said	O	O	0
+medical	O	O	0
+staff	O	O	0
+were	O	O	0
+overwhelmed	O	O	0
+with	O	O	0
+work	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.926,LOC=0.001,ORG=0.061,O=0.011]	O	PER
+Masserigne	[PER=0.930,LOC=0.002,ORG=0.064,O=0.004]	PER	PER
+Ndiaye	[PER=0.912,LOC=0.016,ORG=0.064,O=0.008]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.926,LOC=0.001,ORG=0.061,O=0.011]	O	PER
+Masserigne	[PER=0.930,LOC=0.002,ORG=0.064,O=0.004]	PER	PER
+Ndiaye	[PER=0.912,LOC=0.016,ORG=0.064,O=0.008]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.926,LOC=0.001,ORG=0.061,O=0.011]	O	PER
+Masserigne	[PER=0.930,LOC=0.002,ORG=0.064,O=0.004]	PER	PER
+Ndiaye	[PER=0.912,LOC=0.016,ORG=0.064,O=0.008]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.926,LOC=0.001,ORG=0.061,O=0.011]	O	PER
+Masserigne	[PER=0.930,LOC=0.002,ORG=0.064,O=0.004]	PER	PER
+Ndiaye	[PER=0.912,LOC=0.016,ORG=0.064,O=0.008]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.926,LOC=0.001,ORG=0.061,O=0.011]	O	PER
+Masserigne	[PER=0.930,LOC=0.002,ORG=0.064,O=0.004]	PER	PER
+Ndiaye	[PER=0.912,LOC=0.016,ORG=0.064,O=0.008]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.926,LOC=0.001,ORG=0.061,O=0.011]	O	PER
+Masserigne	[PER=0.930,LOC=0.002,ORG=0.064,O=0.004]	PER	PER
+Ndiaye	[PER=0.912,LOC=0.016,ORG=0.064,O=0.008]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.926,LOC=0.001,ORG=0.061,O=0.011]	O	PER
+Masserigne	[PER=0.930,LOC=0.002,ORG=0.064,O=0.004]	PER	PER
+Ndiaye	[PER=0.912,LOC=0.016,ORG=0.064,O=0.008]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.926,LOC=0.001,ORG=0.061,O=0.011]	O	PER
+Masserigne	[PER=0.930,LOC=0.002,ORG=0.064,O=0.004]	PER	PER
+Ndiaye	[PER=0.912,LOC=0.016,ORG=0.064,O=0.008]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.926,LOC=0.001,ORG=0.061,O=0.011]	O	PER
+Masserigne	[PER=0.930,LOC=0.002,ORG=0.064,O=0.004]	PER	PER
+Ndiaye	[PER=0.912,LOC=0.016,ORG=0.064,O=0.008]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.926,LOC=0.001,ORG=0.061,O=0.011]	O	PER
+Masserigne	[PER=0.930,LOC=0.002,ORG=0.064,O=0.004]	PER	PER
+Ndiaye	[PER=0.912,LOC=0.016,ORG=0.064,O=0.008]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.926,LOC=0.001,ORG=0.061,O=0.011]	O	PER
+Masserigne	[PER=0.930,LOC=0.002,ORG=0.064,O=0.004]	PER	PER
+Ndiaye	[PER=0.912,LOC=0.016,ORG=0.064,O=0.008]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 2 "Ndiaye"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.926,LOC=0.001,ORG=0.061,O=0.011]	O	PER
+Masserigne	[PER=0.930,LOC=0.002,ORG=0.064,O=0.004]	PER	PER
+Ndiaye	[PER=0.912,LOC=0.016,ORG=0.064,O=0.008]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ndiaye
+-----------
+Move choice:
+Launch query on token 0 "Doctor"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.926,LOC=0.001,ORG=0.061,O=0.011]	O	PER
+Masserigne	[PER=0.930,LOC=0.002,ORG=0.064,O=0.004]	PER	PER
+Ndiaye	[PER=0.912,LOC=0.016,ORG=0.064,O=0.008]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Doctor
+	Ndiaye
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.926,LOC=0.001,ORG=0.061,O=0.011]	O	PER
+Masserigne	[PER=0.930,LOC=0.002,ORG=0.064,O=0.004]	PER	PER
+Ndiaye	[PER=0.912,LOC=0.016,ORG=0.064,O=0.008]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Doctor
+	Ndiaye
+-----------
+Next event:
+Got response on token 2 "Ndiaye" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.922,LOC=0.002,ORG=0.064,O=0.012]	O	PER
+Masserigne	[PER=0.923,LOC=0.003,ORG=0.066,O=0.007]	PER	PER
+Ndiaye	[PER=0.870,LOC=0.015,ORG=0.061,O=0.054]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Doctor
+-----------
+Move choice:
+Launch query on token 2 "Ndiaye"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.922,LOC=0.002,ORG=0.064,O=0.012]	O	PER
+Masserigne	[PER=0.923,LOC=0.003,ORG=0.066,O=0.007]	PER	PER
+Ndiaye	[PER=0.870,LOC=0.015,ORG=0.061,O=0.054]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ndiaye
+	Doctor
+-----------
+Move choice:
+Launch query on token 2 "Ndiaye"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.922,LOC=0.002,ORG=0.064,O=0.012]	O	PER
+Masserigne	[PER=0.923,LOC=0.003,ORG=0.066,O=0.007]	PER	PER
+Ndiaye	[PER=0.870,LOC=0.015,ORG=0.061,O=0.054]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ndiaye
+	Ndiaye
+	Doctor
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@75
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.922,LOC=0.002,ORG=0.064,O=0.012]	O	PER
+Masserigne	[PER=0.923,LOC=0.003,ORG=0.066,O=0.007]	PER	PER
+Ndiaye	[PER=0.870,LOC=0.015,ORG=0.061,O=0.054]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ndiaye
+	Ndiaye
+	Doctor
+-----------
+Next event:
+Got response on token 2 "Ndiaye" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.970,LOC=0.001,ORG=0.020,O=0.009]	O	PER
+Masserigne	[PER=0.981,LOC=0.001,ORG=0.015,O=0.003]	PER	PER
+Ndiaye	[PER=0.979,LOC=0.002,ORG=0.010,O=0.009]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ndiaye
+	Doctor
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@eb
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.970,LOC=0.001,ORG=0.020,O=0.009]	O	PER
+Masserigne	[PER=0.981,LOC=0.001,ORG=0.015,O=0.003]	PER	PER
+Ndiaye	[PER=0.979,LOC=0.002,ORG=0.010,O=0.009]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ndiaye
+	Doctor
+-----------
+Next event:
+Got response on token 2 "Ndiaye" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.978,LOC=0.001,ORG=0.012,O=0.009]	O	PER
+Masserigne	[PER=0.991,LOC=0.000,ORG=0.007,O=0.002]	PER	PER
+Ndiaye	[PER=0.997,LOC=0.000,ORG=0.001,O=0.001]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Doctor
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@16e
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.978,LOC=0.001,ORG=0.012,O=0.009]	O	PER
+Masserigne	[PER=0.991,LOC=0.000,ORG=0.007,O=0.002]	PER	PER
+Ndiaye	[PER=0.997,LOC=0.000,ORG=0.001,O=0.001]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Doctor
+-----------
+Next event:
+Got response on token 0 "Doctor" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.929,LOC=0.001,ORG=0.012,O=0.058]	O	PER
+Masserigne	[PER=0.986,LOC=0.001,ORG=0.008,O=0.005]	PER	PER
+Ndiaye	[PER=0.996,LOC=0.000,ORG=0.002,O=0.001]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "Doctor"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.929,LOC=0.001,ORG=0.012,O=0.058]	O	PER
+Masserigne	[PER=0.986,LOC=0.001,ORG=0.008,O=0.005]	PER	PER
+Ndiaye	[PER=0.996,LOC=0.000,ORG=0.002,O=0.001]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Doctor
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@19e
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.929,LOC=0.001,ORG=0.012,O=0.058]	O	PER
+Masserigne	[PER=0.986,LOC=0.001,ORG=0.008,O=0.005]	PER	PER
+Ndiaye	[PER=0.996,LOC=0.000,ORG=0.002,O=0.001]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Doctor
+-----------
+Next event:
+Got response on token 0 "Doctor" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.689,LOC=0.001,ORG=0.009,O=0.302]	O	PER
+Masserigne	[PER=0.965,LOC=0.004,ORG=0.014,O=0.017]	PER	PER
+Ndiaye	[PER=0.994,LOC=0.001,ORG=0.003,O=0.002]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "Doctor"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.689,LOC=0.001,ORG=0.009,O=0.302]	O	PER
+Masserigne	[PER=0.965,LOC=0.004,ORG=0.014,O=0.017]	PER	PER
+Ndiaye	[PER=0.994,LOC=0.001,ORG=0.003,O=0.002]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Doctor
+-----------
+Move choice:
+Launch query on token 0 "Doctor"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.689,LOC=0.001,ORG=0.009,O=0.302]	O	PER
+Masserigne	[PER=0.965,LOC=0.004,ORG=0.014,O=0.017]	PER	PER
+Ndiaye	[PER=0.994,LOC=0.001,ORG=0.003,O=0.002]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Doctor
+	Doctor
+-----------
+Next event:
+Got response on token 0 "Doctor" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.245,LOC=0.000,ORG=0.003,O=0.752]	O	O
+Masserigne	[PER=0.925,LOC=0.009,ORG=0.025,O=0.041]	PER	PER
+Ndiaye	[PER=0.990,LOC=0.002,ORG=0.005,O=0.004]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Doctor
+-----------
+Move choice:
+Launch query on token 1 "Masserigne"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.245,LOC=0.000,ORG=0.003,O=0.752]	O	O
+Masserigne	[PER=0.925,LOC=0.009,ORG=0.025,O=0.041]	PER	PER
+Ndiaye	[PER=0.990,LOC=0.002,ORG=0.005,O=0.004]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Masserigne
+	Doctor
+-----------
+Next event:
+Got response on token 0 "Doctor" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.044,LOC=0.000,ORG=0.001,O=0.955]	O	O
+Masserigne	[PER=0.907,LOC=0.012,ORG=0.029,O=0.051]	PER	PER
+Ndiaye	[PER=0.988,LOC=0.002,ORG=0.006,O=0.005]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Masserigne
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@40e
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.044,LOC=0.000,ORG=0.001,O=0.955]	O	O
+Masserigne	[PER=0.907,LOC=0.012,ORG=0.029,O=0.051]	PER	PER
+Ndiaye	[PER=0.988,LOC=0.002,ORG=0.006,O=0.005]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Masserigne
+-----------
+Next event:
+Got response on token 1 "Masserigne" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.048,LOC=0.000,ORG=0.000,O=0.951]	O	O
+Masserigne	[PER=0.986,LOC=0.002,ORG=0.005,O=0.008]	PER	PER
+Ndiaye	[PER=0.997,LOC=0.001,ORG=0.001,O=0.002]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "Doctor"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.048,LOC=0.000,ORG=0.000,O=0.951]	O	O
+Masserigne	[PER=0.986,LOC=0.002,ORG=0.005,O=0.008]	PER	PER
+Ndiaye	[PER=0.997,LOC=0.001,ORG=0.001,O=0.002]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Doctor
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@484
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.048,LOC=0.000,ORG=0.000,O=0.951]	O	O
+Masserigne	[PER=0.986,LOC=0.002,ORG=0.005,O=0.008]	PER	PER
+Ndiaye	[PER=0.997,LOC=0.001,ORG=0.001,O=0.002]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Doctor
+-----------
+Next event:
+Got response on token 0 "Doctor" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Doctor	[PER=0.262,LOC=0.000,ORG=0.000,O=0.738]	O	O
+Masserigne	[PER=0.989,LOC=0.001,ORG=0.004,O=0.006]	PER	PER
+Ndiaye	[PER=0.997,LOC=0.000,ORG=0.001,O=0.001]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+medical	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+staff	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+overwhelmed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@774

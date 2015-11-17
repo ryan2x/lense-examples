@@ -1,0 +1,2062 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	1
+Three	O	O	1
+of	O	O	2
+the	O	O	0
+four	O	O	0
+children	O	O	0
+had	O	O	0
+Crohn	PER	O	5
+'s	O	O	1
+disease	O	O	0
+,	O	O	0
+"	O	O	0
+Wakefield	PER	PER	5
+'s	O	O	0
+group	O	O	1
+wrote	O	O	0
+in	O	O	0
+the	O	O	0
+Lancet	ORG	ORG	3
+medical	O	O	3
+journal	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.300,LOC=0.225,ORG=0.339,O=0.136]	PER	ORG
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.024,LOC=0.605,ORG=0.256,O=0.115]	ORG	LOC
+medical	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.300,LOC=0.225,ORG=0.339,O=0.136]	PER	ORG
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.024,LOC=0.605,ORG=0.256,O=0.115]	ORG	LOC
+medical	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.300,LOC=0.225,ORG=0.339,O=0.136]	PER	ORG
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.024,LOC=0.605,ORG=0.256,O=0.115]	ORG	LOC
+medical	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.300,LOC=0.225,ORG=0.339,O=0.136]	PER	ORG
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.024,LOC=0.605,ORG=0.256,O=0.115]	ORG	LOC
+medical	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.300,LOC=0.225,ORG=0.339,O=0.136]	PER	ORG
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.024,LOC=0.605,ORG=0.256,O=0.115]	ORG	LOC
+medical	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.300,LOC=0.225,ORG=0.339,O=0.136]	PER	ORG
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.024,LOC=0.605,ORG=0.256,O=0.115]	ORG	LOC
+medical	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.300,LOC=0.225,ORG=0.339,O=0.136]	PER	ORG
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.024,LOC=0.605,ORG=0.256,O=0.115]	ORG	LOC
+medical	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.300,LOC=0.225,ORG=0.339,O=0.136]	PER	ORG
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.024,LOC=0.605,ORG=0.256,O=0.115]	ORG	LOC
+medical	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.300,LOC=0.225,ORG=0.339,O=0.136]	PER	ORG
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.024,LOC=0.605,ORG=0.256,O=0.115]	ORG	LOC
+medical	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.300,LOC=0.225,ORG=0.339,O=0.136]	PER	ORG
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.024,LOC=0.605,ORG=0.256,O=0.115]	ORG	LOC
+medical	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@9
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.300,LOC=0.225,ORG=0.339,O=0.136]	PER	ORG
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.024,LOC=0.605,ORG=0.256,O=0.115]	ORG	LOC
+medical	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 7 "Crohn"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.300,LOC=0.225,ORG=0.339,O=0.136]	PER	ORG
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.024,LOC=0.605,ORG=0.256,O=0.115]	ORG	LOC
+medical	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+-----------
+Move choice:
+Launch query on token 18 "Lancet"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.300,LOC=0.225,ORG=0.339,O=0.136]	PER	ORG
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.024,LOC=0.605,ORG=0.256,O=0.115]	ORG	LOC
+medical	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lancet
+	Crohn
+-----------
+Move choice:
+Launch query on token 0 """
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.300,LOC=0.225,ORG=0.339,O=0.136]	PER	ORG
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.024,LOC=0.605,ORG=0.256,O=0.115]	ORG	LOC
+medical	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lancet
+	Crohn
+	"
+-----------
+Next event:
+Got response on token 7 "Crohn" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.750,LOC=0.080,ORG=0.121,O=0.049]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.024,LOC=0.605,ORG=0.256,O=0.115]	ORG	LOC
+medical	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lancet
+	"
+-----------
+Move choice:
+Launch query on token 18 "Lancet"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.750,LOC=0.080,ORG=0.121,O=0.049]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.024,LOC=0.605,ORG=0.256,O=0.115]	ORG	LOC
+medical	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lancet
+	Lancet
+	"
+-----------
+Move choice:
+Launch query on token 12 "Wakefield"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.750,LOC=0.080,ORG=0.121,O=0.049]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.024,LOC=0.605,ORG=0.256,O=0.115]	ORG	LOC
+medical	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lancet
+	Lancet
+	Wakefield
+	"
+-----------
+Next event:
+Got response on token 0 """ = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.750,LOC=0.080,ORG=0.121,O=0.049]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.024,LOC=0.605,ORG=0.256,O=0.115]	ORG	LOC
+medical	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lancet
+	Lancet
+	Wakefield
+-----------
+Next event:
+Got response on token 18 "Lancet" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.750,LOC=0.080,ORG=0.121,O=0.049]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.009,LOC=0.238,ORG=0.707,O=0.046]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.016,O=0.984]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lancet
+	Wakefield
+-----------
+Move choice:
+Launch query on token 8 "'s"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.750,LOC=0.080,ORG=0.121,O=0.049]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.009,LOC=0.238,ORG=0.707,O=0.046]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.016,O=0.984]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lancet
+	Wakefield
+	's
+-----------
+Next event:
+Got response on token 18 "Lancet" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.750,LOC=0.080,ORG=0.121,O=0.049]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Wakefield
+	's
+-----------
+Move choice:
+Launch query on token 2 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.750,LOC=0.080,ORG=0.121,O=0.049]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Wakefield
+	's
+	of
+-----------
+Next event:
+Got response on token 8 "'s" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.750,LOC=0.080,ORG=0.121,O=0.049]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Wakefield
+	of
+-----------
+Move choice:
+Launch query on token 1 "Three"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.750,LOC=0.080,ORG=0.121,O=0.049]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.067,LOC=0.692,ORG=0.131,O=0.109]	PER	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Three
+	Wakefield
+	of
+-----------
+Next event:
+Got response on token 12 "Wakefield" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.750,LOC=0.080,ORG=0.121,O=0.049]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Wakefield	[PER=0.038,LOC=0.388,ORG=0.514,O=0.061]	PER	ORG
+'s	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Three
+	of
+-----------
+Next event:
+Got response on token 2 "of" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.750,LOC=0.080,ORG=0.121,O=0.049]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Wakefield	[PER=0.038,LOC=0.388,ORG=0.514,O=0.061]	PER	ORG
+'s	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Three
+-----------
+Move choice:
+Launch query on token 12 "Wakefield"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.750,LOC=0.080,ORG=0.121,O=0.049]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Wakefield	[PER=0.038,LOC=0.388,ORG=0.514,O=0.061]	PER	ORG
+'s	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Three
+	Wakefield
+-----------
+Next event:
+Got response on token 1 "Three" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.750,LOC=0.080,ORG=0.121,O=0.049]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Wakefield	[PER=0.038,LOC=0.388,ORG=0.514,O=0.061]	PER	ORG
+'s	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Wakefield
+-----------
+Move choice:
+Launch query on token 12 "Wakefield"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.750,LOC=0.080,ORG=0.121,O=0.049]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Wakefield	[PER=0.038,LOC=0.388,ORG=0.514,O=0.061]	PER	ORG
+'s	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Wakefield
+	Wakefield
+-----------
+Move choice:
+Launch query on token 7 "Crohn"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.750,LOC=0.080,ORG=0.121,O=0.049]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Wakefield	[PER=0.038,LOC=0.388,ORG=0.514,O=0.061]	PER	ORG
+'s	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+	Wakefield
+	Wakefield
+-----------
+Next event:
+Got response on token 12 "Wakefield" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.750,LOC=0.080,ORG=0.121,O=0.049]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Wakefield	[PER=0.215,LOC=0.316,ORG=0.419,O=0.050]	PER	ORG
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+	Wakefield
+-----------
+Move choice:
+Launch query on token 2 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.750,LOC=0.080,ORG=0.121,O=0.049]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Wakefield	[PER=0.215,LOC=0.316,ORG=0.419,O=0.050]	PER	ORG
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+	Wakefield
+	of
+-----------
+Next event:
+Got response on token 12 "Wakefield" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.750,LOC=0.080,ORG=0.121,O=0.049]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.658,LOC=0.138,ORG=0.183,O=0.022]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.001,O=0.998]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+	of
+-----------
+Next event:
+Got response on token 7 "Crohn" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.580,LOC=0.062,ORG=0.093,O=0.264]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.658,LOC=0.138,ORG=0.183,O=0.022]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.001,O=0.998]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+-----------
+Move choice:
+Launch query on token 7 "Crohn"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.580,LOC=0.062,ORG=0.093,O=0.264]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.658,LOC=0.138,ORG=0.183,O=0.022]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.001,O=0.998]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+	of
+-----------
+Next event:
+Got response on token 2 "of" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.580,LOC=0.062,ORG=0.093,O=0.264]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.658,LOC=0.138,ORG=0.183,O=0.022]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.001,O=0.998]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+-----------
+Move choice:
+Launch query on token 12 "Wakefield"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.580,LOC=0.062,ORG=0.093,O=0.264]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.658,LOC=0.138,ORG=0.183,O=0.022]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.001,O=0.998]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+	Wakefield
+-----------
+Next event:
+Got response on token 7 "Crohn" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.225,LOC=0.024,ORG=0.036,O=0.715]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.658,LOC=0.138,ORG=0.183,O=0.022]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.001,O=0.998]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Wakefield
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@3a3
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.225,LOC=0.024,ORG=0.036,O=0.715]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.658,LOC=0.138,ORG=0.183,O=0.022]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.001,O=0.998]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Wakefield
+-----------
+Next event:
+Got response on token 12 "Wakefield" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.225,LOC=0.024,ORG=0.036,O=0.715]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.931,LOC=0.028,ORG=0.037,O=0.004]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 7 "Crohn"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.225,LOC=0.024,ORG=0.036,O=0.715]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.931,LOC=0.028,ORG=0.037,O=0.004]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+-----------
+Move choice:
+Launch query on token 18 "Lancet"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.225,LOC=0.024,ORG=0.036,O=0.715]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.931,LOC=0.028,ORG=0.037,O=0.004]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+	Lancet
+-----------
+Next event:
+Got response on token 7 "Crohn" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.042,LOC=0.005,ORG=0.007,O=0.946]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.931,LOC=0.028,ORG=0.037,O=0.004]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lancet
+-----------
+Move choice:
+Launch query on token 19 "medical"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.042,LOC=0.005,ORG=0.007,O=0.946]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.931,LOC=0.028,ORG=0.037,O=0.004]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.002,LOC=0.045,ORG=0.944,O=0.009]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.021,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	medical
+	Lancet
+-----------
+Next event:
+Got response on token 18 "Lancet" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.042,LOC=0.005,ORG=0.007,O=0.946]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.931,LOC=0.028,ORG=0.037,O=0.004]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.000,LOC=0.007,ORG=0.992,O=0.001]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.022,O=0.977]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	medical
+-----------
+Move choice:
+Launch query on token 12 "Wakefield"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.042,LOC=0.005,ORG=0.007,O=0.946]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.931,LOC=0.028,ORG=0.037,O=0.004]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.000,LOC=0.007,ORG=0.992,O=0.001]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.022,O=0.977]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Wakefield
+	medical
+-----------
+Next event:
+Got response on token 19 "medical" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.042,LOC=0.005,ORG=0.007,O=0.946]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.931,LOC=0.028,ORG=0.037,O=0.004]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.000,LOC=0.006,ORG=0.993,O=0.001]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.138,O=0.862]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Wakefield
+-----------
+Move choice:
+Launch query on token 19 "medical"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.042,LOC=0.005,ORG=0.007,O=0.946]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.931,LOC=0.028,ORG=0.037,O=0.004]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.000,LOC=0.006,ORG=0.993,O=0.001]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.138,O=0.862]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	medical
+	Wakefield
+-----------
+Move choice:
+Launch query on token 14 "group"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.042,LOC=0.005,ORG=0.007,O=0.946]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.931,LOC=0.028,ORG=0.037,O=0.004]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.000,LOC=0.006,ORG=0.993,O=0.001]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.138,O=0.862]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	medical
+	Wakefield
+	group
+-----------
+Next event:
+Got response on token 19 "medical" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.042,LOC=0.005,ORG=0.007,O=0.946]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.931,LOC=0.028,ORG=0.037,O=0.004]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.000,LOC=0.007,ORG=0.992,O=0.001]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.022,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Wakefield
+	group
+-----------
+Next event:
+Got response on token 12 "Wakefield" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.042,LOC=0.005,ORG=0.007,O=0.946]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.762,LOC=0.023,ORG=0.212,O=0.004]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.000,LOC=0.007,ORG=0.992,O=0.001]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.022,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	group
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@595
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.042,LOC=0.005,ORG=0.007,O=0.946]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.762,LOC=0.023,ORG=0.212,O=0.004]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+group	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.000,LOC=0.007,ORG=0.992,O=0.001]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.022,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	group
+-----------
+Next event:
+Got response on token 14 "group" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.042,LOC=0.005,ORG=0.007,O=0.946]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.762,LOC=0.023,ORG=0.212,O=0.004]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+group	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.000,LOC=0.007,ORG=0.992,O=0.001]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.022,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 7 "Crohn"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.042,LOC=0.005,ORG=0.007,O=0.946]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.762,LOC=0.023,ORG=0.212,O=0.004]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+group	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.000,LOC=0.007,ORG=0.992,O=0.001]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.022,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+-----------
+Move choice:
+Launch query on token 19 "medical"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.042,LOC=0.005,ORG=0.007,O=0.946]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.762,LOC=0.023,ORG=0.212,O=0.004]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+group	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.000,LOC=0.007,ORG=0.992,O=0.001]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.022,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	medical
+	Crohn
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@654
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.042,LOC=0.005,ORG=0.007,O=0.946]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.762,LOC=0.023,ORG=0.212,O=0.004]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+group	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.000,LOC=0.007,ORG=0.992,O=0.001]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.022,O=0.978]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	medical
+	Crohn
+-----------
+Next event:
+Got response on token 19 "medical" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.042,LOC=0.005,ORG=0.007,O=0.946]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.762,LOC=0.023,ORG=0.212,O=0.004]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+group	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.000,LOC=0.007,ORG=0.991,O=0.001]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@6fa
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.042,LOC=0.005,ORG=0.007,O=0.946]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.762,LOC=0.023,ORG=0.212,O=0.004]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+group	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.000,LOC=0.007,ORG=0.991,O=0.001]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+-----------
+Next event:
+Got response on token 7 "Crohn" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Three	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+children	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Crohn	[PER=0.237,LOC=0.004,ORG=0.005,O=0.754]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disease	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wakefield	[PER=0.762,LOC=0.023,ORG=0.212,O=0.004]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+group	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lancet	[PER=0.000,LOC=0.007,ORG=0.991,O=0.001]	ORG	ORG
+medical	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+journal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@734

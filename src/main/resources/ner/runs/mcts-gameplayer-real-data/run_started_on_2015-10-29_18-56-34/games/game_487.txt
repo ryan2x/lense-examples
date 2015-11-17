@@ -1,0 +1,840 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Ischinger	PER	PER	2
+is	O	O	0
+the	O	O	0
+political	O	O	0
+director	O	O	0
+of	O	O	1
+Bonn	LOC	PER	5
+'s	O	O	1
+foreign	O	O	2
+ministry	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.027,O=0.970]	O	O
+Bonn	[PER=0.676,LOC=0.191,ORG=0.122,O=0.011]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.007,O=0.990]	O	O
+foreign	[PER=0.002,LOC=0.005,ORG=0.098,O=0.895]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.027,O=0.970]	O	O
+Bonn	[PER=0.676,LOC=0.191,ORG=0.122,O=0.011]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.007,O=0.990]	O	O
+foreign	[PER=0.002,LOC=0.005,ORG=0.098,O=0.895]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.027,O=0.970]	O	O
+Bonn	[PER=0.676,LOC=0.191,ORG=0.122,O=0.011]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.007,O=0.990]	O	O
+foreign	[PER=0.002,LOC=0.005,ORG=0.098,O=0.895]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.027,O=0.970]	O	O
+Bonn	[PER=0.676,LOC=0.191,ORG=0.122,O=0.011]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.007,O=0.990]	O	O
+foreign	[PER=0.002,LOC=0.005,ORG=0.098,O=0.895]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.027,O=0.970]	O	O
+Bonn	[PER=0.676,LOC=0.191,ORG=0.122,O=0.011]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.007,O=0.990]	O	O
+foreign	[PER=0.002,LOC=0.005,ORG=0.098,O=0.895]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.027,O=0.970]	O	O
+Bonn	[PER=0.676,LOC=0.191,ORG=0.122,O=0.011]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.007,O=0.990]	O	O
+foreign	[PER=0.002,LOC=0.005,ORG=0.098,O=0.895]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.027,O=0.970]	O	O
+Bonn	[PER=0.676,LOC=0.191,ORG=0.122,O=0.011]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.007,O=0.990]	O	O
+foreign	[PER=0.002,LOC=0.005,ORG=0.098,O=0.895]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.027,O=0.970]	O	O
+Bonn	[PER=0.676,LOC=0.191,ORG=0.122,O=0.011]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.007,O=0.990]	O	O
+foreign	[PER=0.002,LOC=0.005,ORG=0.098,O=0.895]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.027,O=0.970]	O	O
+Bonn	[PER=0.676,LOC=0.191,ORG=0.122,O=0.011]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.007,O=0.990]	O	O
+foreign	[PER=0.002,LOC=0.005,ORG=0.098,O=0.895]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.027,O=0.970]	O	O
+Bonn	[PER=0.676,LOC=0.191,ORG=0.122,O=0.011]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.007,O=0.990]	O	O
+foreign	[PER=0.002,LOC=0.005,ORG=0.098,O=0.895]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.027,O=0.970]	O	O
+Bonn	[PER=0.676,LOC=0.191,ORG=0.122,O=0.011]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.007,O=0.990]	O	O
+foreign	[PER=0.002,LOC=0.005,ORG=0.098,O=0.895]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 6 "Bonn"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.027,O=0.970]	O	O
+Bonn	[PER=0.676,LOC=0.191,ORG=0.122,O=0.011]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.007,O=0.990]	O	O
+foreign	[PER=0.002,LOC=0.005,ORG=0.098,O=0.895]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Bonn
+-----------
+Move choice:
+Launch query on token 6 "Bonn"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.027,O=0.970]	O	O
+Bonn	[PER=0.676,LOC=0.191,ORG=0.122,O=0.011]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.007,O=0.990]	O	O
+foreign	[PER=0.002,LOC=0.005,ORG=0.098,O=0.895]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Bonn
+	Bonn
+-----------
+Next event:
+Got response on token 6 "Bonn" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.025,O=0.972]	O	O
+Bonn	[PER=0.635,LOC=0.179,ORG=0.114,O=0.072]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.007,O=0.991]	O	O
+foreign	[PER=0.002,LOC=0.005,ORG=0.098,O=0.895]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Bonn
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@b
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.025,O=0.972]	O	O
+Bonn	[PER=0.635,LOC=0.179,ORG=0.114,O=0.072]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.007,O=0.991]	O	O
+foreign	[PER=0.002,LOC=0.005,ORG=0.098,O=0.895]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Bonn
+-----------
+Next event:
+Got response on token 6 "Bonn" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.009,O=0.986]	O	O
+Bonn	[PER=0.924,LOC=0.037,ORG=0.024,O=0.015]	LOC	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.002,O=0.995]	O	O
+foreign	[PER=0.002,LOC=0.005,ORG=0.094,O=0.899]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 6 "Bonn"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.009,O=0.986]	O	O
+Bonn	[PER=0.924,LOC=0.037,ORG=0.024,O=0.015]	LOC	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.002,O=0.995]	O	O
+foreign	[PER=0.002,LOC=0.005,ORG=0.094,O=0.899]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Bonn
+-----------
+Move choice:
+Launch query on token 8 "foreign"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.009,O=0.986]	O	O
+Bonn	[PER=0.924,LOC=0.037,ORG=0.024,O=0.015]	LOC	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.002,O=0.995]	O	O
+foreign	[PER=0.002,LOC=0.005,ORG=0.094,O=0.899]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Bonn
+	foreign
+-----------
+Move choice:
+Launch query on token 0 "Ischinger"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.009,O=0.986]	O	O
+Bonn	[PER=0.924,LOC=0.037,ORG=0.024,O=0.015]	LOC	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.002,O=0.995]	O	O
+foreign	[PER=0.002,LOC=0.005,ORG=0.094,O=0.899]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ischinger
+	Bonn
+	foreign
+-----------
+Next event:
+Got response on token 8 "foreign" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.009,O=0.987]	O	O
+Bonn	[PER=0.925,LOC=0.037,ORG=0.023,O=0.015]	LOC	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.001,O=0.997]	O	O
+foreign	[PER=0.000,LOC=0.001,ORG=0.015,O=0.984]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ischinger
+	Bonn
+-----------
+Move choice:
+Launch query on token 8 "foreign"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.009,O=0.987]	O	O
+Bonn	[PER=0.925,LOC=0.037,ORG=0.023,O=0.015]	LOC	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.001,O=0.997]	O	O
+foreign	[PER=0.000,LOC=0.001,ORG=0.015,O=0.984]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ischinger
+	foreign
+	Bonn
+-----------
+Move choice:
+Launch query on token 0 "Ischinger"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.009,O=0.987]	O	O
+Bonn	[PER=0.925,LOC=0.037,ORG=0.023,O=0.015]	LOC	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.001,O=0.997]	O	O
+foreign	[PER=0.000,LOC=0.001,ORG=0.015,O=0.984]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ischinger
+	Ischinger
+	foreign
+	Bonn
+-----------
+Next event:
+Got response on token 6 "Bonn" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.030,O=0.966]	O	O
+Bonn	[PER=0.813,LOC=0.033,ORG=0.141,O=0.013]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.003,O=0.995]	O	O
+foreign	[PER=0.000,LOC=0.001,ORG=0.016,O=0.983]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ischinger
+	Ischinger
+	foreign
+-----------
+Move choice:
+Launch query on token 6 "Bonn"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.030,O=0.966]	O	O
+Bonn	[PER=0.813,LOC=0.033,ORG=0.141,O=0.013]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.003,O=0.995]	O	O
+foreign	[PER=0.000,LOC=0.001,ORG=0.016,O=0.983]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ischinger
+	Ischinger
+	Bonn
+	foreign
+-----------
+Next event:
+Got response on token 8 "foreign" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.711,LOC=0.170,ORG=0.058,O=0.062]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.030,O=0.966]	O	O
+Bonn	[PER=0.814,LOC=0.033,ORG=0.140,O=0.013]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+foreign	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ischinger
+	Ischinger
+	Bonn
+-----------
+Next event:
+Got response on token 0 "Ischinger" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.945,LOC=0.032,ORG=0.011,O=0.012]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.030,O=0.966]	O	O
+Bonn	[PER=0.814,LOC=0.033,ORG=0.140,O=0.013]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+foreign	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Bonn
+	Ischinger
+-----------
+Move choice:
+Launch query on token 5 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.945,LOC=0.032,ORG=0.011,O=0.012]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.030,O=0.966]	O	O
+Bonn	[PER=0.814,LOC=0.033,ORG=0.140,O=0.013]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+foreign	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Bonn
+	Ischinger
+	of
+-----------
+Next event:
+Got response on token 0 "Ischinger" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.992,LOC=0.005,ORG=0.002,O=0.002]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.030,O=0.966]	O	O
+Bonn	[PER=0.814,LOC=0.033,ORG=0.140,O=0.013]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+foreign	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Bonn
+	of
+-----------
+Move choice:
+Launch query on token 7 "'s"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.992,LOC=0.005,ORG=0.002,O=0.002]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.030,O=0.966]	O	O
+Bonn	[PER=0.814,LOC=0.033,ORG=0.140,O=0.013]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+foreign	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Bonn
+	of
+	's
+-----------
+Move choice:
+Launch query on token 6 "Bonn"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.992,LOC=0.005,ORG=0.002,O=0.002]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.030,O=0.966]	O	O
+Bonn	[PER=0.814,LOC=0.033,ORG=0.140,O=0.013]	LOC	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+foreign	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Bonn
+	Bonn
+	of
+	's
+-----------
+Next event:
+Got response on token 7 "'s" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.992,LOC=0.005,ORG=0.002,O=0.002]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.003,LOC=0.000,ORG=0.030,O=0.966]	O	O
+Bonn	[PER=0.815,LOC=0.033,ORG=0.139,O=0.013]	LOC	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+foreign	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Bonn
+	Bonn
+	of
+-----------
+Next event:
+Got response on token 6 "Bonn" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.992,LOC=0.005,ORG=0.002,O=0.002]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.002,LOC=0.000,ORG=0.100,O=0.898]	O	O
+Bonn	[PER=0.444,LOC=0.018,ORG=0.531,O=0.007]	LOC	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+foreign	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Bonn
+	of
+-----------
+Next event:
+Got response on token 5 "of" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.992,LOC=0.005,ORG=0.002,O=0.002]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.016,O=0.984]	O	O
+Bonn	[PER=0.482,LOC=0.020,ORG=0.490,O=0.008]	LOC	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+foreign	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Bonn
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@58d
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.992,LOC=0.005,ORG=0.002,O=0.002]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.016,O=0.984]	O	O
+Bonn	[PER=0.482,LOC=0.020,ORG=0.490,O=0.008]	LOC	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+foreign	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Bonn
+-----------
+Next event:
+Got response on token 6 "Bonn" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.992,LOC=0.005,ORG=0.002,O=0.002]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+Bonn	[PER=0.432,LOC=0.123,ORG=0.438,O=0.007]	LOC	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+foreign	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@6b9

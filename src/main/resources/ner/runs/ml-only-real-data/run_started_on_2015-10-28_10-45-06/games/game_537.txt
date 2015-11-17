@@ -1,0 +1,57 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+Over	O	O	0
+the	O	O	0
+medium	O	O	0
+term	O	O	0
+,	O	O	0
+yes	O	O	0
+,	O	O	0
+"	O	O	0
+he	O	O	0
+told	O	O	0
+Reuters	ORG	ORG	0
+after	O	O	0
+addressing	O	O	0
+industrialists	O	O	0
+in	O	O	0
+the	O	O	0
+capital	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Over	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+medium	[PER=0.001,LOC=0.001,ORG=0.005,O=0.993]	O	O
+term	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+yes	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Reuters	[PER=0.012,LOC=0.019,ORG=0.923,O=0.047]	ORG	ORG
+after	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+addressing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+industrialists	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+capital	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

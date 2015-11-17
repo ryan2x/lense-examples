@@ -1,0 +1,89 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+NEW	LOC	LOC	0
+DELHI	LOC	LOC	0
+1996-08-22	O	O	0
+The	O	O	0
+Reserve	ORG	O	0
+bank	ORG	O	0
+of	ORG	O	0
+India	ORG	LOC	0
+governor	O	O	0
+C.	PER	PER	0
+Rangarajan	PER	PER	0
+said	O	O	0
+on	O	O	0
+Thursday	O	O	0
+that	O	O	0
+he	O	O	0
+expected	O	O	0
+the	O	O	0
+cash	O	O	0
+reserve	O	O	0
+ratio	O	O	0
+(	O	O	0
+CRR	O	O	0
+)	O	O	0
+maintained	O	O	0
+by	O	O	0
+banks	O	O	0
+to	O	O	0
+be	O	O	0
+reduced	O	O	0
+over	O	O	0
+the	O	O	0
+medium	O	O	0
+term	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+NEW	[PER=0.012,LOC=0.644,ORG=0.086,O=0.258]	LOC	LOC
+DELHI	[PER=0.019,LOC=0.724,ORG=0.110,O=0.147]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+The	[PER=0.001,LOC=0.001,ORG=0.003,O=0.996]	O	O
+Reserve	[PER=0.068,LOC=0.166,ORG=0.351,O=0.414]	ORG	O
+bank	[PER=0.002,LOC=0.008,ORG=0.151,O=0.839]	ORG	O
+of	[PER=0.000,LOC=0.003,ORG=0.063,O=0.934]	ORG	O
+India	[PER=0.004,LOC=0.930,ORG=0.062,O=0.004]	ORG	LOC
+governor	[PER=0.007,LOC=0.009,ORG=0.072,O=0.912]	O	O
+C.	[PER=0.861,LOC=0.008,ORG=0.079,O=0.053]	PER	PER
+Rangarajan	[PER=0.885,LOC=0.013,ORG=0.084,O=0.017]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+expected	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+cash	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+reserve	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+ratio	[PER=0.000,LOC=0.004,ORG=0.001,O=0.995]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+CRR	[PER=0.040,LOC=0.127,ORG=0.206,O=0.627]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+maintained	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+banks	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reduced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+over	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+medium	[PER=0.001,LOC=0.001,ORG=0.005,O=0.993]	O	O
+term	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

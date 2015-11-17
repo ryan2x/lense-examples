@@ -1,0 +1,1762 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+The	O	O	0
+television	O	O	1
+also	O	O	0
+said	O	O	0
+that	O	O	0
+Netanyahu	PER	PER	3
+had	O	O	0
+sent	O	O	0
+messages	O	O	0
+to	O	O	0
+reassure	O	O	0
+Syria	LOC	LOC	1
+via	O	O	1
+Cairo	LOC	LOC	3
+,	O	O	0
+the	O	O	0
+United	LOC	LOC	4
+States	LOC	LOC	4
+and	O	O	0
+Moscow	LOC	LOC	3
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.001,LOC=0.000,ORG=0.004,O=0.995]	O	O
+Netanyahu	[PER=0.312,LOC=0.499,ORG=0.097,O=0.092]	PER	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.986,ORG=0.008,O=0.002]	LOC	LOC
+via	[PER=0.003,LOC=0.004,ORG=0.011,O=0.981]	O	O
+Cairo	[PER=0.074,LOC=0.573,ORG=0.051,O=0.301]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.036,O=0.964]	O	O
+United	[PER=0.056,LOC=0.017,ORG=0.797,O=0.130]	LOC	ORG
+States	[PER=0.049,LOC=0.015,ORG=0.796,O=0.140]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.194,LOC=0.598,ORG=0.108,O=0.100]	LOC	LOC
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.001,LOC=0.000,ORG=0.004,O=0.995]	O	O
+Netanyahu	[PER=0.312,LOC=0.499,ORG=0.097,O=0.092]	PER	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.986,ORG=0.008,O=0.002]	LOC	LOC
+via	[PER=0.003,LOC=0.004,ORG=0.011,O=0.981]	O	O
+Cairo	[PER=0.074,LOC=0.573,ORG=0.051,O=0.301]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.036,O=0.964]	O	O
+United	[PER=0.056,LOC=0.017,ORG=0.797,O=0.130]	LOC	ORG
+States	[PER=0.049,LOC=0.015,ORG=0.796,O=0.140]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.194,LOC=0.598,ORG=0.108,O=0.100]	LOC	LOC
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.001,LOC=0.000,ORG=0.004,O=0.995]	O	O
+Netanyahu	[PER=0.312,LOC=0.499,ORG=0.097,O=0.092]	PER	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.986,ORG=0.008,O=0.002]	LOC	LOC
+via	[PER=0.003,LOC=0.004,ORG=0.011,O=0.981]	O	O
+Cairo	[PER=0.074,LOC=0.573,ORG=0.051,O=0.301]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.036,O=0.964]	O	O
+United	[PER=0.056,LOC=0.017,ORG=0.797,O=0.130]	LOC	ORG
+States	[PER=0.049,LOC=0.015,ORG=0.796,O=0.140]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.194,LOC=0.598,ORG=0.108,O=0.100]	LOC	LOC
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.001,LOC=0.000,ORG=0.004,O=0.995]	O	O
+Netanyahu	[PER=0.312,LOC=0.499,ORG=0.097,O=0.092]	PER	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.986,ORG=0.008,O=0.002]	LOC	LOC
+via	[PER=0.003,LOC=0.004,ORG=0.011,O=0.981]	O	O
+Cairo	[PER=0.074,LOC=0.573,ORG=0.051,O=0.301]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.036,O=0.964]	O	O
+United	[PER=0.056,LOC=0.017,ORG=0.797,O=0.130]	LOC	ORG
+States	[PER=0.049,LOC=0.015,ORG=0.796,O=0.140]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.194,LOC=0.598,ORG=0.108,O=0.100]	LOC	LOC
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.001,LOC=0.000,ORG=0.004,O=0.995]	O	O
+Netanyahu	[PER=0.312,LOC=0.499,ORG=0.097,O=0.092]	PER	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.986,ORG=0.008,O=0.002]	LOC	LOC
+via	[PER=0.003,LOC=0.004,ORG=0.011,O=0.981]	O	O
+Cairo	[PER=0.074,LOC=0.573,ORG=0.051,O=0.301]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.036,O=0.964]	O	O
+United	[PER=0.056,LOC=0.017,ORG=0.797,O=0.130]	LOC	ORG
+States	[PER=0.049,LOC=0.015,ORG=0.796,O=0.140]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.194,LOC=0.598,ORG=0.108,O=0.100]	LOC	LOC
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.001,LOC=0.000,ORG=0.004,O=0.995]	O	O
+Netanyahu	[PER=0.312,LOC=0.499,ORG=0.097,O=0.092]	PER	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.986,ORG=0.008,O=0.002]	LOC	LOC
+via	[PER=0.003,LOC=0.004,ORG=0.011,O=0.981]	O	O
+Cairo	[PER=0.074,LOC=0.573,ORG=0.051,O=0.301]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.036,O=0.964]	O	O
+United	[PER=0.056,LOC=0.017,ORG=0.797,O=0.130]	LOC	ORG
+States	[PER=0.049,LOC=0.015,ORG=0.796,O=0.140]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.194,LOC=0.598,ORG=0.108,O=0.100]	LOC	LOC
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.001,LOC=0.000,ORG=0.004,O=0.995]	O	O
+Netanyahu	[PER=0.312,LOC=0.499,ORG=0.097,O=0.092]	PER	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.986,ORG=0.008,O=0.002]	LOC	LOC
+via	[PER=0.003,LOC=0.004,ORG=0.011,O=0.981]	O	O
+Cairo	[PER=0.074,LOC=0.573,ORG=0.051,O=0.301]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.036,O=0.964]	O	O
+United	[PER=0.056,LOC=0.017,ORG=0.797,O=0.130]	LOC	ORG
+States	[PER=0.049,LOC=0.015,ORG=0.796,O=0.140]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.194,LOC=0.598,ORG=0.108,O=0.100]	LOC	LOC
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.001,LOC=0.000,ORG=0.004,O=0.995]	O	O
+Netanyahu	[PER=0.312,LOC=0.499,ORG=0.097,O=0.092]	PER	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.986,ORG=0.008,O=0.002]	LOC	LOC
+via	[PER=0.003,LOC=0.004,ORG=0.011,O=0.981]	O	O
+Cairo	[PER=0.074,LOC=0.573,ORG=0.051,O=0.301]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.036,O=0.964]	O	O
+United	[PER=0.056,LOC=0.017,ORG=0.797,O=0.130]	LOC	ORG
+States	[PER=0.049,LOC=0.015,ORG=0.796,O=0.140]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.194,LOC=0.598,ORG=0.108,O=0.100]	LOC	LOC
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.001,LOC=0.000,ORG=0.004,O=0.995]	O	O
+Netanyahu	[PER=0.312,LOC=0.499,ORG=0.097,O=0.092]	PER	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.986,ORG=0.008,O=0.002]	LOC	LOC
+via	[PER=0.003,LOC=0.004,ORG=0.011,O=0.981]	O	O
+Cairo	[PER=0.074,LOC=0.573,ORG=0.051,O=0.301]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.036,O=0.964]	O	O
+United	[PER=0.056,LOC=0.017,ORG=0.797,O=0.130]	LOC	ORG
+States	[PER=0.049,LOC=0.015,ORG=0.796,O=0.140]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.194,LOC=0.598,ORG=0.108,O=0.100]	LOC	LOC
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.001,LOC=0.000,ORG=0.004,O=0.995]	O	O
+Netanyahu	[PER=0.312,LOC=0.499,ORG=0.097,O=0.092]	PER	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.986,ORG=0.008,O=0.002]	LOC	LOC
+via	[PER=0.003,LOC=0.004,ORG=0.011,O=0.981]	O	O
+Cairo	[PER=0.074,LOC=0.573,ORG=0.051,O=0.301]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.036,O=0.964]	O	O
+United	[PER=0.056,LOC=0.017,ORG=0.797,O=0.130]	LOC	ORG
+States	[PER=0.049,LOC=0.015,ORG=0.796,O=0.140]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.194,LOC=0.598,ORG=0.108,O=0.100]	LOC	LOC
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.001,LOC=0.000,ORG=0.004,O=0.995]	O	O
+Netanyahu	[PER=0.312,LOC=0.499,ORG=0.097,O=0.092]	PER	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.986,ORG=0.008,O=0.002]	LOC	LOC
+via	[PER=0.003,LOC=0.004,ORG=0.011,O=0.981]	O	O
+Cairo	[PER=0.074,LOC=0.573,ORG=0.051,O=0.301]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.036,O=0.964]	O	O
+United	[PER=0.056,LOC=0.017,ORG=0.797,O=0.130]	LOC	ORG
+States	[PER=0.049,LOC=0.015,ORG=0.796,O=0.140]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.194,LOC=0.598,ORG=0.108,O=0.100]	LOC	LOC
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 5 "Netanyahu"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.001,LOC=0.000,ORG=0.004,O=0.995]	O	O
+Netanyahu	[PER=0.312,LOC=0.499,ORG=0.097,O=0.092]	PER	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.986,ORG=0.008,O=0.002]	LOC	LOC
+via	[PER=0.003,LOC=0.004,ORG=0.011,O=0.981]	O	O
+Cairo	[PER=0.074,LOC=0.573,ORG=0.051,O=0.301]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.036,O=0.964]	O	O
+United	[PER=0.056,LOC=0.017,ORG=0.797,O=0.130]	LOC	ORG
+States	[PER=0.049,LOC=0.015,ORG=0.796,O=0.140]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.194,LOC=0.598,ORG=0.108,O=0.100]	LOC	LOC
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Netanyahu
+-----------
+Move choice:
+Launch query on token 13 "Cairo"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.001,LOC=0.000,ORG=0.004,O=0.995]	O	O
+Netanyahu	[PER=0.312,LOC=0.499,ORG=0.097,O=0.092]	PER	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.986,ORG=0.008,O=0.002]	LOC	LOC
+via	[PER=0.003,LOC=0.004,ORG=0.011,O=0.981]	O	O
+Cairo	[PER=0.074,LOC=0.573,ORG=0.051,O=0.301]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.036,O=0.964]	O	O
+United	[PER=0.056,LOC=0.017,ORG=0.797,O=0.130]	LOC	ORG
+States	[PER=0.049,LOC=0.015,ORG=0.796,O=0.140]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.194,LOC=0.598,ORG=0.108,O=0.100]	LOC	LOC
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Netanyahu
+	Cairo
+-----------
+Next event:
+Got response on token 5 "Netanyahu" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+Netanyahu	[PER=0.760,LOC=0.174,ORG=0.034,O=0.032]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.986,ORG=0.008,O=0.002]	LOC	LOC
+via	[PER=0.003,LOC=0.004,ORG=0.011,O=0.981]	O	O
+Cairo	[PER=0.074,LOC=0.573,ORG=0.051,O=0.301]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.036,O=0.964]	O	O
+United	[PER=0.056,LOC=0.017,ORG=0.797,O=0.130]	LOC	ORG
+States	[PER=0.049,LOC=0.015,ORG=0.796,O=0.140]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.194,LOC=0.598,ORG=0.108,O=0.100]	LOC	LOC
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Cairo
+-----------
+Move choice:
+Launch query on token 19 "Moscow"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+Netanyahu	[PER=0.760,LOC=0.174,ORG=0.034,O=0.032]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.986,ORG=0.008,O=0.002]	LOC	LOC
+via	[PER=0.003,LOC=0.004,ORG=0.011,O=0.981]	O	O
+Cairo	[PER=0.074,LOC=0.573,ORG=0.051,O=0.301]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.036,O=0.964]	O	O
+United	[PER=0.056,LOC=0.017,ORG=0.797,O=0.130]	LOC	ORG
+States	[PER=0.049,LOC=0.015,ORG=0.796,O=0.140]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.194,LOC=0.598,ORG=0.108,O=0.100]	LOC	LOC
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Moscow
+	Cairo
+-----------
+Next event:
+Got response on token 13 "Cairo" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+Netanyahu	[PER=0.760,LOC=0.174,ORG=0.034,O=0.032]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.007,O=0.986]	O	O
+Cairo	[PER=0.017,LOC=0.904,ORG=0.012,O=0.068]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.036,O=0.964]	O	O
+United	[PER=0.056,LOC=0.017,ORG=0.796,O=0.130]	LOC	ORG
+States	[PER=0.049,LOC=0.015,ORG=0.796,O=0.140]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.194,LOC=0.598,ORG=0.108,O=0.100]	LOC	LOC
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Moscow
+-----------
+Move choice:
+Launch query on token 16 "United"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+Netanyahu	[PER=0.760,LOC=0.174,ORG=0.034,O=0.032]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.007,O=0.986]	O	O
+Cairo	[PER=0.017,LOC=0.904,ORG=0.012,O=0.068]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.036,O=0.964]	O	O
+United	[PER=0.056,LOC=0.017,ORG=0.796,O=0.130]	LOC	ORG
+States	[PER=0.049,LOC=0.015,ORG=0.796,O=0.140]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.194,LOC=0.598,ORG=0.108,O=0.100]	LOC	LOC
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Moscow
+	United
+-----------
+Next event:
+Got response on token 19 "Moscow" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+Netanyahu	[PER=0.760,LOC=0.174,ORG=0.034,O=0.032]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.007,O=0.986]	O	O
+Cairo	[PER=0.017,LOC=0.904,ORG=0.012,O=0.068]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.036,O=0.964]	O	O
+United	[PER=0.056,LOC=0.017,ORG=0.796,O=0.130]	LOC	ORG
+States	[PER=0.049,LOC=0.015,ORG=0.796,O=0.140]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.042,LOC=0.912,ORG=0.024,O=0.022]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	United
+-----------
+Move choice:
+Launch query on token 13 "Cairo"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+Netanyahu	[PER=0.760,LOC=0.174,ORG=0.034,O=0.032]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.007,O=0.986]	O	O
+Cairo	[PER=0.017,LOC=0.904,ORG=0.012,O=0.068]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.036,O=0.964]	O	O
+United	[PER=0.056,LOC=0.017,ORG=0.796,O=0.130]	LOC	ORG
+States	[PER=0.049,LOC=0.015,ORG=0.796,O=0.140]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.042,LOC=0.912,ORG=0.024,O=0.022]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	United
+	Cairo
+-----------
+Next event:
+Got response on token 16 "United" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+Netanyahu	[PER=0.760,LOC=0.174,ORG=0.034,O=0.032]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.007,O=0.986]	O	O
+Cairo	[PER=0.017,LOC=0.904,ORG=0.012,O=0.068]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.032,O=0.967]	O	O
+United	[PER=0.050,LOC=0.111,ORG=0.721,O=0.118]	LOC	ORG
+States	[PER=0.050,LOC=0.020,ORG=0.736,O=0.193]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.042,LOC=0.912,ORG=0.024,O=0.022]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Cairo
+-----------
+Move choice:
+Launch query on token 16 "United"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+Netanyahu	[PER=0.760,LOC=0.174,ORG=0.034,O=0.032]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.007,O=0.986]	O	O
+Cairo	[PER=0.017,LOC=0.904,ORG=0.012,O=0.068]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.032,O=0.967]	O	O
+United	[PER=0.050,LOC=0.111,ORG=0.721,O=0.118]	LOC	ORG
+States	[PER=0.050,LOC=0.020,ORG=0.736,O=0.193]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.042,LOC=0.912,ORG=0.024,O=0.022]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Cairo
+	United
+-----------
+Next event:
+Got response on token 13 "Cairo" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+Netanyahu	[PER=0.760,LOC=0.174,ORG=0.034,O=0.032]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.032,O=0.968]	O	O
+United	[PER=0.050,LOC=0.111,ORG=0.721,O=0.118]	LOC	ORG
+States	[PER=0.050,LOC=0.020,ORG=0.736,O=0.193]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.042,LOC=0.912,ORG=0.024,O=0.022]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	United
+-----------
+Move choice:
+Launch query on token 5 "Netanyahu"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+Netanyahu	[PER=0.760,LOC=0.174,ORG=0.034,O=0.032]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.032,O=0.968]	O	O
+United	[PER=0.050,LOC=0.111,ORG=0.721,O=0.118]	LOC	ORG
+States	[PER=0.050,LOC=0.020,ORG=0.736,O=0.193]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.042,LOC=0.912,ORG=0.024,O=0.022]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	United
+	Netanyahu
+-----------
+Next event:
+Got response on token 16 "United" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+Netanyahu	[PER=0.760,LOC=0.174,ORG=0.034,O=0.032]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.020,O=0.980]	O	O
+United	[PER=0.030,LOC=0.465,ORG=0.433,O=0.071]	LOC	ORG
+States	[PER=0.055,LOC=0.039,ORG=0.509,O=0.396]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.042,LOC=0.912,ORG=0.024,O=0.022]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Netanyahu
+-----------
+Move choice:
+Launch query on token 17 "States"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+Netanyahu	[PER=0.760,LOC=0.174,ORG=0.034,O=0.032]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.020,O=0.980]	O	O
+United	[PER=0.030,LOC=0.465,ORG=0.433,O=0.071]	LOC	ORG
+States	[PER=0.055,LOC=0.039,ORG=0.509,O=0.396]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.042,LOC=0.912,ORG=0.024,O=0.022]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	States
+	Netanyahu
+-----------
+Move choice:
+Launch query on token 17 "States"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+Netanyahu	[PER=0.760,LOC=0.174,ORG=0.034,O=0.032]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.020,O=0.980]	O	O
+United	[PER=0.030,LOC=0.465,ORG=0.433,O=0.071]	LOC	ORG
+States	[PER=0.055,LOC=0.039,ORG=0.509,O=0.396]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.042,LOC=0.912,ORG=0.024,O=0.022]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	States
+	States
+	Netanyahu
+-----------
+Next event:
+Got response on token 5 "Netanyahu" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.957,LOC=0.031,ORG=0.006,O=0.006]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.020,O=0.980]	O	O
+United	[PER=0.030,LOC=0.465,ORG=0.433,O=0.071]	LOC	ORG
+States	[PER=0.055,LOC=0.039,ORG=0.509,O=0.396]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.042,LOC=0.912,ORG=0.024,O=0.022]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	States
+	States
+-----------
+Next event:
+Got response on token 17 "States" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.957,LOC=0.031,ORG=0.006,O=0.006]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.017,O=0.983]	O	O
+United	[PER=0.032,LOC=0.531,ORG=0.366,O=0.071]	LOC	ORG
+States	[PER=0.045,LOC=0.223,ORG=0.412,O=0.320]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.042,LOC=0.912,ORG=0.024,O=0.022]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	States
+-----------
+Move choice:
+Launch query on token 16 "United"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.957,LOC=0.031,ORG=0.006,O=0.006]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.017,O=0.983]	O	O
+United	[PER=0.032,LOC=0.531,ORG=0.366,O=0.071]	LOC	ORG
+States	[PER=0.045,LOC=0.223,ORG=0.412,O=0.320]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.042,LOC=0.912,ORG=0.024,O=0.022]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	United
+	States
+-----------
+Next event:
+Got response on token 17 "States" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.957,LOC=0.031,ORG=0.006,O=0.006]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	O	O
+United	[PER=0.036,LOC=0.689,ORG=0.202,O=0.072]	LOC	LOC
+States	[PER=0.019,LOC=0.668,ORG=0.176,O=0.137]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.042,LOC=0.912,ORG=0.024,O=0.022]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	United
+-----------
+Move choice:
+Launch query on token 17 "States"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.957,LOC=0.031,ORG=0.006,O=0.006]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	O	O
+United	[PER=0.036,LOC=0.689,ORG=0.202,O=0.072]	LOC	LOC
+States	[PER=0.019,LOC=0.668,ORG=0.176,O=0.137]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.042,LOC=0.912,ORG=0.024,O=0.022]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	United
+	States
+-----------
+Next event:
+Got response on token 16 "United" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.957,LOC=0.031,ORG=0.006,O=0.006]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+United	[PER=0.007,LOC=0.939,ORG=0.039,O=0.014]	LOC	LOC
+States	[PER=0.015,LOC=0.760,ORG=0.066,O=0.159]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.042,LOC=0.912,ORG=0.024,O=0.022]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	States
+-----------
+Move choice:
+Launch query on token 17 "States"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.957,LOC=0.031,ORG=0.006,O=0.006]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+United	[PER=0.007,LOC=0.939,ORG=0.039,O=0.014]	LOC	LOC
+States	[PER=0.015,LOC=0.760,ORG=0.066,O=0.159]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.042,LOC=0.912,ORG=0.024,O=0.022]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	States
+	States
+-----------
+Next event:
+Got response on token 17 "States" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.957,LOC=0.031,ORG=0.006,O=0.006]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+United	[PER=0.007,LOC=0.962,ORG=0.018,O=0.013]	LOC	LOC
+States	[PER=0.003,LOC=0.957,ORG=0.012,O=0.029]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.042,LOC=0.912,ORG=0.024,O=0.022]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	States
+-----------
+Move choice:
+Launch query on token 19 "Moscow"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.957,LOC=0.031,ORG=0.006,O=0.006]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+United	[PER=0.007,LOC=0.962,ORG=0.018,O=0.013]	LOC	LOC
+States	[PER=0.003,LOC=0.957,ORG=0.012,O=0.029]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.042,LOC=0.912,ORG=0.024,O=0.022]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	States
+	Moscow
+-----------
+Move choice:
+Launch query on token 1 "television"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.957,LOC=0.031,ORG=0.006,O=0.006]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+United	[PER=0.007,LOC=0.962,ORG=0.018,O=0.013]	LOC	LOC
+States	[PER=0.003,LOC=0.957,ORG=0.012,O=0.029]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.042,LOC=0.912,ORG=0.024,O=0.022]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	States
+	television
+	Moscow
+-----------
+Next event:
+Got response on token 19 "Moscow" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.957,LOC=0.031,ORG=0.006,O=0.006]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+United	[PER=0.007,LOC=0.962,ORG=0.018,O=0.013]	LOC	LOC
+States	[PER=0.003,LOC=0.957,ORG=0.012,O=0.029]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.007,LOC=0.986,ORG=0.004,O=0.003]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	States
+	television
+-----------
+Next event:
+Got response on token 17 "States" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.957,LOC=0.031,ORG=0.006,O=0.006]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+United	[PER=0.007,LOC=0.966,ORG=0.014,O=0.013]	LOC	LOC
+States	[PER=0.000,LOC=0.994,ORG=0.002,O=0.004]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.007,LOC=0.986,ORG=0.004,O=0.003]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	television
+-----------
+Move choice:
+Launch query on token 5 "Netanyahu"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.957,LOC=0.031,ORG=0.006,O=0.006]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+United	[PER=0.007,LOC=0.966,ORG=0.014,O=0.013]	LOC	LOC
+States	[PER=0.000,LOC=0.994,ORG=0.002,O=0.004]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.007,LOC=0.986,ORG=0.004,O=0.003]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	television
+	Netanyahu
+-----------
+Move choice:
+Launch query on token 11 "Syria"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+television	[PER=0.001,LOC=0.001,ORG=0.067,O=0.931]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.957,LOC=0.031,ORG=0.006,O=0.006]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+United	[PER=0.007,LOC=0.966,ORG=0.014,O=0.013]	LOC	LOC
+States	[PER=0.000,LOC=0.994,ORG=0.002,O=0.004]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.007,LOC=0.986,ORG=0.004,O=0.003]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	television
+	Syria
+	Netanyahu
+-----------
+Next event:
+Got response on token 1 "television" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+television	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.957,LOC=0.031,ORG=0.006,O=0.006]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+United	[PER=0.007,LOC=0.966,ORG=0.014,O=0.013]	LOC	LOC
+States	[PER=0.000,LOC=0.994,ORG=0.002,O=0.004]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.007,LOC=0.986,ORG=0.004,O=0.003]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Syria
+	Netanyahu
+-----------
+Next event:
+Got response on token 5 "Netanyahu" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+television	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.003,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.994,LOC=0.005,ORG=0.001,O=0.001]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+United	[PER=0.007,LOC=0.966,ORG=0.014,O=0.013]	LOC	LOC
+States	[PER=0.000,LOC=0.994,ORG=0.002,O=0.004]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.007,LOC=0.986,ORG=0.004,O=0.003]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Syria
+-----------
+Move choice:
+Launch query on token 16 "United"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+television	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.003,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.994,LOC=0.005,ORG=0.001,O=0.001]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+United	[PER=0.007,LOC=0.966,ORG=0.014,O=0.013]	LOC	LOC
+States	[PER=0.000,LOC=0.994,ORG=0.002,O=0.004]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.007,LOC=0.986,ORG=0.004,O=0.003]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Syria
+	United
+-----------
+Move choice:
+Launch query on token 12 "via"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+television	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.003,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.994,LOC=0.005,ORG=0.001,O=0.001]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.989,ORG=0.006,O=0.002]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.005,O=0.987]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+United	[PER=0.007,LOC=0.966,ORG=0.014,O=0.013]	LOC	LOC
+States	[PER=0.000,LOC=0.994,ORG=0.002,O=0.004]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.007,LOC=0.986,ORG=0.004,O=0.003]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	via
+	Syria
+	United
+-----------
+Next event:
+Got response on token 11 "Syria" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+television	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.003,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.994,LOC=0.005,ORG=0.001,O=0.001]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.004,O=0.989]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+United	[PER=0.007,LOC=0.966,ORG=0.014,O=0.013]	LOC	LOC
+States	[PER=0.000,LOC=0.994,ORG=0.002,O=0.004]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.007,LOC=0.986,ORG=0.004,O=0.003]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	via
+	United
+-----------
+Next event:
+Got response on token 16 "United" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+television	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.003,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.994,LOC=0.005,ORG=0.001,O=0.001]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.004,O=0.989]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+United	[PER=0.001,LOC=0.995,ORG=0.002,O=0.002]	LOC	LOC
+States	[PER=0.000,LOC=0.994,ORG=0.001,O=0.004]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.007,LOC=0.986,ORG=0.004,O=0.003]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	via
+-----------
+Move choice:
+Launch query on token 19 "Moscow"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+television	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.003,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.994,LOC=0.005,ORG=0.001,O=0.001]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.004,O=0.989]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+United	[PER=0.001,LOC=0.995,ORG=0.002,O=0.002]	LOC	LOC
+States	[PER=0.000,LOC=0.994,ORG=0.001,O=0.004]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.007,LOC=0.986,ORG=0.004,O=0.003]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	via
+	Moscow
+-----------
+Move choice:
+Launch query on token 13 "Cairo"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+television	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.003,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.994,LOC=0.005,ORG=0.001,O=0.001]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+via	[PER=0.002,LOC=0.005,ORG=0.004,O=0.989]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+United	[PER=0.001,LOC=0.995,ORG=0.002,O=0.002]	LOC	LOC
+States	[PER=0.000,LOC=0.994,ORG=0.001,O=0.004]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.007,LOC=0.986,ORG=0.004,O=0.003]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	via
+	Moscow
+	Cairo
+-----------
+Next event:
+Got response on token 12 "via" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+television	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.003,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.994,LOC=0.005,ORG=0.001,O=0.001]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.001,O=0.000]	LOC	LOC
+via	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+United	[PER=0.001,LOC=0.995,ORG=0.002,O=0.002]	LOC	LOC
+States	[PER=0.000,LOC=0.994,ORG=0.001,O=0.004]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.007,LOC=0.986,ORG=0.004,O=0.003]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Moscow
+	Cairo
+-----------
+Next event:
+Got response on token 19 "Moscow" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+television	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.003,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.994,LOC=0.005,ORG=0.001,O=0.001]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.001,O=0.000]	LOC	LOC
+via	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+United	[PER=0.001,LOC=0.995,ORG=0.002,O=0.002]	LOC	LOC
+States	[PER=0.000,LOC=0.994,ORG=0.001,O=0.004]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Cairo
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@da
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+television	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.003,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.994,LOC=0.005,ORG=0.001,O=0.001]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.001,O=0.000]	LOC	LOC
+via	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Cairo	[PER=0.003,LOC=0.985,ORG=0.002,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+United	[PER=0.001,LOC=0.995,ORG=0.002,O=0.002]	LOC	LOC
+States	[PER=0.000,LOC=0.994,ORG=0.001,O=0.004]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Cairo
+-----------
+Next event:
+Got response on token 13 "Cairo" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+television	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	O	O
+also	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.003,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Netanyahu	[PER=0.994,LOC=0.005,ORG=0.001,O=0.001]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+messages	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reassure	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.001,O=0.000]	LOC	LOC
+via	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Cairo	[PER=0.000,LOC=0.998,ORG=0.000,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+United	[PER=0.001,LOC=0.995,ORG=0.002,O=0.002]	LOC	LOC
+States	[PER=0.000,LOC=0.994,ORG=0.001,O=0.004]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@f8

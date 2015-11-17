@@ -1,0 +1,75 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+There	O	O	0
+is	O	O	0
+no	O	O	0
+doubt	O	O	0
+that	O	O	0
+economic	O	O	0
+growth	O	O	0
+has	O	O	0
+already	O	O	0
+started	O	O	0
+,	O	O	0
+"	O	O	0
+said	O	O	0
+Adelbert	PER	PER	0
+Knobl	PER	PER	0
+,	O	O	0
+head	O	O	0
+of	O	O	0
+the	O	O	0
+International	ORG	ORG	0
+Monetary	ORG	ORG	0
+Fund	ORG	ORG	0
+'s	O	O	0
+mission	O	O	0
+in	O	O	0
+Ukraine	LOC	LOC	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+doubt	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+economic	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+growth	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+has	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+already	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+started	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Adelbert	[PER=0.774,LOC=0.065,ORG=0.132,O=0.029]	PER	PER
+Knobl	[PER=0.723,LOC=0.060,ORG=0.185,O=0.032]	PER	PER
+,	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+head	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.017,O=0.983]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.028,O=0.972]	O	O
+International	[PER=0.001,LOC=0.014,ORG=0.954,O=0.031]	ORG	ORG
+Monetary	[PER=0.004,LOC=0.019,ORG=0.956,O=0.021]	ORG	ORG
+Fund	[PER=0.008,LOC=0.013,ORG=0.825,O=0.155]	ORG	ORG
+'s	[PER=0.000,LOC=0.002,ORG=0.044,O=0.954]	O	O
+mission	[PER=0.001,LOC=0.003,ORG=0.025,O=0.970]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Ukraine	[PER=0.021,LOC=0.818,ORG=0.153,O=0.007]	LOC	LOC
+.	[PER=0.001,LOC=0.007,ORG=0.009,O=0.983]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

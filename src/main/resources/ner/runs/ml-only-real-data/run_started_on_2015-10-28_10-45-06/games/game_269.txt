@@ -1,0 +1,75 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Dr	O	PER	0
+Andrew	PER	PER	0
+Wakefield	PER	PER	0
+of	O	O	0
+the	O	O	0
+Royal	LOC	ORG	0
+Free	LOC	ORG	0
+Hospital	LOC	ORG	0
+School	LOC	ORG	0
+of	LOC	ORG	0
+Medicine	LOC	ORG	0
+and	O	O	0
+colleagues	O	O	0
+screened	O	O	0
+25,000	O	O	0
+babies	O	O	0
+delivered	O	O	0
+at	O	O	0
+University	LOC	ORG	0
+Hospital	LOC	ORG	0
+,	O	O	0
+Uppsala	LOC	LOC	0
+,	O	O	0
+between	O	O	0
+1940	O	O	0
+and	O	O	0
+1949	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Dr	[PER=0.673,LOC=0.013,ORG=0.229,O=0.085]	O	PER
+Andrew	[PER=0.761,LOC=0.027,ORG=0.202,O=0.010]	PER	PER
+Wakefield	[PER=0.578,LOC=0.126,ORG=0.237,O=0.058]	PER	PER
+of	[PER=0.003,LOC=0.001,ORG=0.065,O=0.932]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.049,O=0.951]	O	O
+Royal	[PER=0.031,LOC=0.015,ORG=0.932,O=0.022]	LOC	ORG
+Free	[PER=0.005,LOC=0.003,ORG=0.986,O=0.006]	LOC	ORG
+Hospital	[PER=0.001,LOC=0.000,ORG=0.998,O=0.001]	LOC	ORG
+School	[PER=0.002,LOC=0.002,ORG=0.981,O=0.016]	LOC	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.506,O=0.493]	LOC	ORG
+Medicine	[PER=0.050,LOC=0.091,ORG=0.492,O=0.367]	LOC	ORG
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+colleagues	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+screened	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+25,000	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+babies	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+delivered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+University	[PER=0.014,LOC=0.019,ORG=0.953,O=0.014]	LOC	ORG
+Hospital	[PER=0.007,LOC=0.003,ORG=0.955,O=0.035]	LOC	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.008,O=0.992]	O	O
+Uppsala	[PER=0.032,LOC=0.845,ORG=0.115,O=0.008]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1940	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+1949	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

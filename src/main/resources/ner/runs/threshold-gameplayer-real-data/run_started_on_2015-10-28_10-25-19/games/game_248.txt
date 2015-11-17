@@ -1,0 +1,3505 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Separately	O	O	2
+,	O	O	0
+In	ORG	O	5
+Home	ORG	ORG	5
+Health	ORG	ORG	5
+said	O	O	0
+the	O	O	1
+U.S.	ORG	ORG	5
+District	ORG	ORG	3
+Court	ORG	ORG	5
+in	O	O	3
+Minneapolis	LOC	LOC	5
+ruled	O	O	0
+in	O	O	0
+its	O	O	0
+favor	O	O	0
+regarding	O	O	0
+the	O	O	0
+reimbursement	O	O	0
+of	O	O	0
+certain	O	O	0
+interest	O	O	0
+expenses	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.017,LOC=0.011,ORG=0.010,O=0.962]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.005,LOC=0.001,ORG=0.034,O=0.961]	ORG	O
+Home	[PER=0.121,LOC=0.069,ORG=0.461,O=0.349]	ORG	ORG
+Health	[PER=0.212,LOC=0.140,ORG=0.480,O=0.168]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.017,LOC=0.011,ORG=0.010,O=0.962]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.005,LOC=0.001,ORG=0.034,O=0.961]	ORG	O
+Home	[PER=0.121,LOC=0.069,ORG=0.461,O=0.349]	ORG	ORG
+Health	[PER=0.212,LOC=0.140,ORG=0.480,O=0.168]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@3f
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.017,LOC=0.011,ORG=0.010,O=0.962]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.005,LOC=0.001,ORG=0.034,O=0.961]	ORG	O
+Home	[PER=0.121,LOC=0.069,ORG=0.461,O=0.349]	ORG	ORG
+Health	[PER=0.212,LOC=0.140,ORG=0.480,O=0.168]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.017,LOC=0.011,ORG=0.010,O=0.962]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.005,LOC=0.001,ORG=0.034,O=0.961]	ORG	O
+Home	[PER=0.121,LOC=0.069,ORG=0.461,O=0.349]	ORG	ORG
+Health	[PER=0.212,LOC=0.140,ORG=0.480,O=0.168]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@64
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.017,LOC=0.011,ORG=0.010,O=0.962]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.005,LOC=0.001,ORG=0.034,O=0.961]	ORG	O
+Home	[PER=0.121,LOC=0.069,ORG=0.461,O=0.349]	ORG	ORG
+Health	[PER=0.212,LOC=0.140,ORG=0.480,O=0.168]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.017,LOC=0.011,ORG=0.010,O=0.962]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.005,LOC=0.001,ORG=0.034,O=0.961]	ORG	O
+Home	[PER=0.121,LOC=0.069,ORG=0.461,O=0.349]	ORG	ORG
+Health	[PER=0.212,LOC=0.140,ORG=0.480,O=0.168]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@6e
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.017,LOC=0.011,ORG=0.010,O=0.962]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.005,LOC=0.001,ORG=0.034,O=0.961]	ORG	O
+Home	[PER=0.121,LOC=0.069,ORG=0.461,O=0.349]	ORG	ORG
+Health	[PER=0.212,LOC=0.140,ORG=0.480,O=0.168]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.017,LOC=0.011,ORG=0.010,O=0.962]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.005,LOC=0.001,ORG=0.034,O=0.961]	ORG	O
+Home	[PER=0.121,LOC=0.069,ORG=0.461,O=0.349]	ORG	ORG
+Health	[PER=0.212,LOC=0.140,ORG=0.480,O=0.168]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@79
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.017,LOC=0.011,ORG=0.010,O=0.962]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.005,LOC=0.001,ORG=0.034,O=0.961]	ORG	O
+Home	[PER=0.121,LOC=0.069,ORG=0.461,O=0.349]	ORG	ORG
+Health	[PER=0.212,LOC=0.140,ORG=0.480,O=0.168]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.017,LOC=0.011,ORG=0.010,O=0.962]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.005,LOC=0.001,ORG=0.034,O=0.961]	ORG	O
+Home	[PER=0.121,LOC=0.069,ORG=0.461,O=0.349]	ORG	ORG
+Health	[PER=0.212,LOC=0.140,ORG=0.480,O=0.168]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@90
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.017,LOC=0.011,ORG=0.010,O=0.962]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.005,LOC=0.001,ORG=0.034,O=0.961]	ORG	O
+Home	[PER=0.121,LOC=0.069,ORG=0.461,O=0.349]	ORG	ORG
+Health	[PER=0.212,LOC=0.140,ORG=0.480,O=0.168]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "Separately"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.017,LOC=0.011,ORG=0.010,O=0.962]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.005,LOC=0.001,ORG=0.034,O=0.961]	ORG	O
+Home	[PER=0.121,LOC=0.069,ORG=0.461,O=0.349]	ORG	ORG
+Health	[PER=0.212,LOC=0.140,ORG=0.480,O=0.168]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Separately
+-----------
+Move choice:
+Launch query on token 0 "Separately"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.017,LOC=0.011,ORG=0.010,O=0.962]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.005,LOC=0.001,ORG=0.034,O=0.961]	ORG	O
+Home	[PER=0.121,LOC=0.069,ORG=0.461,O=0.349]	ORG	ORG
+Health	[PER=0.212,LOC=0.140,ORG=0.480,O=0.168]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Separately
+	Separately
+-----------
+Move choice:
+Launch query on token 2 "In"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.017,LOC=0.011,ORG=0.010,O=0.962]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.005,LOC=0.001,ORG=0.034,O=0.961]	ORG	O
+Home	[PER=0.121,LOC=0.069,ORG=0.461,O=0.349]	ORG	ORG
+Health	[PER=0.212,LOC=0.140,ORG=0.480,O=0.168]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Separately
+	Separately
+	In
+-----------
+Next event:
+Got response on token 0 "Separately" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.003,LOC=0.002,ORG=0.002,O=0.994]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.005,LOC=0.001,ORG=0.034,O=0.961]	ORG	O
+Home	[PER=0.121,LOC=0.069,ORG=0.461,O=0.349]	ORG	ORG
+Health	[PER=0.212,LOC=0.140,ORG=0.480,O=0.168]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Separately
+	In
+-----------
+Move choice:
+Launch query on token 2 "In"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.003,LOC=0.002,ORG=0.002,O=0.994]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.005,LOC=0.001,ORG=0.034,O=0.961]	ORG	O
+Home	[PER=0.121,LOC=0.069,ORG=0.461,O=0.349]	ORG	ORG
+Health	[PER=0.212,LOC=0.140,ORG=0.480,O=0.168]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Separately
+	In
+	In
+-----------
+Next event:
+Got response on token 0 "Separately" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.005,LOC=0.001,ORG=0.034,O=0.961]	ORG	O
+Home	[PER=0.121,LOC=0.069,ORG=0.461,O=0.349]	ORG	ORG
+Health	[PER=0.212,LOC=0.140,ORG=0.480,O=0.168]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	In
+	In
+-----------
+Move choice:
+Launch query on token 3 "Home"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.005,LOC=0.001,ORG=0.034,O=0.961]	ORG	O
+Home	[PER=0.121,LOC=0.069,ORG=0.461,O=0.349]	ORG	ORG
+Health	[PER=0.212,LOC=0.140,ORG=0.480,O=0.168]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	In
+	In
+	Home
+-----------
+Next event:
+Got response on token 2 "In" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.001,LOC=0.000,ORG=0.005,O=0.994]	ORG	O
+Home	[PER=0.122,LOC=0.071,ORG=0.448,O=0.360]	ORG	ORG
+Health	[PER=0.214,LOC=0.144,ORG=0.470,O=0.173]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	In
+	Home
+-----------
+Next event:
+Got response on token 2 "In" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.001,LOC=0.000,ORG=0.034,O=0.965]	ORG	O
+Home	[PER=0.118,LOC=0.069,ORG=0.463,O=0.350]	ORG	ORG
+Health	[PER=0.209,LOC=0.140,ORG=0.482,O=0.169]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Home
+-----------
+Move choice:
+Launch query on token 2 "In"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.001,LOC=0.000,ORG=0.034,O=0.965]	ORG	O
+Home	[PER=0.118,LOC=0.069,ORG=0.463,O=0.350]	ORG	ORG
+Health	[PER=0.209,LOC=0.140,ORG=0.482,O=0.169]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	In
+	Home
+-----------
+Move choice:
+Launch query on token 2 "In"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.001,LOC=0.000,ORG=0.034,O=0.965]	ORG	O
+Home	[PER=0.118,LOC=0.069,ORG=0.463,O=0.350]	ORG	ORG
+Health	[PER=0.209,LOC=0.140,ORG=0.482,O=0.169]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	In
+	In
+	Home
+-----------
+Move choice:
+Launch query on token 3 "Home"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.001,LOC=0.000,ORG=0.034,O=0.965]	ORG	O
+Home	[PER=0.118,LOC=0.069,ORG=0.463,O=0.350]	ORG	ORG
+Health	[PER=0.209,LOC=0.140,ORG=0.482,O=0.169]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	In
+	In
+	Home
+	Home
+-----------
+Move choice:
+Launch query on token 3 "Home"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.001,LOC=0.000,ORG=0.034,O=0.965]	ORG	O
+Home	[PER=0.118,LOC=0.069,ORG=0.463,O=0.350]	ORG	ORG
+Health	[PER=0.209,LOC=0.140,ORG=0.482,O=0.169]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	In
+	Home
+	In
+	Home
+	Home
+-----------
+Next event:
+Got response on token 3 "Home" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.061,O=0.938]	ORG	O
+Home	[PER=0.031,LOC=0.018,ORG=0.858,O=0.093]	ORG	ORG
+Health	[PER=0.083,LOC=0.049,ORG=0.800,O=0.068]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	In
+	Home
+	In
+	Home
+-----------
+Next event:
+Got response on token 2 "In" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.009,O=0.991]	ORG	O
+Home	[PER=0.033,LOC=0.019,ORG=0.850,O=0.098]	ORG	ORG
+Health	[PER=0.086,LOC=0.051,ORG=0.794,O=0.070]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Home
+	In
+	Home
+-----------
+Move choice:
+Launch query on token 3 "Home"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.009,O=0.991]	ORG	O
+Home	[PER=0.033,LOC=0.019,ORG=0.850,O=0.098]	ORG	ORG
+Health	[PER=0.086,LOC=0.051,ORG=0.794,O=0.070]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Home
+	Home
+	In
+	Home
+-----------
+Next event:
+Got response on token 3 "Home" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.005,LOC=0.003,ORG=0.975,O=0.016]	ORG	ORG
+Health	[PER=0.046,LOC=0.022,ORG=0.894,O=0.037]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Home
+	In
+	Home
+-----------
+Next event:
+Got response on token 2 "In" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.070,O=0.930]	ORG	O
+Home	[PER=0.005,LOC=0.003,ORG=0.977,O=0.015]	ORG	ORG
+Health	[PER=0.045,LOC=0.022,ORG=0.896,O=0.037]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Home
+	Home
+-----------
+Move choice:
+Launch query on token 2 "In"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.070,O=0.930]	ORG	O
+Home	[PER=0.005,LOC=0.003,ORG=0.977,O=0.015]	ORG	ORG
+Health	[PER=0.045,LOC=0.022,ORG=0.896,O=0.037]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Home
+	Home
+	In
+-----------
+Move choice:
+Launch query on token 4 "Health"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.070,O=0.930]	ORG	O
+Home	[PER=0.005,LOC=0.003,ORG=0.977,O=0.015]	ORG	ORG
+Health	[PER=0.045,LOC=0.022,ORG=0.896,O=0.037]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Health
+	Home
+	Home
+	In
+-----------
+Move choice:
+Launch query on token 4 "Health"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.070,O=0.930]	ORG	O
+Home	[PER=0.005,LOC=0.003,ORG=0.977,O=0.015]	ORG	ORG
+Health	[PER=0.045,LOC=0.022,ORG=0.896,O=0.037]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Health
+	Home
+	Health
+	Home
+	In
+-----------
+Next event:
+Got response on token 2 "In" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.005,LOC=0.003,ORG=0.975,O=0.016]	ORG	ORG
+Health	[PER=0.046,LOC=0.022,ORG=0.894,O=0.037]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Health
+	Home
+	Health
+	Home
+-----------
+Next event:
+Got response on token 4 "Health" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.001,LOC=0.001,ORG=0.994,O=0.005]	ORG	ORG
+Health	[PER=0.007,LOC=0.004,ORG=0.983,O=0.006]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Home
+	Health
+	Home
+-----------
+Next event:
+Got response on token 3 "Home" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Health	[PER=0.006,LOC=0.003,ORG=0.986,O=0.005]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Health
+	Home
+-----------
+Next event:
+Got response on token 3 "Home" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.995,O=0.005]	ORG	ORG
+Health	[PER=0.006,LOC=0.003,ORG=0.985,O=0.006]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Health
+-----------
+Move choice:
+Launch query on token 3 "Home"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.995,O=0.005]	ORG	ORG
+Health	[PER=0.006,LOC=0.003,ORG=0.985,O=0.006]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Health
+	Home
+-----------
+Move choice:
+Launch query on token 6 "the"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.995,O=0.005]	ORG	ORG
+Health	[PER=0.006,LOC=0.003,ORG=0.985,O=0.006]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	the
+	Health
+	Home
+-----------
+Move choice:
+Launch query on token 7 "U.S."
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.995,O=0.005]	ORG	ORG
+Health	[PER=0.006,LOC=0.003,ORG=0.985,O=0.006]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	the
+	U.S.
+	Health
+	Home
+-----------
+Next event:
+Got response on token 3 "Home" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.967,O=0.033]	ORG	ORG
+Health	[PER=0.009,LOC=0.007,ORG=0.973,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+U.S.	[PER=0.031,LOC=0.188,ORG=0.770,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.049,ORG=0.869,O=0.037]	ORG	ORG
+Court	[PER=0.038,LOC=0.010,ORG=0.850,O=0.101]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	the
+	U.S.
+	Health
+-----------
+Next event:
+Got response on token 6 "the" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.967,O=0.033]	ORG	ORG
+Health	[PER=0.009,LOC=0.007,ORG=0.973,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+U.S.	[PER=0.031,LOC=0.190,ORG=0.767,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.050,ORG=0.867,O=0.038]	ORG	ORG
+Court	[PER=0.039,LOC=0.010,ORG=0.849,O=0.102]	ORG	ORG
+in	[PER=0.001,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	U.S.
+	Health
+-----------
+Move choice:
+Launch query on token 4 "Health"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.967,O=0.033]	ORG	ORG
+Health	[PER=0.009,LOC=0.007,ORG=0.973,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+U.S.	[PER=0.031,LOC=0.190,ORG=0.767,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.050,ORG=0.867,O=0.038]	ORG	ORG
+Court	[PER=0.039,LOC=0.010,ORG=0.849,O=0.102]	ORG	ORG
+in	[PER=0.001,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	U.S.
+	Health
+	Health
+-----------
+Move choice:
+Launch query on token 7 "U.S."
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.967,O=0.033]	ORG	ORG
+Health	[PER=0.009,LOC=0.007,ORG=0.973,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+U.S.	[PER=0.031,LOC=0.190,ORG=0.767,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.050,ORG=0.867,O=0.038]	ORG	ORG
+Court	[PER=0.039,LOC=0.010,ORG=0.849,O=0.102]	ORG	ORG
+in	[PER=0.001,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	U.S.
+	U.S.
+	Health
+	Health
+-----------
+Next event:
+Got response on token 4 "Health" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.932,O=0.068]	ORG	ORG
+Health	[PER=0.009,LOC=0.006,ORG=0.912,O=0.073]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+U.S.	[PER=0.031,LOC=0.190,ORG=0.767,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.050,ORG=0.867,O=0.038]	ORG	ORG
+Court	[PER=0.039,LOC=0.010,ORG=0.849,O=0.102]	ORG	ORG
+in	[PER=0.001,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	U.S.
+	U.S.
+	Health
+-----------
+Move choice:
+Launch query on token 4 "Health"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.932,O=0.068]	ORG	ORG
+Health	[PER=0.009,LOC=0.006,ORG=0.912,O=0.073]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+U.S.	[PER=0.031,LOC=0.190,ORG=0.767,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.050,ORG=0.867,O=0.038]	ORG	ORG
+Court	[PER=0.039,LOC=0.010,ORG=0.849,O=0.102]	ORG	ORG
+in	[PER=0.001,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	U.S.
+	U.S.
+	Health
+	Health
+-----------
+Move choice:
+Launch query on token 4 "Health"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.932,O=0.068]	ORG	ORG
+Health	[PER=0.009,LOC=0.006,ORG=0.912,O=0.073]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+U.S.	[PER=0.031,LOC=0.190,ORG=0.767,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.050,ORG=0.867,O=0.038]	ORG	ORG
+Court	[PER=0.039,LOC=0.010,ORG=0.849,O=0.102]	ORG	ORG
+in	[PER=0.001,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Health
+	U.S.
+	U.S.
+	Health
+	Health
+-----------
+Move choice:
+Launch query on token 7 "U.S."
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.932,O=0.068]	ORG	ORG
+Health	[PER=0.009,LOC=0.006,ORG=0.912,O=0.073]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+U.S.	[PER=0.031,LOC=0.190,ORG=0.767,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.050,ORG=0.867,O=0.038]	ORG	ORG
+Court	[PER=0.039,LOC=0.010,ORG=0.849,O=0.102]	ORG	ORG
+in	[PER=0.001,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Health
+	U.S.
+	U.S.
+	Health
+	Health
+	U.S.
+-----------
+Next event:
+Got response on token 4 "Health" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.008,O=0.992]	ORG	O
+Home	[PER=0.000,LOC=0.001,ORG=0.775,O=0.224]	ORG	ORG
+Health	[PER=0.006,LOC=0.004,ORG=0.633,O=0.356]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+U.S.	[PER=0.031,LOC=0.190,ORG=0.767,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.050,ORG=0.867,O=0.038]	ORG	ORG
+Court	[PER=0.039,LOC=0.010,ORG=0.849,O=0.102]	ORG	ORG
+in	[PER=0.001,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	U.S.
+	U.S.
+	Health
+	Health
+	U.S.
+-----------
+Next event:
+Got response on token 4 "Health" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.938,O=0.062]	ORG	ORG
+Health	[PER=0.001,LOC=0.001,ORG=0.924,O=0.074]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+U.S.	[PER=0.031,LOC=0.190,ORG=0.767,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.050,ORG=0.867,O=0.038]	ORG	ORG
+Court	[PER=0.039,LOC=0.010,ORG=0.849,O=0.102]	ORG	ORG
+in	[PER=0.001,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	U.S.
+	U.S.
+	Health
+	U.S.
+-----------
+Next event:
+Got response on token 4 "Health" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+U.S.	[PER=0.031,LOC=0.190,ORG=0.767,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.050,ORG=0.867,O=0.038]	ORG	ORG
+Court	[PER=0.039,LOC=0.010,ORG=0.849,O=0.102]	ORG	ORG
+in	[PER=0.001,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	U.S.
+	U.S.
+	U.S.
+-----------
+Move choice:
+Launch query on token 7 "U.S."
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+U.S.	[PER=0.031,LOC=0.190,ORG=0.767,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.050,ORG=0.867,O=0.038]	ORG	ORG
+Court	[PER=0.039,LOC=0.010,ORG=0.849,O=0.102]	ORG	ORG
+in	[PER=0.001,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	U.S.
+	U.S.
+	U.S.
+	U.S.
+-----------
+Move choice:
+Launch query on token 8 "District"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+U.S.	[PER=0.031,LOC=0.190,ORG=0.767,O=0.012]	ORG	ORG
+District	[PER=0.045,LOC=0.050,ORG=0.867,O=0.038]	ORG	ORG
+Court	[PER=0.039,LOC=0.010,ORG=0.849,O=0.102]	ORG	ORG
+in	[PER=0.001,LOC=0.000,ORG=0.076,O=0.924]	O	O
+Minneapolis	[PER=0.151,LOC=0.307,ORG=0.206,O=0.336]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	U.S.
+	U.S.
+	U.S.
+	District
+	U.S.
+-----------
+Next event:
+Got response on token 7 "U.S." = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.006,LOC=0.034,ORG=0.958,O=0.002]	ORG	ORG
+District	[PER=0.010,LOC=0.009,ORG=0.972,O=0.008]	ORG	ORG
+Court	[PER=0.013,LOC=0.003,ORG=0.935,O=0.049]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.083,O=0.916]	O	O
+Minneapolis	[PER=0.150,LOC=0.305,ORG=0.212,O=0.333]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	U.S.
+	U.S.
+	U.S.
+	District
+-----------
+Next event:
+Got response on token 7 "U.S." = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+U.S.	[PER=0.005,LOC=0.197,ORG=0.796,O=0.002]	ORG	ORG
+District	[PER=0.024,LOC=0.051,ORG=0.887,O=0.038]	ORG	ORG
+Court	[PER=0.024,LOC=0.010,ORG=0.866,O=0.099]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.077,O=0.922]	O	O
+Minneapolis	[PER=0.150,LOC=0.307,ORG=0.207,O=0.335]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	U.S.
+	U.S.
+	District
+-----------
+Next event:
+Got response on token 7 "U.S." = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+U.S.	[PER=0.002,LOC=0.633,ORG=0.365,O=0.001]	ORG	ORG
+District	[PER=0.062,LOC=0.162,ORG=0.660,O=0.116]	ORG	ORG
+Court	[PER=0.056,LOC=0.028,ORG=0.682,O=0.233]	ORG	ORG
+in	[PER=0.001,LOC=0.000,ORG=0.061,O=0.938]	O	O
+Minneapolis	[PER=0.153,LOC=0.312,ORG=0.195,O=0.341]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	U.S.
+	District
+-----------
+Next event:
+Got response on token 7 "U.S." = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+U.S.	[PER=0.001,LOC=0.198,ORG=0.801,O=0.000]	ORG	ORG
+District	[PER=0.021,LOC=0.051,ORG=0.890,O=0.038]	ORG	ORG
+Court	[PER=0.022,LOC=0.010,ORG=0.869,O=0.099]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.077,O=0.922]	O	O
+Minneapolis	[PER=0.150,LOC=0.307,ORG=0.207,O=0.335]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	District
+-----------
+Move choice:
+Launch query on token 7 "U.S."
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+U.S.	[PER=0.001,LOC=0.198,ORG=0.801,O=0.000]	ORG	ORG
+District	[PER=0.021,LOC=0.051,ORG=0.890,O=0.038]	ORG	ORG
+Court	[PER=0.022,LOC=0.010,ORG=0.869,O=0.099]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.077,O=0.922]	O	O
+Minneapolis	[PER=0.150,LOC=0.307,ORG=0.207,O=0.335]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	U.S.
+	District
+-----------
+Move choice:
+Launch query on token 8 "District"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+U.S.	[PER=0.001,LOC=0.198,ORG=0.801,O=0.000]	ORG	ORG
+District	[PER=0.021,LOC=0.051,ORG=0.890,O=0.038]	ORG	ORG
+Court	[PER=0.022,LOC=0.010,ORG=0.869,O=0.099]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.077,O=0.922]	O	O
+Minneapolis	[PER=0.150,LOC=0.307,ORG=0.207,O=0.335]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	District
+	U.S.
+	District
+-----------
+Move choice:
+Launch query on token 8 "District"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+U.S.	[PER=0.001,LOC=0.198,ORG=0.801,O=0.000]	ORG	ORG
+District	[PER=0.021,LOC=0.051,ORG=0.890,O=0.038]	ORG	ORG
+Court	[PER=0.022,LOC=0.010,ORG=0.869,O=0.099]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.077,O=0.922]	O	O
+Minneapolis	[PER=0.150,LOC=0.307,ORG=0.207,O=0.335]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	District
+	District
+	U.S.
+	District
+-----------
+Move choice:
+Launch query on token 9 "Court"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+U.S.	[PER=0.001,LOC=0.198,ORG=0.801,O=0.000]	ORG	ORG
+District	[PER=0.021,LOC=0.051,ORG=0.890,O=0.038]	ORG	ORG
+Court	[PER=0.022,LOC=0.010,ORG=0.869,O=0.099]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.077,O=0.922]	O	O
+Minneapolis	[PER=0.150,LOC=0.307,ORG=0.207,O=0.335]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	District
+	District
+	U.S.
+	Court
+	District
+-----------
+Next event:
+Got response on token 7 "U.S." = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.034,ORG=0.966,O=0.000]	ORG	ORG
+District	[PER=0.006,LOC=0.009,ORG=0.977,O=0.008]	ORG	ORG
+Court	[PER=0.010,LOC=0.003,ORG=0.939,O=0.048]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.084,O=0.916]	O	O
+Minneapolis	[PER=0.150,LOC=0.305,ORG=0.212,O=0.333]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	District
+	District
+	Court
+	District
+-----------
+Next event:
+Got response on token 8 "District" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.019,ORG=0.981,O=0.000]	ORG	ORG
+District	[PER=0.001,LOC=0.001,ORG=0.997,O=0.001]	ORG	ORG
+Court	[PER=0.006,LOC=0.002,ORG=0.955,O=0.037]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.085,O=0.915]	O	O
+Minneapolis	[PER=0.149,LOC=0.305,ORG=0.213,O=0.333]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	District
+	Court
+	District
+-----------
+Next event:
+Got response on token 8 "District" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.024,ORG=0.976,O=0.000]	ORG	ORG
+District	[PER=0.001,LOC=0.001,ORG=0.990,O=0.008]	ORG	ORG
+Court	[PER=0.006,LOC=0.002,ORG=0.951,O=0.042]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.085,O=0.915]	O	O
+Minneapolis	[PER=0.149,LOC=0.305,ORG=0.213,O=0.333]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Court
+	District
+-----------
+Next event:
+Got response on token 8 "District" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.018,ORG=0.982,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Court	[PER=0.005,LOC=0.002,ORG=0.957,O=0.036]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.085,O=0.914]	O	O
+Minneapolis	[PER=0.149,LOC=0.304,ORG=0.213,O=0.333]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Court
+-----------
+Move choice:
+Launch query on token 9 "Court"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.018,ORG=0.982,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Court	[PER=0.005,LOC=0.002,ORG=0.957,O=0.036]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.085,O=0.914]	O	O
+Minneapolis	[PER=0.149,LOC=0.304,ORG=0.213,O=0.333]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Court
+	Court
+-----------
+Move choice:
+Launch query on token 10 "in"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.018,ORG=0.982,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Court	[PER=0.005,LOC=0.002,ORG=0.957,O=0.036]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.085,O=0.914]	O	O
+Minneapolis	[PER=0.149,LOC=0.304,ORG=0.213,O=0.333]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Court
+	Court
+	in
+-----------
+Next event:
+Got response on token 9 "Court" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.983,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Court	[PER=0.001,LOC=0.000,ORG=0.994,O=0.005]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.088,O=0.911]	O	O
+Minneapolis	[PER=0.149,LOC=0.304,ORG=0.216,O=0.332]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Court
+	in
+-----------
+Move choice:
+Launch query on token 10 "in"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.983,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Court	[PER=0.001,LOC=0.000,ORG=0.994,O=0.005]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.088,O=0.911]	O	O
+Minneapolis	[PER=0.149,LOC=0.304,ORG=0.216,O=0.332]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Court
+	in
+	in
+-----------
+Next event:
+Got response on token 9 "Court" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.983,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Court	[PER=0.001,LOC=0.000,ORG=0.963,O=0.036]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.086,O=0.914]	O	O
+Minneapolis	[PER=0.149,LOC=0.304,ORG=0.214,O=0.333]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	in
+	in
+-----------
+Move choice:
+Launch query on token 9 "Court"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.983,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Court	[PER=0.001,LOC=0.000,ORG=0.963,O=0.036]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.086,O=0.914]	O	O
+Minneapolis	[PER=0.149,LOC=0.304,ORG=0.214,O=0.333]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Court
+	in
+	in
+-----------
+Move choice:
+Launch query on token 9 "Court"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.983,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Court	[PER=0.001,LOC=0.000,ORG=0.963,O=0.036]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.086,O=0.914]	O	O
+Minneapolis	[PER=0.149,LOC=0.304,ORG=0.214,O=0.333]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Court
+	in
+	Court
+	in
+-----------
+Move choice:
+Launch query on token 10 "in"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.983,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Court	[PER=0.001,LOC=0.000,ORG=0.963,O=0.036]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.086,O=0.914]	O	O
+Minneapolis	[PER=0.149,LOC=0.304,ORG=0.214,O=0.333]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Court
+	in
+	Court
+	in
+	in
+-----------
+Next event:
+Got response on token 10 "in" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.982,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Court	[PER=0.001,LOC=0.000,ORG=0.960,O=0.039]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.013,O=0.987]	O	O
+Minneapolis	[PER=0.158,LOC=0.327,ORG=0.158,O=0.357]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Court
+	in
+	Court
+	in
+-----------
+Next event:
+Got response on token 9 "Court" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.983,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Court	[PER=0.000,LOC=0.000,ORG=0.994,O=0.006]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+Minneapolis	[PER=0.158,LOC=0.327,ORG=0.159,O=0.357]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	in
+	Court
+	in
+-----------
+Move choice:
+Launch query on token 11 "Minneapolis"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.983,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Court	[PER=0.000,LOC=0.000,ORG=0.994,O=0.006]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+Minneapolis	[PER=0.158,LOC=0.327,ORG=0.159,O=0.357]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	in
+	Minneapolis
+	Court
+	in
+-----------
+Move choice:
+Launch query on token 11 "Minneapolis"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.983,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Court	[PER=0.000,LOC=0.000,ORG=0.994,O=0.006]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+Minneapolis	[PER=0.158,LOC=0.327,ORG=0.159,O=0.357]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	in
+	Minneapolis
+	Minneapolis
+	Court
+	in
+-----------
+Next event:
+Got response on token 9 "Court" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.982,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Court	[PER=0.000,LOC=0.000,ORG=0.960,O=0.039]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.013,O=0.987]	O	O
+Minneapolis	[PER=0.158,LOC=0.327,ORG=0.158,O=0.357]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	in
+	Minneapolis
+	Minneapolis
+	in
+-----------
+Next event:
+Got response on token 10 "in" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.982,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Court	[PER=0.000,LOC=0.000,ORG=0.960,O=0.040]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Minneapolis	[PER=0.160,LOC=0.330,ORG=0.149,O=0.360]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	in
+	Minneapolis
+	Minneapolis
+-----------
+Next event:
+Got response on token 10 "in" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.982,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Court	[PER=0.000,LOC=0.000,ORG=0.960,O=0.040]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Minneapolis	[PER=0.160,LOC=0.331,ORG=0.148,O=0.361]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Minneapolis
+	Minneapolis
+-----------
+Move choice:
+Launch query on token 9 "Court"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.982,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Court	[PER=0.000,LOC=0.000,ORG=0.960,O=0.040]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Minneapolis	[PER=0.160,LOC=0.331,ORG=0.148,O=0.361]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Court
+	Minneapolis
+	Minneapolis
+-----------
+Move choice:
+Launch query on token 11 "Minneapolis"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.982,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Court	[PER=0.000,LOC=0.000,ORG=0.960,O=0.040]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Minneapolis	[PER=0.160,LOC=0.331,ORG=0.148,O=0.361]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Court
+	Minneapolis
+	Minneapolis
+	Minneapolis
+-----------
+Move choice:
+Launch query on token 11 "Minneapolis"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.982,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Court	[PER=0.000,LOC=0.000,ORG=0.960,O=0.040]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Minneapolis	[PER=0.160,LOC=0.331,ORG=0.148,O=0.361]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Minneapolis
+	Court
+	Minneapolis
+	Minneapolis
+	Minneapolis
+-----------
+Move choice:
+Launch query on token 11 "Minneapolis"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.982,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Court	[PER=0.000,LOC=0.000,ORG=0.960,O=0.040]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Minneapolis	[PER=0.160,LOC=0.331,ORG=0.148,O=0.361]	LOC	O
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Minneapolis
+	Minneapolis
+	Court
+	Minneapolis
+	Minneapolis
+	Minneapolis
+-----------
+Next event:
+Got response on token 11 "Minneapolis" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.982,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Court	[PER=0.000,LOC=0.000,ORG=0.960,O=0.040]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Minneapolis	[PER=0.054,LOC=0.776,ORG=0.050,O=0.121]	LOC	LOC
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Minneapolis
+	Minneapolis
+	Court
+	Minneapolis
+	Minneapolis
+-----------
+Next event:
+Got response on token 11 "Minneapolis" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.982,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Court	[PER=0.000,LOC=0.000,ORG=0.960,O=0.040]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Minneapolis	[PER=0.009,LOC=0.960,ORG=0.009,O=0.021]	LOC	LOC
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Minneapolis
+	Minneapolis
+	Court
+	Minneapolis
+-----------
+Next event:
+Got response on token 9 "Court" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.983,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Court	[PER=0.000,LOC=0.000,ORG=0.994,O=0.006]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Minneapolis	[PER=0.009,LOC=0.960,ORG=0.009,O=0.021]	LOC	LOC
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Minneapolis
+	Minneapolis
+	Minneapolis
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@d26
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.983,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Court	[PER=0.000,LOC=0.000,ORG=0.994,O=0.006]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Minneapolis	[PER=0.009,LOC=0.960,ORG=0.009,O=0.021]	LOC	LOC
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Minneapolis
+	Minneapolis
+	Minneapolis
+-----------
+Next event:
+Got response on token 11 "Minneapolis" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.983,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Court	[PER=0.000,LOC=0.000,ORG=0.994,O=0.006]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Minneapolis	[PER=0.001,LOC=0.994,ORG=0.001,O=0.003]	LOC	LOC
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Minneapolis
+	Minneapolis
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@d48
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.983,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Court	[PER=0.000,LOC=0.000,ORG=0.994,O=0.006]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Minneapolis	[PER=0.001,LOC=0.994,ORG=0.001,O=0.003]	LOC	LOC
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Minneapolis
+	Minneapolis
+-----------
+Next event:
+Got response on token 11 "Minneapolis" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.983,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Court	[PER=0.000,LOC=0.000,ORG=0.994,O=0.006]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Minneapolis	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Minneapolis
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@d4d
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.983,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Court	[PER=0.000,LOC=0.000,ORG=0.994,O=0.006]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Minneapolis	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Minneapolis
+-----------
+Next event:
+Got response on token 11 "Minneapolis" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Separately	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+In	[PER=0.000,LOC=0.000,ORG=0.011,O=0.989]	ORG	O
+Home	[PER=0.000,LOC=0.000,ORG=0.974,O=0.026]	ORG	ORG
+Health	[PER=0.000,LOC=0.000,ORG=0.988,O=0.011]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.000,LOC=0.017,ORG=0.983,O=0.000]	ORG	ORG
+District	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Court	[PER=0.000,LOC=0.000,ORG=0.994,O=0.006]	ORG	ORG
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Minneapolis	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+ruled	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+favor	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+regarding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reimbursement	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+certain	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+interest	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+expenses	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@d61

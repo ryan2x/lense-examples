@@ -1,0 +1,615 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+But	O	O	1
+an	O	O	0
+attending	O	O	0
+doctor	O	O	0
+said	O	O	0
+Mother	PER	PER	1
+Teresa	PER	PER	0
+,	O	O	0
+who	O	O	0
+turns	O	O	0
+86	O	O	0
+next	O	O	0
+Tuesday	O	O	0
+,	O	O	0
+was	O	O	0
+conscious	O	O	0
+and	O	O	0
+in	O	O	0
+stable	O	O	0
+condition	O	O	1
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+But	[PER=0.001,LOC=0.002,ORG=0.000,O=0.997]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+doctor	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.888,LOC=0.020,ORG=0.012,O=0.080]	PER	PER
+Teresa	[PER=0.938,LOC=0.039,ORG=0.010,O=0.014]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+turns	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+86	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+next	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.008,ORG=0.004,O=0.983]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+conscious	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+stable	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+condition	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+But	[PER=0.001,LOC=0.002,ORG=0.000,O=0.997]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+doctor	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.888,LOC=0.020,ORG=0.012,O=0.080]	PER	PER
+Teresa	[PER=0.938,LOC=0.039,ORG=0.010,O=0.014]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+turns	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+86	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+next	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.008,ORG=0.004,O=0.983]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+conscious	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+stable	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+condition	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+But	[PER=0.001,LOC=0.002,ORG=0.000,O=0.997]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+doctor	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.888,LOC=0.020,ORG=0.012,O=0.080]	PER	PER
+Teresa	[PER=0.938,LOC=0.039,ORG=0.010,O=0.014]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+turns	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+86	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+next	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.008,ORG=0.004,O=0.983]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+conscious	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+stable	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+condition	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+But	[PER=0.001,LOC=0.002,ORG=0.000,O=0.997]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+doctor	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.888,LOC=0.020,ORG=0.012,O=0.080]	PER	PER
+Teresa	[PER=0.938,LOC=0.039,ORG=0.010,O=0.014]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+turns	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+86	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+next	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.008,ORG=0.004,O=0.983]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+conscious	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+stable	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+condition	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+But	[PER=0.001,LOC=0.002,ORG=0.000,O=0.997]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+doctor	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.888,LOC=0.020,ORG=0.012,O=0.080]	PER	PER
+Teresa	[PER=0.938,LOC=0.039,ORG=0.010,O=0.014]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+turns	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+86	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+next	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.008,ORG=0.004,O=0.983]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+conscious	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+stable	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+condition	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+But	[PER=0.001,LOC=0.002,ORG=0.000,O=0.997]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+doctor	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.888,LOC=0.020,ORG=0.012,O=0.080]	PER	PER
+Teresa	[PER=0.938,LOC=0.039,ORG=0.010,O=0.014]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+turns	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+86	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+next	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.008,ORG=0.004,O=0.983]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+conscious	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+stable	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+condition	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+But	[PER=0.001,LOC=0.002,ORG=0.000,O=0.997]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+doctor	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.888,LOC=0.020,ORG=0.012,O=0.080]	PER	PER
+Teresa	[PER=0.938,LOC=0.039,ORG=0.010,O=0.014]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+turns	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+86	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+next	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.008,ORG=0.004,O=0.983]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+conscious	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+stable	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+condition	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+But	[PER=0.001,LOC=0.002,ORG=0.000,O=0.997]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+doctor	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.888,LOC=0.020,ORG=0.012,O=0.080]	PER	PER
+Teresa	[PER=0.938,LOC=0.039,ORG=0.010,O=0.014]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+turns	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+86	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+next	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.008,ORG=0.004,O=0.983]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+conscious	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+stable	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+condition	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+But	[PER=0.001,LOC=0.002,ORG=0.000,O=0.997]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+doctor	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.888,LOC=0.020,ORG=0.012,O=0.080]	PER	PER
+Teresa	[PER=0.938,LOC=0.039,ORG=0.010,O=0.014]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+turns	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+86	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+next	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.008,ORG=0.004,O=0.983]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+conscious	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+stable	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+condition	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+But	[PER=0.001,LOC=0.002,ORG=0.000,O=0.997]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+doctor	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.888,LOC=0.020,ORG=0.012,O=0.080]	PER	PER
+Teresa	[PER=0.938,LOC=0.039,ORG=0.010,O=0.014]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+turns	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+86	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+next	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.008,ORG=0.004,O=0.983]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+conscious	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+stable	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+condition	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+But	[PER=0.001,LOC=0.002,ORG=0.000,O=0.997]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+doctor	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.888,LOC=0.020,ORG=0.012,O=0.080]	PER	PER
+Teresa	[PER=0.938,LOC=0.039,ORG=0.010,O=0.014]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+turns	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+86	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+next	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.008,ORG=0.004,O=0.983]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+conscious	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+stable	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+condition	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 5 "Mother"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+But	[PER=0.001,LOC=0.002,ORG=0.000,O=0.997]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+doctor	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.888,LOC=0.020,ORG=0.012,O=0.080]	PER	PER
+Teresa	[PER=0.938,LOC=0.039,ORG=0.010,O=0.014]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+turns	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+86	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+next	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.008,ORG=0.004,O=0.983]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+conscious	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+stable	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+condition	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mother
+-----------
+Move choice:
+Launch query on token 19 "condition"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+But	[PER=0.001,LOC=0.002,ORG=0.000,O=0.997]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+doctor	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.888,LOC=0.020,ORG=0.012,O=0.080]	PER	PER
+Teresa	[PER=0.938,LOC=0.039,ORG=0.010,O=0.014]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+turns	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+86	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+next	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.008,ORG=0.004,O=0.983]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+conscious	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+stable	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+condition	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	condition
+	Mother
+-----------
+Move choice:
+Launch query on token 0 "But"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+But	[PER=0.001,LOC=0.002,ORG=0.000,O=0.997]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+doctor	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.888,LOC=0.020,ORG=0.012,O=0.080]	PER	PER
+Teresa	[PER=0.938,LOC=0.039,ORG=0.010,O=0.014]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+turns	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+86	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+next	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.008,ORG=0.004,O=0.983]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+conscious	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+stable	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+condition	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	condition
+	Mother
+	But
+-----------
+Next event:
+Got response on token 5 "Mother" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+But	[PER=0.001,LOC=0.002,ORG=0.000,O=0.997]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+doctor	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.982,LOC=0.003,ORG=0.002,O=0.013]	PER	PER
+Teresa	[PER=0.980,LOC=0.012,ORG=0.003,O=0.006]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+turns	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+86	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+next	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.008,ORG=0.004,O=0.983]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+conscious	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+stable	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+condition	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	condition
+	But
+-----------
+Next event:
+Got response on token 19 "condition" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+But	[PER=0.001,LOC=0.002,ORG=0.000,O=0.997]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+doctor	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.982,LOC=0.003,ORG=0.002,O=0.013]	PER	PER
+Teresa	[PER=0.980,LOC=0.012,ORG=0.003,O=0.006]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+turns	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+86	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+next	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.008,ORG=0.004,O=0.983]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+conscious	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+stable	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+condition	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	But
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@11c
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+But	[PER=0.001,LOC=0.002,ORG=0.000,O=0.997]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+doctor	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.982,LOC=0.003,ORG=0.002,O=0.013]	PER	PER
+Teresa	[PER=0.980,LOC=0.012,ORG=0.003,O=0.006]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+turns	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+86	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+next	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.008,ORG=0.004,O=0.983]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+conscious	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+stable	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+condition	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	But
+-----------
+Next event:
+Got response on token 0 "But" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+But	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+attending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+doctor	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.982,LOC=0.003,ORG=0.002,O=0.013]	PER	PER
+Teresa	[PER=0.980,LOC=0.012,ORG=0.003,O=0.006]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+turns	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+86	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+next	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.008,ORG=0.004,O=0.983]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+conscious	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+stable	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+condition	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@1fb

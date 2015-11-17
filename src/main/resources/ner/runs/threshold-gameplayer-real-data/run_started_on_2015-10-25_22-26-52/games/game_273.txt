@@ -1,0 +1,214 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+It	O	O	1
+causes	O	O	0
+diarrhoea	O	O	1
+,	O	O	0
+abdominal	O	O	0
+pain	O	O	0
+and	O	O	0
+weight	O	O	0
+loss	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+It	[PER=0.003,LOC=0.005,ORG=0.002,O=0.990]	O	O
+causes	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+diarrhoea	[PER=0.001,LOC=0.003,ORG=0.001,O=0.995]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+abdominal	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+pain	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weight	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+loss	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+It	[PER=0.003,LOC=0.005,ORG=0.002,O=0.990]	O	O
+causes	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+diarrhoea	[PER=0.001,LOC=0.003,ORG=0.001,O=0.995]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+abdominal	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+pain	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weight	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+loss	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@43089e4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+It	[PER=0.003,LOC=0.005,ORG=0.002,O=0.990]	O	O
+causes	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+diarrhoea	[PER=0.001,LOC=0.003,ORG=0.001,O=0.995]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+abdominal	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+pain	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weight	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+loss	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "It"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+It	[PER=0.003,LOC=0.005,ORG=0.002,O=0.990]	O	O
+causes	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+diarrhoea	[PER=0.001,LOC=0.003,ORG=0.001,O=0.995]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+abdominal	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+pain	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weight	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+loss	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	It
+-----------
+Move choice:
+Launch query on token 2 "diarrhoea"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+It	[PER=0.003,LOC=0.005,ORG=0.002,O=0.990]	O	O
+causes	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+diarrhoea	[PER=0.001,LOC=0.003,ORG=0.001,O=0.995]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+abdominal	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+pain	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weight	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+loss	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	It
+	diarrhoea
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@40d259d0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+It	[PER=0.003,LOC=0.005,ORG=0.002,O=0.990]	O	O
+causes	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+diarrhoea	[PER=0.001,LOC=0.003,ORG=0.001,O=0.995]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+abdominal	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+pain	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weight	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+loss	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	It
+	diarrhoea
+-----------
+Next event:
+Got response on token 0 "It" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+It	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+causes	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+diarrhoea	[PER=0.001,LOC=0.003,ORG=0.001,O=0.995]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+abdominal	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+pain	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weight	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+loss	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	diarrhoea
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@704588fc
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+It	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+causes	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+diarrhoea	[PER=0.001,LOC=0.003,ORG=0.001,O=0.995]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+abdominal	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+pain	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weight	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+loss	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	diarrhoea
+-----------
+Next event:
+Got response on token 2 "diarrhoea" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+It	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+causes	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+diarrhoea	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+abdominal	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+pain	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weight	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+loss	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@6450bea7

@@ -1,0 +1,37 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Israel	LOC	LOC	0
+approves	O	O	0
+Arafat	PER	LOC	0
+'s	O	O	0
+flight	O	O	0
+to	O	O	0
+West	LOC	ORG	0
+Bank	LOC	ORG	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.002,LOC=0.997,ORG=0.001,O=0.000]	LOC	LOC
+approves	[PER=0.004,LOC=0.016,ORG=0.010,O=0.971]	O	O
+Arafat	[PER=0.274,LOC=0.380,ORG=0.230,O=0.115]	PER	LOC
+'s	[PER=0.002,LOC=0.041,ORG=0.002,O=0.955]	O	O
+flight	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.002,LOC=0.001,ORG=0.009,O=0.989]	O	O
+West	[PER=0.307,LOC=0.241,ORG=0.273,O=0.180]	LOC	ORG
+Bank	[PER=0.271,LOC=0.359,ORG=0.328,O=0.041]	LOC	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.003,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

@@ -1,0 +1,759 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Israel	LOC	LOC	0
+on	O	O	0
+Wednesday	O	O	0
+sent	O	O	0
+Syria	LOC	LOC	1
+a	O	O	0
+message	O	O	0
+,	O	O	0
+via	O	O	0
+Washington	LOC	LOC	2
+,	O	O	0
+saying	O	O	0
+it	O	O	0
+was	O	O	0
+committed	O	O	0
+to	O	O	0
+peace	O	O	0
+and	O	O	0
+wanted	O	O	0
+to	O	O	0
+open	O	O	0
+negotiations	O	O	0
+without	O	O	0
+preconditions	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.006,LOC=0.984,ORG=0.009,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.002,LOC=0.003,ORG=0.001,O=0.994]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.005,LOC=0.989,ORG=0.005,O=0.002]	LOC	LOC
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+message	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+via	[PER=0.002,LOC=0.003,ORG=0.005,O=0.990]	O	O
+Washington	[PER=0.051,LOC=0.828,ORG=0.054,O=0.067]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+committed	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+peace	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+open	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preconditions	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.006,LOC=0.984,ORG=0.009,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.002,LOC=0.003,ORG=0.001,O=0.994]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.005,LOC=0.989,ORG=0.005,O=0.002]	LOC	LOC
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+message	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+via	[PER=0.002,LOC=0.003,ORG=0.005,O=0.990]	O	O
+Washington	[PER=0.051,LOC=0.828,ORG=0.054,O=0.067]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+committed	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+peace	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+open	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preconditions	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.006,LOC=0.984,ORG=0.009,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.002,LOC=0.003,ORG=0.001,O=0.994]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.005,LOC=0.989,ORG=0.005,O=0.002]	LOC	LOC
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+message	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+via	[PER=0.002,LOC=0.003,ORG=0.005,O=0.990]	O	O
+Washington	[PER=0.051,LOC=0.828,ORG=0.054,O=0.067]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+committed	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+peace	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+open	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preconditions	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.006,LOC=0.984,ORG=0.009,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.002,LOC=0.003,ORG=0.001,O=0.994]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.005,LOC=0.989,ORG=0.005,O=0.002]	LOC	LOC
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+message	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+via	[PER=0.002,LOC=0.003,ORG=0.005,O=0.990]	O	O
+Washington	[PER=0.051,LOC=0.828,ORG=0.054,O=0.067]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+committed	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+peace	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+open	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preconditions	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.006,LOC=0.984,ORG=0.009,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.002,LOC=0.003,ORG=0.001,O=0.994]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.005,LOC=0.989,ORG=0.005,O=0.002]	LOC	LOC
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+message	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+via	[PER=0.002,LOC=0.003,ORG=0.005,O=0.990]	O	O
+Washington	[PER=0.051,LOC=0.828,ORG=0.054,O=0.067]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+committed	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+peace	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+open	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preconditions	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.006,LOC=0.984,ORG=0.009,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.002,LOC=0.003,ORG=0.001,O=0.994]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.005,LOC=0.989,ORG=0.005,O=0.002]	LOC	LOC
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+message	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+via	[PER=0.002,LOC=0.003,ORG=0.005,O=0.990]	O	O
+Washington	[PER=0.051,LOC=0.828,ORG=0.054,O=0.067]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+committed	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+peace	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+open	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preconditions	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.006,LOC=0.984,ORG=0.009,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.002,LOC=0.003,ORG=0.001,O=0.994]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.005,LOC=0.989,ORG=0.005,O=0.002]	LOC	LOC
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+message	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+via	[PER=0.002,LOC=0.003,ORG=0.005,O=0.990]	O	O
+Washington	[PER=0.051,LOC=0.828,ORG=0.054,O=0.067]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+committed	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+peace	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+open	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preconditions	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.006,LOC=0.984,ORG=0.009,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.002,LOC=0.003,ORG=0.001,O=0.994]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.005,LOC=0.989,ORG=0.005,O=0.002]	LOC	LOC
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+message	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+via	[PER=0.002,LOC=0.003,ORG=0.005,O=0.990]	O	O
+Washington	[PER=0.051,LOC=0.828,ORG=0.054,O=0.067]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+committed	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+peace	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+open	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preconditions	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.006,LOC=0.984,ORG=0.009,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.002,LOC=0.003,ORG=0.001,O=0.994]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.005,LOC=0.989,ORG=0.005,O=0.002]	LOC	LOC
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+message	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+via	[PER=0.002,LOC=0.003,ORG=0.005,O=0.990]	O	O
+Washington	[PER=0.051,LOC=0.828,ORG=0.054,O=0.067]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+committed	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+peace	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+open	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preconditions	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.006,LOC=0.984,ORG=0.009,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.002,LOC=0.003,ORG=0.001,O=0.994]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.005,LOC=0.989,ORG=0.005,O=0.002]	LOC	LOC
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+message	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+via	[PER=0.002,LOC=0.003,ORG=0.005,O=0.990]	O	O
+Washington	[PER=0.051,LOC=0.828,ORG=0.054,O=0.067]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+committed	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+peace	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+open	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preconditions	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.006,LOC=0.984,ORG=0.009,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.002,LOC=0.003,ORG=0.001,O=0.994]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.005,LOC=0.989,ORG=0.005,O=0.002]	LOC	LOC
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+message	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+via	[PER=0.002,LOC=0.003,ORG=0.005,O=0.990]	O	O
+Washington	[PER=0.051,LOC=0.828,ORG=0.054,O=0.067]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+committed	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+peace	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+open	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preconditions	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 9 "Washington"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.006,LOC=0.984,ORG=0.009,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.002,LOC=0.003,ORG=0.001,O=0.994]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.005,LOC=0.989,ORG=0.005,O=0.002]	LOC	LOC
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+message	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+via	[PER=0.002,LOC=0.003,ORG=0.005,O=0.990]	O	O
+Washington	[PER=0.051,LOC=0.828,ORG=0.054,O=0.067]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+committed	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+peace	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+open	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preconditions	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Washington
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@11
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.006,LOC=0.984,ORG=0.009,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.002,LOC=0.003,ORG=0.001,O=0.994]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.005,LOC=0.989,ORG=0.005,O=0.002]	LOC	LOC
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+message	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+via	[PER=0.002,LOC=0.003,ORG=0.005,O=0.990]	O	O
+Washington	[PER=0.051,LOC=0.828,ORG=0.054,O=0.067]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+committed	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+peace	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+open	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preconditions	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Washington
+-----------
+Next event:
+Got response on token 9 "Washington" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.006,LOC=0.984,ORG=0.009,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.002,LOC=0.003,ORG=0.001,O=0.994]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.005,LOC=0.989,ORG=0.005,O=0.002]	LOC	LOC
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+message	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+via	[PER=0.001,LOC=0.003,ORG=0.002,O=0.993]	O	O
+Washington	[PER=0.008,LOC=0.971,ORG=0.009,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+committed	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+peace	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+open	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preconditions	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 9 "Washington"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.006,LOC=0.984,ORG=0.009,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.002,LOC=0.003,ORG=0.001,O=0.994]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.005,LOC=0.989,ORG=0.005,O=0.002]	LOC	LOC
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+message	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+via	[PER=0.001,LOC=0.003,ORG=0.002,O=0.993]	O	O
+Washington	[PER=0.008,LOC=0.971,ORG=0.009,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+committed	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+peace	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+open	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preconditions	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Washington
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@23
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.006,LOC=0.984,ORG=0.009,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.002,LOC=0.003,ORG=0.001,O=0.994]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.005,LOC=0.989,ORG=0.005,O=0.002]	LOC	LOC
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+message	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+via	[PER=0.001,LOC=0.003,ORG=0.002,O=0.993]	O	O
+Washington	[PER=0.008,LOC=0.971,ORG=0.009,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+committed	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+peace	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+open	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preconditions	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Washington
+-----------
+Next event:
+Got response on token 9 "Washington" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.006,LOC=0.984,ORG=0.009,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.002,LOC=0.003,ORG=0.001,O=0.994]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.005,LOC=0.989,ORG=0.005,O=0.002]	LOC	LOC
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+message	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+via	[PER=0.001,LOC=0.003,ORG=0.002,O=0.993]	O	O
+Washington	[PER=0.001,LOC=0.996,ORG=0.001,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+committed	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+peace	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+open	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preconditions	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 4 "Syria"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.006,LOC=0.984,ORG=0.009,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.002,LOC=0.003,ORG=0.001,O=0.994]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.005,LOC=0.989,ORG=0.005,O=0.002]	LOC	LOC
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+message	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+via	[PER=0.001,LOC=0.003,ORG=0.002,O=0.993]	O	O
+Washington	[PER=0.001,LOC=0.996,ORG=0.001,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+committed	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+peace	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+open	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preconditions	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Syria
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@34
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.006,LOC=0.984,ORG=0.009,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.002,LOC=0.003,ORG=0.001,O=0.994]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.005,LOC=0.989,ORG=0.005,O=0.002]	LOC	LOC
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+message	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+via	[PER=0.001,LOC=0.003,ORG=0.002,O=0.993]	O	O
+Washington	[PER=0.001,LOC=0.996,ORG=0.001,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+committed	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+peace	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+open	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preconditions	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Syria
+-----------
+Next event:
+Got response on token 4 "Syria" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.006,LOC=0.984,ORG=0.009,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.002,LOC=0.003,ORG=0.001,O=0.994]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+message	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+via	[PER=0.001,LOC=0.003,ORG=0.002,O=0.993]	O	O
+Washington	[PER=0.001,LOC=0.996,ORG=0.001,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+committed	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+peace	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+open	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preconditions	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@4a

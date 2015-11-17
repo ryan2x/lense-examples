@@ -1,0 +1,1743 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+--	O	O	1
+London	ORG	LOC	4
+Newsroom	ORG	ORG	4
++44	O	O	1
+171	O	O	0
+542	O	O	0
+7950	O	O	0
+Britain	LOC	LOC	4
+gives	O	O	0
+aid	O	O	0
+to	O	O	0
+volcano-hit	O	O	1
+Caribbean	LOC	LOC	4
+island	O	O	4
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.001,LOC=0.002,ORG=0.010,O=0.988]	O	O
+London	[PER=0.031,LOC=0.405,ORG=0.560,O=0.004]	ORG	ORG
+Newsroom	[PER=0.041,LOC=0.375,ORG=0.569,O=0.014]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.001,LOC=0.002,ORG=0.010,O=0.988]	O	O
+London	[PER=0.031,LOC=0.405,ORG=0.560,O=0.004]	ORG	ORG
+Newsroom	[PER=0.041,LOC=0.375,ORG=0.569,O=0.014]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.001,LOC=0.002,ORG=0.010,O=0.988]	O	O
+London	[PER=0.031,LOC=0.405,ORG=0.560,O=0.004]	ORG	ORG
+Newsroom	[PER=0.041,LOC=0.375,ORG=0.569,O=0.014]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.001,LOC=0.002,ORG=0.010,O=0.988]	O	O
+London	[PER=0.031,LOC=0.405,ORG=0.560,O=0.004]	ORG	ORG
+Newsroom	[PER=0.041,LOC=0.375,ORG=0.569,O=0.014]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.001,LOC=0.002,ORG=0.010,O=0.988]	O	O
+London	[PER=0.031,LOC=0.405,ORG=0.560,O=0.004]	ORG	ORG
+Newsroom	[PER=0.041,LOC=0.375,ORG=0.569,O=0.014]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.001,LOC=0.002,ORG=0.010,O=0.988]	O	O
+London	[PER=0.031,LOC=0.405,ORG=0.560,O=0.004]	ORG	ORG
+Newsroom	[PER=0.041,LOC=0.375,ORG=0.569,O=0.014]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.001,LOC=0.002,ORG=0.010,O=0.988]	O	O
+London	[PER=0.031,LOC=0.405,ORG=0.560,O=0.004]	ORG	ORG
+Newsroom	[PER=0.041,LOC=0.375,ORG=0.569,O=0.014]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.001,LOC=0.002,ORG=0.010,O=0.988]	O	O
+London	[PER=0.031,LOC=0.405,ORG=0.560,O=0.004]	ORG	ORG
+Newsroom	[PER=0.041,LOC=0.375,ORG=0.569,O=0.014]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@6
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.001,LOC=0.002,ORG=0.010,O=0.988]	O	O
+London	[PER=0.031,LOC=0.405,ORG=0.560,O=0.004]	ORG	ORG
+Newsroom	[PER=0.041,LOC=0.375,ORG=0.569,O=0.014]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "--"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.001,LOC=0.002,ORG=0.010,O=0.988]	O	O
+London	[PER=0.031,LOC=0.405,ORG=0.560,O=0.004]	ORG	ORG
+Newsroom	[PER=0.041,LOC=0.375,ORG=0.569,O=0.014]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	--
+-----------
+Move choice:
+Launch query on token 1 "London"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.001,LOC=0.002,ORG=0.010,O=0.988]	O	O
+London	[PER=0.031,LOC=0.405,ORG=0.560,O=0.004]	ORG	ORG
+Newsroom	[PER=0.041,LOC=0.375,ORG=0.569,O=0.014]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	London
+	--
+-----------
+Next event:
+Got response on token 0 "--" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+London	[PER=0.031,LOC=0.408,ORG=0.557,O=0.004]	ORG	ORG
+Newsroom	[PER=0.041,LOC=0.378,ORG=0.567,O=0.014]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	London
+-----------
+Move choice:
+Launch query on token 1 "London"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+London	[PER=0.031,LOC=0.408,ORG=0.557,O=0.004]	ORG	ORG
+Newsroom	[PER=0.041,LOC=0.378,ORG=0.567,O=0.014]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	London
+	London
+-----------
+Move choice:
+Launch query on token 1 "London"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+London	[PER=0.031,LOC=0.408,ORG=0.557,O=0.004]	ORG	ORG
+Newsroom	[PER=0.041,LOC=0.378,ORG=0.567,O=0.014]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	London
+	London
+	London
+-----------
+Move choice:
+Launch query on token 1 "London"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+London	[PER=0.031,LOC=0.408,ORG=0.557,O=0.004]	ORG	ORG
+Newsroom	[PER=0.041,LOC=0.378,ORG=0.567,O=0.014]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	London
+	London
+	London
+	London
+-----------
+Move choice:
+Launch query on token 2 "Newsroom"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+London	[PER=0.031,LOC=0.408,ORG=0.557,O=0.004]	ORG	ORG
+Newsroom	[PER=0.041,LOC=0.378,ORG=0.567,O=0.014]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	London
+	Newsroom
+	London
+	London
+	London
+-----------
+Next event:
+Got response on token 1 "London" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+London	[PER=0.030,LOC=0.398,ORG=0.543,O=0.029]	ORG	ORG
+Newsroom	[PER=0.042,LOC=0.381,ORG=0.561,O=0.015]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	London
+	Newsroom
+	London
+	London
+-----------
+Move choice:
+Launch query on token 2 "Newsroom"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+London	[PER=0.030,LOC=0.398,ORG=0.543,O=0.029]	ORG	ORG
+Newsroom	[PER=0.042,LOC=0.381,ORG=0.561,O=0.015]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	London
+	Newsroom
+	Newsroom
+	London
+	London
+-----------
+Next event:
+Got response on token 1 "London" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.009,LOC=0.822,ORG=0.160,O=0.009]	ORG	LOC
+Newsroom	[PER=0.031,LOC=0.741,ORG=0.202,O=0.025]	ORG	LOC
++44	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	London
+	Newsroom
+	Newsroom
+	London
+-----------
+Next event:
+Got response on token 1 "London" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.002,LOC=0.970,ORG=0.027,O=0.001]	ORG	LOC
+Newsroom	[PER=0.028,LOC=0.867,ORG=0.077,O=0.029]	ORG	LOC
++44	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	Newsroom
+	London
+-----------
+Move choice:
+Launch query on token 2 "Newsroom"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.002,LOC=0.970,ORG=0.027,O=0.001]	ORG	LOC
+Newsroom	[PER=0.028,LOC=0.867,ORG=0.077,O=0.029]	ORG	LOC
++44	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	Newsroom
+	London
+	Newsroom
+-----------
+Move choice:
+Launch query on token 7 "Britain"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.002,LOC=0.970,ORG=0.027,O=0.001]	ORG	LOC
+Newsroom	[PER=0.028,LOC=0.867,ORG=0.077,O=0.029]	ORG	LOC
++44	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	Newsroom
+	London
+	Newsroom
+	Britain
+-----------
+Next event:
+Got response on token 1 "London" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.996,ORG=0.004,O=0.000]	ORG	LOC
+Newsroom	[PER=0.027,LOC=0.888,ORG=0.055,O=0.030]	ORG	LOC
++44	[PER=0.000,LOC=0.002,ORG=0.001,O=0.998]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	Newsroom
+	Newsroom
+	Britain
+-----------
+Next event:
+Got response on token 2 "Newsroom" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	ORG	LOC
+Newsroom	[PER=0.023,LOC=0.754,ORG=0.047,O=0.176]	ORG	LOC
++44	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	Newsroom
+	Britain
+-----------
+Move choice:
+Launch query on token 2 "Newsroom"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	ORG	LOC
+Newsroom	[PER=0.023,LOC=0.754,ORG=0.047,O=0.176]	ORG	LOC
++44	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	Newsroom
+	Newsroom
+	Britain
+-----------
+Move choice:
+Launch query on token 11 "volcano-hit"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	ORG	LOC
+Newsroom	[PER=0.023,LOC=0.754,ORG=0.047,O=0.176]	ORG	LOC
++44	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	volcano-hit
+	Newsroom
+	Newsroom
+	Britain
+-----------
+Next event:
+Got response on token 2 "Newsroom" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.981,ORG=0.018,O=0.000]	ORG	LOC
+Newsroom	[PER=0.018,LOC=0.589,ORG=0.256,O=0.137]	ORG	LOC
++44	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	volcano-hit
+	Newsroom
+	Britain
+-----------
+Next event:
+Got response on token 7 "Britain" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.981,ORG=0.018,O=0.000]	ORG	LOC
+Newsroom	[PER=0.018,LOC=0.589,ORG=0.256,O=0.137]	ORG	LOC
++44	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.981,ORG=0.006,O=0.009]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	volcano-hit
+	Newsroom
+-----------
+Move choice:
+Launch query on token 7 "Britain"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.981,ORG=0.018,O=0.000]	ORG	LOC
+Newsroom	[PER=0.018,LOC=0.589,ORG=0.256,O=0.137]	ORG	LOC
++44	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.981,ORG=0.006,O=0.009]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Caribbean	[PER=0.137,LOC=0.193,ORG=0.098,O=0.572]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	volcano-hit
+	Britain
+	Newsroom
+-----------
+Next event:
+Got response on token 11 "volcano-hit" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.981,ORG=0.018,O=0.000]	ORG	LOC
+Newsroom	[PER=0.018,LOC=0.589,ORG=0.256,O=0.137]	ORG	LOC
++44	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.981,ORG=0.006,O=0.009]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Caribbean	[PER=0.137,LOC=0.194,ORG=0.093,O=0.576]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	Britain
+	Newsroom
+-----------
+Next event:
+Got response on token 2 "Newsroom" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.949,ORG=0.050,O=0.001]	ORG	LOC
+Newsroom	[PER=0.007,LOC=0.232,ORG=0.706,O=0.054]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.981,ORG=0.006,O=0.009]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Caribbean	[PER=0.137,LOC=0.194,ORG=0.093,O=0.576]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Britain
+	Newsroom
+-----------
+Move choice:
+Launch query on token 3 "+44"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.949,ORG=0.050,O=0.001]	ORG	LOC
+Newsroom	[PER=0.007,LOC=0.232,ORG=0.706,O=0.054]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.981,ORG=0.006,O=0.009]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Caribbean	[PER=0.137,LOC=0.194,ORG=0.093,O=0.576]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Britain
+	Newsroom
+	+44
+-----------
+Move choice:
+Launch query on token 7 "Britain"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.949,ORG=0.050,O=0.001]	ORG	LOC
+Newsroom	[PER=0.007,LOC=0.232,ORG=0.706,O=0.054]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.981,ORG=0.006,O=0.009]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Caribbean	[PER=0.137,LOC=0.194,ORG=0.093,O=0.576]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Britain
+	Britain
+	Newsroom
+	+44
+-----------
+Move choice:
+Launch query on token 12 "Caribbean"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.949,ORG=0.050,O=0.001]	ORG	LOC
+Newsroom	[PER=0.007,LOC=0.232,ORG=0.706,O=0.054]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.981,ORG=0.006,O=0.009]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Caribbean	[PER=0.137,LOC=0.194,ORG=0.093,O=0.576]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Britain
+	Britain
+	Newsroom
+	+44
+	Caribbean
+-----------
+Next event:
+Got response on token 2 "Newsroom" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.961,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.175,ORG=0.533,O=0.286]	ORG	ORG
++44	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.981,ORG=0.006,O=0.009]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Caribbean	[PER=0.137,LOC=0.194,ORG=0.093,O=0.576]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Britain
+	Britain
+	+44
+	Caribbean
+-----------
+Next event:
+Got response on token 3 "+44" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.981,ORG=0.006,O=0.009]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Caribbean	[PER=0.137,LOC=0.194,ORG=0.093,O=0.576]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Britain
+	Britain
+	Caribbean
+-----------
+Move choice:
+Launch query on token 12 "Caribbean"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.981,ORG=0.006,O=0.009]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Caribbean	[PER=0.137,LOC=0.194,ORG=0.093,O=0.576]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Caribbean
+	Britain
+	Britain
+	Caribbean
+-----------
+Next event:
+Got response on token 7 "Britain" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.004,LOC=0.931,ORG=0.006,O=0.059]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Caribbean	[PER=0.137,LOC=0.194,ORG=0.093,O=0.576]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Caribbean
+	Britain
+	Caribbean
+-----------
+Next event:
+Got response on token 7 "Britain" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.001,LOC=0.990,ORG=0.001,O=0.009]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Caribbean	[PER=0.137,LOC=0.194,ORG=0.093,O=0.576]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Caribbean
+	Caribbean
+-----------
+Move choice:
+Launch query on token 7 "Britain"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.001,LOC=0.990,ORG=0.001,O=0.009]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Caribbean	[PER=0.137,LOC=0.194,ORG=0.093,O=0.576]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Caribbean
+	Britain
+	Caribbean
+-----------
+Move choice:
+Launch query on token 12 "Caribbean"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.001,LOC=0.990,ORG=0.001,O=0.009]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Caribbean	[PER=0.137,LOC=0.194,ORG=0.093,O=0.576]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Caribbean
+	Caribbean
+	Britain
+	Caribbean
+-----------
+Move choice:
+Launch query on token 12 "Caribbean"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.001,LOC=0.990,ORG=0.001,O=0.009]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Caribbean	[PER=0.137,LOC=0.194,ORG=0.093,O=0.576]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Caribbean
+	Caribbean
+	Britain
+	Caribbean
+	Caribbean
+-----------
+Next event:
+Got response on token 7 "Britain" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Caribbean	[PER=0.137,LOC=0.194,ORG=0.093,O=0.576]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Caribbean
+	Caribbean
+	Caribbean
+	Caribbean
+-----------
+Move choice:
+Launch query on token 13 "island"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Caribbean	[PER=0.137,LOC=0.194,ORG=0.093,O=0.576]	LOC	O
+island	[PER=0.001,LOC=0.007,ORG=0.005,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Caribbean
+	Caribbean
+	island
+	Caribbean
+	Caribbean
+-----------
+Next event:
+Got response on token 12 "Caribbean" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Caribbean	[PER=0.063,LOC=0.628,ORG=0.043,O=0.266]	LOC	LOC
+island	[PER=0.001,LOC=0.012,ORG=0.002,O=0.985]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Caribbean
+	island
+	Caribbean
+	Caribbean
+-----------
+Next event:
+Got response on token 12 "Caribbean" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Caribbean	[PER=0.013,LOC=0.922,ORG=0.009,O=0.056]	LOC	LOC
+island	[PER=0.000,LOC=0.016,ORG=0.001,O=0.983]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Caribbean
+	island
+	Caribbean
+-----------
+Move choice:
+Launch query on token 13 "island"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Caribbean	[PER=0.013,LOC=0.922,ORG=0.009,O=0.056]	LOC	LOC
+island	[PER=0.000,LOC=0.016,ORG=0.001,O=0.983]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Caribbean
+	island
+	Caribbean
+	island
+-----------
+Next event:
+Got response on token 12 "Caribbean" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Caribbean	[PER=0.002,LOC=0.988,ORG=0.001,O=0.009]	LOC	LOC
+island	[PER=0.000,LOC=0.017,ORG=0.000,O=0.983]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	island
+	Caribbean
+	island
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@2a7
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Caribbean	[PER=0.002,LOC=0.988,ORG=0.001,O=0.009]	LOC	LOC
+island	[PER=0.000,LOC=0.017,ORG=0.000,O=0.983]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	island
+	Caribbean
+	island
+-----------
+Next event:
+Got response on token 12 "Caribbean" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Caribbean	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+island	[PER=0.000,LOC=0.017,ORG=0.000,O=0.983]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	island
+	island
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@2d4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Caribbean	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+island	[PER=0.000,LOC=0.017,ORG=0.000,O=0.983]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	island
+	island
+-----------
+Next event:
+Got response on token 13 "island" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Caribbean	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+island	[PER=0.000,LOC=0.108,ORG=0.000,O=0.891]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	island
+-----------
+Move choice:
+Launch query on token 13 "island"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Caribbean	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+island	[PER=0.000,LOC=0.108,ORG=0.000,O=0.891]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	island
+	island
+-----------
+Move choice:
+Launch query on token 13 "island"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Caribbean	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+island	[PER=0.000,LOC=0.108,ORG=0.000,O=0.891]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	island
+	island
+	island
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@32e
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Caribbean	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+island	[PER=0.000,LOC=0.108,ORG=0.000,O=0.891]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	island
+	island
+	island
+-----------
+Next event:
+Got response on token 13 "island" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Caribbean	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+island	[PER=0.000,LOC=0.017,ORG=0.000,O=0.983]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	island
+	island
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@32f
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Caribbean	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+island	[PER=0.000,LOC=0.017,ORG=0.000,O=0.983]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	island
+	island
+-----------
+Next event:
+Got response on token 13 "island" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Caribbean	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+island	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	island
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@35c
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Caribbean	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+island	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	island
+-----------
+Next event:
+Got response on token 13 "island" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+London	[PER=0.000,LOC=0.962,ORG=0.037,O=0.001]	ORG	LOC
+Newsroom	[PER=0.005,LOC=0.176,ORG=0.531,O=0.288]	ORG	ORG
++44	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7950	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Britain	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+gives	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+aid	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+volcano-hit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Caribbean	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+island	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@39a

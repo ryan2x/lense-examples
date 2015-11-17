@@ -1,0 +1,7 @@
+set terminal png medium
+set output "lense-examples/src/main/resources/sentiment/runs/ml-only/run_started_on_2015-10-29_22-52-48/Queries_by_true_type_of_document/Queries_by_true_type_of_document.png"
+set title 'Queries by true type of document'
+set xlabel 'time'
+set ylabel 'queries'
+plot 'lense-examples/src/main/resources/sentiment/runs/ml-only/run_started_on_2015-10-29_22-52-48/Queries_by_true_type_of_document/POS.dat' with lines, \
+'lense-examples/src/main/resources/sentiment/runs/ml-only/run_started_on_2015-10-29_22-52-48/Queries_by_true_type_of_document/NEG.dat' with lines

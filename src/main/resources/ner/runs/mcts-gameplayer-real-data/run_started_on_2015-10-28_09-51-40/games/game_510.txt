@@ -1,0 +1,1775 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Fox	PER	PER	3
+,	O	O	1
+who	O	O	1
+arrived	O	O	0
+in	O	O	0
+Bangladesh	LOC	LOC	3
+on	O	O	0
+Tuesday	O	O	1
+on	O	O	0
+four-day	O	O	0
+visit	O	O	1
+,	O	O	0
+said	O	O	0
+Britain	LOC	LOC	1
+wanted	O	O	0
+Dhaka	LOC	LOC	5
+to	O	O	0
+act	O	O	1
+seriously	O	O	0
+on	O	O	0
+the	O	O	0
+case	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.281,LOC=0.150,ORG=0.437,O=0.131]	PER	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Bangladesh	[PER=0.013,LOC=0.927,ORG=0.048,O=0.013]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.281,LOC=0.150,ORG=0.437,O=0.131]	PER	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Bangladesh	[PER=0.013,LOC=0.927,ORG=0.048,O=0.013]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.281,LOC=0.150,ORG=0.437,O=0.131]	PER	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Bangladesh	[PER=0.013,LOC=0.927,ORG=0.048,O=0.013]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.281,LOC=0.150,ORG=0.437,O=0.131]	PER	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Bangladesh	[PER=0.013,LOC=0.927,ORG=0.048,O=0.013]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.281,LOC=0.150,ORG=0.437,O=0.131]	PER	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Bangladesh	[PER=0.013,LOC=0.927,ORG=0.048,O=0.013]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.281,LOC=0.150,ORG=0.437,O=0.131]	PER	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Bangladesh	[PER=0.013,LOC=0.927,ORG=0.048,O=0.013]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.281,LOC=0.150,ORG=0.437,O=0.131]	PER	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Bangladesh	[PER=0.013,LOC=0.927,ORG=0.048,O=0.013]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.281,LOC=0.150,ORG=0.437,O=0.131]	PER	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Bangladesh	[PER=0.013,LOC=0.927,ORG=0.048,O=0.013]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.281,LOC=0.150,ORG=0.437,O=0.131]	PER	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Bangladesh	[PER=0.013,LOC=0.927,ORG=0.048,O=0.013]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.281,LOC=0.150,ORG=0.437,O=0.131]	PER	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Bangladesh	[PER=0.013,LOC=0.927,ORG=0.048,O=0.013]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.281,LOC=0.150,ORG=0.437,O=0.131]	PER	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Bangladesh	[PER=0.013,LOC=0.927,ORG=0.048,O=0.013]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "Fox"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.281,LOC=0.150,ORG=0.437,O=0.131]	PER	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Bangladesh	[PER=0.013,LOC=0.927,ORG=0.048,O=0.013]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Fox
+-----------
+Move choice:
+Launch query on token 0 "Fox"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.281,LOC=0.150,ORG=0.437,O=0.131]	PER	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Bangladesh	[PER=0.013,LOC=0.927,ORG=0.048,O=0.013]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Fox
+	Fox
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.281,LOC=0.150,ORG=0.437,O=0.131]	PER	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Bangladesh	[PER=0.013,LOC=0.927,ORG=0.048,O=0.013]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Fox
+	Fox
+-----------
+Next event:
+Got response on token 0 "Fox" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.733,LOC=0.056,ORG=0.163,O=0.049]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Bangladesh	[PER=0.013,LOC=0.927,ORG=0.048,O=0.013]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Fox
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@13d
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.733,LOC=0.056,ORG=0.163,O=0.049]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Bangladesh	[PER=0.013,LOC=0.927,ORG=0.048,O=0.013]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Fox
+-----------
+Next event:
+Got response on token 0 "Fox" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.950,LOC=0.010,ORG=0.030,O=0.009]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Bangladesh	[PER=0.013,LOC=0.927,ORG=0.048,O=0.013]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 5 "Bangladesh"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.950,LOC=0.010,ORG=0.030,O=0.009]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Bangladesh	[PER=0.013,LOC=0.927,ORG=0.048,O=0.013]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Bangladesh
+-----------
+Move choice:
+Launch query on token 13 "Britain"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.950,LOC=0.010,ORG=0.030,O=0.009]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Bangladesh	[PER=0.013,LOC=0.927,ORG=0.048,O=0.013]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Britain
+	Bangladesh
+-----------
+Next event:
+Got response on token 5 "Bangladesh" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.950,LOC=0.010,ORG=0.030,O=0.009]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.002,LOC=0.989,ORG=0.007,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Britain
+-----------
+Move choice:
+Launch query on token 0 "Fox"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.950,LOC=0.010,ORG=0.030,O=0.009]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.002,LOC=0.989,ORG=0.007,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.006,LOC=0.985,ORG=0.007,O=0.002]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Fox
+	Britain
+-----------
+Next event:
+Got response on token 13 "Britain" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.950,LOC=0.010,ORG=0.030,O=0.009]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.002,LOC=0.989,ORG=0.007,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Fox
+-----------
+Move choice:
+Launch query on token 15 "Dhaka"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.950,LOC=0.010,ORG=0.030,O=0.009]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.002,LOC=0.989,ORG=0.007,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Fox
+	Dhaka
+-----------
+Move choice:
+Launch query on token 7 "Tuesday"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.950,LOC=0.010,ORG=0.030,O=0.009]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.002,LOC=0.989,ORG=0.007,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.006,LOC=0.976,ORG=0.015,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Tuesday
+	Fox
+	Dhaka
+-----------
+Next event:
+Got response on token 15 "Dhaka" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.950,LOC=0.010,ORG=0.030,O=0.009]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.002,LOC=0.989,ORG=0.007,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.041,LOC=0.942,ORG=0.014,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Tuesday
+	Fox
+-----------
+Move choice:
+Launch query on token 15 "Dhaka"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.950,LOC=0.010,ORG=0.030,O=0.009]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.002,LOC=0.989,ORG=0.007,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.006,LOC=0.009,ORG=0.006,O=0.979]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.041,LOC=0.942,ORG=0.014,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Dhaka
+	Tuesday
+	Fox
+-----------
+Next event:
+Got response on token 7 "Tuesday" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.950,LOC=0.010,ORG=0.030,O=0.009]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.002,LOC=0.989,ORG=0.007,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.041,LOC=0.942,ORG=0.014,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Dhaka
+	Fox
+-----------
+Move choice:
+Launch query on token 5 "Bangladesh"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.950,LOC=0.010,ORG=0.030,O=0.009]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.002,LOC=0.989,ORG=0.007,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.041,LOC=0.942,ORG=0.014,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Dhaka
+	Bangladesh
+	Fox
+-----------
+Move choice:
+Launch query on token 5 "Bangladesh"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.950,LOC=0.010,ORG=0.030,O=0.009]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.002,LOC=0.989,ORG=0.007,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.041,LOC=0.942,ORG=0.014,O=0.003]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Dhaka
+	Bangladesh
+	Bangladesh
+	Fox
+-----------
+Next event:
+Got response on token 15 "Dhaka" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.950,LOC=0.010,ORG=0.030,O=0.009]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.002,LOC=0.989,ORG=0.007,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.229,LOC=0.757,ORG=0.011,O=0.003]	LOC	LOC
+to	[PER=0.001,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Bangladesh
+	Bangladesh
+	Fox
+-----------
+Move choice:
+Launch query on token 15 "Dhaka"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.950,LOC=0.010,ORG=0.030,O=0.009]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.002,LOC=0.989,ORG=0.007,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.229,LOC=0.757,ORG=0.011,O=0.003]	LOC	LOC
+to	[PER=0.001,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Dhaka
+	Bangladesh
+	Bangladesh
+	Fox
+-----------
+Next event:
+Got response on token 5 "Bangladesh" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.950,LOC=0.010,ORG=0.030,O=0.009]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.000,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.229,LOC=0.757,ORG=0.011,O=0.003]	LOC	LOC
+to	[PER=0.001,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Dhaka
+	Bangladesh
+	Fox
+-----------
+Next event:
+Got response on token 5 "Bangladesh" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.950,LOC=0.010,ORG=0.030,O=0.009]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.229,LOC=0.757,ORG=0.011,O=0.003]	LOC	LOC
+to	[PER=0.001,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Dhaka
+	Fox
+-----------
+Move choice:
+Launch query on token 15 "Dhaka"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.950,LOC=0.010,ORG=0.030,O=0.009]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.229,LOC=0.757,ORG=0.011,O=0.003]	LOC	LOC
+to	[PER=0.001,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Dhaka
+	Dhaka
+	Fox
+-----------
+Next event:
+Got response on token 0 "Fox" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.993,LOC=0.002,ORG=0.004,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.229,LOC=0.757,ORG=0.011,O=0.003]	LOC	LOC
+to	[PER=0.001,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Dhaka
+	Dhaka
+-----------
+Next event:
+Got response on token 15 "Dhaka" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.993,LOC=0.002,ORG=0.004,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.675,LOC=0.319,ORG=0.005,O=0.001]	LOC	PER
+to	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Dhaka
+-----------
+Move choice:
+Launch query on token 15 "Dhaka"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.993,LOC=0.002,ORG=0.004,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.675,LOC=0.319,ORG=0.005,O=0.001]	LOC	PER
+to	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Dhaka
+	Dhaka
+-----------
+Move choice:
+Launch query on token 10 "visit"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.993,LOC=0.002,ORG=0.004,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.675,LOC=0.319,ORG=0.005,O=0.001]	LOC	PER
+to	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Dhaka
+	visit
+	Dhaka
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@431
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.993,LOC=0.002,ORG=0.004,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.675,LOC=0.319,ORG=0.005,O=0.001]	LOC	PER
+to	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Dhaka
+	visit
+	Dhaka
+-----------
+Next event:
+Got response on token 15 "Dhaka" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.993,LOC=0.002,ORG=0.004,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.232,LOC=0.766,ORG=0.002,O=0.000]	LOC	LOC
+to	[PER=0.001,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	visit
+	Dhaka
+-----------
+Next event:
+Got response on token 10 "visit" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.993,LOC=0.002,ORG=0.004,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.232,LOC=0.766,ORG=0.002,O=0.000]	LOC	LOC
+to	[PER=0.001,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Dhaka
+-----------
+Move choice:
+Launch query on token 2 "who"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.993,LOC=0.002,ORG=0.004,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.232,LOC=0.766,ORG=0.002,O=0.000]	LOC	LOC
+to	[PER=0.001,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	who
+	Dhaka
+-----------
+Move choice:
+Launch query on token 1 ","
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.993,LOC=0.002,ORG=0.004,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.232,LOC=0.766,ORG=0.002,O=0.000]	LOC	LOC
+to	[PER=0.001,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	who
+	,
+	Dhaka
+-----------
+Move choice:
+Launch query on token 17 "act"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.993,LOC=0.002,ORG=0.004,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.232,LOC=0.766,ORG=0.002,O=0.000]	LOC	LOC
+to	[PER=0.001,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	act
+	who
+	,
+	Dhaka
+-----------
+Next event:
+Got response on token 1 "," = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.993,LOC=0.002,ORG=0.004,O=0.001]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.232,LOC=0.766,ORG=0.002,O=0.000]	LOC	LOC
+to	[PER=0.001,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	act
+	who
+	Dhaka
+-----------
+Next event:
+Got response on token 2 "who" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.993,LOC=0.002,ORG=0.004,O=0.001]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.232,LOC=0.766,ORG=0.002,O=0.000]	LOC	LOC
+to	[PER=0.001,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	act
+	Dhaka
+-----------
+Next event:
+Got response on token 15 "Dhaka" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.993,LOC=0.002,ORG=0.004,O=0.001]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.041,LOC=0.958,ORG=0.000,O=0.000]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	act
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@8f5
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.993,LOC=0.002,ORG=0.004,O=0.001]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.041,LOC=0.958,ORG=0.000,O=0.000]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	act
+-----------
+Next event:
+Got response on token 17 "act" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.993,LOC=0.002,ORG=0.004,O=0.001]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+arrived	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Bangladesh	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+four-day	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+visit	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.041,LOC=0.958,ORG=0.000,O=0.000]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+act	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seriously	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+case	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@966

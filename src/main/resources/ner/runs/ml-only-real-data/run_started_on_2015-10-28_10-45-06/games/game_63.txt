@@ -1,0 +1,49 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+The	O	O	0
+embassy	O	O	0
+is	O	O	0
+issuing	O	O	0
+them	O	O	0
+travel	O	O	0
+documents	O	O	0
+for	O	O	0
+their	O	O	0
+return	O	O	0
+to	O	O	0
+their	O	O	0
+homeland	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+embassy	[PER=0.000,LOC=0.002,ORG=0.001,O=0.996]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issuing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+them	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+travel	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+documents	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+their	[PER=0.001,LOC=0.001,ORG=0.001,O=0.998]	O	O
+return	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+their	[PER=0.001,LOC=0.001,ORG=0.001,O=0.998]	O	O
+homeland	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

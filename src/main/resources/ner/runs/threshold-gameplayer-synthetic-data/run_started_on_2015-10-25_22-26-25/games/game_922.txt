@@ -1,0 +1,71 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+I	O	O	0
+feared	O	O	0
+he	O	O	0
+would	O	O	0
+flee	O	O	0
+from	O	O	0
+work	O	O	0
+or	O	O	0
+steal	O	O	0
+my	O	O	0
+belongings	O	O	0
+,	O	O	0
+"	O	O	0
+the	O	O	0
+Kathmandu	ORG	ORG	0
+Post	ORG	ORG	0
+newspaper	O	O	0
+quoted	O	O	0
+Munakarmi	PER	PER	0
+as	O	O	0
+saying	O	O	0
+after	O	O	0
+his	O	O	0
+arrest	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+I	[PER=0.004,LOC=0.002,ORG=0.002,O=0.992]	O	O
+feared	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+would	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+flee	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+work	[PER=0.001,LOC=0.001,ORG=0.001,O=0.998]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+steal	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+my	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+belongings	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.008,O=0.991]	O	O
+Kathmandu	[PER=0.057,LOC=0.528,ORG=0.411,O=0.004]	ORG	ORG
+Post	[PER=0.058,LOC=0.246,ORG=0.516,O=0.179]	ORG	ORG
+newspaper	[PER=0.000,LOC=0.000,ORG=0.008,O=0.992]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Munakarmi	[PER=0.685,LOC=0.143,ORG=0.076,O=0.096]	PER	PER
+as	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+arrest	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@8c6bde5

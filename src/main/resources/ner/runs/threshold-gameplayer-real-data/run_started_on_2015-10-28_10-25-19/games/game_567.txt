@@ -1,0 +1,155 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+I	O	O	1
+knew	O	O	0
+where	O	O	0
+I	O	O	1
+belonged	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.007,LOC=0.004,ORG=0.005,O=0.984]	O	O
+knew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+where	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.003,LOC=0.002,ORG=0.002,O=0.993]	O	O
+belonged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.007,LOC=0.004,ORG=0.005,O=0.984]	O	O
+knew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+where	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.003,LOC=0.002,ORG=0.002,O=0.993]	O	O
+belonged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.007,LOC=0.004,ORG=0.005,O=0.984]	O	O
+knew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+where	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.003,LOC=0.002,ORG=0.002,O=0.993]	O	O
+belonged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "I"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.007,LOC=0.004,ORG=0.005,O=0.984]	O	O
+knew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+where	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.003,LOC=0.002,ORG=0.002,O=0.993]	O	O
+belonged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	I
+-----------
+Move choice:
+Launch query on token 3 "I"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.007,LOC=0.004,ORG=0.005,O=0.984]	O	O
+knew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+where	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.003,LOC=0.002,ORG=0.002,O=0.993]	O	O
+belonged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	I
+	I
+-----------
+Next event:
+Got response on token 0 "I" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.001,LOC=0.001,ORG=0.001,O=0.998]	O	O
+knew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+where	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.003,LOC=0.002,ORG=0.002,O=0.993]	O	O
+belonged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	I
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@4c
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.001,LOC=0.001,ORG=0.001,O=0.998]	O	O
+knew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+where	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.003,LOC=0.002,ORG=0.002,O=0.993]	O	O
+belonged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	I
+-----------
+Next event:
+Got response on token 3 "I" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.001,LOC=0.001,ORG=0.001,O=0.998]	O	O
+knew	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+where	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+belonged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@58

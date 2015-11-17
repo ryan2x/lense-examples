@@ -1,0 +1,49 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+LONDON	LOC	LOC	0
+1996-08-22	O	O	0
+The	O	O	0
+following	O	O	0
+floating-rate	O	O	0
+issue	O	O	0
+was	O	O	0
+announced	O	O	0
+by	O	O	0
+lead	O	O	0
+manager	O	O	0
+Lehman	ORG	ORG	0
+Brothers	ORG	ORG	0
+International	ORG	ORG	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.005,LOC=0.975,ORG=0.013,O=0.007]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+manager	[PER=0.003,LOC=0.000,ORG=0.027,O=0.970]	O	O
+Lehman	[PER=0.091,LOC=0.022,ORG=0.860,O=0.027]	ORG	ORG
+Brothers	[PER=0.015,LOC=0.004,ORG=0.957,O=0.024]	ORG	ORG
+International	[PER=0.013,LOC=0.014,ORG=0.944,O=0.029]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.009,O=0.989]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

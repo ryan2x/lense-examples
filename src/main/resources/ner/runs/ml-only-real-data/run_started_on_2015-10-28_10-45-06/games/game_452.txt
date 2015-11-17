@@ -1,0 +1,75 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Dr	O	PER	0
+Robert	PER	PER	0
+Aranosian	PER	PER	0
+,	O	O	0
+emergency	O	O	0
+room	O	O	0
+director	O	O	0
+at	O	O	0
+Pontiac	LOC	ORG	0
+Osteopathic	LOC	ORG	0
+Hospital	LOC	ORG	0
+,	O	O	0
+said	O	O	0
+Kevorkian	PER	PER	0
+brought	O	O	0
+in	O	O	0
+the	O	O	0
+body	O	O	0
+of	O	O	0
+Patricia	PER	PER	0
+Smith	PER	PER	0
+,	O	O	0
+of	O	O	0
+Lees	LOC	ORG	0
+Summit	LOC	ORG	0
+,	O	O	0
+Mo	LOC	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Dr	[PER=0.911,LOC=0.004,ORG=0.030,O=0.055]	O	PER
+Robert	[PER=0.985,LOC=0.003,ORG=0.010,O=0.002]	PER	PER
+Aranosian	[PER=0.959,LOC=0.009,ORG=0.011,O=0.022]	PER	PER
+,	[PER=0.002,LOC=0.001,ORG=0.000,O=0.998]	O	O
+emergency	[PER=0.000,LOC=0.002,ORG=0.005,O=0.993]	O	O
+room	[PER=0.001,LOC=0.005,ORG=0.004,O=0.990]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+Pontiac	[PER=0.039,LOC=0.075,ORG=0.878,O=0.008]	LOC	ORG
+Osteopathic	[PER=0.018,LOC=0.010,ORG=0.967,O=0.004]	LOC	ORG
+Hospital	[PER=0.006,LOC=0.002,ORG=0.965,O=0.026]	LOC	ORG
+,	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kevorkian	[PER=0.660,LOC=0.079,ORG=0.069,O=0.191]	PER	PER
+brought	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+body	[PER=0.001,LOC=0.002,ORG=0.002,O=0.995]	O	O
+of	[PER=0.004,LOC=0.001,ORG=0.016,O=0.980]	O	O
+Patricia	[PER=0.827,LOC=0.092,ORG=0.041,O=0.040]	PER	PER
+Smith	[PER=0.914,LOC=0.037,ORG=0.028,O=0.021]	PER	PER
+,	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+of	[PER=0.002,LOC=0.001,ORG=0.117,O=0.881]	O	O
+Lees	[PER=0.423,LOC=0.092,ORG=0.477,O=0.008]	LOC	ORG
+Summit	[PER=0.265,LOC=0.137,ORG=0.479,O=0.119]	LOC	ORG
+,	[PER=0.005,LOC=0.002,ORG=0.005,O=0.988]	O	O
+Mo	[PER=0.416,LOC=0.100,ORG=0.050,O=0.434]	LOC	O
+.	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

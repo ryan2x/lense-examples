@@ -1,0 +1,93 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Abu	PER	PER	0
+Rdainah	PER	PER	0
+said	O	O	0
+Arafat	PER	LOC	0
+had	O	O	0
+decided	O	O	0
+against	O	O	0
+flying	O	O	0
+to	O	O	0
+the	O	O	0
+West	LOC	ORG	0
+Bank	LOC	ORG	0
+on	O	O	0
+Thursday	O	O	0
+,	O	O	0
+after	O	O	0
+Israel	LOC	LOC	0
+lifted	O	O	0
+the	O	O	0
+ban	O	O	0
+,	O	O	0
+because	O	O	0
+he	O	O	0
+had	O	O	0
+a	O	O	0
+busy	O	O	0
+schedule	O	O	0
+in	O	O	0
+Gaza	LOC	LOC	0
+and	O	O	0
+would	O	O	0
+not	O	O	0
+be	O	O	0
+free	O	O	0
+until	O	O	0
+Monday	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Abu	[PER=0.557,LOC=0.017,ORG=0.424,O=0.002]	PER	PER
+Rdainah	[PER=0.547,LOC=0.024,ORG=0.423,O=0.007]	PER	PER
+said	[PER=0.002,LOC=0.000,ORG=0.008,O=0.989]	O	O
+Arafat	[PER=0.282,LOC=0.362,ORG=0.235,O=0.121]	PER	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+decided	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+flying	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.008,O=0.992]	O	O
+West	[PER=0.306,LOC=0.242,ORG=0.272,O=0.180]	LOC	ORG
+Bank	[PER=0.271,LOC=0.360,ORG=0.328,O=0.041]	LOC	ORG
+on	[PER=0.001,LOC=0.001,ORG=0.003,O=0.996]	O	O
+Thursday	[PER=0.002,LOC=0.003,ORG=0.002,O=0.994]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Israel	[PER=0.001,LOC=0.997,ORG=0.000,O=0.001]	LOC	LOC
+lifted	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ban	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+busy	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+schedule	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Gaza	[PER=0.051,LOC=0.906,ORG=0.020,O=0.022]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+would	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+free	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+until	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Monday	[PER=0.004,LOC=0.009,ORG=0.008,O=0.979]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

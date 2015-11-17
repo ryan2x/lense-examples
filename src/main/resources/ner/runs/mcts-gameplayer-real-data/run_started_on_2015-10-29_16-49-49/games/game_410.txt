@@ -1,0 +1,1119 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+CAIRO	LOC	LOC	1
+1996-08-22	O	O	0
+The	O	O	0
+chairman	O	O	0
+of	O	O	0
+national	O	O	0
+carrier	O	O	0
+EgyptAir	ORG	ORG	3
+on	O	O	0
+Thursday	O	O	0
+blamed	O	O	0
+the	O	O	0
+control	O	O	0
+tower	O	O	0
+at	O	O	0
+Istanbul	LOC	LOC	1
+airport	O	O	0
+for	O	O	0
+the	O	O	1
+EgyptAir	ORG	ORG	3
+plane	O	O	0
+accident	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+carrier	[PER=0.001,LOC=0.001,ORG=0.003,O=0.996]	O	O
+EgyptAir	[PER=0.041,LOC=0.284,ORG=0.146,O=0.529]	ORG	O
+on	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+EgyptAir	[PER=0.040,LOC=0.285,ORG=0.145,O=0.530]	ORG	O
+plane	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+carrier	[PER=0.001,LOC=0.001,ORG=0.003,O=0.996]	O	O
+EgyptAir	[PER=0.041,LOC=0.284,ORG=0.146,O=0.529]	ORG	O
+on	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+EgyptAir	[PER=0.040,LOC=0.285,ORG=0.145,O=0.530]	ORG	O
+plane	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+carrier	[PER=0.001,LOC=0.001,ORG=0.003,O=0.996]	O	O
+EgyptAir	[PER=0.041,LOC=0.284,ORG=0.146,O=0.529]	ORG	O
+on	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+EgyptAir	[PER=0.040,LOC=0.285,ORG=0.145,O=0.530]	ORG	O
+plane	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+carrier	[PER=0.001,LOC=0.001,ORG=0.003,O=0.996]	O	O
+EgyptAir	[PER=0.041,LOC=0.284,ORG=0.146,O=0.529]	ORG	O
+on	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+EgyptAir	[PER=0.040,LOC=0.285,ORG=0.145,O=0.530]	ORG	O
+plane	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+carrier	[PER=0.001,LOC=0.001,ORG=0.003,O=0.996]	O	O
+EgyptAir	[PER=0.041,LOC=0.284,ORG=0.146,O=0.529]	ORG	O
+on	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+EgyptAir	[PER=0.040,LOC=0.285,ORG=0.145,O=0.530]	ORG	O
+plane	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+carrier	[PER=0.001,LOC=0.001,ORG=0.003,O=0.996]	O	O
+EgyptAir	[PER=0.041,LOC=0.284,ORG=0.146,O=0.529]	ORG	O
+on	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+EgyptAir	[PER=0.040,LOC=0.285,ORG=0.145,O=0.530]	ORG	O
+plane	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+carrier	[PER=0.001,LOC=0.001,ORG=0.003,O=0.996]	O	O
+EgyptAir	[PER=0.041,LOC=0.284,ORG=0.146,O=0.529]	ORG	O
+on	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+EgyptAir	[PER=0.040,LOC=0.285,ORG=0.145,O=0.530]	ORG	O
+plane	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+carrier	[PER=0.001,LOC=0.001,ORG=0.003,O=0.996]	O	O
+EgyptAir	[PER=0.041,LOC=0.284,ORG=0.146,O=0.529]	ORG	O
+on	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+EgyptAir	[PER=0.040,LOC=0.285,ORG=0.145,O=0.530]	ORG	O
+plane	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+carrier	[PER=0.001,LOC=0.001,ORG=0.003,O=0.996]	O	O
+EgyptAir	[PER=0.041,LOC=0.284,ORG=0.146,O=0.529]	ORG	O
+on	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+EgyptAir	[PER=0.040,LOC=0.285,ORG=0.145,O=0.530]	ORG	O
+plane	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+carrier	[PER=0.001,LOC=0.001,ORG=0.003,O=0.996]	O	O
+EgyptAir	[PER=0.041,LOC=0.284,ORG=0.146,O=0.529]	ORG	O
+on	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+EgyptAir	[PER=0.040,LOC=0.285,ORG=0.145,O=0.530]	ORG	O
+plane	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+carrier	[PER=0.001,LOC=0.001,ORG=0.003,O=0.996]	O	O
+EgyptAir	[PER=0.041,LOC=0.284,ORG=0.146,O=0.529]	ORG	O
+on	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+EgyptAir	[PER=0.040,LOC=0.285,ORG=0.145,O=0.530]	ORG	O
+plane	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 7 "EgyptAir"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+carrier	[PER=0.001,LOC=0.001,ORG=0.003,O=0.996]	O	O
+EgyptAir	[PER=0.041,LOC=0.284,ORG=0.146,O=0.529]	ORG	O
+on	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+EgyptAir	[PER=0.040,LOC=0.285,ORG=0.145,O=0.530]	ORG	O
+plane	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	EgyptAir
+-----------
+Move choice:
+Launch query on token 19 "EgyptAir"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+carrier	[PER=0.001,LOC=0.001,ORG=0.003,O=0.996]	O	O
+EgyptAir	[PER=0.041,LOC=0.284,ORG=0.146,O=0.529]	ORG	O
+on	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+EgyptAir	[PER=0.040,LOC=0.285,ORG=0.145,O=0.530]	ORG	O
+plane	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	EgyptAir
+	EgyptAir
+-----------
+Next event:
+Got response on token 7 "EgyptAir" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+carrier	[PER=0.001,LOC=0.000,ORG=0.009,O=0.990]	O	O
+EgyptAir	[PER=0.022,LOC=0.152,ORG=0.545,O=0.282]	ORG	ORG
+on	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+EgyptAir	[PER=0.040,LOC=0.285,ORG=0.145,O=0.530]	ORG	O
+plane	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	EgyptAir
+-----------
+Move choice:
+Launch query on token 7 "EgyptAir"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+carrier	[PER=0.001,LOC=0.000,ORG=0.009,O=0.990]	O	O
+EgyptAir	[PER=0.022,LOC=0.152,ORG=0.545,O=0.282]	ORG	ORG
+on	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+EgyptAir	[PER=0.040,LOC=0.285,ORG=0.145,O=0.530]	ORG	O
+plane	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	EgyptAir
+	EgyptAir
+-----------
+Next event:
+Got response on token 19 "EgyptAir" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+carrier	[PER=0.001,LOC=0.000,ORG=0.009,O=0.990]	O	O
+EgyptAir	[PER=0.022,LOC=0.152,ORG=0.545,O=0.282]	ORG	ORG
+on	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+EgyptAir	[PER=0.022,LOC=0.152,ORG=0.543,O=0.283]	ORG	ORG
+plane	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	EgyptAir
+-----------
+Move choice:
+Launch query on token 19 "EgyptAir"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+carrier	[PER=0.001,LOC=0.000,ORG=0.009,O=0.990]	O	O
+EgyptAir	[PER=0.022,LOC=0.152,ORG=0.545,O=0.282]	ORG	ORG
+on	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+EgyptAir	[PER=0.022,LOC=0.152,ORG=0.543,O=0.283]	ORG	ORG
+plane	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	EgyptAir
+	EgyptAir
+-----------
+Next event:
+Got response on token 7 "EgyptAir" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+carrier	[PER=0.000,LOC=0.000,ORG=0.014,O=0.985]	O	O
+EgyptAir	[PER=0.005,LOC=0.036,ORG=0.893,O=0.066]	ORG	ORG
+on	[PER=0.000,LOC=0.000,ORG=0.012,O=0.988]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+EgyptAir	[PER=0.022,LOC=0.152,ORG=0.543,O=0.283]	ORG	ORG
+plane	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	EgyptAir
+-----------
+Move choice:
+Launch query on token 7 "EgyptAir"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+carrier	[PER=0.000,LOC=0.000,ORG=0.014,O=0.985]	O	O
+EgyptAir	[PER=0.005,LOC=0.036,ORG=0.893,O=0.066]	ORG	ORG
+on	[PER=0.000,LOC=0.000,ORG=0.012,O=0.988]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+EgyptAir	[PER=0.022,LOC=0.152,ORG=0.543,O=0.283]	ORG	ORG
+plane	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	EgyptAir
+	EgyptAir
+-----------
+Move choice:
+Launch query on token 18 "the"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+carrier	[PER=0.000,LOC=0.000,ORG=0.014,O=0.985]	O	O
+EgyptAir	[PER=0.005,LOC=0.036,ORG=0.893,O=0.066]	ORG	ORG
+on	[PER=0.000,LOC=0.000,ORG=0.012,O=0.988]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+EgyptAir	[PER=0.022,LOC=0.152,ORG=0.543,O=0.283]	ORG	ORG
+plane	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	EgyptAir
+	EgyptAir
+	the
+-----------
+Move choice:
+Launch query on token 19 "EgyptAir"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+carrier	[PER=0.000,LOC=0.000,ORG=0.014,O=0.985]	O	O
+EgyptAir	[PER=0.005,LOC=0.036,ORG=0.893,O=0.066]	ORG	ORG
+on	[PER=0.000,LOC=0.000,ORG=0.012,O=0.988]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+EgyptAir	[PER=0.022,LOC=0.152,ORG=0.543,O=0.283]	ORG	ORG
+plane	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	EgyptAir
+	EgyptAir
+	EgyptAir
+	the
+-----------
+Next event:
+Got response on token 19 "EgyptAir" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+carrier	[PER=0.000,LOC=0.000,ORG=0.014,O=0.985]	O	O
+EgyptAir	[PER=0.005,LOC=0.036,ORG=0.893,O=0.066]	ORG	ORG
+on	[PER=0.000,LOC=0.000,ORG=0.012,O=0.988]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.009,O=0.991]	O	O
+EgyptAir	[PER=0.005,LOC=0.036,ORG=0.893,O=0.067]	ORG	ORG
+plane	[PER=0.000,LOC=0.000,ORG=0.011,O=0.988]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	EgyptAir
+	EgyptAir
+	the
+-----------
+Next event:
+Got response on token 18 "the" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+carrier	[PER=0.000,LOC=0.000,ORG=0.014,O=0.985]	O	O
+EgyptAir	[PER=0.005,LOC=0.036,ORG=0.893,O=0.066]	ORG	ORG
+on	[PER=0.000,LOC=0.000,ORG=0.012,O=0.988]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+EgyptAir	[PER=0.005,LOC=0.036,ORG=0.892,O=0.067]	ORG	ORG
+plane	[PER=0.000,LOC=0.000,ORG=0.011,O=0.988]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	EgyptAir
+	EgyptAir
+-----------
+Next event:
+Got response on token 7 "EgyptAir" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+carrier	[PER=0.000,LOC=0.000,ORG=0.016,O=0.983]	O	O
+EgyptAir	[PER=0.001,LOC=0.006,ORG=0.983,O=0.010]	ORG	ORG
+on	[PER=0.000,LOC=0.000,ORG=0.013,O=0.987]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.002,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+EgyptAir	[PER=0.005,LOC=0.036,ORG=0.892,O=0.067]	ORG	ORG
+plane	[PER=0.000,LOC=0.000,ORG=0.011,O=0.988]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	EgyptAir
+-----------
+Move choice:
+Launch query on token 15 "Istanbul"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+carrier	[PER=0.000,LOC=0.000,ORG=0.016,O=0.983]	O	O
+EgyptAir	[PER=0.001,LOC=0.006,ORG=0.983,O=0.010]	ORG	ORG
+on	[PER=0.000,LOC=0.000,ORG=0.013,O=0.987]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.002,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+EgyptAir	[PER=0.005,LOC=0.036,ORG=0.892,O=0.067]	ORG	ORG
+plane	[PER=0.000,LOC=0.000,ORG=0.011,O=0.988]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	EgyptAir
+	Istanbul
+-----------
+Next event:
+Got response on token 19 "EgyptAir" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+carrier	[PER=0.000,LOC=0.000,ORG=0.016,O=0.983]	O	O
+EgyptAir	[PER=0.001,LOC=0.006,ORG=0.983,O=0.010]	ORG	ORG
+on	[PER=0.000,LOC=0.000,ORG=0.013,O=0.987]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.002,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+EgyptAir	[PER=0.001,LOC=0.006,ORG=0.983,O=0.011]	ORG	ORG
+plane	[PER=0.000,LOC=0.000,ORG=0.013,O=0.987]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Istanbul
+-----------
+Move choice:
+Launch query on token 0 "CAIRO"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+carrier	[PER=0.000,LOC=0.000,ORG=0.016,O=0.983]	O	O
+EgyptAir	[PER=0.001,LOC=0.006,ORG=0.983,O=0.010]	ORG	ORG
+on	[PER=0.000,LOC=0.000,ORG=0.013,O=0.987]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.002,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+EgyptAir	[PER=0.001,LOC=0.006,ORG=0.983,O=0.011]	ORG	ORG
+plane	[PER=0.000,LOC=0.000,ORG=0.013,O=0.987]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	CAIRO
+	Istanbul
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@53d
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+carrier	[PER=0.000,LOC=0.000,ORG=0.016,O=0.983]	O	O
+EgyptAir	[PER=0.001,LOC=0.006,ORG=0.983,O=0.010]	ORG	ORG
+on	[PER=0.000,LOC=0.000,ORG=0.013,O=0.987]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.002,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.006,LOC=0.876,ORG=0.102,O=0.016]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+EgyptAir	[PER=0.001,LOC=0.006,ORG=0.983,O=0.011]	ORG	ORG
+plane	[PER=0.000,LOC=0.000,ORG=0.013,O=0.987]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	CAIRO
+	Istanbul
+-----------
+Next event:
+Got response on token 15 "Istanbul" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+carrier	[PER=0.000,LOC=0.000,ORG=0.016,O=0.983]	O	O
+EgyptAir	[PER=0.001,LOC=0.006,ORG=0.983,O=0.010]	ORG	ORG
+on	[PER=0.000,LOC=0.000,ORG=0.013,O=0.987]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.002,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.001,LOC=0.980,ORG=0.016,O=0.003]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+EgyptAir	[PER=0.001,LOC=0.006,ORG=0.983,O=0.011]	ORG	ORG
+plane	[PER=0.000,LOC=0.000,ORG=0.013,O=0.987]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	CAIRO
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@5e4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.009,LOC=0.904,ORG=0.052,O=0.035]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+carrier	[PER=0.000,LOC=0.000,ORG=0.016,O=0.983]	O	O
+EgyptAir	[PER=0.001,LOC=0.006,ORG=0.983,O=0.010]	ORG	ORG
+on	[PER=0.000,LOC=0.000,ORG=0.013,O=0.987]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.002,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.001,LOC=0.980,ORG=0.016,O=0.003]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+EgyptAir	[PER=0.001,LOC=0.006,ORG=0.983,O=0.011]	ORG	ORG
+plane	[PER=0.000,LOC=0.000,ORG=0.013,O=0.987]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	CAIRO
+-----------
+Next event:
+Got response on token 0 "CAIRO" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CAIRO	[PER=0.001,LOC=0.985,ORG=0.008,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+chairman	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+national	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+carrier	[PER=0.000,LOC=0.000,ORG=0.016,O=0.983]	O	O
+EgyptAir	[PER=0.001,LOC=0.006,ORG=0.983,O=0.010]	ORG	ORG
+on	[PER=0.000,LOC=0.000,ORG=0.013,O=0.987]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.002,O=0.995]	O	O
+blamed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+control	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+tower	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Istanbul	[PER=0.001,LOC=0.980,ORG=0.016,O=0.003]	LOC	LOC
+airport	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+EgyptAir	[PER=0.001,LOC=0.006,ORG=0.983,O=0.011]	ORG	ORG
+plane	[PER=0.000,LOC=0.000,ORG=0.013,O=0.987]	O	O
+accident	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@6ba

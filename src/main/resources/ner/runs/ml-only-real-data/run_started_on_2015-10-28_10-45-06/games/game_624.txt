@@ -1,0 +1,41 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Kiev	LOC	LOC	0
+'s	O	O	0
+Foreign	O	ORG	0
+Minister	O	ORG	0
+Hennady	PER	ORG	0
+Udovenko	PER	ORG	0
+said	O	O	0
+Beijing	LOC	LOC	0
+was	O	O	0
+overreacting	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Kiev	[PER=0.158,LOC=0.575,ORG=0.261,O=0.006]	LOC	LOC
+'s	[PER=0.001,LOC=0.015,ORG=0.131,O=0.852]	O	O
+Foreign	[PER=0.023,LOC=0.053,ORG=0.464,O=0.460]	O	ORG
+Minister	[PER=0.030,LOC=0.040,ORG=0.430,O=0.499]	O	ORG
+Hennady	[PER=0.173,LOC=0.095,ORG=0.681,O=0.050]	PER	ORG
+Udovenko	[PER=0.171,LOC=0.128,ORG=0.670,O=0.031]	PER	ORG
+said	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+Beijing	[PER=0.024,LOC=0.887,ORG=0.052,O=0.037]	LOC	LOC
+was	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+overreacting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

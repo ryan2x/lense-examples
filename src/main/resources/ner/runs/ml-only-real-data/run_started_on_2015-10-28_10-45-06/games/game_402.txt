@@ -1,0 +1,77 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Palestinian	ORG	ORG	0
+Information	ORG	ORG	0
+Ministry	ORG	ORG	0
+Director-General	O	ORG	0
+Mutawakel	PER	ORG	0
+Taha	PER	ORG	0
+denied	O	O	0
+that	O	O	0
+ministry	O	O	0
+officials	O	O	0
+forced	O	O	0
+anyone	O	O	0
+to	O	O	0
+sign	O	O	0
+any	O	O	0
+undertaking	O	O	0
+and	O	O	0
+insisted	O	O	0
+that	O	O	0
+the	O	O	0
+Palestinian	ORG	ORG	0
+Authority	ORG	ORG	0
+has	O	O	0
+no	O	O	0
+plans	O	O	0
+to	O	O	0
+censor	O	O	0
+books	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.030,LOC=0.043,ORG=0.917,O=0.011]	ORG	ORG
+Information	[PER=0.003,LOC=0.002,ORG=0.995,O=0.000]	ORG	ORG
+Ministry	[PER=0.004,LOC=0.002,ORG=0.993,O=0.001]	ORG	ORG
+Director-General	[PER=0.030,LOC=0.004,ORG=0.921,O=0.045]	O	ORG
+Mutawakel	[PER=0.216,LOC=0.030,ORG=0.739,O=0.015]	PER	ORG
+Taha	[PER=0.384,LOC=0.189,ORG=0.417,O=0.010]	PER	ORG
+denied	[PER=0.001,LOC=0.000,ORG=0.003,O=0.996]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+ministry	[PER=0.001,LOC=0.006,ORG=0.105,O=0.888]	O	O
+officials	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sign	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Palestinian	[PER=0.315,LOC=0.276,ORG=0.391,O=0.018]	ORG	ORG
+Authority	[PER=0.270,LOC=0.114,ORG=0.422,O=0.195]	ORG	ORG
+has	[PER=0.001,LOC=0.000,ORG=0.001,O=0.997]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+censor	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

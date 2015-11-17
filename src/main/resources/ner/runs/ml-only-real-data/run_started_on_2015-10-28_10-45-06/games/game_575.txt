@@ -1,0 +1,73 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+The	O	O	0
+year	O	O	0
+just	O	O	0
+gone	O	O	0
+was	O	O	0
+disappointing	O	O	0
+,	O	O	0
+but	O	O	0
+the	O	O	0
+outlook	O	O	0
+for	O	O	0
+the	O	O	0
+current	O	O	0
+year	O	O	0
+looks	O	O	0
+good	O	O	0
+,	O	O	0
+"	O	O	0
+First	ORG	O	0
+Pacific	ORG	LOC	0
+media	O	O	0
+analyst	O	O	0
+Lachlan	PER	PER	0
+Drummond	PER	PER	0
+said	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+just	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+gone	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disappointing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+outlook	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+current	[PER=0.000,LOC=0.001,ORG=0.002,O=0.998]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+looks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+good	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+First	[PER=0.030,LOC=0.269,ORG=0.289,O=0.412]	ORG	O
+Pacific	[PER=0.048,LOC=0.569,ORG=0.305,O=0.078]	ORG	LOC
+media	[PER=0.001,LOC=0.012,ORG=0.098,O=0.889]	O	O
+analyst	[PER=0.002,LOC=0.001,ORG=0.009,O=0.989]	O	O
+Lachlan	[PER=0.826,LOC=0.073,ORG=0.071,O=0.030]	PER	PER
+Drummond	[PER=0.822,LOC=0.050,ORG=0.067,O=0.060]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

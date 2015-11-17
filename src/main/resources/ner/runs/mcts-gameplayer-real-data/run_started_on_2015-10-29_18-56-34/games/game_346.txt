@@ -1,0 +1,956 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+The	O	O	0
+dog	O	O	0
+attacked	O	O	0
+Louis	PER	PER	1
+Booy	PER	PER	0
+in	O	O	0
+the	O	O	0
+front	O	O	0
+garden	O	O	0
+of	O	O	1
+his	O	O	0
+grandparents	O	O	0
+'	O	O	0
+house	O	O	0
+in	O	O	0
+Vanderbijlpark	LOC	LOC	2
+near	O	O	0
+Johannesburg	LOC	LOC	3
+on	O	O	0
+Tuesday	O	O	1
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Vanderbijlpark	[PER=0.079,LOC=0.716,ORG=0.149,O=0.056]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Johannesburg	[PER=0.073,LOC=0.787,ORG=0.064,O=0.075]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.005,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Vanderbijlpark	[PER=0.079,LOC=0.716,ORG=0.149,O=0.056]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Johannesburg	[PER=0.073,LOC=0.787,ORG=0.064,O=0.075]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.005,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Vanderbijlpark	[PER=0.079,LOC=0.716,ORG=0.149,O=0.056]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Johannesburg	[PER=0.073,LOC=0.787,ORG=0.064,O=0.075]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.005,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Vanderbijlpark	[PER=0.079,LOC=0.716,ORG=0.149,O=0.056]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Johannesburg	[PER=0.073,LOC=0.787,ORG=0.064,O=0.075]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.005,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Vanderbijlpark	[PER=0.079,LOC=0.716,ORG=0.149,O=0.056]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Johannesburg	[PER=0.073,LOC=0.787,ORG=0.064,O=0.075]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.005,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Vanderbijlpark	[PER=0.079,LOC=0.716,ORG=0.149,O=0.056]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Johannesburg	[PER=0.073,LOC=0.787,ORG=0.064,O=0.075]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.005,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Vanderbijlpark	[PER=0.079,LOC=0.716,ORG=0.149,O=0.056]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Johannesburg	[PER=0.073,LOC=0.787,ORG=0.064,O=0.075]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.005,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Vanderbijlpark	[PER=0.079,LOC=0.716,ORG=0.149,O=0.056]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Johannesburg	[PER=0.073,LOC=0.787,ORG=0.064,O=0.075]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.005,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Vanderbijlpark	[PER=0.079,LOC=0.716,ORG=0.149,O=0.056]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Johannesburg	[PER=0.073,LOC=0.787,ORG=0.064,O=0.075]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.005,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Vanderbijlpark	[PER=0.079,LOC=0.716,ORG=0.149,O=0.056]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Johannesburg	[PER=0.073,LOC=0.787,ORG=0.064,O=0.075]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.005,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Vanderbijlpark	[PER=0.079,LOC=0.716,ORG=0.149,O=0.056]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Johannesburg	[PER=0.073,LOC=0.787,ORG=0.064,O=0.075]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.005,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 17 "Johannesburg"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Vanderbijlpark	[PER=0.079,LOC=0.716,ORG=0.149,O=0.056]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Johannesburg	[PER=0.073,LOC=0.787,ORG=0.064,O=0.075]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.005,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Johannesburg
+-----------
+Move choice:
+Launch query on token 17 "Johannesburg"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Vanderbijlpark	[PER=0.079,LOC=0.716,ORG=0.149,O=0.056]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Johannesburg	[PER=0.073,LOC=0.787,ORG=0.064,O=0.075]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.005,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Johannesburg
+	Johannesburg
+-----------
+Move choice:
+Launch query on token 15 "Vanderbijlpark"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Vanderbijlpark	[PER=0.079,LOC=0.716,ORG=0.149,O=0.056]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Johannesburg	[PER=0.073,LOC=0.787,ORG=0.064,O=0.075]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.005,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Johannesburg
+	Johannesburg
+	Vanderbijlpark
+-----------
+Next event:
+Got response on token 17 "Johannesburg" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Vanderbijlpark	[PER=0.079,LOC=0.717,ORG=0.147,O=0.056]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Johannesburg	[PER=0.013,LOC=0.963,ORG=0.011,O=0.013]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.004,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Johannesburg
+	Vanderbijlpark
+-----------
+Next event:
+Got response on token 17 "Johannesburg" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Vanderbijlpark	[PER=0.079,LOC=0.717,ORG=0.147,O=0.056]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Johannesburg	[PER=0.002,LOC=0.995,ORG=0.002,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.004,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Vanderbijlpark
+-----------
+Move choice:
+Launch query on token 17 "Johannesburg"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Vanderbijlpark	[PER=0.079,LOC=0.717,ORG=0.147,O=0.056]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Johannesburg	[PER=0.002,LOC=0.995,ORG=0.002,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.004,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Johannesburg
+	Vanderbijlpark
+-----------
+Move choice:
+Launch query on token 15 "Vanderbijlpark"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Vanderbijlpark	[PER=0.079,LOC=0.717,ORG=0.147,O=0.056]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Johannesburg	[PER=0.002,LOC=0.995,ORG=0.002,O=0.002]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.004,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Vanderbijlpark
+	Johannesburg
+	Vanderbijlpark
+-----------
+Next event:
+Got response on token 17 "Johannesburg" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Vanderbijlpark	[PER=0.079,LOC=0.718,ORG=0.147,O=0.056]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Johannesburg	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.004,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Vanderbijlpark
+	Vanderbijlpark
+-----------
+Move choice:
+Launch query on token 9 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Vanderbijlpark	[PER=0.079,LOC=0.718,ORG=0.147,O=0.056]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Johannesburg	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.004,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Vanderbijlpark
+	of
+	Vanderbijlpark
+-----------
+Next event:
+Got response on token 15 "Vanderbijlpark" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Vanderbijlpark	[PER=0.015,LOC=0.947,ORG=0.028,O=0.011]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Johannesburg	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.004,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+	Vanderbijlpark
+-----------
+Move choice:
+Launch query on token 19 "Tuesday"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Vanderbijlpark	[PER=0.015,LOC=0.947,ORG=0.028,O=0.011]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Johannesburg	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.004,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+	Tuesday
+	Vanderbijlpark
+-----------
+Next event:
+Got response on token 15 "Vanderbijlpark" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Vanderbijlpark	[PER=0.002,LOC=0.992,ORG=0.004,O=0.002]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Johannesburg	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.004,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+	Tuesday
+-----------
+Next event:
+Got response on token 9 "of" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Vanderbijlpark	[PER=0.002,LOC=0.992,ORG=0.004,O=0.002]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Johannesburg	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.004,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Tuesday
+-----------
+Move choice:
+Launch query on token 3 "Louis"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Vanderbijlpark	[PER=0.002,LOC=0.992,ORG=0.004,O=0.002]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Johannesburg	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Tuesday	[PER=0.009,LOC=0.007,ORG=0.004,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Tuesday
+	Louis
+-----------
+Next event:
+Got response on token 19 "Tuesday" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Vanderbijlpark	[PER=0.002,LOC=0.992,ORG=0.004,O=0.002]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Johannesburg	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Louis
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@4f
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.986,LOC=0.005,ORG=0.006,O=0.003]	PER	PER
+Booy	[PER=0.991,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Vanderbijlpark	[PER=0.002,LOC=0.992,ORG=0.004,O=0.002]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Johannesburg	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Louis
+-----------
+Next event:
+Got response on token 3 "Louis" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+dog	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+attacked	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Louis	[PER=0.998,LOC=0.001,ORG=0.001,O=0.000]	PER	PER
+Booy	[PER=0.996,LOC=0.001,ORG=0.002,O=0.001]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+front	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+garden	[PER=0.001,LOC=0.001,ORG=0.001,O=0.998]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+grandparents	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+'	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+house	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Vanderbijlpark	[PER=0.002,LOC=0.992,ORG=0.004,O=0.002]	LOC	LOC
+near	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Johannesburg	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Tuesday	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@55

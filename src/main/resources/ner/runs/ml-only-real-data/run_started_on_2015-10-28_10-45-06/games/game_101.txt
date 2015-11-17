@@ -1,0 +1,59 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+--	O	O	0
+Lehman	ORG	PER	0
+analyst	O	O	0
+Blake	PER	LOC	0
+Bath	PER	LOC	0
+started	O	O	0
+Southern	ORG	ORG	0
+New	ORG	ORG	0
+England	ORG	ORG	0
+Telecommunciations	ORG	ORG	0
+Corp	ORG	ORG	0
+with	O	O	0
+an	O	O	0
+outperform	O	O	0
+rating	O	O	0
+,	O	O	0
+his	O	O	0
+office	O	O	0
+said	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.021,LOC=0.008,ORG=0.007,O=0.964]	O	O
+Lehman	[PER=0.795,LOC=0.151,ORG=0.018,O=0.036]	ORG	PER
+analyst	[PER=0.007,LOC=0.003,ORG=0.017,O=0.973]	O	O
+Blake	[PER=0.253,LOC=0.369,ORG=0.087,O=0.291]	PER	LOC
+Bath	[PER=0.246,LOC=0.605,ORG=0.094,O=0.056]	PER	LOC
+started	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+Southern	[PER=0.129,LOC=0.036,ORG=0.812,O=0.023]	ORG	ORG
+New	[PER=0.042,LOC=0.024,ORG=0.930,O=0.005]	ORG	ORG
+England	[PER=0.009,LOC=0.030,ORG=0.957,O=0.003]	ORG	ORG
+Telecommunciations	[PER=0.013,LOC=0.021,ORG=0.962,O=0.004]	ORG	ORG
+Corp	[PER=0.011,LOC=0.024,ORG=0.956,O=0.009]	ORG	ORG
+with	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+outperform	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+rating	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+office	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

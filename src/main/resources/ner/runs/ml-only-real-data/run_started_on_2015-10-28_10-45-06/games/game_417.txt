@@ -1,0 +1,89 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+The	O	O	0
+sanctions	O	O	0
+will	O	O	0
+come	O	O	0
+into	O	O	0
+effect	O	O	0
+in	O	O	0
+November	O	O	0
+if	O	O	0
+Sudan	LOC	LOC	0
+fails	O	O	0
+to	O	O	0
+extradite	O	O	0
+the	O	O	0
+men	O	O	0
+,	O	O	0
+but	O	O	0
+Sudan	LOC	LOC	0
+says	O	O	0
+it	O	O	0
+cannot	O	O	0
+hand	O	O	0
+them	O	O	0
+over	O	O	0
+to	O	O	0
+Ethiopia	LOC	LOC	0
+for	O	O	0
+trial	O	O	0
+because	O	O	0
+they	O	O	0
+are	O	O	0
+not	O	O	0
+in	O	O	0
+Sudan	LOC	LOC	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sanctions	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+come	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+into	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+effect	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+November	[PER=0.047,LOC=0.034,ORG=0.015,O=0.905]	O	O
+if	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Sudan	[PER=0.030,LOC=0.918,ORG=0.027,O=0.025]	LOC	LOC
+fails	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extradite	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+men	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Sudan	[PER=0.030,LOC=0.919,ORG=0.026,O=0.025]	LOC	LOC
+says	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+it	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cannot	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+hand	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+them	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+over	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Ethiopia	[PER=0.003,LOC=0.983,ORG=0.007,O=0.007]	LOC	LOC
+for	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+trial	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+are	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Sudan	[PER=0.030,LOC=0.918,ORG=0.026,O=0.025]	LOC	LOC
+.	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

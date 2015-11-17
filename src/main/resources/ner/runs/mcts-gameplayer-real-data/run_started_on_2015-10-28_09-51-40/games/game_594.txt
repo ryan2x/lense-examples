@@ -1,0 +1,666 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+The	O	O	0
+revaluation	O	O	0
+was	O	O	0
+undertaken	O	O	0
+to	O	O	0
+meet	O	O	0
+the	O	O	0
+disclosure	O	O	0
+requirements	O	O	0
+of	O	O	1
+the	O	O	0
+Ministry	ORG	ORG	1
+of	ORG	ORG	2
+Commerce	ORG	ORG	2
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.013,LOC=0.067,ORG=0.827,O=0.093]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.615,O=0.385]	ORG	ORG
+Commerce	[PER=0.006,LOC=0.012,ORG=0.588,O=0.394]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.013,LOC=0.067,ORG=0.827,O=0.093]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.615,O=0.385]	ORG	ORG
+Commerce	[PER=0.006,LOC=0.012,ORG=0.588,O=0.394]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.013,LOC=0.067,ORG=0.827,O=0.093]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.615,O=0.385]	ORG	ORG
+Commerce	[PER=0.006,LOC=0.012,ORG=0.588,O=0.394]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.013,LOC=0.067,ORG=0.827,O=0.093]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.615,O=0.385]	ORG	ORG
+Commerce	[PER=0.006,LOC=0.012,ORG=0.588,O=0.394]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.013,LOC=0.067,ORG=0.827,O=0.093]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.615,O=0.385]	ORG	ORG
+Commerce	[PER=0.006,LOC=0.012,ORG=0.588,O=0.394]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.013,LOC=0.067,ORG=0.827,O=0.093]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.615,O=0.385]	ORG	ORG
+Commerce	[PER=0.006,LOC=0.012,ORG=0.588,O=0.394]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.013,LOC=0.067,ORG=0.827,O=0.093]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.615,O=0.385]	ORG	ORG
+Commerce	[PER=0.006,LOC=0.012,ORG=0.588,O=0.394]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.013,LOC=0.067,ORG=0.827,O=0.093]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.615,O=0.385]	ORG	ORG
+Commerce	[PER=0.006,LOC=0.012,ORG=0.588,O=0.394]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.013,LOC=0.067,ORG=0.827,O=0.093]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.615,O=0.385]	ORG	ORG
+Commerce	[PER=0.006,LOC=0.012,ORG=0.588,O=0.394]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.013,LOC=0.067,ORG=0.827,O=0.093]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.615,O=0.385]	ORG	ORG
+Commerce	[PER=0.006,LOC=0.012,ORG=0.588,O=0.394]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.013,LOC=0.067,ORG=0.827,O=0.093]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.615,O=0.385]	ORG	ORG
+Commerce	[PER=0.006,LOC=0.012,ORG=0.588,O=0.394]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 12 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.013,LOC=0.067,ORG=0.827,O=0.093]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.615,O=0.385]	ORG	ORG
+Commerce	[PER=0.006,LOC=0.012,ORG=0.588,O=0.394]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+-----------
+Move choice:
+Launch query on token 13 "Commerce"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.013,LOC=0.067,ORG=0.827,O=0.093]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.615,O=0.385]	ORG	ORG
+Commerce	[PER=0.006,LOC=0.012,ORG=0.588,O=0.394]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+	Commerce
+-----------
+Next event:
+Got response on token 12 "of" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.004,LOC=0.017,ORG=0.953,O=0.027]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.918,O=0.082]	ORG	ORG
+Commerce	[PER=0.003,LOC=0.005,ORG=0.811,O=0.181]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Commerce
+-----------
+Move choice:
+Launch query on token 12 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.004,LOC=0.017,ORG=0.953,O=0.027]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.918,O=0.082]	ORG	ORG
+Commerce	[PER=0.003,LOC=0.005,ORG=0.811,O=0.181]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+	Commerce
+-----------
+Next event:
+Got response on token 13 "Commerce" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.002,LOC=0.008,ORG=0.976,O=0.015]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.975,O=0.025]	ORG	ORG
+Commerce	[PER=0.000,LOC=0.001,ORG=0.968,O=0.031]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+-----------
+Move choice:
+Launch query on token 13 "Commerce"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.002,LOC=0.008,ORG=0.976,O=0.015]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.975,O=0.025]	ORG	ORG
+Commerce	[PER=0.000,LOC=0.001,ORG=0.968,O=0.031]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Commerce
+	of
+-----------
+Move choice:
+Launch query on token 9 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.002,LOC=0.008,ORG=0.976,O=0.015]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.975,O=0.025]	ORG	ORG
+Commerce	[PER=0.000,LOC=0.001,ORG=0.968,O=0.031]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Commerce
+	of
+	of
+-----------
+Next event:
+Got response on token 12 "of" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.001,LOC=0.004,ORG=0.985,O=0.010]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.996,O=0.004]	ORG	ORG
+Commerce	[PER=0.000,LOC=0.000,ORG=0.978,O=0.021]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Commerce
+	of
+-----------
+Next event:
+Got response on token 13 "Commerce" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.001,LOC=0.004,ORG=0.986,O=0.009]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.998,O=0.002]	ORG	ORG
+Commerce	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+-----------
+Move choice:
+Launch query on token 11 "Ministry"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.010,O=0.989]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.001,LOC=0.004,ORG=0.986,O=0.009]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.998,O=0.002]	ORG	ORG
+Commerce	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ministry
+	of
+-----------
+Next event:
+Got response on token 9 "of" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.001,LOC=0.004,ORG=0.986,O=0.010]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.998,O=0.002]	ORG	ORG
+Commerce	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ministry
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@bd
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.001,LOC=0.004,ORG=0.986,O=0.010]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.998,O=0.002]	ORG	ORG
+Commerce	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ministry
+-----------
+Next event:
+Got response on token 11 "Ministry" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+revaluation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaken	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meet	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+disclosure	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+requirements	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Ministry	[PER=0.000,LOC=0.001,ORG=0.998,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Commerce	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@109

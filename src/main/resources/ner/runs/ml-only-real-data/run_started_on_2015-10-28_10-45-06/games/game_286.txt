@@ -1,0 +1,73 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+There	O	O	0
+were	O	O	0
+no	O	O	0
+significant	O	O	0
+differences	O	O	0
+between	O	O	0
+the	O	O	0
+groups	O	O	0
+receiving	O	O	0
+garlic	O	O	0
+and	O	O	0
+placebo	O	O	0
+,	O	O	0
+"	O	O	0
+they	O	O	0
+wrote	O	O	0
+in	O	O	0
+the	O	O	0
+Journal	ORG	ORG	0
+of	ORG	O	0
+the	ORG	O	0
+Royal	ORG	ORG	0
+College	ORG	ORG	0
+of	ORG	ORG	0
+Physicians	ORG	ORG	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.002,ORG=0.000,O=0.997]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+differences	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+groups	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.013,O=0.987]	O	O
+Journal	[PER=0.091,LOC=0.040,ORG=0.725,O=0.145]	ORG	ORG
+of	[PER=0.001,LOC=0.000,ORG=0.204,O=0.795]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.105,O=0.894]	ORG	O
+Royal	[PER=0.022,LOC=0.014,ORG=0.948,O=0.015]	ORG	ORG
+College	[PER=0.008,LOC=0.008,ORG=0.967,O=0.017]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.844,O=0.156]	ORG	ORG
+Physicians	[PER=0.013,LOC=0.003,ORG=0.927,O=0.057]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

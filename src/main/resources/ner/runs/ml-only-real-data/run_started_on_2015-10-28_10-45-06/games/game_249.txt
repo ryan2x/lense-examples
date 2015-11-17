@@ -1,0 +1,43 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+--	O	O	0
+Chicago	ORG	LOC	0
+Newsdesk	ORG	LOC	0
+312-408-8787	O	O	0
+Oppenheimer	ORG	PER	0
+Capital	ORG	PER	0
+to	O	O	0
+review	O	O	0
+Oct.	O	O	0
+div	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+--	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+Chicago	[PER=0.072,LOC=0.866,ORG=0.058,O=0.004]	ORG	LOC
+Newsdesk	[PER=0.132,LOC=0.438,ORG=0.338,O=0.091]	ORG	LOC
+312-408-8787	[PER=0.011,LOC=0.001,ORG=0.027,O=0.961]	O	O
+Oppenheimer	[PER=0.641,LOC=0.065,ORG=0.161,O=0.134]	ORG	PER
+Capital	[PER=0.430,LOC=0.088,ORG=0.327,O=0.155]	ORG	PER
+to	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+review	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Oct.	[PER=0.107,LOC=0.079,ORG=0.018,O=0.796]	O	O
+div	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

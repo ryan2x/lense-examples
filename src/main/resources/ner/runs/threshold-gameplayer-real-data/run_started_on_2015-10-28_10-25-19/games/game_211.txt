@@ -1,0 +1,956 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Scott	PER	PER	1
+Brosius	PER	PER	1
+homered	O	O	0
+and	O	O	0
+drove	O	O	0
+in	O	O	0
+two	O	O	0
+runs	O	O	0
+for	O	O	0
+the	O	O	1
+Athletics	ORG	ORG	4
+,	O	O	0
+who	O	O	0
+have	O	O	0
+lost	O	O	0
+seven	O	O	0
+of	O	O	0
+their	O	O	0
+last	O	O	0
+nine	O	O	0
+games	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=0.994,LOC=0.003,ORG=0.003,O=0.001]	PER	PER
+Brosius	[PER=0.984,LOC=0.011,ORG=0.004,O=0.002]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+Athletics	[PER=0.204,LOC=0.088,ORG=0.312,O=0.396]	ORG	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=0.994,LOC=0.003,ORG=0.003,O=0.001]	PER	PER
+Brosius	[PER=0.984,LOC=0.011,ORG=0.004,O=0.002]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+Athletics	[PER=0.204,LOC=0.088,ORG=0.312,O=0.396]	ORG	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@b6
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=0.994,LOC=0.003,ORG=0.003,O=0.001]	PER	PER
+Brosius	[PER=0.984,LOC=0.011,ORG=0.004,O=0.002]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+Athletics	[PER=0.204,LOC=0.088,ORG=0.312,O=0.396]	ORG	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=0.994,LOC=0.003,ORG=0.003,O=0.001]	PER	PER
+Brosius	[PER=0.984,LOC=0.011,ORG=0.004,O=0.002]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+Athletics	[PER=0.204,LOC=0.088,ORG=0.312,O=0.396]	ORG	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@e1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=0.994,LOC=0.003,ORG=0.003,O=0.001]	PER	PER
+Brosius	[PER=0.984,LOC=0.011,ORG=0.004,O=0.002]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+Athletics	[PER=0.204,LOC=0.088,ORG=0.312,O=0.396]	ORG	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=0.994,LOC=0.003,ORG=0.003,O=0.001]	PER	PER
+Brosius	[PER=0.984,LOC=0.011,ORG=0.004,O=0.002]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+Athletics	[PER=0.204,LOC=0.088,ORG=0.312,O=0.396]	ORG	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@100
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=0.994,LOC=0.003,ORG=0.003,O=0.001]	PER	PER
+Brosius	[PER=0.984,LOC=0.011,ORG=0.004,O=0.002]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+Athletics	[PER=0.204,LOC=0.088,ORG=0.312,O=0.396]	ORG	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=0.994,LOC=0.003,ORG=0.003,O=0.001]	PER	PER
+Brosius	[PER=0.984,LOC=0.011,ORG=0.004,O=0.002]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+Athletics	[PER=0.204,LOC=0.088,ORG=0.312,O=0.396]	ORG	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@121
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=0.994,LOC=0.003,ORG=0.003,O=0.001]	PER	PER
+Brosius	[PER=0.984,LOC=0.011,ORG=0.004,O=0.002]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+Athletics	[PER=0.204,LOC=0.088,ORG=0.312,O=0.396]	ORG	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "Scott"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=0.994,LOC=0.003,ORG=0.003,O=0.001]	PER	PER
+Brosius	[PER=0.984,LOC=0.011,ORG=0.004,O=0.002]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+Athletics	[PER=0.204,LOC=0.088,ORG=0.312,O=0.396]	ORG	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Scott
+-----------
+Move choice:
+Launch query on token 1 "Brosius"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=0.994,LOC=0.003,ORG=0.003,O=0.001]	PER	PER
+Brosius	[PER=0.984,LOC=0.011,ORG=0.004,O=0.002]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+Athletics	[PER=0.204,LOC=0.088,ORG=0.312,O=0.396]	ORG	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Scott
+	Brosius
+-----------
+Next event:
+Got response on token 0 "Scott" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Brosius	[PER=0.987,LOC=0.009,ORG=0.003,O=0.002]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+Athletics	[PER=0.204,LOC=0.088,ORG=0.312,O=0.396]	ORG	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Brosius
+-----------
+Move choice:
+Launch query on token 9 "the"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Brosius	[PER=0.987,LOC=0.009,ORG=0.003,O=0.002]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+Athletics	[PER=0.204,LOC=0.088,ORG=0.312,O=0.396]	ORG	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Brosius
+	the
+-----------
+Next event:
+Got response on token 1 "Brosius" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Brosius	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+Athletics	[PER=0.204,LOC=0.088,ORG=0.312,O=0.396]	ORG	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	the
+-----------
+Move choice:
+Launch query on token 10 "Athletics"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Brosius	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+Athletics	[PER=0.204,LOC=0.088,ORG=0.312,O=0.396]	ORG	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Athletics
+	the
+-----------
+Next event:
+Got response on token 9 "the" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Brosius	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Athletics	[PER=0.205,LOC=0.089,ORG=0.308,O=0.398]	ORG	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Athletics
+-----------
+Move choice:
+Launch query on token 10 "Athletics"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Brosius	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Athletics	[PER=0.205,LOC=0.089,ORG=0.308,O=0.398]	ORG	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Athletics
+	Athletics
+-----------
+Move choice:
+Launch query on token 10 "Athletics"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Brosius	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Athletics	[PER=0.205,LOC=0.089,ORG=0.308,O=0.398]	ORG	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Athletics
+	Athletics
+	Athletics
+-----------
+Move choice:
+Launch query on token 10 "Athletics"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Brosius	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Athletics	[PER=0.205,LOC=0.089,ORG=0.308,O=0.398]	ORG	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Athletics
+	Athletics
+	Athletics
+	Athletics
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@141
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Brosius	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Athletics	[PER=0.205,LOC=0.089,ORG=0.308,O=0.398]	ORG	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Athletics
+	Athletics
+	Athletics
+	Athletics
+-----------
+Next event:
+Got response on token 10 "Athletics" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Brosius	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Athletics	[PER=0.072,LOC=0.031,ORG=0.757,O=0.140]	ORG	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Athletics
+	Athletics
+	Athletics
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@15d
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Brosius	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Athletics	[PER=0.072,LOC=0.031,ORG=0.757,O=0.140]	ORG	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Athletics
+	Athletics
+	Athletics
+-----------
+Next event:
+Got response on token 10 "Athletics" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Brosius	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Athletics	[PER=0.013,LOC=0.006,ORG=0.956,O=0.025]	ORG	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Athletics
+	Athletics
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@17d
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Brosius	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Athletics	[PER=0.013,LOC=0.006,ORG=0.956,O=0.025]	ORG	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Athletics
+	Athletics
+-----------
+Next event:
+Got response on token 10 "Athletics" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Brosius	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Athletics	[PER=0.002,LOC=0.001,ORG=0.993,O=0.004]	ORG	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Athletics
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@181
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Brosius	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Athletics	[PER=0.002,LOC=0.001,ORG=0.993,O=0.004]	ORG	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Athletics
+-----------
+Next event:
+Got response on token 10 "Athletics" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scott	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Brosius	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+homered	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+drove	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Athletics	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lost	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seven	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nine	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@18f

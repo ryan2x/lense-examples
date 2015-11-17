@@ -1,0 +1,35 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+In	O	O	0
+India	LOC	LOC	0
+she	O	O	0
+was	O	O	0
+simply	O	O	0
+called	O	O	0
+Mother	PER	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.002,LOC=0.009,ORG=0.008,O=0.982]	O	O
+India	[PER=0.007,LOC=0.945,ORG=0.032,O=0.016]	LOC	LOC
+she	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+simply	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+called	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mother	[PER=0.180,LOC=0.058,ORG=0.024,O=0.739]	PER	O
+.	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

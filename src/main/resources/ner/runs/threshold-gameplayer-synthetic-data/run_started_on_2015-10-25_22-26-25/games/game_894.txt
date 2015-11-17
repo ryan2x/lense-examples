@@ -1,0 +1,97 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+Mass	LOC	LOC	1
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Mass	[PER=0.614,LOC=0.129,ORG=0.143,O=0.113]	LOC	PER
+.	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Mass	[PER=0.614,LOC=0.129,ORG=0.143,O=0.113]	LOC	PER
+.	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@3581b762
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Mass	[PER=0.614,LOC=0.129,ORG=0.143,O=0.113]	LOC	PER
+.	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 1 "Mass"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Mass	[PER=0.614,LOC=0.129,ORG=0.143,O=0.113]	LOC	PER
+.	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Mass
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@5aeebd4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Mass	[PER=0.614,LOC=0.129,ORG=0.143,O=0.113]	LOC	PER
+.	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Mass
+-----------
+Next event:
+Got response on token 1 "Mass" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Mass	[PER=0.346,LOC=0.510,ORG=0.081,O=0.064]	LOC	LOC
+.	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@3dac76a4

@@ -1,0 +1,67 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+We	O	O	0
+will	O	O	0
+be	O	O	0
+guests	O	O	0
+of	O	O	0
+the	O	O	0
+Kennedys	PER	PER	0
+,	O	O	0
+"	O	O	0
+said	O	O	0
+Frank	PER	PER	0
+Quilter	PER	PER	0
+,	O	O	0
+one	O	O	0
+of	O	O	0
+the	O	O	0
+two	O	O	0
+who	O	O	0
+have	O	O	0
+been	O	O	0
+invited	O	O	0
+to	O	O	0
+Chicago	LOC	LOC	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.004,O=0.989]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.009,O=0.990]	O	O
+Kennedys	[PER=0.492,LOC=0.125,ORG=0.302,O=0.080]	PER	PER
+,	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.975,LOC=0.010,ORG=0.004,O=0.011]	PER	PER
+Quilter	[PER=0.950,LOC=0.011,ORG=0.004,O=0.036]	PER	PER
+,	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+Chicago	[PER=0.016,LOC=0.946,ORG=0.008,O=0.030]	LOC	LOC
+.	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

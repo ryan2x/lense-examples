@@ -1,0 +1,15 @@
+Completed: 1198 documents
+
+Accuracy: 0.9574290484140233 (1147/1198)
+Queries per document: 2.340567612687813 (2804/1198)
+Delay per document: 1001ms (1199616/1198)
+
+Confusion:
+True: POS, Guessed: POS -> 182
+True: POS, Guessed: NEG -> 18
+True: NEG, Guessed: POS -> 33
+True: NEG, Guessed: NEG -> 965
+
+Queries Per Type:
+POS: 2.735 (547.0/200)
+NEG: 2.2615230460921842 (2257.0/998)

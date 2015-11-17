@@ -1,0 +1,65 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+At	O	ORG	0
+Northampton	LOC	ORG	0
+:	O	O	0
+Sussex	ORG	PER	0
+368-7	O	O	0
+(	O	O	0
+N.	PER	PER	0
+Lenham	PER	PER	0
+145	O	O	0
+,	O	O	0
+V.	PER	PER	0
+Drakes	PER	PER	0
+59	O	O	0
+not	O	O	0
+out	O	O	0
+,	O	O	0
+A.	PER	PER	0
+Wells	PER	PER	0
+51	O	O	0
+)	O	O	0
+v	O	O	0
+Northamptonshire	ORG	ORG	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+At	[PER=0.063,LOC=0.053,ORG=0.274,O=0.609]	O	ORG
+Northampton	[PER=0.249,LOC=0.255,ORG=0.474,O=0.022]	LOC	ORG
+:	[PER=0.006,LOC=0.001,ORG=0.009,O=0.984]	O	O
+Sussex	[PER=0.540,LOC=0.127,ORG=0.174,O=0.159]	ORG	PER
+368-7	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+(	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+N.	[PER=0.536,LOC=0.078,ORG=0.266,O=0.120]	PER	PER
+Lenham	[PER=0.666,LOC=0.064,ORG=0.243,O=0.027]	PER	PER
+145	[PER=0.006,LOC=0.001,ORG=0.004,O=0.989]	O	O
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+V.	[PER=0.579,LOC=0.045,ORG=0.209,O=0.167]	PER	PER
+Drakes	[PER=0.719,LOC=0.059,ORG=0.207,O=0.016]	PER	PER
+59	[PER=0.008,LOC=0.001,ORG=0.005,O=0.986]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+out	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+A.	[PER=0.549,LOC=0.191,ORG=0.109,O=0.151]	PER	PER
+Wells	[PER=0.538,LOC=0.144,ORG=0.099,O=0.219]	PER	PER
+51	[PER=0.005,LOC=0.001,ORG=0.002,O=0.992]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+v	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+Northamptonshire	[PER=0.100,LOC=0.079,ORG=0.417,O=0.403]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

@@ -1,0 +1,79 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+It	O	O	0
+said	O	O	0
+the	O	O	0
+U.S.	ORG	ORG	0
+State	ORG	ORG	0
+Department	ORG	ORG	0
+'s	O	O	0
+coordinator	O	O	0
+for	O	O	0
+counter	O	O	0
+terrorism	O	O	0
+,	O	O	0
+Philip	PER	PER	0
+Wilcox	PER	PER	0
+,	O	O	0
+had	O	O	0
+expressed	O	O	0
+Washington	LOC	LOC	0
+'s	O	O	0
+support	O	O	0
+for	O	O	0
+the	O	O	0
+government	O	O	0
+when	O	O	0
+he	O	O	0
+visited	O	O	0
+Colombo	LOC	LOC	0
+this	O	O	0
+week	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+It	[PER=0.001,LOC=0.002,ORG=0.002,O=0.996]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.012,O=0.988]	O	O
+U.S.	[PER=0.028,LOC=0.327,ORG=0.583,O=0.062]	ORG	ORG
+State	[PER=0.006,LOC=0.093,ORG=0.831,O=0.069]	ORG	ORG
+Department	[PER=0.003,LOC=0.037,ORG=0.840,O=0.120]	ORG	ORG
+'s	[PER=0.000,LOC=0.000,ORG=0.046,O=0.953]	O	O
+coordinator	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+counter	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+terrorism	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Philip	[PER=0.993,LOC=0.002,ORG=0.002,O=0.003]	PER	PER
+Wilcox	[PER=0.991,LOC=0.003,ORG=0.003,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+expressed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Washington	[PER=0.250,LOC=0.673,ORG=0.058,O=0.019]	LOC	LOC
+'s	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+support	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+government	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+visited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Colombo	[PER=0.039,LOC=0.860,ORG=0.087,O=0.014]	LOC	LOC
+this	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+week	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@170564f9

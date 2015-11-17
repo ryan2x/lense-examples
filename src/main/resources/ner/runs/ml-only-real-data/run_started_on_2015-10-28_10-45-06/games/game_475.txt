@@ -1,0 +1,39 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Akashi	PER	PER	0
+is	O	O	0
+head	O	O	0
+of	O	O	0
+the	O	O	0
+Department	ORG	ORG	0
+of	ORG	O	0
+Humanitarian	ORG	O	0
+affairs	ORG	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Akashi	[PER=0.485,LOC=0.326,ORG=0.132,O=0.057]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+head	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.008,O=0.991]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+Department	[PER=0.021,LOC=0.147,ORG=0.580,O=0.252]	ORG	ORG
+of	[PER=0.000,LOC=0.001,ORG=0.271,O=0.728]	ORG	O
+Humanitarian	[PER=0.021,LOC=0.036,ORG=0.237,O=0.706]	ORG	O
+affairs	[PER=0.000,LOC=0.000,ORG=0.015,O=0.985]	ORG	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

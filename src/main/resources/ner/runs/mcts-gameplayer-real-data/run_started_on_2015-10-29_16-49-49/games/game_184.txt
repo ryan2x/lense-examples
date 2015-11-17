@@ -1,0 +1,861 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Johnson	PER	PER	1
+,	O	O	0
+who	O	O	0
+played	O	O	0
+eight	O	O	0
+seasons	O	O	0
+in	O	O	0
+Baltimore	LOC	LOC	2
+,	O	O	0
+was	O	O	0
+named	O	O	0
+Orioles	ORG	ORG	2
+manager	O	O	0
+in	O	O	0
+the	O	O	0
+off-season	O	O	0
+replacing	O	O	0
+Phil	PER	PER	1
+Regan	PER	PER	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Orioles	[PER=0.206,LOC=0.119,ORG=0.531,O=0.144]	ORG	ORG
+manager	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.972,LOC=0.001,ORG=0.021,O=0.006]	PER	PER
+Regan	[PER=0.988,LOC=0.001,ORG=0.010,O=0.001]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Orioles	[PER=0.206,LOC=0.119,ORG=0.531,O=0.144]	ORG	ORG
+manager	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.972,LOC=0.001,ORG=0.021,O=0.006]	PER	PER
+Regan	[PER=0.988,LOC=0.001,ORG=0.010,O=0.001]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Orioles	[PER=0.206,LOC=0.119,ORG=0.531,O=0.144]	ORG	ORG
+manager	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.972,LOC=0.001,ORG=0.021,O=0.006]	PER	PER
+Regan	[PER=0.988,LOC=0.001,ORG=0.010,O=0.001]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Orioles	[PER=0.206,LOC=0.119,ORG=0.531,O=0.144]	ORG	ORG
+manager	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.972,LOC=0.001,ORG=0.021,O=0.006]	PER	PER
+Regan	[PER=0.988,LOC=0.001,ORG=0.010,O=0.001]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Orioles	[PER=0.206,LOC=0.119,ORG=0.531,O=0.144]	ORG	ORG
+manager	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.972,LOC=0.001,ORG=0.021,O=0.006]	PER	PER
+Regan	[PER=0.988,LOC=0.001,ORG=0.010,O=0.001]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Orioles	[PER=0.206,LOC=0.119,ORG=0.531,O=0.144]	ORG	ORG
+manager	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.972,LOC=0.001,ORG=0.021,O=0.006]	PER	PER
+Regan	[PER=0.988,LOC=0.001,ORG=0.010,O=0.001]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Orioles	[PER=0.206,LOC=0.119,ORG=0.531,O=0.144]	ORG	ORG
+manager	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.972,LOC=0.001,ORG=0.021,O=0.006]	PER	PER
+Regan	[PER=0.988,LOC=0.001,ORG=0.010,O=0.001]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Orioles	[PER=0.206,LOC=0.119,ORG=0.531,O=0.144]	ORG	ORG
+manager	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.972,LOC=0.001,ORG=0.021,O=0.006]	PER	PER
+Regan	[PER=0.988,LOC=0.001,ORG=0.010,O=0.001]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Orioles	[PER=0.206,LOC=0.119,ORG=0.531,O=0.144]	ORG	ORG
+manager	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.972,LOC=0.001,ORG=0.021,O=0.006]	PER	PER
+Regan	[PER=0.988,LOC=0.001,ORG=0.010,O=0.001]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Orioles	[PER=0.206,LOC=0.119,ORG=0.531,O=0.144]	ORG	ORG
+manager	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.972,LOC=0.001,ORG=0.021,O=0.006]	PER	PER
+Regan	[PER=0.988,LOC=0.001,ORG=0.010,O=0.001]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Orioles	[PER=0.206,LOC=0.119,ORG=0.531,O=0.144]	ORG	ORG
+manager	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.972,LOC=0.001,ORG=0.021,O=0.006]	PER	PER
+Regan	[PER=0.988,LOC=0.001,ORG=0.010,O=0.001]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 11 "Orioles"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Orioles	[PER=0.206,LOC=0.119,ORG=0.531,O=0.144]	ORG	ORG
+manager	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.972,LOC=0.001,ORG=0.021,O=0.006]	PER	PER
+Regan	[PER=0.988,LOC=0.001,ORG=0.010,O=0.001]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Orioles
+-----------
+Move choice:
+Launch query on token 17 "Phil"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Orioles	[PER=0.206,LOC=0.119,ORG=0.531,O=0.144]	ORG	ORG
+manager	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.972,LOC=0.001,ORG=0.021,O=0.006]	PER	PER
+Regan	[PER=0.988,LOC=0.001,ORG=0.010,O=0.001]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Orioles
+	Phil
+-----------
+Move choice:
+Launch query on token 7 "Baltimore"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Orioles	[PER=0.206,LOC=0.119,ORG=0.531,O=0.144]	ORG	ORG
+manager	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.972,LOC=0.001,ORG=0.021,O=0.006]	PER	PER
+Regan	[PER=0.988,LOC=0.001,ORG=0.010,O=0.001]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Orioles
+	Phil
+	Baltimore
+-----------
+Next event:
+Got response on token 11 "Orioles" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Orioles	[PER=0.049,LOC=0.029,ORG=0.888,O=0.034]	ORG	ORG
+manager	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.972,LOC=0.001,ORG=0.021,O=0.006]	PER	PER
+Regan	[PER=0.988,LOC=0.001,ORG=0.010,O=0.001]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Phil
+	Baltimore
+-----------
+Move choice:
+Launch query on token 11 "Orioles"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Orioles	[PER=0.049,LOC=0.029,ORG=0.888,O=0.034]	ORG	ORG
+manager	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.972,LOC=0.001,ORG=0.021,O=0.006]	PER	PER
+Regan	[PER=0.988,LOC=0.001,ORG=0.010,O=0.001]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Phil
+	Orioles
+	Baltimore
+-----------
+Next event:
+Got response on token 17 "Phil" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Orioles	[PER=0.049,LOC=0.029,ORG=0.888,O=0.034]	ORG	ORG
+manager	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.996,LOC=0.000,ORG=0.003,O=0.001]	PER	PER
+Regan	[PER=0.996,LOC=0.001,ORG=0.003,O=0.000]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Orioles
+	Baltimore
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1d1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Orioles	[PER=0.049,LOC=0.029,ORG=0.888,O=0.034]	ORG	ORG
+manager	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.996,LOC=0.000,ORG=0.003,O=0.001]	PER	PER
+Regan	[PER=0.996,LOC=0.001,ORG=0.003,O=0.000]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Orioles
+	Baltimore
+-----------
+Next event:
+Got response on token 11 "Orioles" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Orioles	[PER=0.008,LOC=0.005,ORG=0.982,O=0.005]	ORG	ORG
+manager	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.996,LOC=0.000,ORG=0.003,O=0.001]	PER	PER
+Regan	[PER=0.996,LOC=0.001,ORG=0.003,O=0.000]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Baltimore
+-----------
+Move choice:
+Launch query on token 7 "Baltimore"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Orioles	[PER=0.008,LOC=0.005,ORG=0.982,O=0.005]	ORG	ORG
+manager	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.996,LOC=0.000,ORG=0.003,O=0.001]	PER	PER
+Regan	[PER=0.996,LOC=0.001,ORG=0.003,O=0.000]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Baltimore
+	Baltimore
+-----------
+Move choice:
+Launch query on token 0 "Johnson"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Baltimore	[PER=0.079,LOC=0.717,ORG=0.129,O=0.075]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Orioles	[PER=0.008,LOC=0.005,ORG=0.982,O=0.005]	ORG	ORG
+manager	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.996,LOC=0.000,ORG=0.003,O=0.001]	PER	PER
+Regan	[PER=0.996,LOC=0.001,ORG=0.003,O=0.000]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Baltimore
+	Johnson
+	Baltimore
+-----------
+Next event:
+Got response on token 7 "Baltimore" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Baltimore	[PER=0.015,LOC=0.947,ORG=0.024,O=0.014]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Orioles	[PER=0.008,LOC=0.005,ORG=0.982,O=0.005]	ORG	ORG
+manager	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.996,LOC=0.000,ORG=0.003,O=0.001]	PER	PER
+Regan	[PER=0.996,LOC=0.001,ORG=0.003,O=0.000]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Baltimore
+	Johnson
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@2f1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Baltimore	[PER=0.015,LOC=0.947,ORG=0.024,O=0.014]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Orioles	[PER=0.008,LOC=0.005,ORG=0.982,O=0.005]	ORG	ORG
+manager	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.996,LOC=0.000,ORG=0.003,O=0.001]	PER	PER
+Regan	[PER=0.996,LOC=0.001,ORG=0.003,O=0.000]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Baltimore
+	Johnson
+-----------
+Next event:
+Got response on token 7 "Baltimore" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Baltimore	[PER=0.002,LOC=0.992,ORG=0.004,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Orioles	[PER=0.008,LOC=0.005,ORG=0.982,O=0.005]	ORG	ORG
+manager	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.996,LOC=0.000,ORG=0.003,O=0.001]	PER	PER
+Regan	[PER=0.996,LOC=0.001,ORG=0.003,O=0.000]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Johnson
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@32d
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.949,LOC=0.030,ORG=0.017,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Baltimore	[PER=0.002,LOC=0.992,ORG=0.004,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Orioles	[PER=0.008,LOC=0.005,ORG=0.982,O=0.005]	ORG	ORG
+manager	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.996,LOC=0.000,ORG=0.003,O=0.001]	PER	PER
+Regan	[PER=0.996,LOC=0.001,ORG=0.003,O=0.000]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Johnson
+-----------
+Next event:
+Got response on token 0 "Johnson" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Johnson	[PER=0.992,LOC=0.004,ORG=0.003,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+eight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+seasons	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Baltimore	[PER=0.002,LOC=0.992,ORG=0.004,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+named	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Orioles	[PER=0.008,LOC=0.005,ORG=0.982,O=0.005]	ORG	ORG
+manager	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+off-season	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+replacing	[PER=0.007,LOC=0.000,ORG=0.000,O=0.992]	O	O
+Phil	[PER=0.996,LOC=0.000,ORG=0.003,O=0.001]	PER	PER
+Regan	[PER=0.996,LOC=0.001,ORG=0.003,O=0.000]	PER	PER
+.	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@380

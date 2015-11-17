@@ -1,0 +1,45 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+--	O	O	0
+Rosemary	PER	PER	0
+Bennett	PER	PER	0
+,	O	O	0
+London	ORG	LOC	0
+Newsroom	ORG	LOC	0
++44	O	O	0
+171	O	O	0
+542	O	O	0
+7715	O	O	0
+London	LOC	LOC	0
+shipsales	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.009,LOC=0.000,ORG=0.001,O=0.990]	O	O
+Rosemary	[PER=0.987,LOC=0.002,ORG=0.006,O=0.005]	PER	PER
+Bennett	[PER=0.994,LOC=0.001,ORG=0.003,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+London	[PER=0.030,LOC=0.710,ORG=0.253,O=0.007]	ORG	LOC
+Newsroom	[PER=0.041,LOC=0.549,ORG=0.374,O=0.036]	ORG	LOC
++44	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+171	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+542	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+7715	[PER=0.000,LOC=0.002,ORG=0.001,O=0.998]	O	O
+London	[PER=0.027,LOC=0.890,ORG=0.058,O=0.025]	LOC	LOC
+shipsales	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

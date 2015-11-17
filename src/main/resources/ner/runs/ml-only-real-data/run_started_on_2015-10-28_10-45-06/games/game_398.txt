@@ -1,0 +1,33 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Australia	LOC	LOC	0
+foreign	O	O	0
+minister	O	O	0
+arrives	O	O	0
+in	O	O	0
+China	LOC	LOC	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Australia	[PER=0.008,LOC=0.982,ORG=0.006,O=0.003]	LOC	LOC
+foreign	[PER=0.001,LOC=0.050,ORG=0.091,O=0.858]	O	O
+minister	[PER=0.000,LOC=0.002,ORG=0.018,O=0.980]	O	O
+arrives	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+China	[PER=0.006,LOC=0.981,ORG=0.008,O=0.005]	LOC	LOC
+.	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

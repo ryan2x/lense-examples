@@ -1,0 +1,35 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+He	O	O	0
+said	O	O	0
+Ibrahim	PER	PER	0
+was	O	O	0
+still	O	O	0
+in	O	O	0
+Amman	LOC	LOC	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.008,LOC=0.002,ORG=0.002,O=0.987]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Ibrahim	[PER=0.729,LOC=0.140,ORG=0.067,O=0.064]	PER	PER
+was	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+still	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Amman	[PER=0.046,LOC=0.887,ORG=0.052,O=0.015]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@2824ecc

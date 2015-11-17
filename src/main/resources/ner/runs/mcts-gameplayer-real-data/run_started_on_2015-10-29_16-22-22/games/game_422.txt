@@ -1,0 +1,831 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+I	O	O	0
+expect	O	O	0
+the	O	O	0
+market	O	O	0
+to	O	O	0
+go	O	O	0
+as	O	O	0
+far	O	O	0
+down	O	O	0
+as	O	O	0
+63,000	O	O	0
+tomorrow	O	O	0
+if	O	O	0
+sales	O	O	0
+continue	O	O	0
+,	O	O	0
+"	O	O	0
+said	O	O	1
+Burcin	PER	PER	1
+Mavituna	PER	PER	1
+from	O	O	0
+Interbank	ORG	ORG	2
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Burcin	[PER=0.900,LOC=0.037,ORG=0.045,O=0.018]	PER	PER
+Mavituna	[PER=0.874,LOC=0.071,ORG=0.046,O=0.009]	PER	PER
+from	[PER=0.004,LOC=0.000,ORG=0.026,O=0.970]	O	O
+Interbank	[PER=0.029,LOC=0.334,ORG=0.533,O=0.104]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Burcin	[PER=0.900,LOC=0.037,ORG=0.045,O=0.018]	PER	PER
+Mavituna	[PER=0.874,LOC=0.071,ORG=0.046,O=0.009]	PER	PER
+from	[PER=0.004,LOC=0.000,ORG=0.026,O=0.970]	O	O
+Interbank	[PER=0.029,LOC=0.334,ORG=0.533,O=0.104]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Burcin	[PER=0.900,LOC=0.037,ORG=0.045,O=0.018]	PER	PER
+Mavituna	[PER=0.874,LOC=0.071,ORG=0.046,O=0.009]	PER	PER
+from	[PER=0.004,LOC=0.000,ORG=0.026,O=0.970]	O	O
+Interbank	[PER=0.029,LOC=0.334,ORG=0.533,O=0.104]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Burcin	[PER=0.900,LOC=0.037,ORG=0.045,O=0.018]	PER	PER
+Mavituna	[PER=0.874,LOC=0.071,ORG=0.046,O=0.009]	PER	PER
+from	[PER=0.004,LOC=0.000,ORG=0.026,O=0.970]	O	O
+Interbank	[PER=0.029,LOC=0.334,ORG=0.533,O=0.104]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Burcin	[PER=0.900,LOC=0.037,ORG=0.045,O=0.018]	PER	PER
+Mavituna	[PER=0.874,LOC=0.071,ORG=0.046,O=0.009]	PER	PER
+from	[PER=0.004,LOC=0.000,ORG=0.026,O=0.970]	O	O
+Interbank	[PER=0.029,LOC=0.334,ORG=0.533,O=0.104]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Burcin	[PER=0.900,LOC=0.037,ORG=0.045,O=0.018]	PER	PER
+Mavituna	[PER=0.874,LOC=0.071,ORG=0.046,O=0.009]	PER	PER
+from	[PER=0.004,LOC=0.000,ORG=0.026,O=0.970]	O	O
+Interbank	[PER=0.029,LOC=0.334,ORG=0.533,O=0.104]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Burcin	[PER=0.900,LOC=0.037,ORG=0.045,O=0.018]	PER	PER
+Mavituna	[PER=0.874,LOC=0.071,ORG=0.046,O=0.009]	PER	PER
+from	[PER=0.004,LOC=0.000,ORG=0.026,O=0.970]	O	O
+Interbank	[PER=0.029,LOC=0.334,ORG=0.533,O=0.104]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Burcin	[PER=0.900,LOC=0.037,ORG=0.045,O=0.018]	PER	PER
+Mavituna	[PER=0.874,LOC=0.071,ORG=0.046,O=0.009]	PER	PER
+from	[PER=0.004,LOC=0.000,ORG=0.026,O=0.970]	O	O
+Interbank	[PER=0.029,LOC=0.334,ORG=0.533,O=0.104]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Burcin	[PER=0.900,LOC=0.037,ORG=0.045,O=0.018]	PER	PER
+Mavituna	[PER=0.874,LOC=0.071,ORG=0.046,O=0.009]	PER	PER
+from	[PER=0.004,LOC=0.000,ORG=0.026,O=0.970]	O	O
+Interbank	[PER=0.029,LOC=0.334,ORG=0.533,O=0.104]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Burcin	[PER=0.900,LOC=0.037,ORG=0.045,O=0.018]	PER	PER
+Mavituna	[PER=0.874,LOC=0.071,ORG=0.046,O=0.009]	PER	PER
+from	[PER=0.004,LOC=0.000,ORG=0.026,O=0.970]	O	O
+Interbank	[PER=0.029,LOC=0.334,ORG=0.533,O=0.104]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@6
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Burcin	[PER=0.900,LOC=0.037,ORG=0.045,O=0.018]	PER	PER
+Mavituna	[PER=0.874,LOC=0.071,ORG=0.046,O=0.009]	PER	PER
+from	[PER=0.004,LOC=0.000,ORG=0.026,O=0.970]	O	O
+Interbank	[PER=0.029,LOC=0.334,ORG=0.533,O=0.104]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 21 "Interbank"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Burcin	[PER=0.900,LOC=0.037,ORG=0.045,O=0.018]	PER	PER
+Mavituna	[PER=0.874,LOC=0.071,ORG=0.046,O=0.009]	PER	PER
+from	[PER=0.004,LOC=0.000,ORG=0.026,O=0.970]	O	O
+Interbank	[PER=0.029,LOC=0.334,ORG=0.533,O=0.104]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Interbank
+-----------
+Move choice:
+Launch query on token 19 "Mavituna"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Burcin	[PER=0.900,LOC=0.037,ORG=0.045,O=0.018]	PER	PER
+Mavituna	[PER=0.874,LOC=0.071,ORG=0.046,O=0.009]	PER	PER
+from	[PER=0.004,LOC=0.000,ORG=0.026,O=0.970]	O	O
+Interbank	[PER=0.029,LOC=0.334,ORG=0.533,O=0.104]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Interbank
+	Mavituna
+-----------
+Move choice:
+Launch query on token 17 "said"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Burcin	[PER=0.900,LOC=0.037,ORG=0.045,O=0.018]	PER	PER
+Mavituna	[PER=0.874,LOC=0.071,ORG=0.046,O=0.009]	PER	PER
+from	[PER=0.004,LOC=0.000,ORG=0.026,O=0.970]	O	O
+Interbank	[PER=0.029,LOC=0.334,ORG=0.533,O=0.104]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Interbank
+	said
+	Mavituna
+-----------
+Next event:
+Got response on token 21 "Interbank" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Burcin	[PER=0.891,LOC=0.037,ORG=0.053,O=0.018]	PER	PER
+Mavituna	[PER=0.865,LOC=0.070,ORG=0.057,O=0.009]	PER	PER
+from	[PER=0.002,LOC=0.000,ORG=0.042,O=0.955]	O	O
+Interbank	[PER=0.007,LOC=0.080,ORG=0.889,O=0.025]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	said
+	Mavituna
+-----------
+Next event:
+Got response on token 19 "Mavituna" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Burcin	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Mavituna	[PER=0.978,LOC=0.011,ORG=0.009,O=0.001]	PER	PER
+from	[PER=0.003,LOC=0.000,ORG=0.021,O=0.976]	O	O
+Interbank	[PER=0.007,LOC=0.081,ORG=0.886,O=0.025]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	said
+-----------
+Move choice:
+Launch query on token 21 "Interbank"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Burcin	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Mavituna	[PER=0.978,LOC=0.011,ORG=0.009,O=0.001]	PER	PER
+from	[PER=0.003,LOC=0.000,ORG=0.021,O=0.976]	O	O
+Interbank	[PER=0.007,LOC=0.081,ORG=0.886,O=0.025]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	said
+	Interbank
+-----------
+Next event:
+Got response on token 17 "said" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Burcin	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Mavituna	[PER=0.978,LOC=0.011,ORG=0.009,O=0.001]	PER	PER
+from	[PER=0.003,LOC=0.000,ORG=0.021,O=0.976]	O	O
+Interbank	[PER=0.007,LOC=0.081,ORG=0.886,O=0.025]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Interbank
+-----------
+Move choice:
+Launch query on token 18 "Burcin"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Burcin	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Mavituna	[PER=0.978,LOC=0.011,ORG=0.009,O=0.001]	PER	PER
+from	[PER=0.003,LOC=0.000,ORG=0.021,O=0.976]	O	O
+Interbank	[PER=0.007,LOC=0.081,ORG=0.886,O=0.025]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Burcin
+	Interbank
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@17e
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Burcin	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Mavituna	[PER=0.978,LOC=0.011,ORG=0.009,O=0.001]	PER	PER
+from	[PER=0.003,LOC=0.000,ORG=0.021,O=0.976]	O	O
+Interbank	[PER=0.007,LOC=0.081,ORG=0.886,O=0.025]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Burcin
+	Interbank
+-----------
+Next event:
+Got response on token 18 "Burcin" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Burcin	[PER=0.996,LOC=0.001,ORG=0.002,O=0.001]	PER	PER
+Mavituna	[PER=0.991,LOC=0.005,ORG=0.002,O=0.001]	PER	PER
+from	[PER=0.003,LOC=0.000,ORG=0.018,O=0.979]	O	O
+Interbank	[PER=0.007,LOC=0.082,ORG=0.886,O=0.025]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Interbank
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1b2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Burcin	[PER=0.996,LOC=0.001,ORG=0.002,O=0.001]	PER	PER
+Mavituna	[PER=0.991,LOC=0.005,ORG=0.002,O=0.001]	PER	PER
+from	[PER=0.003,LOC=0.000,ORG=0.018,O=0.979]	O	O
+Interbank	[PER=0.007,LOC=0.082,ORG=0.886,O=0.025]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Interbank
+-----------
+Next event:
+Got response on token 21 "Interbank" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.004,LOC=0.004,ORG=0.004,O=0.988]	O	O
+expect	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+market	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+go	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+far	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+down	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+63,000	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+tomorrow	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+if	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+continue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Burcin	[PER=0.996,LOC=0.001,ORG=0.002,O=0.001]	PER	PER
+Mavituna	[PER=0.991,LOC=0.005,ORG=0.003,O=0.001]	PER	PER
+from	[PER=0.002,LOC=0.000,ORG=0.020,O=0.978]	O	O
+Interbank	[PER=0.001,LOC=0.013,ORG=0.982,O=0.004]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@1e5

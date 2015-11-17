@@ -1,0 +1,1700 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+LONDON	LOC	LOC	0
+1996-08-22	O	O	1
+The	O	O	1
+following	O	O	0
+floating-rate	O	O	0
+issue	O	O	0
+was	O	O	0
+announced	O	O	0
+by	O	O	1
+lead	O	O	0
+manager	O	O	2
+Lehman	ORG	PER	5
+Brothers	ORG	PER	5
+International	ORG	ORG	5
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.011,LOC=0.000,ORG=0.008,O=0.981]	O	O
+Lehman	[PER=0.242,LOC=0.128,ORG=0.599,O=0.031]	ORG	ORG
+Brothers	[PER=0.150,LOC=0.019,ORG=0.773,O=0.058]	ORG	ORG
+International	[PER=0.130,LOC=0.028,ORG=0.817,O=0.025]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.011,LOC=0.000,ORG=0.008,O=0.981]	O	O
+Lehman	[PER=0.242,LOC=0.128,ORG=0.599,O=0.031]	ORG	ORG
+Brothers	[PER=0.150,LOC=0.019,ORG=0.773,O=0.058]	ORG	ORG
+International	[PER=0.130,LOC=0.028,ORG=0.817,O=0.025]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.011,LOC=0.000,ORG=0.008,O=0.981]	O	O
+Lehman	[PER=0.242,LOC=0.128,ORG=0.599,O=0.031]	ORG	ORG
+Brothers	[PER=0.150,LOC=0.019,ORG=0.773,O=0.058]	ORG	ORG
+International	[PER=0.130,LOC=0.028,ORG=0.817,O=0.025]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.011,LOC=0.000,ORG=0.008,O=0.981]	O	O
+Lehman	[PER=0.242,LOC=0.128,ORG=0.599,O=0.031]	ORG	ORG
+Brothers	[PER=0.150,LOC=0.019,ORG=0.773,O=0.058]	ORG	ORG
+International	[PER=0.130,LOC=0.028,ORG=0.817,O=0.025]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@9
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.011,LOC=0.000,ORG=0.008,O=0.981]	O	O
+Lehman	[PER=0.242,LOC=0.128,ORG=0.599,O=0.031]	ORG	ORG
+Brothers	[PER=0.150,LOC=0.019,ORG=0.773,O=0.058]	ORG	ORG
+International	[PER=0.130,LOC=0.028,ORG=0.817,O=0.025]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.011,LOC=0.000,ORG=0.008,O=0.981]	O	O
+Lehman	[PER=0.242,LOC=0.128,ORG=0.599,O=0.031]	ORG	ORG
+Brothers	[PER=0.150,LOC=0.019,ORG=0.773,O=0.058]	ORG	ORG
+International	[PER=0.130,LOC=0.028,ORG=0.817,O=0.025]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@9
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.011,LOC=0.000,ORG=0.008,O=0.981]	O	O
+Lehman	[PER=0.242,LOC=0.128,ORG=0.599,O=0.031]	ORG	ORG
+Brothers	[PER=0.150,LOC=0.019,ORG=0.773,O=0.058]	ORG	ORG
+International	[PER=0.130,LOC=0.028,ORG=0.817,O=0.025]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.011,LOC=0.000,ORG=0.008,O=0.981]	O	O
+Lehman	[PER=0.242,LOC=0.128,ORG=0.599,O=0.031]	ORG	ORG
+Brothers	[PER=0.150,LOC=0.019,ORG=0.773,O=0.058]	ORG	ORG
+International	[PER=0.130,LOC=0.028,ORG=0.817,O=0.025]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@9
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.011,LOC=0.000,ORG=0.008,O=0.981]	O	O
+Lehman	[PER=0.242,LOC=0.128,ORG=0.599,O=0.031]	ORG	ORG
+Brothers	[PER=0.150,LOC=0.019,ORG=0.773,O=0.058]	ORG	ORG
+International	[PER=0.130,LOC=0.028,ORG=0.817,O=0.025]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.011,LOC=0.000,ORG=0.008,O=0.981]	O	O
+Lehman	[PER=0.242,LOC=0.128,ORG=0.599,O=0.031]	ORG	ORG
+Brothers	[PER=0.150,LOC=0.019,ORG=0.773,O=0.058]	ORG	ORG
+International	[PER=0.130,LOC=0.028,ORG=0.817,O=0.025]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@9
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.011,LOC=0.000,ORG=0.008,O=0.981]	O	O
+Lehman	[PER=0.242,LOC=0.128,ORG=0.599,O=0.031]	ORG	ORG
+Brothers	[PER=0.150,LOC=0.019,ORG=0.773,O=0.058]	ORG	ORG
+International	[PER=0.130,LOC=0.028,ORG=0.817,O=0.025]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 12 "Brothers"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.011,LOC=0.000,ORG=0.008,O=0.981]	O	O
+Lehman	[PER=0.242,LOC=0.128,ORG=0.599,O=0.031]	ORG	ORG
+Brothers	[PER=0.150,LOC=0.019,ORG=0.773,O=0.058]	ORG	ORG
+International	[PER=0.130,LOC=0.028,ORG=0.817,O=0.025]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Brothers
+-----------
+Move choice:
+Launch query on token 13 "International"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.011,LOC=0.000,ORG=0.008,O=0.981]	O	O
+Lehman	[PER=0.242,LOC=0.128,ORG=0.599,O=0.031]	ORG	ORG
+Brothers	[PER=0.150,LOC=0.019,ORG=0.773,O=0.058]	ORG	ORG
+International	[PER=0.130,LOC=0.028,ORG=0.817,O=0.025]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+	Brothers
+-----------
+Move choice:
+Launch query on token 11 "Lehman"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.011,LOC=0.000,ORG=0.008,O=0.981]	O	O
+Lehman	[PER=0.242,LOC=0.128,ORG=0.599,O=0.031]	ORG	ORG
+Brothers	[PER=0.150,LOC=0.019,ORG=0.773,O=0.058]	ORG	ORG
+International	[PER=0.130,LOC=0.028,ORG=0.817,O=0.025]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+	Lehman
+	Brothers
+-----------
+Next event:
+Got response on token 12 "Brothers" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.007,LOC=0.000,ORG=0.009,O=0.983]	O	O
+Lehman	[PER=0.122,LOC=0.128,ORG=0.727,O=0.022]	ORG	ORG
+Brothers	[PER=0.027,LOC=0.003,ORG=0.960,O=0.010]	ORG	ORG
+International	[PER=0.035,LOC=0.016,ORG=0.938,O=0.011]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.993]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+	Lehman
+-----------
+Move choice:
+Launch query on token 13 "International"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.007,LOC=0.000,ORG=0.009,O=0.983]	O	O
+Lehman	[PER=0.122,LOC=0.128,ORG=0.727,O=0.022]	ORG	ORG
+Brothers	[PER=0.027,LOC=0.003,ORG=0.960,O=0.010]	ORG	ORG
+International	[PER=0.035,LOC=0.016,ORG=0.938,O=0.011]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.993]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+	Lehman
+	International
+-----------
+Move choice:
+Launch query on token 10 "manager"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.007,LOC=0.000,ORG=0.009,O=0.983]	O	O
+Lehman	[PER=0.122,LOC=0.128,ORG=0.727,O=0.022]	ORG	ORG
+Brothers	[PER=0.027,LOC=0.003,ORG=0.960,O=0.010]	ORG	ORG
+International	[PER=0.035,LOC=0.016,ORG=0.938,O=0.011]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.993]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+	Lehman
+	International
+	manager
+-----------
+Next event:
+Got response on token 13 "International" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.006,LOC=0.000,ORG=0.009,O=0.984]	O	O
+Lehman	[PER=0.106,LOC=0.129,ORG=0.743,O=0.022]	ORG	ORG
+Brothers	[PER=0.008,LOC=0.003,ORG=0.982,O=0.006]	ORG	ORG
+International	[PER=0.005,LOC=0.002,ORG=0.991,O=0.002]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+	Lehman
+	manager
+-----------
+Next event:
+Got response on token 13 "International" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.007,LOC=0.000,ORG=0.009,O=0.983]	O	O
+Lehman	[PER=0.120,LOC=0.127,ORG=0.730,O=0.022]	ORG	ORG
+Brothers	[PER=0.025,LOC=0.003,ORG=0.964,O=0.007]	ORG	ORG
+International	[PER=0.036,LOC=0.002,ORG=0.960,O=0.002]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lehman
+	manager
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@124
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.007,LOC=0.000,ORG=0.009,O=0.983]	O	O
+Lehman	[PER=0.120,LOC=0.127,ORG=0.730,O=0.022]	ORG	ORG
+Brothers	[PER=0.025,LOC=0.003,ORG=0.964,O=0.007]	ORG	ORG
+International	[PER=0.036,LOC=0.002,ORG=0.960,O=0.002]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lehman
+	manager
+-----------
+Next event:
+Got response on token 11 "Lehman" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.020,LOC=0.000,ORG=0.006,O=0.974]	O	O
+Lehman	[PER=0.489,LOC=0.074,ORG=0.424,O=0.013]	ORG	ORG
+Brothers	[PER=0.096,LOC=0.007,ORG=0.885,O=0.013]	ORG	ORG
+International	[PER=0.092,LOC=0.003,ORG=0.903,O=0.002]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	manager
+-----------
+Move choice:
+Launch query on token 11 "Lehman"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.020,LOC=0.000,ORG=0.006,O=0.974]	O	O
+Lehman	[PER=0.489,LOC=0.074,ORG=0.424,O=0.013]	ORG	ORG
+Brothers	[PER=0.096,LOC=0.007,ORG=0.885,O=0.013]	ORG	ORG
+International	[PER=0.092,LOC=0.003,ORG=0.903,O=0.002]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lehman
+	manager
+-----------
+Move choice:
+Launch query on token 12 "Brothers"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.020,LOC=0.000,ORG=0.006,O=0.974]	O	O
+Lehman	[PER=0.489,LOC=0.074,ORG=0.424,O=0.013]	ORG	ORG
+Brothers	[PER=0.096,LOC=0.007,ORG=0.885,O=0.013]	ORG	ORG
+International	[PER=0.092,LOC=0.003,ORG=0.903,O=0.002]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lehman
+	Brothers
+	manager
+-----------
+Next event:
+Got response on token 10 "manager" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.003,LOC=0.000,ORG=0.001,O=0.996]	O	O
+Lehman	[PER=0.483,LOC=0.075,ORG=0.428,O=0.013]	ORG	ORG
+Brothers	[PER=0.095,LOC=0.007,ORG=0.886,O=0.013]	ORG	ORG
+International	[PER=0.091,LOC=0.003,ORG=0.904,O=0.002]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lehman
+	Brothers
+-----------
+Move choice:
+Launch query on token 11 "Lehman"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.003,LOC=0.000,ORG=0.001,O=0.996]	O	O
+Lehman	[PER=0.483,LOC=0.075,ORG=0.428,O=0.013]	ORG	ORG
+Brothers	[PER=0.095,LOC=0.007,ORG=0.886,O=0.013]	ORG	ORG
+International	[PER=0.091,LOC=0.003,ORG=0.904,O=0.002]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lehman
+	Brothers
+	Lehman
+-----------
+Move choice:
+Launch query on token 8 "by"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.003,LOC=0.000,ORG=0.001,O=0.996]	O	O
+Lehman	[PER=0.483,LOC=0.075,ORG=0.428,O=0.013]	ORG	ORG
+Brothers	[PER=0.095,LOC=0.007,ORG=0.886,O=0.013]	ORG	ORG
+International	[PER=0.091,LOC=0.003,ORG=0.904,O=0.002]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lehman
+	by
+	Brothers
+	Lehman
+-----------
+Next event:
+Got response on token 12 "Brothers" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.001,O=0.995]	O	O
+Lehman	[PER=0.666,LOC=0.050,ORG=0.275,O=0.009]	ORG	PER
+Brothers	[PER=0.422,LOC=0.004,ORG=0.565,O=0.008]	ORG	PER
+International	[PER=0.344,LOC=0.006,ORG=0.648,O=0.003]	ORG	PER
+.	[PER=0.003,LOC=0.001,ORG=0.004,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lehman
+	by
+	Lehman
+-----------
+Next event:
+Got response on token 11 "Lehman" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Lehman	[PER=0.251,LOC=0.019,ORG=0.726,O=0.003]	ORG	ORG
+Brothers	[PER=0.163,LOC=0.002,ORG=0.831,O=0.004]	ORG	ORG
+International	[PER=0.142,LOC=0.003,ORG=0.852,O=0.002]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lehman
+	by
+-----------
+Move choice:
+Launch query on token 13 "International"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Lehman	[PER=0.251,LOC=0.019,ORG=0.726,O=0.003]	ORG	ORG
+Brothers	[PER=0.163,LOC=0.002,ORG=0.831,O=0.004]	ORG	ORG
+International	[PER=0.142,LOC=0.003,ORG=0.852,O=0.002]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+	Lehman
+	by
+-----------
+Next event:
+Got response on token 8 "by" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Lehman	[PER=0.251,LOC=0.019,ORG=0.726,O=0.003]	ORG	ORG
+Brothers	[PER=0.163,LOC=0.002,ORG=0.831,O=0.004]	ORG	ORG
+International	[PER=0.142,LOC=0.003,ORG=0.852,O=0.002]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+	Lehman
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@29c
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Lehman	[PER=0.251,LOC=0.019,ORG=0.726,O=0.003]	ORG	ORG
+Brothers	[PER=0.163,LOC=0.002,ORG=0.831,O=0.004]	ORG	ORG
+International	[PER=0.142,LOC=0.003,ORG=0.852,O=0.002]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+	Lehman
+-----------
+Next event:
+Got response on token 11 "Lehman" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.001,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Lehman	[PER=0.047,LOC=0.004,ORG=0.949,O=0.001]	ORG	ORG
+Brothers	[PER=0.036,LOC=0.001,ORG=0.961,O=0.002]	ORG	ORG
+International	[PER=0.043,LOC=0.002,ORG=0.953,O=0.001]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@2d6
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.001,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Lehman	[PER=0.047,LOC=0.004,ORG=0.949,O=0.001]	ORG	ORG
+Brothers	[PER=0.036,LOC=0.001,ORG=0.961,O=0.002]	ORG	ORG
+International	[PER=0.043,LOC=0.002,ORG=0.953,O=0.001]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+-----------
+Next event:
+Got response on token 13 "International" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.001,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Lehman	[PER=0.150,LOC=0.004,ORG=0.846,O=0.001]	ORG	ORG
+Brothers	[PER=0.163,LOC=0.001,ORG=0.832,O=0.003]	ORG	ORG
+International	[PER=0.239,LOC=0.002,ORG=0.758,O=0.001]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 13 "International"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.001,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Lehman	[PER=0.150,LOC=0.004,ORG=0.846,O=0.001]	ORG	ORG
+Brothers	[PER=0.163,LOC=0.001,ORG=0.832,O=0.003]	ORG	ORG
+International	[PER=0.239,LOC=0.002,ORG=0.758,O=0.001]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@588
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.001,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Lehman	[PER=0.150,LOC=0.004,ORG=0.846,O=0.001]	ORG	ORG
+Brothers	[PER=0.163,LOC=0.001,ORG=0.832,O=0.003]	ORG	ORG
+International	[PER=0.239,LOC=0.002,ORG=0.758,O=0.001]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+-----------
+Next event:
+Got response on token 13 "International" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.001,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Lehman	[PER=0.047,LOC=0.004,ORG=0.949,O=0.001]	ORG	ORG
+Brothers	[PER=0.035,LOC=0.001,ORG=0.962,O=0.002]	ORG	ORG
+International	[PER=0.043,LOC=0.000,ORG=0.956,O=0.000]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 11 "Lehman"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.001,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Lehman	[PER=0.047,LOC=0.004,ORG=0.949,O=0.001]	ORG	ORG
+Brothers	[PER=0.035,LOC=0.001,ORG=0.962,O=0.002]	ORG	ORG
+International	[PER=0.043,LOC=0.000,ORG=0.956,O=0.000]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lehman
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@60a
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.001,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Lehman	[PER=0.047,LOC=0.004,ORG=0.949,O=0.001]	ORG	ORG
+Brothers	[PER=0.035,LOC=0.001,ORG=0.962,O=0.002]	ORG	ORG
+International	[PER=0.043,LOC=0.000,ORG=0.956,O=0.000]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lehman
+-----------
+Next event:
+Got response on token 11 "Lehman" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Lehman	[PER=0.255,LOC=0.003,ORG=0.742,O=0.000]	ORG	ORG
+Brothers	[PER=0.164,LOC=0.002,ORG=0.830,O=0.003]	ORG	ORG
+International	[PER=0.145,LOC=0.000,ORG=0.855,O=0.000]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 11 "Lehman"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Lehman	[PER=0.255,LOC=0.003,ORG=0.742,O=0.000]	ORG	ORG
+Brothers	[PER=0.164,LOC=0.002,ORG=0.830,O=0.003]	ORG	ORG
+International	[PER=0.145,LOC=0.000,ORG=0.855,O=0.000]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lehman
+-----------
+Move choice:
+Launch query on token 12 "Brothers"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Lehman	[PER=0.255,LOC=0.003,ORG=0.742,O=0.000]	ORG	ORG
+Brothers	[PER=0.164,LOC=0.002,ORG=0.830,O=0.003]	ORG	ORG
+International	[PER=0.145,LOC=0.000,ORG=0.855,O=0.000]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lehman
+	Brothers
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@670
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Lehman	[PER=0.255,LOC=0.003,ORG=0.742,O=0.000]	ORG	ORG
+Brothers	[PER=0.164,LOC=0.002,ORG=0.830,O=0.003]	ORG	ORG
+International	[PER=0.145,LOC=0.000,ORG=0.855,O=0.000]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lehman
+	Brothers
+-----------
+Next event:
+Got response on token 12 "Brothers" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.001,O=0.996]	O	O
+Lehman	[PER=0.610,LOC=0.002,ORG=0.388,O=0.000]	ORG	PER
+Brothers	[PER=0.579,LOC=0.001,ORG=0.418,O=0.002]	ORG	PER
+International	[PER=0.470,LOC=0.001,ORG=0.529,O=0.000]	ORG	PER
+.	[PER=0.004,LOC=0.001,ORG=0.004,O=0.991]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lehman
+-----------
+Move choice:
+Launch query on token 13 "International"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.001,O=0.996]	O	O
+Lehman	[PER=0.610,LOC=0.002,ORG=0.388,O=0.000]	ORG	PER
+Brothers	[PER=0.579,LOC=0.001,ORG=0.418,O=0.002]	ORG	PER
+International	[PER=0.470,LOC=0.001,ORG=0.529,O=0.000]	ORG	PER
+.	[PER=0.004,LOC=0.001,ORG=0.004,O=0.991]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+	Lehman
+-----------
+Move choice:
+Launch query on token 2 "The"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.001,O=0.996]	O	O
+Lehman	[PER=0.610,LOC=0.002,ORG=0.388,O=0.000]	ORG	PER
+Brothers	[PER=0.579,LOC=0.001,ORG=0.418,O=0.002]	ORG	PER
+International	[PER=0.470,LOC=0.001,ORG=0.529,O=0.000]	ORG	PER
+.	[PER=0.004,LOC=0.001,ORG=0.004,O=0.991]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+	Lehman
+	The
+-----------
+Move choice:
+Launch query on token 12 "Brothers"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.001,O=0.996]	O	O
+Lehman	[PER=0.610,LOC=0.002,ORG=0.388,O=0.000]	ORG	PER
+Brothers	[PER=0.579,LOC=0.001,ORG=0.418,O=0.002]	ORG	PER
+International	[PER=0.470,LOC=0.001,ORG=0.529,O=0.000]	ORG	PER
+.	[PER=0.004,LOC=0.001,ORG=0.004,O=0.991]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+	Brothers
+	Lehman
+	The
+-----------
+Next event:
+Got response on token 11 "Lehman" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.005,LOC=0.000,ORG=0.000,O=0.994]	O	O
+Lehman	[PER=0.916,LOC=0.000,ORG=0.083,O=0.000]	ORG	PER
+Brothers	[PER=0.848,LOC=0.001,ORG=0.150,O=0.002]	ORG	PER
+International	[PER=0.681,LOC=0.001,ORG=0.318,O=0.001]	ORG	PER
+.	[PER=0.006,LOC=0.001,ORG=0.002,O=0.991]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+	Brothers
+	The
+-----------
+Next event:
+Got response on token 2 "The" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.005,LOC=0.000,ORG=0.000,O=0.994]	O	O
+Lehman	[PER=0.916,LOC=0.000,ORG=0.083,O=0.000]	ORG	PER
+Brothers	[PER=0.848,LOC=0.001,ORG=0.150,O=0.002]	ORG	PER
+International	[PER=0.681,LOC=0.001,ORG=0.318,O=0.001]	ORG	PER
+.	[PER=0.006,LOC=0.001,ORG=0.002,O=0.991]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+	Brothers
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@864
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.005,LOC=0.000,ORG=0.000,O=0.994]	O	O
+Lehman	[PER=0.916,LOC=0.000,ORG=0.083,O=0.000]	ORG	PER
+Brothers	[PER=0.848,LOC=0.001,ORG=0.150,O=0.002]	ORG	PER
+International	[PER=0.681,LOC=0.001,ORG=0.318,O=0.001]	ORG	PER
+.	[PER=0.006,LOC=0.001,ORG=0.002,O=0.991]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+	Brothers
+-----------
+Next event:
+Got response on token 12 "Brothers" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.001,O=0.995]	O	O
+Lehman	[PER=0.703,LOC=0.001,ORG=0.295,O=0.000]	ORG	PER
+Brothers	[PER=0.447,LOC=0.001,ORG=0.552,O=0.001]	ORG	PER
+International	[PER=0.366,LOC=0.001,ORG=0.633,O=0.000]	ORG	PER
+.	[PER=0.003,LOC=0.001,ORG=0.004,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@8c9
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.001,O=0.995]	O	O
+Lehman	[PER=0.703,LOC=0.001,ORG=0.295,O=0.000]	ORG	PER
+Brothers	[PER=0.447,LOC=0.001,ORG=0.552,O=0.001]	ORG	PER
+International	[PER=0.366,LOC=0.001,ORG=0.633,O=0.000]	ORG	PER
+.	[PER=0.003,LOC=0.001,ORG=0.004,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	International
+-----------
+Next event:
+Got response on token 13 "International" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.003,LOC=0.000,ORG=0.001,O=0.996]	O	O
+Lehman	[PER=0.575,LOC=0.002,ORG=0.423,O=0.000]	ORG	ORG
+Brothers	[PER=0.204,LOC=0.001,ORG=0.794,O=0.001]	ORG	ORG
+International	[PER=0.076,LOC=0.000,ORG=0.924,O=0.000]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 12 "Brothers"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.003,LOC=0.000,ORG=0.001,O=0.996]	O	O
+Lehman	[PER=0.575,LOC=0.002,ORG=0.423,O=0.000]	ORG	ORG
+Brothers	[PER=0.204,LOC=0.001,ORG=0.794,O=0.001]	ORG	ORG
+International	[PER=0.076,LOC=0.000,ORG=0.924,O=0.000]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Brothers
+-----------
+Move choice:
+Launch query on token 10 "manager"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.003,LOC=0.000,ORG=0.001,O=0.996]	O	O
+Lehman	[PER=0.575,LOC=0.002,ORG=0.423,O=0.000]	ORG	ORG
+Brothers	[PER=0.204,LOC=0.001,ORG=0.794,O=0.001]	ORG	ORG
+International	[PER=0.076,LOC=0.000,ORG=0.924,O=0.000]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	manager
+	Brothers
+-----------
+Move choice:
+Launch query on token 1 "1996-08-22"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.003,LOC=0.000,ORG=0.001,O=0.996]	O	O
+Lehman	[PER=0.575,LOC=0.002,ORG=0.423,O=0.000]	ORG	ORG
+Brothers	[PER=0.204,LOC=0.001,ORG=0.794,O=0.001]	ORG	ORG
+International	[PER=0.076,LOC=0.000,ORG=0.924,O=0.000]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	manager
+	Brothers
+	1996-08-22
+-----------
+Next event:
+Got response on token 12 "Brothers" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+Lehman	[PER=0.806,LOC=0.001,ORG=0.193,O=0.000]	ORG	PER
+Brothers	[PER=0.642,LOC=0.000,ORG=0.357,O=0.001]	ORG	PER
+International	[PER=0.235,LOC=0.000,ORG=0.764,O=0.000]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	manager
+	1996-08-22
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@c08
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+Lehman	[PER=0.806,LOC=0.001,ORG=0.193,O=0.000]	ORG	PER
+Brothers	[PER=0.642,LOC=0.000,ORG=0.357,O=0.001]	ORG	PER
+International	[PER=0.235,LOC=0.000,ORG=0.764,O=0.000]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	manager
+	1996-08-22
+-----------
+Next event:
+Got response on token 10 "manager" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Lehman	[PER=0.806,LOC=0.001,ORG=0.193,O=0.000]	ORG	PER
+Brothers	[PER=0.641,LOC=0.000,ORG=0.358,O=0.001]	ORG	PER
+International	[PER=0.235,LOC=0.000,ORG=0.764,O=0.000]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	1996-08-22
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@c28
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Lehman	[PER=0.806,LOC=0.001,ORG=0.193,O=0.000]	ORG	PER
+Brothers	[PER=0.641,LOC=0.000,ORG=0.358,O=0.001]	ORG	PER
+International	[PER=0.235,LOC=0.000,ORG=0.764,O=0.000]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	1996-08-22
+-----------
+Next event:
+Got response on token 1 "1996-08-22" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.006,LOC=0.975,ORG=0.014,O=0.005]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+floating-rate	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Lehman	[PER=0.806,LOC=0.001,ORG=0.193,O=0.000]	ORG	PER
+Brothers	[PER=0.641,LOC=0.000,ORG=0.358,O=0.001]	ORG	PER
+International	[PER=0.235,LOC=0.000,ORG=0.764,O=0.000]	ORG	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@c80

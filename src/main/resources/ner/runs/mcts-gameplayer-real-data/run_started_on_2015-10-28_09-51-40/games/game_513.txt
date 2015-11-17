@@ -1,0 +1,898 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+He	O	O	0
+said	O	O	0
+the	O	O	0
+Mia	PER	PER	4
+'s	O	O	0
+issue	O	O	0
+had	O	O	0
+been	O	O	0
+raised	O	O	0
+in	O	O	0
+the	O	O	0
+House	ORG	ORG	2
+of	ORG	ORG	2
+Commons	ORG	ORG	2
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.307,LOC=0.578,ORG=0.041,O=0.074]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+House	[PER=0.018,LOC=0.106,ORG=0.636,O=0.240]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.560,O=0.440]	ORG	ORG
+Commons	[PER=0.015,LOC=0.013,ORG=0.715,O=0.257]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.307,LOC=0.578,ORG=0.041,O=0.074]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+House	[PER=0.018,LOC=0.106,ORG=0.636,O=0.240]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.560,O=0.440]	ORG	ORG
+Commons	[PER=0.015,LOC=0.013,ORG=0.715,O=0.257]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.307,LOC=0.578,ORG=0.041,O=0.074]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+House	[PER=0.018,LOC=0.106,ORG=0.636,O=0.240]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.560,O=0.440]	ORG	ORG
+Commons	[PER=0.015,LOC=0.013,ORG=0.715,O=0.257]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.307,LOC=0.578,ORG=0.041,O=0.074]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+House	[PER=0.018,LOC=0.106,ORG=0.636,O=0.240]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.560,O=0.440]	ORG	ORG
+Commons	[PER=0.015,LOC=0.013,ORG=0.715,O=0.257]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.307,LOC=0.578,ORG=0.041,O=0.074]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+House	[PER=0.018,LOC=0.106,ORG=0.636,O=0.240]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.560,O=0.440]	ORG	ORG
+Commons	[PER=0.015,LOC=0.013,ORG=0.715,O=0.257]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.307,LOC=0.578,ORG=0.041,O=0.074]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+House	[PER=0.018,LOC=0.106,ORG=0.636,O=0.240]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.560,O=0.440]	ORG	ORG
+Commons	[PER=0.015,LOC=0.013,ORG=0.715,O=0.257]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.307,LOC=0.578,ORG=0.041,O=0.074]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+House	[PER=0.018,LOC=0.106,ORG=0.636,O=0.240]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.560,O=0.440]	ORG	ORG
+Commons	[PER=0.015,LOC=0.013,ORG=0.715,O=0.257]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.307,LOC=0.578,ORG=0.041,O=0.074]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+House	[PER=0.018,LOC=0.106,ORG=0.636,O=0.240]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.560,O=0.440]	ORG	ORG
+Commons	[PER=0.015,LOC=0.013,ORG=0.715,O=0.257]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.307,LOC=0.578,ORG=0.041,O=0.074]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+House	[PER=0.018,LOC=0.106,ORG=0.636,O=0.240]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.560,O=0.440]	ORG	ORG
+Commons	[PER=0.015,LOC=0.013,ORG=0.715,O=0.257]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.307,LOC=0.578,ORG=0.041,O=0.074]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+House	[PER=0.018,LOC=0.106,ORG=0.636,O=0.240]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.560,O=0.440]	ORG	ORG
+Commons	[PER=0.015,LOC=0.013,ORG=0.715,O=0.257]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.307,LOC=0.578,ORG=0.041,O=0.074]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+House	[PER=0.018,LOC=0.106,ORG=0.636,O=0.240]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.560,O=0.440]	ORG	ORG
+Commons	[PER=0.015,LOC=0.013,ORG=0.715,O=0.257]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 11 "House"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.307,LOC=0.578,ORG=0.041,O=0.074]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+House	[PER=0.018,LOC=0.106,ORG=0.636,O=0.240]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.560,O=0.440]	ORG	ORG
+Commons	[PER=0.015,LOC=0.013,ORG=0.715,O=0.257]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	House
+-----------
+Move choice:
+Launch query on token 12 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.307,LOC=0.578,ORG=0.041,O=0.074]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+House	[PER=0.018,LOC=0.106,ORG=0.636,O=0.240]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.560,O=0.440]	ORG	ORG
+Commons	[PER=0.015,LOC=0.013,ORG=0.715,O=0.257]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+	House
+-----------
+Next event:
+Got response on token 11 "House" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.307,LOC=0.578,ORG=0.041,O=0.074]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+House	[PER=0.004,LOC=0.022,ORG=0.925,O=0.050]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.774,O=0.226]	ORG	ORG
+Commons	[PER=0.009,LOC=0.007,ORG=0.837,O=0.147]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+-----------
+Move choice:
+Launch query on token 3 "Mia"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.307,LOC=0.578,ORG=0.041,O=0.074]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+House	[PER=0.004,LOC=0.022,ORG=0.925,O=0.050]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.774,O=0.226]	ORG	ORG
+Commons	[PER=0.009,LOC=0.007,ORG=0.837,O=0.147]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+	Mia
+-----------
+Move choice:
+Launch query on token 3 "Mia"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.307,LOC=0.578,ORG=0.041,O=0.074]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+House	[PER=0.004,LOC=0.022,ORG=0.925,O=0.050]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.774,O=0.226]	ORG	ORG
+Commons	[PER=0.009,LOC=0.007,ORG=0.837,O=0.147]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+	of
+	Mia
+-----------
+Next event:
+Got response on token 12 "of" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.307,LOC=0.578,ORG=0.041,O=0.074]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+House	[PER=0.001,LOC=0.005,ORG=0.980,O=0.014]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.960,O=0.040]	ORG	ORG
+Commons	[PER=0.003,LOC=0.002,ORG=0.943,O=0.052]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+	Mia
+-----------
+Move choice:
+Launch query on token 13 "Commons"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.307,LOC=0.578,ORG=0.041,O=0.074]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+House	[PER=0.001,LOC=0.005,ORG=0.980,O=0.014]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.960,O=0.040]	ORG	ORG
+Commons	[PER=0.003,LOC=0.002,ORG=0.943,O=0.052]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+	Commons
+	Mia
+-----------
+Move choice:
+Launch query on token 3 "Mia"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.307,LOC=0.578,ORG=0.041,O=0.074]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+House	[PER=0.001,LOC=0.005,ORG=0.980,O=0.014]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.960,O=0.040]	ORG	ORG
+Commons	[PER=0.003,LOC=0.002,ORG=0.943,O=0.052]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+	Mia
+	Commons
+	Mia
+-----------
+Next event:
+Got response on token 3 "Mia" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.247,LOC=0.465,ORG=0.229,O=0.059]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.002,O=0.997]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+House	[PER=0.001,LOC=0.005,ORG=0.980,O=0.014]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.960,O=0.040]	ORG	ORG
+Commons	[PER=0.003,LOC=0.002,ORG=0.943,O=0.052]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+	Mia
+	Commons
+-----------
+Move choice:
+Launch query on token 13 "Commons"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.247,LOC=0.465,ORG=0.229,O=0.059]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.002,O=0.997]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+House	[PER=0.001,LOC=0.005,ORG=0.980,O=0.014]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.960,O=0.040]	ORG	ORG
+Commons	[PER=0.003,LOC=0.002,ORG=0.943,O=0.052]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+	Mia
+	Commons
+	Commons
+-----------
+Next event:
+Got response on token 13 "Commons" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.247,LOC=0.465,ORG=0.229,O=0.059]	PER	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.002,O=0.997]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+House	[PER=0.001,LOC=0.003,ORG=0.986,O=0.010]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.980,O=0.020]	ORG	ORG
+Commons	[PER=0.000,LOC=0.000,ORG=0.991,O=0.008]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+	Mia
+	Commons
+-----------
+Next event:
+Got response on token 3 "Mia" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.696,LOC=0.187,ORG=0.093,O=0.024]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+House	[PER=0.001,LOC=0.003,ORG=0.986,O=0.010]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.980,O=0.020]	ORG	ORG
+Commons	[PER=0.000,LOC=0.000,ORG=0.991,O=0.008]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+	Commons
+-----------
+Next event:
+Got response on token 3 "Mia" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.941,LOC=0.036,ORG=0.018,O=0.005]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+House	[PER=0.001,LOC=0.003,ORG=0.986,O=0.010]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.980,O=0.020]	ORG	ORG
+Commons	[PER=0.000,LOC=0.000,ORG=0.991,O=0.008]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Commons
+-----------
+Move choice:
+Launch query on token 3 "Mia"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.941,LOC=0.036,ORG=0.018,O=0.005]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+House	[PER=0.001,LOC=0.003,ORG=0.986,O=0.010]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.980,O=0.020]	ORG	ORG
+Commons	[PER=0.000,LOC=0.000,ORG=0.991,O=0.008]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Commons
+	Mia
+-----------
+Move choice:
+Launch query on token 11 "House"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.941,LOC=0.036,ORG=0.018,O=0.005]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+House	[PER=0.001,LOC=0.003,ORG=0.986,O=0.010]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.980,O=0.020]	ORG	ORG
+Commons	[PER=0.000,LOC=0.000,ORG=0.991,O=0.008]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	House
+	Commons
+	Mia
+-----------
+Next event:
+Got response on token 13 "Commons" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.941,LOC=0.036,ORG=0.018,O=0.005]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+House	[PER=0.001,LOC=0.003,ORG=0.986,O=0.010]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.983,O=0.017]	ORG	ORG
+Commons	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	House
+	Mia
+-----------
+Next event:
+Got response on token 3 "Mia" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.991,LOC=0.005,ORG=0.003,O=0.001]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+House	[PER=0.001,LOC=0.003,ORG=0.986,O=0.010]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.983,O=0.017]	ORG	ORG
+Commons	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	House
+-----------
+Move choice:
+Launch query on token 12 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.991,LOC=0.005,ORG=0.003,O=0.001]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+House	[PER=0.001,LOC=0.003,ORG=0.986,O=0.010]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.983,O=0.017]	ORG	ORG
+Commons	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	House
+	of
+-----------
+Next event:
+Got response on token 11 "House" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.991,LOC=0.005,ORG=0.003,O=0.001]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+House	[PER=0.000,LOC=0.000,ORG=0.998,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.987,O=0.013]	ORG	ORG
+Commons	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@f12
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.991,LOC=0.005,ORG=0.003,O=0.001]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+House	[PER=0.000,LOC=0.000,ORG=0.998,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.987,O=0.013]	ORG	ORG
+Commons	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+-----------
+Next event:
+Got response on token 12 "of" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.990]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Mia	[PER=0.991,LOC=0.005,ORG=0.003,O=0.001]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.996]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+raised	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+House	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.998,O=0.002]	ORG	ORG
+Commons	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@f37

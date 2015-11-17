@@ -1,0 +1,57 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+I	O	O	0
+recommend	O	O	0
+people	O	O	0
+sell	O	O	0
+strangles	O	O	0
+in	O	O	0
+a	O	O	0
+number	O	O	0
+of	O	O	0
+markets	O	O	0
+--	O	O	0
+in	O	O	0
+Germany	LOC	LOC	0
+and	O	O	0
+France	LOC	LOC	0
+in	O	O	0
+particular	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+I	[PER=0.004,LOC=0.002,ORG=0.002,O=0.992]	O	O
+recommend	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sell	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+strangles	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+number	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.008,O=0.991]	O	O
+markets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Germany	[PER=0.021,LOC=0.956,ORG=0.017,O=0.007]	LOC	LOC
+and	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.029,LOC=0.938,ORG=0.012,O=0.021]	LOC	LOC
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+particular	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@9c32d26

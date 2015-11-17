@@ -1,0 +1,57 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+At	O	ORG	0
+Cardiff	LOC	ORG	0
+:	O	O	0
+Kent	ORG	ORG	0
+128-1	O	O	0
+(	O	O	0
+M.	PER	PER	0
+Walker	PER	PER	0
+59	O	O	0
+,	O	O	0
+D.	PER	PER	0
+Fulton	PER	PER	0
+53	O	O	0
+not	O	O	0
+out	O	O	0
+)	O	O	0
+v	O	O	0
+Glamorgan	ORG	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+At	[PER=0.040,LOC=0.057,ORG=0.285,O=0.618]	O	ORG
+Cardiff	[PER=0.152,LOC=0.313,ORG=0.461,O=0.074]	LOC	ORG
+:	[PER=0.002,LOC=0.002,ORG=0.023,O=0.973]	O	O
+Kent	[PER=0.210,LOC=0.180,ORG=0.521,O=0.089]	ORG	ORG
+128-1	[PER=0.021,LOC=0.016,ORG=0.076,O=0.886]	O	O
+(	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+M.	[PER=0.439,LOC=0.174,ORG=0.065,O=0.322]	PER	PER
+Walker	[PER=0.457,LOC=0.112,ORG=0.028,O=0.403]	PER	PER
+59	[PER=0.005,LOC=0.002,ORG=0.001,O=0.993]	O	O
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+D.	[PER=0.439,LOC=0.208,ORG=0.299,O=0.053]	PER	PER
+Fulton	[PER=0.433,LOC=0.242,ORG=0.308,O=0.017]	PER	PER
+53	[PER=0.004,LOC=0.002,ORG=0.006,O=0.988]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+out	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+v	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Glamorgan	[PER=0.095,LOC=0.394,ORG=0.057,O=0.454]	ORG	O
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

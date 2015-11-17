@@ -1,0 +1,968 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+We	O	O	0
+will	O	O	0
+be	O	O	0
+guests	O	O	0
+of	O	O	0
+the	O	O	0
+Kennedys	PER	PER	3
+,	O	O	0
+"	O	O	0
+said	O	O	0
+Frank	PER	PER	1
+Quilter	PER	PER	1
+,	O	O	0
+one	O	O	0
+of	O	O	0
+the	O	O	0
+two	O	O	0
+who	O	O	0
+have	O	O	0
+been	O	O	0
+invited	O	O	0
+to	O	O	0
+Chicago	LOC	LOC	2
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.009,O=0.991]	O	O
+Kennedys	[PER=0.388,LOC=0.170,ORG=0.288,O=0.154]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.974,LOC=0.015,ORG=0.006,O=0.005]	PER	PER
+Quilter	[PER=0.949,LOC=0.007,ORG=0.004,O=0.040]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.009,O=0.991]	O	O
+Kennedys	[PER=0.388,LOC=0.170,ORG=0.288,O=0.154]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.974,LOC=0.015,ORG=0.006,O=0.005]	PER	PER
+Quilter	[PER=0.949,LOC=0.007,ORG=0.004,O=0.040]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.009,O=0.991]	O	O
+Kennedys	[PER=0.388,LOC=0.170,ORG=0.288,O=0.154]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.974,LOC=0.015,ORG=0.006,O=0.005]	PER	PER
+Quilter	[PER=0.949,LOC=0.007,ORG=0.004,O=0.040]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.009,O=0.991]	O	O
+Kennedys	[PER=0.388,LOC=0.170,ORG=0.288,O=0.154]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.974,LOC=0.015,ORG=0.006,O=0.005]	PER	PER
+Quilter	[PER=0.949,LOC=0.007,ORG=0.004,O=0.040]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.009,O=0.991]	O	O
+Kennedys	[PER=0.388,LOC=0.170,ORG=0.288,O=0.154]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.974,LOC=0.015,ORG=0.006,O=0.005]	PER	PER
+Quilter	[PER=0.949,LOC=0.007,ORG=0.004,O=0.040]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.009,O=0.991]	O	O
+Kennedys	[PER=0.388,LOC=0.170,ORG=0.288,O=0.154]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.974,LOC=0.015,ORG=0.006,O=0.005]	PER	PER
+Quilter	[PER=0.949,LOC=0.007,ORG=0.004,O=0.040]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.009,O=0.991]	O	O
+Kennedys	[PER=0.388,LOC=0.170,ORG=0.288,O=0.154]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.974,LOC=0.015,ORG=0.006,O=0.005]	PER	PER
+Quilter	[PER=0.949,LOC=0.007,ORG=0.004,O=0.040]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.009,O=0.991]	O	O
+Kennedys	[PER=0.388,LOC=0.170,ORG=0.288,O=0.154]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.974,LOC=0.015,ORG=0.006,O=0.005]	PER	PER
+Quilter	[PER=0.949,LOC=0.007,ORG=0.004,O=0.040]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.009,O=0.991]	O	O
+Kennedys	[PER=0.388,LOC=0.170,ORG=0.288,O=0.154]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.974,LOC=0.015,ORG=0.006,O=0.005]	PER	PER
+Quilter	[PER=0.949,LOC=0.007,ORG=0.004,O=0.040]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.009,O=0.991]	O	O
+Kennedys	[PER=0.388,LOC=0.170,ORG=0.288,O=0.154]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.974,LOC=0.015,ORG=0.006,O=0.005]	PER	PER
+Quilter	[PER=0.949,LOC=0.007,ORG=0.004,O=0.040]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.009,O=0.991]	O	O
+Kennedys	[PER=0.388,LOC=0.170,ORG=0.288,O=0.154]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.974,LOC=0.015,ORG=0.006,O=0.005]	PER	PER
+Quilter	[PER=0.949,LOC=0.007,ORG=0.004,O=0.040]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 6 "Kennedys"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.009,O=0.991]	O	O
+Kennedys	[PER=0.388,LOC=0.170,ORG=0.288,O=0.154]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.974,LOC=0.015,ORG=0.006,O=0.005]	PER	PER
+Quilter	[PER=0.949,LOC=0.007,ORG=0.004,O=0.040]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Kennedys
+-----------
+Move choice:
+Launch query on token 6 "Kennedys"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.009,O=0.991]	O	O
+Kennedys	[PER=0.388,LOC=0.170,ORG=0.288,O=0.154]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.974,LOC=0.015,ORG=0.006,O=0.005]	PER	PER
+Quilter	[PER=0.949,LOC=0.007,ORG=0.004,O=0.040]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Kennedys
+	Kennedys
+-----------
+Move choice:
+Launch query on token 11 "Quilter"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.009,O=0.991]	O	O
+Kennedys	[PER=0.388,LOC=0.170,ORG=0.288,O=0.154]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.974,LOC=0.015,ORG=0.006,O=0.005]	PER	PER
+Quilter	[PER=0.949,LOC=0.007,ORG=0.004,O=0.040]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Kennedys
+	Kennedys
+	Quilter
+-----------
+Next event:
+Got response on token 6 "Kennedys" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Kennedys	[PER=0.816,LOC=0.051,ORG=0.087,O=0.046]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.974,LOC=0.015,ORG=0.006,O=0.005]	PER	PER
+Quilter	[PER=0.949,LOC=0.007,ORG=0.004,O=0.040]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Kennedys
+	Quilter
+-----------
+Next event:
+Got response on token 6 "Kennedys" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Kennedys	[PER=0.969,LOC=0.009,ORG=0.015,O=0.008]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.974,LOC=0.015,ORG=0.006,O=0.005]	PER	PER
+Quilter	[PER=0.949,LOC=0.007,ORG=0.004,O=0.040]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Quilter
+-----------
+Move choice:
+Launch query on token 22 "Chicago"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Kennedys	[PER=0.969,LOC=0.009,ORG=0.015,O=0.008]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.974,LOC=0.015,ORG=0.006,O=0.005]	PER	PER
+Quilter	[PER=0.949,LOC=0.007,ORG=0.004,O=0.040]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Chicago
+	Quilter
+-----------
+Next event:
+Got response on token 11 "Quilter" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Kennedys	[PER=0.969,LOC=0.009,ORG=0.015,O=0.008]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.989,LOC=0.005,ORG=0.003,O=0.003]	PER	PER
+Quilter	[PER=0.992,LOC=0.001,ORG=0.001,O=0.006]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Chicago
+-----------
+Move choice:
+Launch query on token 6 "Kennedys"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Kennedys	[PER=0.969,LOC=0.009,ORG=0.015,O=0.008]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.989,LOC=0.005,ORG=0.003,O=0.003]	PER	PER
+Quilter	[PER=0.992,LOC=0.001,ORG=0.001,O=0.006]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Chicago
+	Kennedys
+-----------
+Move choice:
+Launch query on token 22 "Chicago"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Kennedys	[PER=0.969,LOC=0.009,ORG=0.015,O=0.008]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.989,LOC=0.005,ORG=0.003,O=0.003]	PER	PER
+Quilter	[PER=0.992,LOC=0.001,ORG=0.001,O=0.006]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Chicago
+	Chicago
+	Kennedys
+-----------
+Next event:
+Got response on token 6 "Kennedys" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Kennedys	[PER=0.995,LOC=0.001,ORG=0.002,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.989,LOC=0.005,ORG=0.003,O=0.003]	PER	PER
+Quilter	[PER=0.992,LOC=0.001,ORG=0.001,O=0.006]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Chicago
+	Chicago
+-----------
+Move choice:
+Launch query on token 10 "Frank"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Kennedys	[PER=0.995,LOC=0.001,ORG=0.002,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.989,LOC=0.005,ORG=0.003,O=0.003]	PER	PER
+Quilter	[PER=0.992,LOC=0.001,ORG=0.001,O=0.006]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Chicago	[PER=0.017,LOC=0.881,ORG=0.046,O=0.056]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Chicago
+	Frank
+	Chicago
+-----------
+Next event:
+Got response on token 22 "Chicago" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Kennedys	[PER=0.995,LOC=0.001,ORG=0.002,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.989,LOC=0.005,ORG=0.003,O=0.003]	PER	PER
+Quilter	[PER=0.992,LOC=0.001,ORG=0.001,O=0.006]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Chicago	[PER=0.003,LOC=0.981,ORG=0.007,O=0.009]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Frank
+	Chicago
+-----------
+Next event:
+Got response on token 22 "Chicago" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Kennedys	[PER=0.995,LOC=0.001,ORG=0.002,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.989,LOC=0.005,ORG=0.003,O=0.003]	PER	PER
+Quilter	[PER=0.992,LOC=0.001,ORG=0.001,O=0.006]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Chicago	[PER=0.000,LOC=0.997,ORG=0.001,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Frank
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@62
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Kennedys	[PER=0.995,LOC=0.001,ORG=0.002,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.989,LOC=0.005,ORG=0.003,O=0.003]	PER	PER
+Quilter	[PER=0.992,LOC=0.001,ORG=0.001,O=0.006]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Chicago	[PER=0.000,LOC=0.997,ORG=0.001,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Frank
+-----------
+Next event:
+Got response on token 10 "Frank" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+We	[PER=0.003,LOC=0.004,ORG=0.001,O=0.992]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guests	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Kennedys	[PER=0.995,LOC=0.001,ORG=0.002,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Frank	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+Quilter	[PER=0.995,LOC=0.001,ORG=0.000,O=0.005]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+invited	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Chicago	[PER=0.000,LOC=0.997,ORG=0.001,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@89

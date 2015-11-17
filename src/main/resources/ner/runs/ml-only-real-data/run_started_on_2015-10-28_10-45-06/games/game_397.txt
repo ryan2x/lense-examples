@@ -1,0 +1,41 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Cheung	PER	PER	0
+was	O	O	0
+being	O	O	0
+detained	O	O	0
+pending	O	O	0
+formal	O	O	0
+charges	O	O	0
+,	O	O	0
+police	O	O	0
+said	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.633,LOC=0.087,ORG=0.046,O=0.234]	PER	PER
+was	[PER=0.004,LOC=0.000,ORG=0.000,O=0.996]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+,	[PER=0.000,LOC=0.004,ORG=0.001,O=0.996]	O	O
+police	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

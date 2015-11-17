@@ -1,0 +1,75 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+The	O	O	0
+meeting	O	O	0
+between	O	O	0
+Peres	PER	PER	0
+and	O	O	0
+Arafat	PER	PER	0
+will	O	O	0
+take	O	O	0
+place	O	O	0
+at	O	O	0
+Erez	LOC	PER	0
+checkpoint	O	O	0
+in	O	O	0
+Gaza	LOC	LOC	0
+and	O	O	0
+not	O	O	0
+in	O	O	0
+Ramallah	LOC	PER	0
+as	O	O	0
+planned	O	O	0
+,	O	O	0
+"	O	O	0
+Peres	PER	PER	0
+'	O	O	0
+office	O	O	0
+said	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+between	[PER=0.005,LOC=0.001,ORG=0.002,O=0.992]	O	O
+Peres	[PER=0.604,LOC=0.299,ORG=0.072,O=0.025]	PER	PER
+and	[PER=0.005,LOC=0.000,ORG=0.000,O=0.994]	O	O
+Arafat	[PER=0.849,LOC=0.084,ORG=0.041,O=0.026]	PER	PER
+will	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+place	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Erez	[PER=0.885,LOC=0.062,ORG=0.033,O=0.021]	LOC	PER
+checkpoint	[PER=0.006,LOC=0.001,ORG=0.006,O=0.987]	O	O
+in	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Gaza	[PER=0.059,LOC=0.917,ORG=0.011,O=0.013]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.001,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Ramallah	[PER=0.676,LOC=0.198,ORG=0.092,O=0.034]	LOC	PER
+as	[PER=0.002,LOC=0.000,ORG=0.001,O=0.996]	O	O
+planned	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.001,LOC=0.001,ORG=0.000,O=0.997]	O	O
+"	[PER=0.002,LOC=0.001,ORG=0.000,O=0.997]	O	O
+Peres	[PER=0.598,LOC=0.299,ORG=0.080,O=0.024]	PER	PER
+'	[PER=0.032,LOC=0.029,ORG=0.016,O=0.923]	O	O
+office	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

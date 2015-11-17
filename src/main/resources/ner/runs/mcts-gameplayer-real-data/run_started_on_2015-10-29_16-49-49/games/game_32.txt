@@ -1,0 +1,645 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+LONDON	LOC	LOC	0
+1996-08-22	O	O	0
+The	O	O	1
+following	O	O	0
+bond	O	O	0
+was	O	O	0
+announced	O	O	0
+by	O	O	0
+lead	O	O	0
+manager	O	O	0
+Toronto	PER	PER	3
+Dominion	PER	PER	2
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.010,O=0.985]	O	O
+Toronto	[PER=0.082,LOC=0.121,ORG=0.748,O=0.049]	PER	ORG
+Dominion	[PER=0.033,LOC=0.006,ORG=0.958,O=0.003]	PER	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.010,O=0.985]	O	O
+Toronto	[PER=0.082,LOC=0.121,ORG=0.748,O=0.049]	PER	ORG
+Dominion	[PER=0.033,LOC=0.006,ORG=0.958,O=0.003]	PER	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.010,O=0.985]	O	O
+Toronto	[PER=0.082,LOC=0.121,ORG=0.748,O=0.049]	PER	ORG
+Dominion	[PER=0.033,LOC=0.006,ORG=0.958,O=0.003]	PER	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.010,O=0.985]	O	O
+Toronto	[PER=0.082,LOC=0.121,ORG=0.748,O=0.049]	PER	ORG
+Dominion	[PER=0.033,LOC=0.006,ORG=0.958,O=0.003]	PER	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.010,O=0.985]	O	O
+Toronto	[PER=0.082,LOC=0.121,ORG=0.748,O=0.049]	PER	ORG
+Dominion	[PER=0.033,LOC=0.006,ORG=0.958,O=0.003]	PER	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.010,O=0.985]	O	O
+Toronto	[PER=0.082,LOC=0.121,ORG=0.748,O=0.049]	PER	ORG
+Dominion	[PER=0.033,LOC=0.006,ORG=0.958,O=0.003]	PER	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.010,O=0.985]	O	O
+Toronto	[PER=0.082,LOC=0.121,ORG=0.748,O=0.049]	PER	ORG
+Dominion	[PER=0.033,LOC=0.006,ORG=0.958,O=0.003]	PER	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.010,O=0.985]	O	O
+Toronto	[PER=0.082,LOC=0.121,ORG=0.748,O=0.049]	PER	ORG
+Dominion	[PER=0.033,LOC=0.006,ORG=0.958,O=0.003]	PER	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.010,O=0.985]	O	O
+Toronto	[PER=0.082,LOC=0.121,ORG=0.748,O=0.049]	PER	ORG
+Dominion	[PER=0.033,LOC=0.006,ORG=0.958,O=0.003]	PER	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.010,O=0.985]	O	O
+Toronto	[PER=0.082,LOC=0.121,ORG=0.748,O=0.049]	PER	ORG
+Dominion	[PER=0.033,LOC=0.006,ORG=0.958,O=0.003]	PER	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.010,O=0.985]	O	O
+Toronto	[PER=0.082,LOC=0.121,ORG=0.748,O=0.049]	PER	ORG
+Dominion	[PER=0.033,LOC=0.006,ORG=0.958,O=0.003]	PER	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 10 "Toronto"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.010,O=0.985]	O	O
+Toronto	[PER=0.082,LOC=0.121,ORG=0.748,O=0.049]	PER	ORG
+Dominion	[PER=0.033,LOC=0.006,ORG=0.958,O=0.003]	PER	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Toronto
+-----------
+Move choice:
+Launch query on token 10 "Toronto"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.010,O=0.985]	O	O
+Toronto	[PER=0.082,LOC=0.121,ORG=0.748,O=0.049]	PER	ORG
+Dominion	[PER=0.033,LOC=0.006,ORG=0.958,O=0.003]	PER	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Toronto
+	Toronto
+-----------
+Move choice:
+Launch query on token 10 "Toronto"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.010,O=0.985]	O	O
+Toronto	[PER=0.082,LOC=0.121,ORG=0.748,O=0.049]	PER	ORG
+Dominion	[PER=0.033,LOC=0.006,ORG=0.958,O=0.003]	PER	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Toronto
+	Toronto
+	Toronto
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@a4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.004,LOC=0.000,ORG=0.010,O=0.985]	O	O
+Toronto	[PER=0.082,LOC=0.121,ORG=0.748,O=0.049]	PER	ORG
+Dominion	[PER=0.033,LOC=0.006,ORG=0.958,O=0.003]	PER	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.006,O=0.992]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Toronto
+	Toronto
+	Toronto
+-----------
+Next event:
+Got response on token 10 "Toronto" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.012,LOC=0.000,ORG=0.007,O=0.980]	O	O
+Toronto	[PER=0.385,LOC=0.081,ORG=0.501,O=0.033]	PER	ORG
+Dominion	[PER=0.134,LOC=0.013,ORG=0.850,O=0.004]	PER	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.006,O=0.991]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Toronto
+	Toronto
+-----------
+Move choice:
+Launch query on token 2 "The"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.012,LOC=0.000,ORG=0.007,O=0.980]	O	O
+Toronto	[PER=0.385,LOC=0.081,ORG=0.501,O=0.033]	PER	ORG
+Dominion	[PER=0.134,LOC=0.013,ORG=0.850,O=0.004]	PER	ORG
+.	[PER=0.002,LOC=0.001,ORG=0.006,O=0.991]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	The
+	Toronto
+	Toronto
+-----------
+Next event:
+Got response on token 10 "Toronto" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.024,LOC=0.000,ORG=0.003,O=0.973]	O	O
+Toronto	[PER=0.814,LOC=0.024,ORG=0.151,O=0.010]	PER	PER
+Dominion	[PER=0.276,LOC=0.022,ORG=0.697,O=0.005]	PER	ORG
+.	[PER=0.003,LOC=0.001,ORG=0.005,O=0.991]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	The
+	Toronto
+-----------
+Next event:
+Got response on token 10 "Toronto" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.028,LOC=0.000,ORG=0.001,O=0.970]	O	O
+Toronto	[PER=0.968,LOC=0.004,ORG=0.026,O=0.002]	PER	PER
+Dominion	[PER=0.327,LOC=0.025,ORG=0.642,O=0.006]	PER	ORG
+.	[PER=0.004,LOC=0.001,ORG=0.004,O=0.991]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	The
+-----------
+Move choice:
+Launch query on token 11 "Dominion"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.028,LOC=0.000,ORG=0.001,O=0.970]	O	O
+Toronto	[PER=0.968,LOC=0.004,ORG=0.026,O=0.002]	PER	PER
+Dominion	[PER=0.327,LOC=0.025,ORG=0.642,O=0.006]	PER	ORG
+.	[PER=0.004,LOC=0.001,ORG=0.004,O=0.991]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Dominion
+	The
+-----------
+Next event:
+Got response on token 2 "The" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.028,LOC=0.000,ORG=0.001,O=0.970]	O	O
+Toronto	[PER=0.968,LOC=0.004,ORG=0.026,O=0.002]	PER	PER
+Dominion	[PER=0.327,LOC=0.025,ORG=0.642,O=0.006]	PER	ORG
+.	[PER=0.004,LOC=0.001,ORG=0.004,O=0.991]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Dominion
+-----------
+Move choice:
+Launch query on token 11 "Dominion"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.028,LOC=0.000,ORG=0.001,O=0.970]	O	O
+Toronto	[PER=0.968,LOC=0.004,ORG=0.026,O=0.002]	PER	PER
+Dominion	[PER=0.327,LOC=0.025,ORG=0.642,O=0.006]	PER	ORG
+.	[PER=0.004,LOC=0.001,ORG=0.004,O=0.991]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Dominion
+	Dominion
+-----------
+Next event:
+Got response on token 11 "Dominion" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.029,LOC=0.000,ORG=0.001,O=0.970]	O	O
+Toronto	[PER=0.989,LOC=0.002,ORG=0.009,O=0.001]	PER	PER
+Dominion	[PER=0.773,LOC=0.008,ORG=0.217,O=0.002]	PER	PER
+.	[PER=0.008,LOC=0.001,ORG=0.002,O=0.989]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Dominion
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1a6
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.029,LOC=0.000,ORG=0.001,O=0.970]	O	O
+Toronto	[PER=0.989,LOC=0.002,ORG=0.009,O=0.001]	PER	PER
+Dominion	[PER=0.773,LOC=0.008,ORG=0.217,O=0.002]	PER	PER
+.	[PER=0.008,LOC=0.001,ORG=0.002,O=0.989]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Dominion
+-----------
+Next event:
+Got response on token 11 "Dominion" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.004,LOC=0.980,ORG=0.011,O=0.004]	LOC	LOC
+1996-08-22	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+following	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+bond	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+announced	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.029,LOC=0.000,ORG=0.001,O=0.969]	O	O
+Toronto	[PER=0.998,LOC=0.000,ORG=0.002,O=0.000]	PER	PER
+Dominion	[PER=0.960,LOC=0.001,ORG=0.038,O=0.000]	PER	PER
+.	[PER=0.010,LOC=0.001,ORG=0.001,O=0.988]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@1cb

@@ -1,0 +1,2269 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+News	ORG	ORG	3
+Corp	ORG	ORG	4
+said	O	O	0
+revenue	O	O	0
+gains	O	O	0
+at	O	O	0
+its	O	O	0
+magazines	O	O	0
+and	O	O	0
+inserts	O	O	0
+division	O	O	1
+were	O	O	0
+offset	O	O	0
+by	O	O	0
+higher	O	O	0
+paper	O	O	0
+prices	O	O	0
+and	O	O	0
+lower	O	O	0
+sales	O	O	0
+at	O	O	0
+the	O	O	2
+U.S.	LOC	ORG	4
+TV	ORG	ORG	4
+Guide	ORG	ORG	4
+.	O	O	1
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.058,LOC=0.012,ORG=0.923,O=0.007]	ORG	ORG
+Corp	[PER=0.051,LOC=0.010,ORG=0.910,O=0.029]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.058,LOC=0.012,ORG=0.923,O=0.007]	ORG	ORG
+Corp	[PER=0.051,LOC=0.010,ORG=0.910,O=0.029]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@3a7fe56
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.058,LOC=0.012,ORG=0.923,O=0.007]	ORG	ORG
+Corp	[PER=0.051,LOC=0.010,ORG=0.910,O=0.029]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.058,LOC=0.012,ORG=0.923,O=0.007]	ORG	ORG
+Corp	[PER=0.051,LOC=0.010,ORG=0.910,O=0.029]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@42f74394
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.058,LOC=0.012,ORG=0.923,O=0.007]	ORG	ORG
+Corp	[PER=0.051,LOC=0.010,ORG=0.910,O=0.029]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.058,LOC=0.012,ORG=0.923,O=0.007]	ORG	ORG
+Corp	[PER=0.051,LOC=0.010,ORG=0.910,O=0.029]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@486e2733
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.058,LOC=0.012,ORG=0.923,O=0.007]	ORG	ORG
+Corp	[PER=0.051,LOC=0.010,ORG=0.910,O=0.029]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.058,LOC=0.012,ORG=0.923,O=0.007]	ORG	ORG
+Corp	[PER=0.051,LOC=0.010,ORG=0.910,O=0.029]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@18b11221
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.058,LOC=0.012,ORG=0.923,O=0.007]	ORG	ORG
+Corp	[PER=0.051,LOC=0.010,ORG=0.910,O=0.029]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "News"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.058,LOC=0.012,ORG=0.923,O=0.007]	ORG	ORG
+Corp	[PER=0.051,LOC=0.010,ORG=0.910,O=0.029]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	News
+-----------
+Move choice:
+Launch query on token 0 "News"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.058,LOC=0.012,ORG=0.923,O=0.007]	ORG	ORG
+Corp	[PER=0.051,LOC=0.010,ORG=0.910,O=0.029]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	News
+	News
+-----------
+Move choice:
+Launch query on token 0 "News"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.058,LOC=0.012,ORG=0.923,O=0.007]	ORG	ORG
+Corp	[PER=0.051,LOC=0.010,ORG=0.910,O=0.029]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	News
+	News
+	News
+-----------
+Move choice:
+Launch query on token 1 "Corp"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.058,LOC=0.012,ORG=0.923,O=0.007]	ORG	ORG
+Corp	[PER=0.051,LOC=0.010,ORG=0.910,O=0.029]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	News
+	Corp
+	News
+	News
+-----------
+Next event:
+Got response on token 0 "News" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.056,LOC=0.012,ORG=0.887,O=0.045]	ORG	ORG
+Corp	[PER=0.052,LOC=0.014,ORG=0.889,O=0.045]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	News
+	Corp
+	News
+-----------
+Next event:
+Got response on token 0 "News" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.009,LOC=0.002,ORG=0.982,O=0.007]	ORG	ORG
+Corp	[PER=0.012,LOC=0.005,ORG=0.962,O=0.021]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Corp
+	News
+-----------
+Next event:
+Got response on token 0 "News" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.001,LOC=0.000,ORG=0.997,O=0.001]	ORG	ORG
+Corp	[PER=0.006,LOC=0.004,ORG=0.974,O=0.017]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Corp
+-----------
+Move choice:
+Launch query on token 1 "Corp"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.001,LOC=0.000,ORG=0.997,O=0.001]	ORG	ORG
+Corp	[PER=0.006,LOC=0.004,ORG=0.974,O=0.017]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Corp
+	Corp
+-----------
+Move choice:
+Launch query on token 10 "division"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.001,LOC=0.000,ORG=0.997,O=0.001]	ORG	ORG
+Corp	[PER=0.006,LOC=0.004,ORG=0.974,O=0.017]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	division
+	Corp
+	Corp
+-----------
+Next event:
+Got response on token 1 "Corp" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.001,LOC=0.001,ORG=0.996,O=0.002]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	division
+	Corp
+-----------
+Move choice:
+Launch query on token 21 "the"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.001,LOC=0.001,ORG=0.996,O=0.002]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	division
+	the
+	Corp
+-----------
+Next event:
+Got response on token 10 "division" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.001,LOC=0.001,ORG=0.996,O=0.002]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	the
+	Corp
+-----------
+Move choice:
+Launch query on token 21 "the"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.001,LOC=0.001,ORG=0.996,O=0.002]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	the
+	the
+	Corp
+-----------
+Next event:
+Got response on token 1 "Corp" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Corp	[PER=0.001,LOC=0.001,ORG=0.982,O=0.017]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	the
+	the
+-----------
+Move choice:
+Launch query on token 1 "Corp"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Corp	[PER=0.001,LOC=0.001,ORG=0.982,O=0.017]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Corp
+	the
+	the
+-----------
+Move choice:
+Launch query on token 1 "Corp"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Corp	[PER=0.001,LOC=0.001,ORG=0.982,O=0.017]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Corp
+	Corp
+	the
+	the
+-----------
+Move choice:
+Launch query on token 22 "U.S."
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Corp	[PER=0.001,LOC=0.001,ORG=0.982,O=0.017]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.982]	O	O
+U.S.	[PER=0.007,LOC=0.150,ORG=0.837,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.925,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.797,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	U.S.
+	Corp
+	Corp
+	the
+	the
+-----------
+Next event:
+Got response on token 21 "the" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Corp	[PER=0.001,LOC=0.001,ORG=0.982,O=0.017]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.007,LOC=0.152,ORG=0.835,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.924,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.796,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	U.S.
+	Corp
+	Corp
+	the
+-----------
+Next event:
+Got response on token 1 "Corp" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=0.997,O=0.002]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.007,LOC=0.152,ORG=0.835,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.924,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.796,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	U.S.
+	Corp
+	the
+-----------
+Next event:
+Got response on token 1 "Corp" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+U.S.	[PER=0.007,LOC=0.152,ORG=0.835,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.032,ORG=0.924,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.796,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	U.S.
+	the
+-----------
+Next event:
+Got response on token 21 "the" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.007,LOC=0.153,ORG=0.835,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.033,ORG=0.924,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.796,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	U.S.
+-----------
+Move choice:
+Launch query on token 22 "U.S."
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.007,LOC=0.153,ORG=0.835,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.033,ORG=0.924,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.796,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	U.S.
+	U.S.
+-----------
+Move choice:
+Launch query on token 22 "U.S."
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.007,LOC=0.153,ORG=0.835,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.033,ORG=0.924,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.796,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	U.S.
+	U.S.
+	U.S.
+-----------
+Move choice:
+Launch query on token 23 "TV"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.007,LOC=0.153,ORG=0.835,O=0.005]	LOC	ORG
+TV	[PER=0.010,LOC=0.033,ORG=0.924,O=0.033]	ORG	ORG
+Guide	[PER=0.023,LOC=0.048,ORG=0.796,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	U.S.
+	TV
+	U.S.
+	U.S.
+-----------
+Next event:
+Got response on token 22 "U.S." = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.001,LOC=0.025,ORG=0.972,O=0.001]	LOC	ORG
+TV	[PER=0.003,LOC=0.006,ORG=0.983,O=0.008]	ORG	ORG
+Guide	[PER=0.016,LOC=0.032,ORG=0.843,O=0.109]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	U.S.
+	TV
+	U.S.
+-----------
+Next event:
+Got response on token 22 "U.S." = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.001,LOC=0.025,ORG=0.967,O=0.006]	LOC	ORG
+TV	[PER=0.003,LOC=0.006,ORG=0.982,O=0.009]	ORG	ORG
+Guide	[PER=0.016,LOC=0.032,ORG=0.842,O=0.109]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	U.S.
+	TV
+-----------
+Next event:
+Got response on token 22 "U.S." = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.001,LOC=0.154,ORG=0.840,O=0.005]	LOC	ORG
+TV	[PER=0.006,LOC=0.033,ORG=0.928,O=0.033]	ORG	ORG
+Guide	[PER=0.020,LOC=0.048,ORG=0.799,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	TV
+-----------
+Move choice:
+Launch query on token 22 "U.S."
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.001,LOC=0.154,ORG=0.840,O=0.005]	LOC	ORG
+TV	[PER=0.006,LOC=0.033,ORG=0.928,O=0.033]	ORG	ORG
+Guide	[PER=0.020,LOC=0.048,ORG=0.799,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	TV
+	U.S.
+-----------
+Move choice:
+Launch query on token 23 "TV"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.001,LOC=0.154,ORG=0.840,O=0.005]	LOC	ORG
+TV	[PER=0.006,LOC=0.033,ORG=0.928,O=0.033]	ORG	ORG
+Guide	[PER=0.020,LOC=0.048,ORG=0.799,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	TV
+	U.S.
+	TV
+-----------
+Move choice:
+Launch query on token 23 "TV"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.001,LOC=0.154,ORG=0.840,O=0.005]	LOC	ORG
+TV	[PER=0.006,LOC=0.033,ORG=0.928,O=0.033]	ORG	ORG
+Guide	[PER=0.020,LOC=0.048,ORG=0.799,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	TV
+	U.S.
+	TV
+	TV
+-----------
+Move choice:
+Launch query on token 24 "Guide"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.001,LOC=0.154,ORG=0.840,O=0.005]	LOC	ORG
+TV	[PER=0.006,LOC=0.033,ORG=0.928,O=0.033]	ORG	ORG
+Guide	[PER=0.020,LOC=0.048,ORG=0.799,O=0.133]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Guide
+	TV
+	U.S.
+	TV
+	TV
+-----------
+Next event:
+Got response on token 23 "TV" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.001,LOC=0.276,ORG=0.714,O=0.009]	LOC	ORG
+TV	[PER=0.005,LOC=0.027,ORG=0.774,O=0.194]	ORG	ORG
+Guide	[PER=0.027,LOC=0.071,ORG=0.679,O=0.224]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Guide
+	TV
+	U.S.
+	TV
+-----------
+Next event:
+Got response on token 23 "TV" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.000,LOC=0.127,ORG=0.868,O=0.005]	LOC	ORG
+TV	[PER=0.001,LOC=0.005,ORG=0.960,O=0.034]	ORG	ORG
+Guide	[PER=0.016,LOC=0.035,ORG=0.825,O=0.123]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Guide
+	TV
+	U.S.
+-----------
+Next event:
+Got response on token 22 "U.S." = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.000,LOC=0.504,ORG=0.492,O=0.003]	LOC	ORG
+TV	[PER=0.003,LOC=0.019,ORG=0.855,O=0.123]	ORG	ORG
+Guide	[PER=0.022,LOC=0.056,ORG=0.743,O=0.180]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Guide
+	TV
+-----------
+Next event:
+Got response on token 23 "TV" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.000,LOC=0.437,ORG=0.561,O=0.003]	LOC	ORG
+TV	[PER=0.000,LOC=0.003,ORG=0.976,O=0.020]	ORG	ORG
+Guide	[PER=0.015,LOC=0.032,ORG=0.838,O=0.114]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Guide
+-----------
+Move choice:
+Launch query on token 23 "TV"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.000,LOC=0.437,ORG=0.561,O=0.003]	LOC	ORG
+TV	[PER=0.000,LOC=0.003,ORG=0.976,O=0.020]	ORG	ORG
+Guide	[PER=0.015,LOC=0.032,ORG=0.838,O=0.114]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	TV
+	Guide
+-----------
+Move choice:
+Launch query on token 24 "Guide"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.000,LOC=0.437,ORG=0.561,O=0.003]	LOC	ORG
+TV	[PER=0.000,LOC=0.003,ORG=0.976,O=0.020]	ORG	ORG
+Guide	[PER=0.015,LOC=0.032,ORG=0.838,O=0.114]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	TV
+	Guide
+	Guide
+-----------
+Move choice:
+Launch query on token 24 "Guide"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.000,LOC=0.437,ORG=0.561,O=0.003]	LOC	ORG
+TV	[PER=0.000,LOC=0.003,ORG=0.976,O=0.020]	ORG	ORG
+Guide	[PER=0.015,LOC=0.032,ORG=0.838,O=0.114]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	TV
+	Guide
+	Guide
+	Guide
+-----------
+Move choice:
+Launch query on token 25 "."
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.000,LOC=0.437,ORG=0.561,O=0.003]	LOC	ORG
+TV	[PER=0.000,LOC=0.003,ORG=0.976,O=0.020]	ORG	ORG
+Guide	[PER=0.015,LOC=0.032,ORG=0.838,O=0.114]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	TV
+	Guide
+	Guide
+	.
+	Guide
+-----------
+Next event:
+Got response on token 24 "Guide" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.000,LOC=0.461,ORG=0.536,O=0.003]	LOC	ORG
+TV	[PER=0.001,LOC=0.007,ORG=0.932,O=0.061]	ORG	ORG
+Guide	[PER=0.009,LOC=0.019,ORG=0.497,O=0.475]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	TV
+	Guide
+	.
+	Guide
+-----------
+Next event:
+Got response on token 24 "Guide" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.000,LOC=0.434,ORG=0.563,O=0.003]	LOC	ORG
+TV	[PER=0.000,LOC=0.002,ORG=0.981,O=0.017]	ORG	ORG
+Guide	[PER=0.002,LOC=0.005,ORG=0.874,O=0.119]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	TV
+	Guide
+	.
+-----------
+Next event:
+Got response on token 24 "Guide" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.000,LOC=0.426,ORG=0.571,O=0.003]	LOC	ORG
+TV	[PER=0.000,LOC=0.000,ORG=0.995,O=0.004]	ORG	ORG
+Guide	[PER=0.000,LOC=0.001,ORG=0.980,O=0.019]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	TV
+	.
+-----------
+Move choice:
+Launch query on token 24 "Guide"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.000,LOC=0.426,ORG=0.571,O=0.003]	LOC	ORG
+TV	[PER=0.000,LOC=0.000,ORG=0.995,O=0.004]	ORG	ORG
+Guide	[PER=0.000,LOC=0.001,ORG=0.980,O=0.019]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	TV
+	.
+	Guide
+-----------
+Next event:
+Got response on token 23 "TV" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.000,LOC=0.424,ORG=0.574,O=0.003]	LOC	ORG
+TV	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Guide	[PER=0.000,LOC=0.001,ORG=0.982,O=0.017]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	.
+	Guide
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@71628c83
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.000,LOC=0.424,ORG=0.574,O=0.003]	LOC	ORG
+TV	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+Guide	[PER=0.000,LOC=0.001,ORG=0.982,O=0.017]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	.
+	Guide
+-----------
+Next event:
+Got response on token 24 "Guide" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.000,LOC=0.423,ORG=0.574,O=0.003]	LOC	ORG
+TV	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Guide	[PER=0.000,LOC=0.000,ORG=0.997,O=0.002]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	.
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@2962ddba
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.000,LOC=0.423,ORG=0.574,O=0.003]	LOC	ORG
+TV	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Guide	[PER=0.000,LOC=0.000,ORG=0.997,O=0.002]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	.
+-----------
+Next event:
+Got response on token 25 "." = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+News	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Corp	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+revenue	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+gains	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+magazines	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inserts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+division	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+offset	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+higher	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+paper	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prices	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sales	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+U.S.	[PER=0.000,LOC=0.423,ORG=0.574,O=0.003]	LOC	ORG
+TV	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Guide	[PER=0.000,LOC=0.000,ORG=0.997,O=0.002]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@2e589efe

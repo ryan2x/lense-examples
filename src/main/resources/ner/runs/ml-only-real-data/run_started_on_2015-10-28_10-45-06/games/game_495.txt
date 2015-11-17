@@ -1,0 +1,61 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+China	LOC	LOC	0
+,	O	O	0
+along	O	O	0
+with	O	O	0
+Britain	LOC	LOC	0
+,	O	O	0
+France	LOC	LOC	0
+,	O	O	0
+Russia	LOC	LOC	0
+and	O	O	0
+the	O	O	0
+United	LOC	ORG	0
+States	LOC	ORG	0
+,	O	O	0
+is	O	O	0
+a	O	O	0
+declared	O	O	0
+nuclear	O	O	0
+power	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.004,ORG=0.000,O=0.996]	O	O
+China	[PER=0.006,LOC=0.979,ORG=0.009,O=0.006]	LOC	LOC
+,	[PER=0.000,LOC=0.006,ORG=0.000,O=0.994]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.013,LOC=0.979,ORG=0.005,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.043,ORG=0.000,O=0.956]	O	O
+France	[PER=0.013,LOC=0.946,ORG=0.024,O=0.017]	LOC	LOC
+,	[PER=0.000,LOC=0.043,ORG=0.000,O=0.957]	O	O
+Russia	[PER=0.019,LOC=0.962,ORG=0.014,O=0.005]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.018,O=0.981]	O	O
+United	[PER=0.008,LOC=0.292,ORG=0.686,O=0.015]	LOC	ORG
+States	[PER=0.011,LOC=0.324,ORG=0.628,O=0.037]	LOC	ORG
+,	[PER=0.000,LOC=0.002,ORG=0.002,O=0.996]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.001,LOC=0.004,ORG=0.008,O=0.987]	O	O
+power	[PER=0.001,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

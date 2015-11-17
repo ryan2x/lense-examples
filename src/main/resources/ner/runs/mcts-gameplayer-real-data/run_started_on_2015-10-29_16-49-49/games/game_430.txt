@@ -1,0 +1,831 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+In	O	O	0
+Venezuela	LOC	LOC	1
+,	O	O	0
+her	O	O	0
+mother	O	O	0
+told	O	O	0
+Reuters	ORG	ORG	1
+that	O	O	0
+Machado	PER	PER	2
+had	O	O	0
+a	O	O	0
+swollen	O	O	0
+face	O	O	0
+when	O	O	0
+she	O	O	0
+left	O	O	0
+home	O	O	0
+two	O	O	0
+weeks	O	O	0
+ago	O	O	0
+because	O	O	0
+she	O	O	0
+had	O	O	0
+her	O	O	0
+wisdom	O	O	0
+teeth	O	O	0
+extracted	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.003,LOC=0.008,ORG=0.005,O=0.984]	O	O
+Venezuela	[PER=0.022,LOC=0.962,ORG=0.014,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+mother	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.013,LOC=0.024,ORG=0.914,O=0.049]	ORG	ORG
+that	[PER=0.003,LOC=0.000,ORG=0.028,O=0.969]	O	O
+Machado	[PER=0.761,LOC=0.109,ORG=0.025,O=0.105]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+swollen	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+face	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+home	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weeks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ago	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+wisdom	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+teeth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extracted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.003,LOC=0.008,ORG=0.005,O=0.984]	O	O
+Venezuela	[PER=0.022,LOC=0.962,ORG=0.014,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+mother	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.013,LOC=0.024,ORG=0.914,O=0.049]	ORG	ORG
+that	[PER=0.003,LOC=0.000,ORG=0.028,O=0.969]	O	O
+Machado	[PER=0.761,LOC=0.109,ORG=0.025,O=0.105]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+swollen	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+face	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+home	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weeks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ago	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+wisdom	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+teeth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extracted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.003,LOC=0.008,ORG=0.005,O=0.984]	O	O
+Venezuela	[PER=0.022,LOC=0.962,ORG=0.014,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+mother	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.013,LOC=0.024,ORG=0.914,O=0.049]	ORG	ORG
+that	[PER=0.003,LOC=0.000,ORG=0.028,O=0.969]	O	O
+Machado	[PER=0.761,LOC=0.109,ORG=0.025,O=0.105]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+swollen	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+face	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+home	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weeks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ago	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+wisdom	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+teeth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extracted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.003,LOC=0.008,ORG=0.005,O=0.984]	O	O
+Venezuela	[PER=0.022,LOC=0.962,ORG=0.014,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+mother	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.013,LOC=0.024,ORG=0.914,O=0.049]	ORG	ORG
+that	[PER=0.003,LOC=0.000,ORG=0.028,O=0.969]	O	O
+Machado	[PER=0.761,LOC=0.109,ORG=0.025,O=0.105]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+swollen	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+face	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+home	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weeks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ago	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+wisdom	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+teeth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extracted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.003,LOC=0.008,ORG=0.005,O=0.984]	O	O
+Venezuela	[PER=0.022,LOC=0.962,ORG=0.014,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+mother	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.013,LOC=0.024,ORG=0.914,O=0.049]	ORG	ORG
+that	[PER=0.003,LOC=0.000,ORG=0.028,O=0.969]	O	O
+Machado	[PER=0.761,LOC=0.109,ORG=0.025,O=0.105]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+swollen	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+face	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+home	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weeks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ago	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+wisdom	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+teeth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extracted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.003,LOC=0.008,ORG=0.005,O=0.984]	O	O
+Venezuela	[PER=0.022,LOC=0.962,ORG=0.014,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+mother	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.013,LOC=0.024,ORG=0.914,O=0.049]	ORG	ORG
+that	[PER=0.003,LOC=0.000,ORG=0.028,O=0.969]	O	O
+Machado	[PER=0.761,LOC=0.109,ORG=0.025,O=0.105]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+swollen	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+face	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+home	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weeks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ago	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+wisdom	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+teeth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extracted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.003,LOC=0.008,ORG=0.005,O=0.984]	O	O
+Venezuela	[PER=0.022,LOC=0.962,ORG=0.014,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+mother	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.013,LOC=0.024,ORG=0.914,O=0.049]	ORG	ORG
+that	[PER=0.003,LOC=0.000,ORG=0.028,O=0.969]	O	O
+Machado	[PER=0.761,LOC=0.109,ORG=0.025,O=0.105]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+swollen	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+face	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+home	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weeks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ago	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+wisdom	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+teeth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extracted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.003,LOC=0.008,ORG=0.005,O=0.984]	O	O
+Venezuela	[PER=0.022,LOC=0.962,ORG=0.014,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+mother	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.013,LOC=0.024,ORG=0.914,O=0.049]	ORG	ORG
+that	[PER=0.003,LOC=0.000,ORG=0.028,O=0.969]	O	O
+Machado	[PER=0.761,LOC=0.109,ORG=0.025,O=0.105]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+swollen	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+face	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+home	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weeks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ago	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+wisdom	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+teeth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extracted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@6
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.003,LOC=0.008,ORG=0.005,O=0.984]	O	O
+Venezuela	[PER=0.022,LOC=0.962,ORG=0.014,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+mother	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.013,LOC=0.024,ORG=0.914,O=0.049]	ORG	ORG
+that	[PER=0.003,LOC=0.000,ORG=0.028,O=0.969]	O	O
+Machado	[PER=0.761,LOC=0.109,ORG=0.025,O=0.105]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+swollen	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+face	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+home	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weeks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ago	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+wisdom	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+teeth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extracted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.003,LOC=0.008,ORG=0.005,O=0.984]	O	O
+Venezuela	[PER=0.022,LOC=0.962,ORG=0.014,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+mother	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.013,LOC=0.024,ORG=0.914,O=0.049]	ORG	ORG
+that	[PER=0.003,LOC=0.000,ORG=0.028,O=0.969]	O	O
+Machado	[PER=0.761,LOC=0.109,ORG=0.025,O=0.105]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+swollen	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+face	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+home	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weeks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ago	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+wisdom	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+teeth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extracted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@9
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.003,LOC=0.008,ORG=0.005,O=0.984]	O	O
+Venezuela	[PER=0.022,LOC=0.962,ORG=0.014,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+mother	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.013,LOC=0.024,ORG=0.914,O=0.049]	ORG	ORG
+that	[PER=0.003,LOC=0.000,ORG=0.028,O=0.969]	O	O
+Machado	[PER=0.761,LOC=0.109,ORG=0.025,O=0.105]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+swollen	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+face	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+home	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weeks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ago	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+wisdom	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+teeth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extracted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 8 "Machado"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.003,LOC=0.008,ORG=0.005,O=0.984]	O	O
+Venezuela	[PER=0.022,LOC=0.962,ORG=0.014,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+mother	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.013,LOC=0.024,ORG=0.914,O=0.049]	ORG	ORG
+that	[PER=0.003,LOC=0.000,ORG=0.028,O=0.969]	O	O
+Machado	[PER=0.761,LOC=0.109,ORG=0.025,O=0.105]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+swollen	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+face	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+home	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weeks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ago	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+wisdom	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+teeth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extracted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Machado
+-----------
+Move choice:
+Launch query on token 8 "Machado"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.003,LOC=0.008,ORG=0.005,O=0.984]	O	O
+Venezuela	[PER=0.022,LOC=0.962,ORG=0.014,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+mother	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.013,LOC=0.024,ORG=0.914,O=0.049]	ORG	ORG
+that	[PER=0.003,LOC=0.000,ORG=0.028,O=0.969]	O	O
+Machado	[PER=0.761,LOC=0.109,ORG=0.025,O=0.105]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+swollen	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+face	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+home	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weeks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ago	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+wisdom	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+teeth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extracted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Machado
+	Machado
+-----------
+Move choice:
+Launch query on token 6 "Reuters"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.003,LOC=0.008,ORG=0.005,O=0.984]	O	O
+Venezuela	[PER=0.022,LOC=0.962,ORG=0.014,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+mother	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.013,LOC=0.024,ORG=0.914,O=0.049]	ORG	ORG
+that	[PER=0.003,LOC=0.000,ORG=0.028,O=0.969]	O	O
+Machado	[PER=0.761,LOC=0.109,ORG=0.025,O=0.105]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+swollen	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+face	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+home	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weeks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ago	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+wisdom	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+teeth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extracted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Machado
+	Reuters
+	Machado
+-----------
+Next event:
+Got response on token 8 "Machado" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.003,LOC=0.008,ORG=0.005,O=0.984]	O	O
+Venezuela	[PER=0.022,LOC=0.962,ORG=0.014,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+mother	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.013,LOC=0.024,ORG=0.913,O=0.049]	ORG	ORG
+that	[PER=0.003,LOC=0.000,ORG=0.022,O=0.974]	O	O
+Machado	[PER=0.957,LOC=0.020,ORG=0.005,O=0.019]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+swollen	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+face	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+home	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weeks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ago	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+wisdom	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+teeth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extracted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Machado
+	Reuters
+-----------
+Move choice:
+Launch query on token 1 "Venezuela"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.003,LOC=0.008,ORG=0.005,O=0.984]	O	O
+Venezuela	[PER=0.022,LOC=0.962,ORG=0.014,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+mother	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.013,LOC=0.024,ORG=0.913,O=0.049]	ORG	ORG
+that	[PER=0.003,LOC=0.000,ORG=0.022,O=0.974]	O	O
+Machado	[PER=0.957,LOC=0.020,ORG=0.005,O=0.019]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+swollen	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+face	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+home	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weeks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ago	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+wisdom	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+teeth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extracted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Machado
+	Reuters
+	Venezuela
+-----------
+Next event:
+Got response on token 6 "Reuters" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.003,LOC=0.008,ORG=0.005,O=0.984]	O	O
+Venezuela	[PER=0.022,LOC=0.962,ORG=0.014,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+mother	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.002,LOC=0.004,ORG=0.987,O=0.008]	ORG	ORG
+that	[PER=0.003,LOC=0.000,ORG=0.024,O=0.973]	O	O
+Machado	[PER=0.957,LOC=0.020,ORG=0.005,O=0.019]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+swollen	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+face	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+home	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weeks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ago	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+wisdom	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+teeth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extracted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Machado
+	Venezuela
+-----------
+Next event:
+Got response on token 8 "Machado" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.003,LOC=0.008,ORG=0.005,O=0.984]	O	O
+Venezuela	[PER=0.022,LOC=0.962,ORG=0.014,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+mother	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.002,LOC=0.004,ORG=0.987,O=0.008]	ORG	ORG
+that	[PER=0.003,LOC=0.000,ORG=0.023,O=0.974]	O	O
+Machado	[PER=0.994,LOC=0.003,ORG=0.001,O=0.003]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+swollen	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+face	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+home	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weeks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ago	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+wisdom	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+teeth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extracted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Venezuela
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1ee
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.003,LOC=0.008,ORG=0.005,O=0.984]	O	O
+Venezuela	[PER=0.022,LOC=0.962,ORG=0.014,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+mother	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.002,LOC=0.004,ORG=0.987,O=0.008]	ORG	ORG
+that	[PER=0.003,LOC=0.000,ORG=0.023,O=0.974]	O	O
+Machado	[PER=0.994,LOC=0.003,ORG=0.001,O=0.003]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+swollen	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+face	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+home	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weeks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ago	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+wisdom	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+teeth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extracted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Venezuela
+-----------
+Next event:
+Got response on token 1 "Venezuela" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.002,LOC=0.008,ORG=0.003,O=0.988]	O	O
+Venezuela	[PER=0.003,LOC=0.994,ORG=0.002,O=0.000]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+mother	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.002,LOC=0.004,ORG=0.987,O=0.008]	ORG	ORG
+that	[PER=0.003,LOC=0.000,ORG=0.023,O=0.974]	O	O
+Machado	[PER=0.994,LOC=0.003,ORG=0.001,O=0.003]	PER	PER
+had	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+swollen	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+face	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+when	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+home	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+weeks	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ago	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+because	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+her	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+wisdom	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+teeth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+extracted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@270

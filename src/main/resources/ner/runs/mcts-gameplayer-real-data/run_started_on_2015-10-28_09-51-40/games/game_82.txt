@@ -1,0 +1,2151 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+AS-SAFIR	ORG	LOC	4
+-	O	O	2
+Parliament	O	ORG	5
+Speaker	O	PER	5
+Berri	PER	PER	4
+:	O	O	1
+Israel	LOC	LOC	2
+is	O	O	0
+preparing	O	O	0
+for	O	O	1
+war	O	O	0
+against	O	O	0
+Syria	LOC	LOC	2
+and	O	O	0
+Lebanon	LOC	LOC	2
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.086,LOC=0.322,ORG=0.498,O=0.094]	ORG	ORG
+-	[PER=0.013,LOC=0.001,ORG=0.031,O=0.955]	O	O
+Parliament	[PER=0.818,LOC=0.004,ORG=0.174,O=0.005]	O	PER
+Speaker	[PER=0.882,LOC=0.005,ORG=0.110,O=0.003]	O	PER
+Berri	[PER=0.457,LOC=0.472,ORG=0.067,O=0.004]	PER	PER
+:	[PER=0.004,LOC=0.002,ORG=0.001,O=0.993]	O	O
+Israel	[PER=0.003,LOC=0.995,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.062,LOC=0.906,ORG=0.026,O=0.006]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.086,LOC=0.322,ORG=0.498,O=0.094]	ORG	ORG
+-	[PER=0.013,LOC=0.001,ORG=0.031,O=0.955]	O	O
+Parliament	[PER=0.818,LOC=0.004,ORG=0.174,O=0.005]	O	PER
+Speaker	[PER=0.882,LOC=0.005,ORG=0.110,O=0.003]	O	PER
+Berri	[PER=0.457,LOC=0.472,ORG=0.067,O=0.004]	PER	PER
+:	[PER=0.004,LOC=0.002,ORG=0.001,O=0.993]	O	O
+Israel	[PER=0.003,LOC=0.995,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.062,LOC=0.906,ORG=0.026,O=0.006]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.086,LOC=0.322,ORG=0.498,O=0.094]	ORG	ORG
+-	[PER=0.013,LOC=0.001,ORG=0.031,O=0.955]	O	O
+Parliament	[PER=0.818,LOC=0.004,ORG=0.174,O=0.005]	O	PER
+Speaker	[PER=0.882,LOC=0.005,ORG=0.110,O=0.003]	O	PER
+Berri	[PER=0.457,LOC=0.472,ORG=0.067,O=0.004]	PER	PER
+:	[PER=0.004,LOC=0.002,ORG=0.001,O=0.993]	O	O
+Israel	[PER=0.003,LOC=0.995,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.062,LOC=0.906,ORG=0.026,O=0.006]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.086,LOC=0.322,ORG=0.498,O=0.094]	ORG	ORG
+-	[PER=0.013,LOC=0.001,ORG=0.031,O=0.955]	O	O
+Parliament	[PER=0.818,LOC=0.004,ORG=0.174,O=0.005]	O	PER
+Speaker	[PER=0.882,LOC=0.005,ORG=0.110,O=0.003]	O	PER
+Berri	[PER=0.457,LOC=0.472,ORG=0.067,O=0.004]	PER	PER
+:	[PER=0.004,LOC=0.002,ORG=0.001,O=0.993]	O	O
+Israel	[PER=0.003,LOC=0.995,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.062,LOC=0.906,ORG=0.026,O=0.006]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.086,LOC=0.322,ORG=0.498,O=0.094]	ORG	ORG
+-	[PER=0.013,LOC=0.001,ORG=0.031,O=0.955]	O	O
+Parliament	[PER=0.818,LOC=0.004,ORG=0.174,O=0.005]	O	PER
+Speaker	[PER=0.882,LOC=0.005,ORG=0.110,O=0.003]	O	PER
+Berri	[PER=0.457,LOC=0.472,ORG=0.067,O=0.004]	PER	PER
+:	[PER=0.004,LOC=0.002,ORG=0.001,O=0.993]	O	O
+Israel	[PER=0.003,LOC=0.995,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.062,LOC=0.906,ORG=0.026,O=0.006]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.086,LOC=0.322,ORG=0.498,O=0.094]	ORG	ORG
+-	[PER=0.013,LOC=0.001,ORG=0.031,O=0.955]	O	O
+Parliament	[PER=0.818,LOC=0.004,ORG=0.174,O=0.005]	O	PER
+Speaker	[PER=0.882,LOC=0.005,ORG=0.110,O=0.003]	O	PER
+Berri	[PER=0.457,LOC=0.472,ORG=0.067,O=0.004]	PER	PER
+:	[PER=0.004,LOC=0.002,ORG=0.001,O=0.993]	O	O
+Israel	[PER=0.003,LOC=0.995,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.062,LOC=0.906,ORG=0.026,O=0.006]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.086,LOC=0.322,ORG=0.498,O=0.094]	ORG	ORG
+-	[PER=0.013,LOC=0.001,ORG=0.031,O=0.955]	O	O
+Parliament	[PER=0.818,LOC=0.004,ORG=0.174,O=0.005]	O	PER
+Speaker	[PER=0.882,LOC=0.005,ORG=0.110,O=0.003]	O	PER
+Berri	[PER=0.457,LOC=0.472,ORG=0.067,O=0.004]	PER	PER
+:	[PER=0.004,LOC=0.002,ORG=0.001,O=0.993]	O	O
+Israel	[PER=0.003,LOC=0.995,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.062,LOC=0.906,ORG=0.026,O=0.006]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.086,LOC=0.322,ORG=0.498,O=0.094]	ORG	ORG
+-	[PER=0.013,LOC=0.001,ORG=0.031,O=0.955]	O	O
+Parliament	[PER=0.818,LOC=0.004,ORG=0.174,O=0.005]	O	PER
+Speaker	[PER=0.882,LOC=0.005,ORG=0.110,O=0.003]	O	PER
+Berri	[PER=0.457,LOC=0.472,ORG=0.067,O=0.004]	PER	PER
+:	[PER=0.004,LOC=0.002,ORG=0.001,O=0.993]	O	O
+Israel	[PER=0.003,LOC=0.995,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.062,LOC=0.906,ORG=0.026,O=0.006]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.086,LOC=0.322,ORG=0.498,O=0.094]	ORG	ORG
+-	[PER=0.013,LOC=0.001,ORG=0.031,O=0.955]	O	O
+Parliament	[PER=0.818,LOC=0.004,ORG=0.174,O=0.005]	O	PER
+Speaker	[PER=0.882,LOC=0.005,ORG=0.110,O=0.003]	O	PER
+Berri	[PER=0.457,LOC=0.472,ORG=0.067,O=0.004]	PER	PER
+:	[PER=0.004,LOC=0.002,ORG=0.001,O=0.993]	O	O
+Israel	[PER=0.003,LOC=0.995,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.062,LOC=0.906,ORG=0.026,O=0.006]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.086,LOC=0.322,ORG=0.498,O=0.094]	ORG	ORG
+-	[PER=0.013,LOC=0.001,ORG=0.031,O=0.955]	O	O
+Parliament	[PER=0.818,LOC=0.004,ORG=0.174,O=0.005]	O	PER
+Speaker	[PER=0.882,LOC=0.005,ORG=0.110,O=0.003]	O	PER
+Berri	[PER=0.457,LOC=0.472,ORG=0.067,O=0.004]	PER	PER
+:	[PER=0.004,LOC=0.002,ORG=0.001,O=0.993]	O	O
+Israel	[PER=0.003,LOC=0.995,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.062,LOC=0.906,ORG=0.026,O=0.006]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.086,LOC=0.322,ORG=0.498,O=0.094]	ORG	ORG
+-	[PER=0.013,LOC=0.001,ORG=0.031,O=0.955]	O	O
+Parliament	[PER=0.818,LOC=0.004,ORG=0.174,O=0.005]	O	PER
+Speaker	[PER=0.882,LOC=0.005,ORG=0.110,O=0.003]	O	PER
+Berri	[PER=0.457,LOC=0.472,ORG=0.067,O=0.004]	PER	PER
+:	[PER=0.004,LOC=0.002,ORG=0.001,O=0.993]	O	O
+Israel	[PER=0.003,LOC=0.995,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.062,LOC=0.906,ORG=0.026,O=0.006]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 4 "Berri"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.086,LOC=0.322,ORG=0.498,O=0.094]	ORG	ORG
+-	[PER=0.013,LOC=0.001,ORG=0.031,O=0.955]	O	O
+Parliament	[PER=0.818,LOC=0.004,ORG=0.174,O=0.005]	O	PER
+Speaker	[PER=0.882,LOC=0.005,ORG=0.110,O=0.003]	O	PER
+Berri	[PER=0.457,LOC=0.472,ORG=0.067,O=0.004]	PER	PER
+:	[PER=0.004,LOC=0.002,ORG=0.001,O=0.993]	O	O
+Israel	[PER=0.003,LOC=0.995,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.062,LOC=0.906,ORG=0.026,O=0.006]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Berri
+-----------
+Move choice:
+Launch query on token 2 "Parliament"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.086,LOC=0.322,ORG=0.498,O=0.094]	ORG	ORG
+-	[PER=0.013,LOC=0.001,ORG=0.031,O=0.955]	O	O
+Parliament	[PER=0.818,LOC=0.004,ORG=0.174,O=0.005]	O	PER
+Speaker	[PER=0.882,LOC=0.005,ORG=0.110,O=0.003]	O	PER
+Berri	[PER=0.457,LOC=0.472,ORG=0.067,O=0.004]	PER	PER
+:	[PER=0.004,LOC=0.002,ORG=0.001,O=0.993]	O	O
+Israel	[PER=0.003,LOC=0.995,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.062,LOC=0.906,ORG=0.026,O=0.006]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Parliament
+	Berri
+-----------
+Move choice:
+Launch query on token 14 "Lebanon"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.086,LOC=0.322,ORG=0.498,O=0.094]	ORG	ORG
+-	[PER=0.013,LOC=0.001,ORG=0.031,O=0.955]	O	O
+Parliament	[PER=0.818,LOC=0.004,ORG=0.174,O=0.005]	O	PER
+Speaker	[PER=0.882,LOC=0.005,ORG=0.110,O=0.003]	O	PER
+Berri	[PER=0.457,LOC=0.472,ORG=0.067,O=0.004]	PER	PER
+:	[PER=0.004,LOC=0.002,ORG=0.001,O=0.993]	O	O
+Israel	[PER=0.003,LOC=0.995,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.062,LOC=0.906,ORG=0.026,O=0.006]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Parliament
+	Berri
+	Lebanon
+-----------
+Next event:
+Got response on token 4 "Berri" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.087,LOC=0.326,ORG=0.492,O=0.095]	ORG	ORG
+-	[PER=0.014,LOC=0.001,ORG=0.020,O=0.965]	O	O
+Parliament	[PER=0.889,LOC=0.003,ORG=0.103,O=0.005]	O	PER
+Speaker	[PER=0.963,LOC=0.001,ORG=0.035,O=0.001]	O	PER
+Berri	[PER=0.855,LOC=0.126,ORG=0.018,O=0.001]	PER	PER
+:	[PER=0.007,LOC=0.002,ORG=0.000,O=0.990]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.062,LOC=0.906,ORG=0.026,O=0.006]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Parliament
+	Lebanon
+-----------
+Next event:
+Got response on token 2 "Parliament" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.080,LOC=0.310,ORG=0.520,O=0.090]	ORG	ORG
+-	[PER=0.009,LOC=0.000,ORG=0.072,O=0.918]	O	O
+Parliament	[PER=0.549,LOC=0.002,ORG=0.446,O=0.003]	O	PER
+Speaker	[PER=0.847,LOC=0.004,ORG=0.147,O=0.002]	O	PER
+Berri	[PER=0.774,LOC=0.161,ORG=0.064,O=0.001]	PER	PER
+:	[PER=0.007,LOC=0.002,ORG=0.001,O=0.990]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.062,LOC=0.906,ORG=0.026,O=0.006]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lebanon
+-----------
+Move choice:
+Launch query on token 4 "Berri"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.080,LOC=0.310,ORG=0.520,O=0.090]	ORG	ORG
+-	[PER=0.009,LOC=0.000,ORG=0.072,O=0.918]	O	O
+Parliament	[PER=0.549,LOC=0.002,ORG=0.446,O=0.003]	O	PER
+Speaker	[PER=0.847,LOC=0.004,ORG=0.147,O=0.002]	O	PER
+Berri	[PER=0.774,LOC=0.161,ORG=0.064,O=0.001]	PER	PER
+:	[PER=0.007,LOC=0.002,ORG=0.001,O=0.990]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.062,LOC=0.906,ORG=0.026,O=0.006]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Lebanon
+	Berri
+-----------
+Move choice:
+Launch query on token 1 "-"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.080,LOC=0.310,ORG=0.520,O=0.090]	ORG	ORG
+-	[PER=0.009,LOC=0.000,ORG=0.072,O=0.918]	O	O
+Parliament	[PER=0.549,LOC=0.002,ORG=0.446,O=0.003]	O	PER
+Speaker	[PER=0.847,LOC=0.004,ORG=0.147,O=0.002]	O	PER
+Berri	[PER=0.774,LOC=0.161,ORG=0.064,O=0.001]	PER	PER
+:	[PER=0.007,LOC=0.002,ORG=0.001,O=0.990]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.062,LOC=0.906,ORG=0.026,O=0.006]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	-
+	Lebanon
+	Berri
+-----------
+Next event:
+Got response on token 14 "Lebanon" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.080,LOC=0.310,ORG=0.520,O=0.090]	ORG	ORG
+-	[PER=0.009,LOC=0.000,ORG=0.072,O=0.918]	O	O
+Parliament	[PER=0.549,LOC=0.002,ORG=0.446,O=0.003]	O	PER
+Speaker	[PER=0.847,LOC=0.004,ORG=0.147,O=0.002]	O	PER
+Berri	[PER=0.774,LOC=0.161,ORG=0.064,O=0.001]	PER	PER
+:	[PER=0.007,LOC=0.002,ORG=0.001,O=0.990]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	-
+	Berri
+-----------
+Move choice:
+Launch query on token 2 "Parliament"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.080,LOC=0.310,ORG=0.520,O=0.090]	ORG	ORG
+-	[PER=0.009,LOC=0.000,ORG=0.072,O=0.918]	O	O
+Parliament	[PER=0.549,LOC=0.002,ORG=0.446,O=0.003]	O	PER
+Speaker	[PER=0.847,LOC=0.004,ORG=0.147,O=0.002]	O	PER
+Berri	[PER=0.774,LOC=0.161,ORG=0.064,O=0.001]	PER	PER
+:	[PER=0.007,LOC=0.002,ORG=0.001,O=0.990]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Parliament
+	-
+	Berri
+-----------
+Move choice:
+Launch query on token 0 "AS-SAFIR"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.080,LOC=0.310,ORG=0.520,O=0.090]	ORG	ORG
+-	[PER=0.009,LOC=0.000,ORG=0.072,O=0.918]	O	O
+Parliament	[PER=0.549,LOC=0.002,ORG=0.446,O=0.003]	O	PER
+Speaker	[PER=0.847,LOC=0.004,ORG=0.147,O=0.002]	O	PER
+Berri	[PER=0.774,LOC=0.161,ORG=0.064,O=0.001]	PER	PER
+:	[PER=0.007,LOC=0.002,ORG=0.001,O=0.990]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+	Parliament
+	-
+	Berri
+-----------
+Next event:
+Got response on token 1 "-" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.080,LOC=0.332,ORG=0.491,O=0.097]	ORG	ORG
+-	[PER=0.001,LOC=0.000,ORG=0.011,O=0.987]	O	O
+Parliament	[PER=0.580,LOC=0.002,ORG=0.415,O=0.003]	O	PER
+Speaker	[PER=0.858,LOC=0.003,ORG=0.137,O=0.002]	O	PER
+Berri	[PER=0.781,LOC=0.158,ORG=0.060,O=0.001]	PER	PER
+:	[PER=0.007,LOC=0.002,ORG=0.001,O=0.990]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+	Parliament
+	Berri
+-----------
+Next event:
+Got response on token 2 "Parliament" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.079,LOC=0.329,ORG=0.496,O=0.096]	ORG	ORG
+-	[PER=0.001,LOC=0.000,ORG=0.021,O=0.978]	O	O
+Parliament	[PER=0.166,LOC=0.001,ORG=0.832,O=0.001]	O	ORG
+Speaker	[PER=0.717,LOC=0.006,ORG=0.273,O=0.004]	O	PER
+Berri	[PER=0.682,LOC=0.200,ORG=0.116,O=0.002]	PER	PER
+:	[PER=0.006,LOC=0.002,ORG=0.001,O=0.990]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+	Berri
+-----------
+Move choice:
+Launch query on token 9 "for"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.079,LOC=0.329,ORG=0.496,O=0.096]	ORG	ORG
+-	[PER=0.001,LOC=0.000,ORG=0.021,O=0.978]	O	O
+Parliament	[PER=0.166,LOC=0.001,ORG=0.832,O=0.001]	O	ORG
+Speaker	[PER=0.717,LOC=0.006,ORG=0.273,O=0.004]	O	PER
+Berri	[PER=0.682,LOC=0.200,ORG=0.116,O=0.002]	PER	PER
+:	[PER=0.006,LOC=0.002,ORG=0.001,O=0.990]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+	for
+	Berri
+-----------
+Next event:
+Got response on token 0 "AS-SAFIR" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.027,LOC=0.774,ORG=0.167,O=0.032]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+Parliament	[PER=0.168,LOC=0.001,ORG=0.830,O=0.001]	O	ORG
+Speaker	[PER=0.718,LOC=0.006,ORG=0.272,O=0.004]	O	PER
+Berri	[PER=0.683,LOC=0.200,ORG=0.115,O=0.002]	PER	PER
+:	[PER=0.006,LOC=0.002,ORG=0.001,O=0.990]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	for
+	Berri
+-----------
+Move choice:
+Launch query on token 1 "-"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.027,LOC=0.774,ORG=0.167,O=0.032]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+Parliament	[PER=0.168,LOC=0.001,ORG=0.830,O=0.001]	O	ORG
+Speaker	[PER=0.718,LOC=0.006,ORG=0.272,O=0.004]	O	PER
+Berri	[PER=0.683,LOC=0.200,ORG=0.115,O=0.002]	PER	PER
+:	[PER=0.006,LOC=0.002,ORG=0.001,O=0.990]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	for
+	-
+	Berri
+-----------
+Next event:
+Got response on token 9 "for" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.027,LOC=0.774,ORG=0.167,O=0.032]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+Parliament	[PER=0.168,LOC=0.001,ORG=0.830,O=0.001]	O	ORG
+Speaker	[PER=0.718,LOC=0.006,ORG=0.272,O=0.004]	O	PER
+Berri	[PER=0.683,LOC=0.200,ORG=0.115,O=0.002]	PER	PER
+:	[PER=0.006,LOC=0.002,ORG=0.001,O=0.990]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	-
+	Berri
+-----------
+Next event:
+Got response on token 4 "Berri" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.027,LOC=0.775,ORG=0.167,O=0.032]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+Parliament	[PER=0.207,LOC=0.001,ORG=0.791,O=0.001]	O	ORG
+Speaker	[PER=0.886,LOC=0.002,ORG=0.111,O=0.002]	O	PER
+Berri	[PER=0.938,LOC=0.039,ORG=0.023,O=0.000]	PER	PER
+:	[PER=0.008,LOC=0.002,ORG=0.001,O=0.989]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	-
+-----------
+Move choice:
+Launch query on token 3 "Speaker"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.027,LOC=0.775,ORG=0.167,O=0.032]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+Parliament	[PER=0.207,LOC=0.001,ORG=0.791,O=0.001]	O	ORG
+Speaker	[PER=0.886,LOC=0.002,ORG=0.111,O=0.002]	O	PER
+Berri	[PER=0.938,LOC=0.039,ORG=0.023,O=0.000]	PER	PER
+:	[PER=0.008,LOC=0.002,ORG=0.001,O=0.989]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Speaker
+	-
+-----------
+Next event:
+Got response on token 1 "-" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.027,LOC=0.779,ORG=0.162,O=0.032]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Parliament	[PER=0.208,LOC=0.001,ORG=0.790,O=0.001]	O	ORG
+Speaker	[PER=0.886,LOC=0.002,ORG=0.110,O=0.002]	O	PER
+Berri	[PER=0.938,LOC=0.039,ORG=0.023,O=0.000]	PER	PER
+:	[PER=0.008,LOC=0.002,ORG=0.001,O=0.989]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Speaker
+-----------
+Move choice:
+Launch query on token 0 "AS-SAFIR"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.027,LOC=0.779,ORG=0.162,O=0.032]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Parliament	[PER=0.208,LOC=0.001,ORG=0.790,O=0.001]	O	ORG
+Speaker	[PER=0.886,LOC=0.002,ORG=0.110,O=0.002]	O	PER
+Berri	[PER=0.938,LOC=0.039,ORG=0.023,O=0.000]	PER	PER
+:	[PER=0.008,LOC=0.002,ORG=0.001,O=0.989]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Speaker
+	AS-SAFIR
+-----------
+Move choice:
+Launch query on token 2 "Parliament"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.027,LOC=0.779,ORG=0.162,O=0.032]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Parliament	[PER=0.208,LOC=0.001,ORG=0.790,O=0.001]	O	ORG
+Speaker	[PER=0.886,LOC=0.002,ORG=0.110,O=0.002]	O	PER
+Berri	[PER=0.938,LOC=0.039,ORG=0.023,O=0.000]	PER	PER
+:	[PER=0.008,LOC=0.002,ORG=0.001,O=0.989]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Speaker
+	Parliament
+	AS-SAFIR
+-----------
+Next event:
+Got response on token 3 "Speaker" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.027,LOC=0.779,ORG=0.162,O=0.032]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Parliament	[PER=0.206,LOC=0.001,ORG=0.792,O=0.001]	O	ORG
+Speaker	[PER=0.875,LOC=0.002,ORG=0.109,O=0.014]	O	PER
+Berri	[PER=0.935,LOC=0.042,ORG=0.022,O=0.000]	PER	PER
+:	[PER=0.008,LOC=0.002,ORG=0.001,O=0.989]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Parliament
+	AS-SAFIR
+-----------
+Move choice:
+Launch query on token 2 "Parliament"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.027,LOC=0.779,ORG=0.162,O=0.032]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Parliament	[PER=0.206,LOC=0.001,ORG=0.792,O=0.001]	O	ORG
+Speaker	[PER=0.875,LOC=0.002,ORG=0.109,O=0.014]	O	PER
+Berri	[PER=0.935,LOC=0.042,ORG=0.022,O=0.000]	PER	PER
+:	[PER=0.008,LOC=0.002,ORG=0.001,O=0.989]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Parliament
+	Parliament
+	AS-SAFIR
+-----------
+Next event:
+Got response on token 0 "AS-SAFIR" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.028,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.206,LOC=0.001,ORG=0.792,O=0.001]	O	ORG
+Speaker	[PER=0.875,LOC=0.002,ORG=0.109,O=0.014]	O	PER
+Berri	[PER=0.935,LOC=0.042,ORG=0.022,O=0.000]	PER	PER
+:	[PER=0.008,LOC=0.002,ORG=0.001,O=0.989]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Parliament
+	Parliament
+-----------
+Move choice:
+Launch query on token 4 "Berri"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.028,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.206,LOC=0.001,ORG=0.792,O=0.001]	O	ORG
+Speaker	[PER=0.875,LOC=0.002,ORG=0.109,O=0.014]	O	PER
+Berri	[PER=0.935,LOC=0.042,ORG=0.022,O=0.000]	PER	PER
+:	[PER=0.008,LOC=0.002,ORG=0.001,O=0.989]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Parliament
+	Parliament
+	Berri
+-----------
+Move choice:
+Launch query on token 3 "Speaker"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.028,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.206,LOC=0.001,ORG=0.792,O=0.001]	O	ORG
+Speaker	[PER=0.875,LOC=0.002,ORG=0.109,O=0.014]	O	PER
+Berri	[PER=0.935,LOC=0.042,ORG=0.022,O=0.000]	PER	PER
+:	[PER=0.008,LOC=0.002,ORG=0.001,O=0.989]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Speaker
+	Parliament
+	Parliament
+	Berri
+-----------
+Next event:
+Got response on token 4 "Berri" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.028,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.215,LOC=0.001,ORG=0.783,O=0.001]	O	ORG
+Speaker	[PER=0.912,LOC=0.001,ORG=0.076,O=0.011]	O	PER
+Berri	[PER=0.990,LOC=0.006,ORG=0.003,O=0.000]	PER	PER
+:	[PER=0.009,LOC=0.002,ORG=0.000,O=0.989]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Speaker
+	Parliament
+	Parliament
+-----------
+Move choice:
+Launch query on token 5 ":"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.028,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.215,LOC=0.001,ORG=0.783,O=0.001]	O	ORG
+Speaker	[PER=0.912,LOC=0.001,ORG=0.076,O=0.011]	O	PER
+Berri	[PER=0.990,LOC=0.006,ORG=0.003,O=0.000]	PER	PER
+:	[PER=0.009,LOC=0.002,ORG=0.000,O=0.989]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Speaker
+	Parliament
+	Parliament
+	:
+-----------
+Move choice:
+Launch query on token 6 "Israel"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.028,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.215,LOC=0.001,ORG=0.783,O=0.001]	O	ORG
+Speaker	[PER=0.912,LOC=0.001,ORG=0.076,O=0.011]	O	PER
+Berri	[PER=0.990,LOC=0.006,ORG=0.003,O=0.000]	PER	PER
+:	[PER=0.009,LOC=0.002,ORG=0.000,O=0.989]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Speaker
+	Israel
+	Parliament
+	Parliament
+	:
+-----------
+Next event:
+Got response on token 2 "Parliament" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.038,LOC=0.000,ORG=0.962,O=0.000]	O	ORG
+Speaker	[PER=0.892,LOC=0.001,ORG=0.093,O=0.014]	O	PER
+Berri	[PER=0.989,LOC=0.007,ORG=0.004,O=0.000]	PER	PER
+:	[PER=0.008,LOC=0.002,ORG=0.000,O=0.989]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Speaker
+	Israel
+	Parliament
+	:
+-----------
+Move choice:
+Launch query on token 14 "Lebanon"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.038,LOC=0.000,ORG=0.962,O=0.000]	O	ORG
+Speaker	[PER=0.892,LOC=0.001,ORG=0.093,O=0.014]	O	PER
+Berri	[PER=0.989,LOC=0.007,ORG=0.004,O=0.000]	PER	PER
+:	[PER=0.008,LOC=0.002,ORG=0.000,O=0.989]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Speaker
+	Israel
+	Parliament
+	Lebanon
+	:
+-----------
+Next event:
+Got response on token 5 ":" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.038,LOC=0.000,ORG=0.962,O=0.000]	O	ORG
+Speaker	[PER=0.892,LOC=0.001,ORG=0.093,O=0.014]	O	PER
+Berri	[PER=0.989,LOC=0.007,ORG=0.004,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.002,LOC=0.995,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Speaker
+	Israel
+	Parliament
+	Lebanon
+-----------
+Next event:
+Got response on token 2 "Parliament" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.038,LOC=0.000,ORG=0.961,O=0.001]	O	ORG
+Speaker	[PER=0.892,LOC=0.001,ORG=0.093,O=0.014]	O	PER
+Berri	[PER=0.989,LOC=0.007,ORG=0.004,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.002,LOC=0.995,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Speaker
+	Israel
+	Lebanon
+-----------
+Move choice:
+Launch query on token 0 "AS-SAFIR"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.038,LOC=0.000,ORG=0.961,O=0.001]	O	ORG
+Speaker	[PER=0.892,LOC=0.001,ORG=0.093,O=0.014]	O	PER
+Berri	[PER=0.989,LOC=0.007,ORG=0.004,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.002,LOC=0.995,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.010,LOC=0.985,ORG=0.004,O=0.001]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Speaker
+	Israel
+	AS-SAFIR
+	Lebanon
+-----------
+Next event:
+Got response on token 14 "Lebanon" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.038,LOC=0.000,ORG=0.961,O=0.001]	O	ORG
+Speaker	[PER=0.892,LOC=0.001,ORG=0.093,O=0.014]	O	PER
+Berri	[PER=0.989,LOC=0.007,ORG=0.004,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.002,LOC=0.995,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Speaker
+	Israel
+	AS-SAFIR
+-----------
+Next event:
+Got response on token 3 "Speaker" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.035,LOC=0.000,ORG=0.963,O=0.002]	O	ORG
+Speaker	[PER=0.824,LOC=0.001,ORG=0.086,O=0.089]	O	PER
+Berri	[PER=0.986,LOC=0.010,ORG=0.004,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.002,LOC=0.995,ORG=0.002,O=0.001]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Israel
+	AS-SAFIR
+-----------
+Next event:
+Got response on token 6 "Israel" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.035,LOC=0.000,ORG=0.963,O=0.002]	O	ORG
+Speaker	[PER=0.824,LOC=0.001,ORG=0.086,O=0.089]	O	PER
+Berri	[PER=0.986,LOC=0.010,ORG=0.004,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+-----------
+Move choice:
+Launch query on token 3 "Speaker"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.035,LOC=0.000,ORG=0.963,O=0.002]	O	ORG
+Speaker	[PER=0.824,LOC=0.001,ORG=0.086,O=0.089]	O	PER
+Berri	[PER=0.986,LOC=0.010,ORG=0.004,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+	Speaker
+-----------
+Move choice:
+Launch query on token 12 "Syria"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.035,LOC=0.000,ORG=0.963,O=0.002]	O	ORG
+Speaker	[PER=0.824,LOC=0.001,ORG=0.086,O=0.089]	O	PER
+Berri	[PER=0.986,LOC=0.010,ORG=0.004,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+	Speaker
+	Syria
+-----------
+Move choice:
+Launch query on token 4 "Berri"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.035,LOC=0.000,ORG=0.963,O=0.002]	O	ORG
+Speaker	[PER=0.824,LOC=0.001,ORG=0.086,O=0.089]	O	PER
+Berri	[PER=0.986,LOC=0.010,ORG=0.004,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+	Berri
+	Speaker
+	Syria
+-----------
+Move choice:
+Launch query on token 2 "Parliament"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.035,LOC=0.000,ORG=0.963,O=0.002]	O	ORG
+Speaker	[PER=0.824,LOC=0.001,ORG=0.086,O=0.089]	O	PER
+Berri	[PER=0.986,LOC=0.010,ORG=0.004,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.004,LOC=0.994,ORG=0.002,O=0.001]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+	Berri
+	Parliament
+	Speaker
+	Syria
+-----------
+Next event:
+Got response on token 12 "Syria" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.035,LOC=0.000,ORG=0.963,O=0.002]	O	ORG
+Speaker	[PER=0.824,LOC=0.001,ORG=0.086,O=0.089]	O	PER
+Berri	[PER=0.986,LOC=0.010,ORG=0.004,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+	Berri
+	Parliament
+	Speaker
+-----------
+Next event:
+Got response on token 3 "Speaker" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.041,LOC=0.000,ORG=0.957,O=0.001]	O	ORG
+Speaker	[PER=0.970,LOC=0.000,ORG=0.015,O=0.015]	O	PER
+Berri	[PER=0.995,LOC=0.004,ORG=0.001,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+	Berri
+	Parliament
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1089
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.041,LOC=0.000,ORG=0.957,O=0.001]	O	ORG
+Speaker	[PER=0.970,LOC=0.000,ORG=0.015,O=0.015]	O	PER
+Berri	[PER=0.995,LOC=0.004,ORG=0.001,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+	Berri
+	Parliament
+-----------
+Next event:
+Got response on token 2 "Parliament" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.041,LOC=0.000,ORG=0.949,O=0.010]	O	ORG
+Speaker	[PER=0.970,LOC=0.000,ORG=0.014,O=0.015]	O	PER
+Berri	[PER=0.995,LOC=0.004,ORG=0.001,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+	Berri
+-----------
+Move choice:
+Launch query on token 3 "Speaker"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.041,LOC=0.000,ORG=0.949,O=0.010]	O	ORG
+Speaker	[PER=0.970,LOC=0.000,ORG=0.014,O=0.015]	O	PER
+Berri	[PER=0.995,LOC=0.004,ORG=0.001,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+	Berri
+	Speaker
+-----------
+Next event:
+Got response on token 4 "Berri" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.041,LOC=0.000,ORG=0.949,O=0.010]	O	ORG
+Speaker	[PER=0.972,LOC=0.000,ORG=0.013,O=0.015]	O	PER
+Berri	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+	Speaker
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@10ee
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.041,LOC=0.000,ORG=0.949,O=0.010]	O	ORG
+Speaker	[PER=0.972,LOC=0.000,ORG=0.013,O=0.015]	O	PER
+Berri	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+	Speaker
+-----------
+Next event:
+Got response on token 3 "Speaker" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.038,LOC=0.000,ORG=0.951,O=0.011]	O	ORG
+Speaker	[PER=0.894,LOC=0.000,ORG=0.012,O=0.093]	O	PER
+Berri	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1118
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.005,LOC=0.961,ORG=0.029,O=0.006]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.038,LOC=0.000,ORG=0.951,O=0.011]	O	ORG
+Speaker	[PER=0.894,LOC=0.000,ORG=0.012,O=0.093]	O	PER
+Berri	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+-----------
+Next event:
+Got response on token 0 "AS-SAFIR" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.001,LOC=0.994,ORG=0.004,O=0.001]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.038,LOC=0.000,ORG=0.951,O=0.011]	O	ORG
+Speaker	[PER=0.894,LOC=0.000,ORG=0.012,O=0.093]	O	PER
+Berri	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "AS-SAFIR"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.001,LOC=0.994,ORG=0.004,O=0.001]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.038,LOC=0.000,ORG=0.951,O=0.011]	O	ORG
+Speaker	[PER=0.894,LOC=0.000,ORG=0.012,O=0.093]	O	PER
+Berri	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+-----------
+Move choice:
+Launch query on token 3 "Speaker"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.001,LOC=0.994,ORG=0.004,O=0.001]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.038,LOC=0.000,ORG=0.951,O=0.011]	O	ORG
+Speaker	[PER=0.894,LOC=0.000,ORG=0.012,O=0.093]	O	PER
+Berri	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Speaker
+	AS-SAFIR
+-----------
+Move choice:
+Launch query on token 12 "Syria"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.001,LOC=0.994,ORG=0.004,O=0.001]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.038,LOC=0.000,ORG=0.951,O=0.011]	O	ORG
+Speaker	[PER=0.894,LOC=0.000,ORG=0.012,O=0.093]	O	PER
+Berri	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Speaker
+	Syria
+	AS-SAFIR
+-----------
+Move choice:
+Launch query on token 6 "Israel"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.001,LOC=0.994,ORG=0.004,O=0.001]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.038,LOC=0.000,ORG=0.951,O=0.011]	O	ORG
+Speaker	[PER=0.894,LOC=0.000,ORG=0.012,O=0.093]	O	PER
+Berri	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Speaker
+	Israel
+	Syria
+	AS-SAFIR
+-----------
+Next event:
+Got response on token 3 "Speaker" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.001,LOC=0.994,ORG=0.004,O=0.001]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.025,LOC=0.000,ORG=0.959,O=0.016]	O	ORG
+Speaker	[PER=0.573,LOC=0.000,ORG=0.008,O=0.419]	O	PER
+Berri	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Israel
+	Syria
+	AS-SAFIR
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1c0f
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.001,LOC=0.994,ORG=0.004,O=0.001]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.025,LOC=0.000,ORG=0.959,O=0.016]	O	ORG
+Speaker	[PER=0.573,LOC=0.000,ORG=0.008,O=0.419]	O	PER
+Berri	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Israel
+	Syria
+	AS-SAFIR
+-----------
+Next event:
+Got response on token 6 "Israel" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.001,LOC=0.994,ORG=0.004,O=0.001]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.025,LOC=0.000,ORG=0.959,O=0.016]	O	ORG
+Speaker	[PER=0.573,LOC=0.000,ORG=0.008,O=0.419]	O	PER
+Berri	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Syria
+	AS-SAFIR
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1c76
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.001,LOC=0.994,ORG=0.004,O=0.001]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.025,LOC=0.000,ORG=0.959,O=0.016]	O	ORG
+Speaker	[PER=0.573,LOC=0.000,ORG=0.008,O=0.419]	O	PER
+Berri	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Syria
+	AS-SAFIR
+-----------
+Next event:
+Got response on token 12 "Syria" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.001,LOC=0.994,ORG=0.004,O=0.001]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.025,LOC=0.000,ORG=0.959,O=0.016]	O	ORG
+Speaker	[PER=0.573,LOC=0.000,ORG=0.008,O=0.419]	O	PER
+Berri	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1d0c
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.001,LOC=0.994,ORG=0.004,O=0.001]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.025,LOC=0.000,ORG=0.959,O=0.016]	O	ORG
+Speaker	[PER=0.573,LOC=0.000,ORG=0.008,O=0.419]	O	PER
+Berri	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	AS-SAFIR
+-----------
+Next event:
+Got response on token 0 "AS-SAFIR" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AS-SAFIR	[PER=0.000,LOC=0.999,ORG=0.001,O=0.000]	ORG	LOC
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Parliament	[PER=0.025,LOC=0.000,ORG=0.959,O=0.016]	O	ORG
+Speaker	[PER=0.573,LOC=0.000,ORG=0.008,O=0.419]	O	PER
+Berri	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+preparing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+against	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Lebanon	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@1d35

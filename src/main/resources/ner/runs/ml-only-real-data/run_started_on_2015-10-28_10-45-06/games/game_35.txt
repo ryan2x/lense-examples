@@ -1,0 +1,37 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Israel	LOC	ORG	0
+plays	O	O	0
+down	O	O	0
+fears	O	O	0
+of	O	O	0
+war	O	O	0
+with	O	O	0
+Syria	LOC	PER	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Israel	[PER=0.249,LOC=0.187,ORG=0.433,O=0.131]	LOC	ORG
+plays	[PER=0.013,LOC=0.002,ORG=0.013,O=0.972]	O	O
+down	[PER=0.005,LOC=0.004,ORG=0.005,O=0.986]	O	O
+fears	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+war	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Syria	[PER=0.486,LOC=0.173,ORG=0.161,O=0.180]	LOC	PER
+.	[PER=0.003,LOC=0.001,ORG=0.002,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

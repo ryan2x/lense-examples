@@ -1,0 +1,53 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+--	O	O	0
+Hong	ORG	PER	0
+Kong	ORG	PER	0
+Newsroom	ORG	PER	0
+(	O	O	0
+852	O	O	0
+)	O	O	0
+2847	O	O	0
+4039	O	O	0
+Malaysia	LOC	LOC	0
+bans	O	O	0
+nitrofuran	O	O	0
+usage	O	O	0
+in	O	O	0
+chicken	O	O	0
+feed	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.006,LOC=0.001,ORG=0.006,O=0.987]	O	O
+Hong	[PER=0.622,LOC=0.027,ORG=0.332,O=0.019]	ORG	PER
+Kong	[PER=0.579,LOC=0.006,ORG=0.413,O=0.002]	ORG	PER
+Newsroom	[PER=0.399,LOC=0.010,ORG=0.528,O=0.062]	ORG	PER
+(	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+852	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2847	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+4039	[PER=0.000,LOC=0.004,ORG=0.001,O=0.995]	O	O
+Malaysia	[PER=0.046,LOC=0.920,ORG=0.018,O=0.015]	LOC	LOC
+bans	[PER=0.000,LOC=0.002,ORG=0.003,O=0.994]	O	O
+nitrofuran	[PER=0.000,LOC=0.003,ORG=0.001,O=0.996]	O	O
+usage	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+chicken	[PER=0.001,LOC=0.003,ORG=0.001,O=0.995]	O	O
+feed	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

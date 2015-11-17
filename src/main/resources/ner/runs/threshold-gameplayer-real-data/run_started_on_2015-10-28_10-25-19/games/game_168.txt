@@ -1,0 +1,2527 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+In	O	O	4
+Rishon-Lezion	LOC	LOC	4
+:	O	O	1
+Hapoel	ORG	ORG	4
+Ironi	ORG	ORG	4
+(	O	O	0
+Israel	LOC	LOC	1
+)	O	O	0
+3	O	O	0
+Constructorul	ORG	ORG	4
+Chisinau	ORG	ORG	4
+(	O	O	0
+Moldova	LOC	LOC	3
+)	O	O	0
+2	O	O	0
+(	O	O	0
+2-1	O	O	0
+)	O	O	0
+Aggregate	O	O	1
+3-3	O	O	1
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.016,LOC=0.004,ORG=0.258,O=0.722]	O	O
+Rishon-Lezion	[PER=0.090,LOC=0.049,ORG=0.578,O=0.283]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.010,O=0.986]	O	O
+Hapoel	[PER=0.758,LOC=0.069,ORG=0.144,O=0.029]	ORG	PER
+Ironi	[PER=0.743,LOC=0.133,ORG=0.109,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.016,LOC=0.004,ORG=0.258,O=0.722]	O	O
+Rishon-Lezion	[PER=0.090,LOC=0.049,ORG=0.578,O=0.283]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.010,O=0.986]	O	O
+Hapoel	[PER=0.758,LOC=0.069,ORG=0.144,O=0.029]	ORG	PER
+Ironi	[PER=0.743,LOC=0.133,ORG=0.109,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@b6
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.016,LOC=0.004,ORG=0.258,O=0.722]	O	O
+Rishon-Lezion	[PER=0.090,LOC=0.049,ORG=0.578,O=0.283]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.010,O=0.986]	O	O
+Hapoel	[PER=0.758,LOC=0.069,ORG=0.144,O=0.029]	ORG	PER
+Ironi	[PER=0.743,LOC=0.133,ORG=0.109,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.016,LOC=0.004,ORG=0.258,O=0.722]	O	O
+Rishon-Lezion	[PER=0.090,LOC=0.049,ORG=0.578,O=0.283]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.010,O=0.986]	O	O
+Hapoel	[PER=0.758,LOC=0.069,ORG=0.144,O=0.029]	ORG	PER
+Ironi	[PER=0.743,LOC=0.133,ORG=0.109,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@d2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.016,LOC=0.004,ORG=0.258,O=0.722]	O	O
+Rishon-Lezion	[PER=0.090,LOC=0.049,ORG=0.578,O=0.283]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.010,O=0.986]	O	O
+Hapoel	[PER=0.758,LOC=0.069,ORG=0.144,O=0.029]	ORG	PER
+Ironi	[PER=0.743,LOC=0.133,ORG=0.109,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.016,LOC=0.004,ORG=0.258,O=0.722]	O	O
+Rishon-Lezion	[PER=0.090,LOC=0.049,ORG=0.578,O=0.283]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.010,O=0.986]	O	O
+Hapoel	[PER=0.758,LOC=0.069,ORG=0.144,O=0.029]	ORG	PER
+Ironi	[PER=0.743,LOC=0.133,ORG=0.109,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@e1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.016,LOC=0.004,ORG=0.258,O=0.722]	O	O
+Rishon-Lezion	[PER=0.090,LOC=0.049,ORG=0.578,O=0.283]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.010,O=0.986]	O	O
+Hapoel	[PER=0.758,LOC=0.069,ORG=0.144,O=0.029]	ORG	PER
+Ironi	[PER=0.743,LOC=0.133,ORG=0.109,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.016,LOC=0.004,ORG=0.258,O=0.722]	O	O
+Rishon-Lezion	[PER=0.090,LOC=0.049,ORG=0.578,O=0.283]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.010,O=0.986]	O	O
+Hapoel	[PER=0.758,LOC=0.069,ORG=0.144,O=0.029]	ORG	PER
+Ironi	[PER=0.743,LOC=0.133,ORG=0.109,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@100
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.016,LOC=0.004,ORG=0.258,O=0.722]	O	O
+Rishon-Lezion	[PER=0.090,LOC=0.049,ORG=0.578,O=0.283]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.010,O=0.986]	O	O
+Hapoel	[PER=0.758,LOC=0.069,ORG=0.144,O=0.029]	ORG	PER
+Ironi	[PER=0.743,LOC=0.133,ORG=0.109,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "In"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.016,LOC=0.004,ORG=0.258,O=0.722]	O	O
+Rishon-Lezion	[PER=0.090,LOC=0.049,ORG=0.578,O=0.283]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.010,O=0.986]	O	O
+Hapoel	[PER=0.758,LOC=0.069,ORG=0.144,O=0.029]	ORG	PER
+Ironi	[PER=0.743,LOC=0.133,ORG=0.109,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	In
+-----------
+Move choice:
+Launch query on token 0 "In"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.016,LOC=0.004,ORG=0.258,O=0.722]	O	O
+Rishon-Lezion	[PER=0.090,LOC=0.049,ORG=0.578,O=0.283]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.010,O=0.986]	O	O
+Hapoel	[PER=0.758,LOC=0.069,ORG=0.144,O=0.029]	ORG	PER
+Ironi	[PER=0.743,LOC=0.133,ORG=0.109,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	In
+	In
+-----------
+Move choice:
+Launch query on token 0 "In"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.016,LOC=0.004,ORG=0.258,O=0.722]	O	O
+Rishon-Lezion	[PER=0.090,LOC=0.049,ORG=0.578,O=0.283]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.010,O=0.986]	O	O
+Hapoel	[PER=0.758,LOC=0.069,ORG=0.144,O=0.029]	ORG	PER
+Ironi	[PER=0.743,LOC=0.133,ORG=0.109,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	In
+	In
+	In
+-----------
+Move choice:
+Launch query on token 0 "In"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.016,LOC=0.004,ORG=0.258,O=0.722]	O	O
+Rishon-Lezion	[PER=0.090,LOC=0.049,ORG=0.578,O=0.283]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.010,O=0.986]	O	O
+Hapoel	[PER=0.758,LOC=0.069,ORG=0.144,O=0.029]	ORG	PER
+Ironi	[PER=0.743,LOC=0.133,ORG=0.109,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	In
+	In
+	In
+	In
+-----------
+Move choice:
+Launch query on token 1 "Rishon-Lezion"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.016,LOC=0.004,ORG=0.258,O=0.722]	O	O
+Rishon-Lezion	[PER=0.090,LOC=0.049,ORG=0.578,O=0.283]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.010,O=0.986]	O	O
+Hapoel	[PER=0.758,LOC=0.069,ORG=0.144,O=0.029]	ORG	PER
+Ironi	[PER=0.743,LOC=0.133,ORG=0.109,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	In
+	In
+	In
+	In
+	Rishon-Lezion
+-----------
+Next event:
+Got response on token 0 "In" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.003,LOC=0.001,ORG=0.048,O=0.948]	O	O
+Rishon-Lezion	[PER=0.101,LOC=0.063,ORG=0.470,O=0.367]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.008,O=0.987]	O	O
+Hapoel	[PER=0.759,LOC=0.069,ORG=0.143,O=0.029]	ORG	PER
+Ironi	[PER=0.744,LOC=0.133,ORG=0.108,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	In
+	In
+	In
+	Rishon-Lezion
+-----------
+Next event:
+Got response on token 0 "In" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+Rishon-Lezion	[PER=0.103,LOC=0.065,ORG=0.449,O=0.383]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.008,O=0.988]	O	O
+Hapoel	[PER=0.759,LOC=0.069,ORG=0.143,O=0.029]	ORG	PER
+Ironi	[PER=0.744,LOC=0.133,ORG=0.108,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	In
+	In
+	Rishon-Lezion
+-----------
+Next event:
+Got response on token 0 "In" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Rishon-Lezion	[PER=0.103,LOC=0.066,ORG=0.445,O=0.386]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.008,O=0.988]	O	O
+Hapoel	[PER=0.759,LOC=0.069,ORG=0.143,O=0.029]	ORG	PER
+Ironi	[PER=0.744,LOC=0.133,ORG=0.108,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	In
+	Rishon-Lezion
+-----------
+Move choice:
+Launch query on token 1 "Rishon-Lezion"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Rishon-Lezion	[PER=0.103,LOC=0.066,ORG=0.445,O=0.386]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.008,O=0.988]	O	O
+Hapoel	[PER=0.759,LOC=0.069,ORG=0.143,O=0.029]	ORG	PER
+Ironi	[PER=0.744,LOC=0.133,ORG=0.108,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Rishon-Lezion
+	In
+	Rishon-Lezion
+-----------
+Move choice:
+Launch query on token 1 "Rishon-Lezion"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Rishon-Lezion	[PER=0.103,LOC=0.066,ORG=0.445,O=0.386]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.008,O=0.988]	O	O
+Hapoel	[PER=0.759,LOC=0.069,ORG=0.143,O=0.029]	ORG	PER
+Ironi	[PER=0.744,LOC=0.133,ORG=0.108,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Rishon-Lezion
+	Rishon-Lezion
+	In
+	Rishon-Lezion
+-----------
+Next event:
+Got response on token 0 "In" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.103,LOC=0.066,ORG=0.445,O=0.386]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.008,O=0.988]	O	O
+Hapoel	[PER=0.759,LOC=0.069,ORG=0.143,O=0.029]	ORG	PER
+Ironi	[PER=0.744,LOC=0.133,ORG=0.108,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Rishon-Lezion
+	Rishon-Lezion
+	Rishon-Lezion
+-----------
+Move choice:
+Launch query on token 1 "Rishon-Lezion"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.103,LOC=0.066,ORG=0.445,O=0.386]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.008,O=0.988]	O	O
+Hapoel	[PER=0.759,LOC=0.069,ORG=0.143,O=0.029]	ORG	PER
+Ironi	[PER=0.744,LOC=0.133,ORG=0.108,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Rishon-Lezion
+	Rishon-Lezion
+	Rishon-Lezion
+	Rishon-Lezion
+-----------
+Move choice:
+Launch query on token 2 ":"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.103,LOC=0.066,ORG=0.445,O=0.386]	LOC	ORG
+:	[PER=0.004,LOC=0.000,ORG=0.008,O=0.988]	O	O
+Hapoel	[PER=0.759,LOC=0.069,ORG=0.143,O=0.029]	ORG	PER
+Ironi	[PER=0.744,LOC=0.133,ORG=0.108,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Rishon-Lezion
+	Rishon-Lezion
+	Rishon-Lezion
+	:
+	Rishon-Lezion
+-----------
+Next event:
+Got response on token 1 "Rishon-Lezion" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.074,LOC=0.330,ORG=0.319,O=0.277]	LOC	LOC
+:	[PER=0.003,LOC=0.000,ORG=0.006,O=0.991]	O	O
+Hapoel	[PER=0.760,LOC=0.069,ORG=0.141,O=0.029]	ORG	PER
+Ironi	[PER=0.745,LOC=0.133,ORG=0.107,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Rishon-Lezion
+	Rishon-Lezion
+	:
+	Rishon-Lezion
+-----------
+Next event:
+Got response on token 1 "Rishon-Lezion" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.025,LOC=0.775,ORG=0.107,O=0.093]	LOC	LOC
+:	[PER=0.001,LOC=0.000,ORG=0.002,O=0.996]	O	O
+Hapoel	[PER=0.762,LOC=0.070,ORG=0.139,O=0.030]	ORG	PER
+Ironi	[PER=0.746,LOC=0.133,ORG=0.105,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Rishon-Lezion
+	:
+	Rishon-Lezion
+-----------
+Next event:
+Got response on token 1 "Rishon-Lezion" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.004,LOC=0.960,ORG=0.019,O=0.016]	LOC	LOC
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Hapoel	[PER=0.763,LOC=0.070,ORG=0.138,O=0.030]	ORG	PER
+Ironi	[PER=0.747,LOC=0.133,ORG=0.105,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Rishon-Lezion
+	:
+-----------
+Move choice:
+Launch query on token 3 "Hapoel"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.004,LOC=0.960,ORG=0.019,O=0.016]	LOC	LOC
+:	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Hapoel	[PER=0.763,LOC=0.070,ORG=0.138,O=0.030]	ORG	PER
+Ironi	[PER=0.747,LOC=0.133,ORG=0.105,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Rishon-Lezion
+	:
+	Hapoel
+-----------
+Next event:
+Got response on token 1 "Rishon-Lezion" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Hapoel	[PER=0.763,LOC=0.070,ORG=0.138,O=0.030]	ORG	PER
+Ironi	[PER=0.747,LOC=0.133,ORG=0.105,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	:
+	Hapoel
+-----------
+Next event:
+Got response on token 2 ":" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.763,LOC=0.070,ORG=0.138,O=0.030]	ORG	PER
+Ironi	[PER=0.747,LOC=0.133,ORG=0.105,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Hapoel
+-----------
+Move choice:
+Launch query on token 3 "Hapoel"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.763,LOC=0.070,ORG=0.138,O=0.030]	ORG	PER
+Ironi	[PER=0.747,LOC=0.133,ORG=0.105,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Hapoel
+	Hapoel
+-----------
+Move choice:
+Launch query on token 3 "Hapoel"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.763,LOC=0.070,ORG=0.138,O=0.030]	ORG	PER
+Ironi	[PER=0.747,LOC=0.133,ORG=0.105,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Hapoel
+	Hapoel
+	Hapoel
+-----------
+Move choice:
+Launch query on token 3 "Hapoel"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.763,LOC=0.070,ORG=0.138,O=0.030]	ORG	PER
+Ironi	[PER=0.747,LOC=0.133,ORG=0.105,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Hapoel
+	Hapoel
+	Hapoel
+	Hapoel
+-----------
+Move choice:
+Launch query on token 4 "Ironi"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.763,LOC=0.070,ORG=0.138,O=0.030]	ORG	PER
+Ironi	[PER=0.747,LOC=0.133,ORG=0.105,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Hapoel
+	Hapoel
+	Ironi
+	Hapoel
+	Hapoel
+-----------
+Next event:
+Got response on token 3 "Hapoel" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.957,LOC=0.013,ORG=0.025,O=0.005]	ORG	PER
+Ironi	[PER=0.902,LOC=0.066,ORG=0.024,O=0.009]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Hapoel
+	Ironi
+	Hapoel
+	Hapoel
+-----------
+Next event:
+Got response on token 3 "Hapoel" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.891,LOC=0.081,ORG=0.023,O=0.005]	ORG	PER
+Ironi	[PER=0.844,LOC=0.122,ORG=0.023,O=0.011]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Hapoel
+	Ironi
+	Hapoel
+-----------
+Next event:
+Got response on token 3 "Hapoel" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.783,LOC=0.072,ORG=0.141,O=0.004]	ORG	PER
+Ironi	[PER=0.760,LOC=0.122,ORG=0.106,O=0.012]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Hapoel
+	Ironi
+-----------
+Move choice:
+Launch query on token 4 "Ironi"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.783,LOC=0.072,ORG=0.141,O=0.004]	ORG	PER
+Ironi	[PER=0.760,LOC=0.122,ORG=0.106,O=0.012]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Hapoel
+	Ironi
+	Ironi
+-----------
+Move choice:
+Launch query on token 4 "Ironi"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.783,LOC=0.072,ORG=0.141,O=0.004]	ORG	PER
+Ironi	[PER=0.760,LOC=0.122,ORG=0.106,O=0.012]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Hapoel
+	Ironi
+	Ironi
+	Ironi
+-----------
+Move choice:
+Launch query on token 4 "Ironi"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.783,LOC=0.072,ORG=0.141,O=0.004]	ORG	PER
+Ironi	[PER=0.760,LOC=0.122,ORG=0.106,O=0.012]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Hapoel
+	Ironi
+	Ironi
+	Ironi
+	Ironi
+-----------
+Next event:
+Got response on token 3 "Hapoel" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.423,LOC=0.039,ORG=0.535,O=0.002]	ORG	PER
+Ironi	[PER=0.478,LOC=0.123,ORG=0.383,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Ironi
+	Ironi
+	Ironi
+	Ironi
+-----------
+Move choice:
+Launch query on token 6 "Israel"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.423,LOC=0.039,ORG=0.535,O=0.002]	ORG	PER
+Ironi	[PER=0.478,LOC=0.123,ORG=0.383,O=0.015]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Ironi
+	Israel
+	Ironi
+	Ironi
+	Ironi
+-----------
+Next event:
+Got response on token 4 "Ironi" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.317,LOC=0.138,ORG=0.539,O=0.006]	ORG	ORG
+Ironi	[PER=0.275,LOC=0.496,ORG=0.220,O=0.009]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Ironi
+	Israel
+	Ironi
+	Ironi
+-----------
+Next event:
+Got response on token 4 "Ironi" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.635,LOC=0.056,ORG=0.305,O=0.003]	ORG	PER
+Ironi	[PER=0.726,LOC=0.187,ORG=0.083,O=0.003]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Israel
+	Ironi
+	Ironi
+-----------
+Next event:
+Got response on token 4 "Ironi" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.426,LOC=0.038,ORG=0.534,O=0.002]	ORG	PER
+Ironi	[PER=0.485,LOC=0.125,ORG=0.388,O=0.002]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Israel
+	Ironi
+-----------
+Move choice:
+Launch query on token 9 "Constructorul"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.426,LOC=0.038,ORG=0.534,O=0.002]	ORG	PER
+Ironi	[PER=0.485,LOC=0.125,ORG=0.388,O=0.002]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.991,ORG=0.003,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Constructorul
+	Israel
+	Ironi
+-----------
+Next event:
+Got response on token 6 "Israel" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.426,LOC=0.038,ORG=0.534,O=0.002]	ORG	PER
+Ironi	[PER=0.485,LOC=0.125,ORG=0.388,O=0.002]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Constructorul
+	Ironi
+-----------
+Move choice:
+Launch query on token 9 "Constructorul"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.426,LOC=0.038,ORG=0.534,O=0.002]	ORG	PER
+Ironi	[PER=0.485,LOC=0.125,ORG=0.388,O=0.002]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Constructorul
+	Constructorul
+	Ironi
+-----------
+Move choice:
+Launch query on token 9 "Constructorul"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.426,LOC=0.038,ORG=0.534,O=0.002]	ORG	PER
+Ironi	[PER=0.485,LOC=0.125,ORG=0.388,O=0.002]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Constructorul
+	Constructorul
+	Ironi
+	Constructorul
+-----------
+Move choice:
+Launch query on token 9 "Constructorul"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.426,LOC=0.038,ORG=0.534,O=0.002]	ORG	PER
+Ironi	[PER=0.485,LOC=0.125,ORG=0.388,O=0.002]	ORG	PER
+(	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Constructorul
+	Constructorul
+	Constructorul
+	Ironi
+	Constructorul
+-----------
+Next event:
+Got response on token 4 "Ironi" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Constructorul
+	Constructorul
+	Constructorul
+	Constructorul
+-----------
+Move choice:
+Launch query on token 10 "Chisinau"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Constructorul	[PER=0.176,LOC=0.092,ORG=0.324,O=0.408]	ORG	O
+Chisinau	[PER=0.223,LOC=0.452,ORG=0.305,O=0.020]	ORG	LOC
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.897,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Constructorul
+	Chisinau
+	Constructorul
+	Constructorul
+	Constructorul
+-----------
+Next event:
+Got response on token 9 "Constructorul" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Constructorul	[PER=0.600,LOC=0.045,ORG=0.157,O=0.198]	ORG	PER
+Chisinau	[PER=0.548,LOC=0.283,ORG=0.158,O=0.012]	ORG	PER
+(	[PER=0.002,LOC=0.001,ORG=0.000,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.896,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Constructorul
+	Chisinau
+	Constructorul
+	Constructorul
+-----------
+Next event:
+Got response on token 9 "Constructorul" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Constructorul	[PER=0.309,LOC=0.023,ORG=0.566,O=0.102]	ORG	ORG
+Chisinau	[PER=0.307,LOC=0.202,ORG=0.484,O=0.008]	ORG	ORG
+(	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.896,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Chisinau
+	Constructorul
+	Constructorul
+-----------
+Next event:
+Got response on token 9 "Constructorul" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+Constructorul	[PER=0.070,LOC=0.005,ORG=0.901,O=0.023]	ORG	ORG
+Chisinau	[PER=0.109,LOC=0.135,ORG=0.751,O=0.005]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.896,ORG=0.035,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Chisinau
+	Constructorul
+-----------
+Move choice:
+Launch query on token 10 "Chisinau"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+Constructorul	[PER=0.070,LOC=0.005,ORG=0.901,O=0.023]	ORG	ORG
+Chisinau	[PER=0.109,LOC=0.135,ORG=0.751,O=0.005]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.896,ORG=0.035,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Chisinau
+	Chisinau
+	Constructorul
+-----------
+Move choice:
+Launch query on token 10 "Chisinau"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+Constructorul	[PER=0.070,LOC=0.005,ORG=0.901,O=0.023]	ORG	ORG
+Chisinau	[PER=0.109,LOC=0.135,ORG=0.751,O=0.005]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.896,ORG=0.035,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Chisinau
+	Chisinau
+	Chisinau
+	Constructorul
+-----------
+Next event:
+Got response on token 9 "Constructorul" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+Constructorul	[PER=0.011,LOC=0.001,ORG=0.985,O=0.004]	ORG	ORG
+Chisinau	[PER=0.060,LOC=0.119,ORG=0.817,O=0.004]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.896,ORG=0.035,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Chisinau
+	Chisinau
+	Chisinau
+-----------
+Move choice:
+Launch query on token 12 "Moldova"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+Constructorul	[PER=0.011,LOC=0.001,ORG=0.985,O=0.004]	ORG	ORG
+Chisinau	[PER=0.060,LOC=0.119,ORG=0.817,O=0.004]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.896,ORG=0.035,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Moldova
+	Chisinau
+	Chisinau
+	Chisinau
+-----------
+Next event:
+Got response on token 10 "Chisinau" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+Constructorul	[PER=0.049,LOC=0.001,ORG=0.945,O=0.005]	ORG	ORG
+Chisinau	[PER=0.309,LOC=0.087,ORG=0.600,O=0.003]	ORG	ORG
+(	[PER=0.001,LOC=0.001,ORG=0.002,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.896,ORG=0.034,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Moldova
+	Chisinau
+	Chisinau
+-----------
+Next event:
+Got response on token 10 "Chisinau" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+Constructorul	[PER=0.011,LOC=0.000,ORG=0.988,O=0.001]	ORG	ORG
+Chisinau	[PER=0.067,LOC=0.019,ORG=0.913,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.896,ORG=0.035,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Moldova
+	Chisinau
+-----------
+Next event:
+Got response on token 10 "Chisinau" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+Constructorul	[PER=0.002,LOC=0.000,ORG=0.998,O=0.000]	ORG	ORG
+Chisinau	[PER=0.010,LOC=0.003,ORG=0.987,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.896,ORG=0.035,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Moldova
+-----------
+Move choice:
+Launch query on token 10 "Chisinau"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+Constructorul	[PER=0.002,LOC=0.000,ORG=0.998,O=0.000]	ORG	ORG
+Chisinau	[PER=0.010,LOC=0.003,ORG=0.987,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.896,ORG=0.035,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Moldova
+	Chisinau
+-----------
+Move choice:
+Launch query on token 12 "Moldova"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+Constructorul	[PER=0.002,LOC=0.000,ORG=0.998,O=0.000]	ORG	ORG
+Chisinau	[PER=0.010,LOC=0.003,ORG=0.987,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.896,ORG=0.035,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Moldova
+	Moldova
+	Chisinau
+-----------
+Move choice:
+Launch query on token 12 "Moldova"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+Constructorul	[PER=0.002,LOC=0.000,ORG=0.998,O=0.000]	ORG	ORG
+Chisinau	[PER=0.010,LOC=0.003,ORG=0.987,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.896,ORG=0.035,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Moldova
+	Moldova
+	Moldova
+	Chisinau
+-----------
+Move choice:
+Launch query on token 18 "Aggregate"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+Constructorul	[PER=0.002,LOC=0.000,ORG=0.998,O=0.000]	ORG	ORG
+Chisinau	[PER=0.010,LOC=0.003,ORG=0.987,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Moldova	[PER=0.050,LOC=0.896,ORG=0.035,O=0.020]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Moldova
+	Moldova
+	Moldova
+	Chisinau
+	Aggregate
+-----------
+Next event:
+Got response on token 12 "Moldova" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+Constructorul	[PER=0.002,LOC=0.000,ORG=0.998,O=0.000]	ORG	ORG
+Chisinau	[PER=0.010,LOC=0.003,ORG=0.987,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Moldova	[PER=0.008,LOC=0.984,ORG=0.006,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Moldova
+	Moldova
+	Chisinau
+	Aggregate
+-----------
+Next event:
+Got response on token 10 "Chisinau" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+Constructorul	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Chisinau	[PER=0.001,LOC=0.000,ORG=0.998,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Moldova	[PER=0.008,LOC=0.984,ORG=0.006,O=0.003]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Moldova
+	Moldova
+	Aggregate
+-----------
+Next event:
+Got response on token 12 "Moldova" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+Constructorul	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Chisinau	[PER=0.001,LOC=0.000,ORG=0.998,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Moldova	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Moldova
+	Aggregate
+-----------
+Next event:
+Got response on token 12 "Moldova" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+Constructorul	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Chisinau	[PER=0.001,LOC=0.000,ORG=0.998,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Moldova	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Aggregate
+-----------
+Move choice:
+Launch query on token 19 "3-3"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+Constructorul	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Chisinau	[PER=0.001,LOC=0.000,ORG=0.998,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Moldova	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.990]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	3-3
+	Aggregate
+-----------
+Next event:
+Got response on token 18 "Aggregate" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+Constructorul	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Chisinau	[PER=0.001,LOC=0.000,ORG=0.998,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Moldova	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.991]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	3-3
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@40f
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+Constructorul	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Chisinau	[PER=0.001,LOC=0.000,ORG=0.998,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Moldova	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+3-3	[PER=0.002,LOC=0.006,ORG=0.002,O=0.991]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	3-3
+-----------
+Next event:
+Got response on token 19 "3-3" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Rishon-Lezion	[PER=0.001,LOC=0.994,ORG=0.003,O=0.002]	LOC	LOC
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Hapoel	[PER=0.133,LOC=0.012,ORG=0.854,O=0.001]	ORG	ORG
+Ironi	[PER=0.146,LOC=0.038,ORG=0.816,O=0.001]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Israel	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+3	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+Constructorul	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Chisinau	[PER=0.001,LOC=0.000,ORG=0.998,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+Moldova	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+2	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+(	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+2-1	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Aggregate	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+3-3	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@436

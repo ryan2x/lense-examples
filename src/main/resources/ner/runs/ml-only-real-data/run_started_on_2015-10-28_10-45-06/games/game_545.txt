@@ -1,0 +1,45 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+--	O	O	0
+Bombay	LOC	ORG	0
+newsroom	O	ORG	0
++91-22-265	O	O	0
+9000	O	O	0
+Mother	PER	PER	0
+Teresa	PER	PER	0
+devoted	O	O	0
+to	O	O	0
+world	O	O	0
+'s	O	O	0
+poor	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Bombay	[PER=0.055,LOC=0.292,ORG=0.359,O=0.293]	LOC	ORG
+newsroom	[PER=0.004,LOC=0.011,ORG=0.364,O=0.621]	O	ORG
++91-22-265	[PER=0.000,LOC=0.001,ORG=0.005,O=0.995]	O	O
+9000	[PER=0.004,LOC=0.000,ORG=0.000,O=0.995]	O	O
+Mother	[PER=0.790,LOC=0.026,ORG=0.014,O=0.170]	PER	PER
+Teresa	[PER=0.908,LOC=0.052,ORG=0.015,O=0.026]	PER	PER
+devoted	[PER=0.005,LOC=0.000,ORG=0.000,O=0.994]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+world	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+'s	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+poor	[PER=0.000,LOC=0.002,ORG=0.002,O=0.996]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

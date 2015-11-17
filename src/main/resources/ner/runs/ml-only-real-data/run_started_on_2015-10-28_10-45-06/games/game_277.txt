@@ -1,0 +1,71 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+LONDON	LOC	LOC	0
+1996-08-23	O	O	0
+Following	O	O	0
+are	O	O	0
+key	O	O	0
+data	O	O	0
+from	O	O	0
+the	O	O	0
+August	O	O	0
+monthly	O	O	0
+survey	O	O	0
+of	O	O	0
+trends	O	O	0
+in	O	O	0
+UK	LOC	LOC	0
+manufacturing	O	O	0
+by	O	O	0
+the	O	O	0
+Confederation	ORG	ORG	0
+of	ORG	ORG	0
+British	ORG	ORG	0
+Industry	ORG	ORG	0
+(	O	O	0
+CBI	ORG	LOC	0
+)	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+LONDON	[PER=0.002,LOC=0.981,ORG=0.008,O=0.008]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Following	[PER=0.004,LOC=0.002,ORG=0.001,O=0.993]	O	O
+are	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+key	[PER=0.001,LOC=0.001,ORG=0.001,O=0.998]	O	O
+data	[PER=0.001,LOC=0.002,ORG=0.000,O=0.997]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+August	[PER=0.010,LOC=0.026,ORG=0.013,O=0.950]	O	O
+monthly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+survey	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+trends	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+UK	[PER=0.006,LOC=0.791,ORG=0.136,O=0.067]	LOC	LOC
+manufacturing	[PER=0.000,LOC=0.001,ORG=0.004,O=0.995]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.019,O=0.981]	O	O
+Confederation	[PER=0.013,LOC=0.032,ORG=0.946,O=0.010]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.758,O=0.242]	ORG	ORG
+British	[PER=0.031,LOC=0.114,ORG=0.852,O=0.003]	ORG	ORG
+Industry	[PER=0.020,LOC=0.033,ORG=0.926,O=0.020]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.010,O=0.990]	O	O
+CBI	[PER=0.052,LOC=0.502,ORG=0.258,O=0.188]	ORG	LOC
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

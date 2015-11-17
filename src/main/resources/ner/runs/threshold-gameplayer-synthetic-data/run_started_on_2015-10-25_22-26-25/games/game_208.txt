@@ -1,0 +1,2100 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+California	LOC	LOC	4
+played	O	O	0
+without	O	O	0
+interim	O	O	0
+manager	O	O	0
+John	PER	PER	4
+McNamara	PER	PER	3
+,	O	O	0
+who	O	O	0
+was	O	O	0
+admitted	O	O	0
+to	O	O	0
+a	O	O	1
+New	LOC	LOC	4
+York	LOC	LOC	4
+hospital	O	O	1
+with	O	O	0
+a	O	O	0
+blood	O	O	0
+clot	O	O	0
+in	O	O	0
+his	O	O	0
+right	O	O	0
+calf	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.066,LOC=0.790,ORG=0.129,O=0.015]	LOC	LOC
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.992,LOC=0.004,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.989,LOC=0.006,ORG=0.003,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.066,LOC=0.790,ORG=0.129,O=0.015]	LOC	LOC
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.992,LOC=0.004,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.989,LOC=0.006,ORG=0.003,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1e0a3f7d
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.066,LOC=0.790,ORG=0.129,O=0.015]	LOC	LOC
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.992,LOC=0.004,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.989,LOC=0.006,ORG=0.003,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.066,LOC=0.790,ORG=0.129,O=0.015]	LOC	LOC
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.992,LOC=0.004,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.989,LOC=0.006,ORG=0.003,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@191a957
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.066,LOC=0.790,ORG=0.129,O=0.015]	LOC	LOC
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.992,LOC=0.004,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.989,LOC=0.006,ORG=0.003,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.066,LOC=0.790,ORG=0.129,O=0.015]	LOC	LOC
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.992,LOC=0.004,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.989,LOC=0.006,ORG=0.003,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1aebd781
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.066,LOC=0.790,ORG=0.129,O=0.015]	LOC	LOC
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.992,LOC=0.004,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.989,LOC=0.006,ORG=0.003,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.066,LOC=0.790,ORG=0.129,O=0.015]	LOC	LOC
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.992,LOC=0.004,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.989,LOC=0.006,ORG=0.003,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@97b378
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.066,LOC=0.790,ORG=0.129,O=0.015]	LOC	LOC
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.992,LOC=0.004,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.989,LOC=0.006,ORG=0.003,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "California"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.066,LOC=0.790,ORG=0.129,O=0.015]	LOC	LOC
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.992,LOC=0.004,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.989,LOC=0.006,ORG=0.003,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	California
+-----------
+Move choice:
+Launch query on token 0 "California"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.066,LOC=0.790,ORG=0.129,O=0.015]	LOC	LOC
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.992,LOC=0.004,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.989,LOC=0.006,ORG=0.003,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	California
+	California
+-----------
+Move choice:
+Launch query on token 0 "California"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.066,LOC=0.790,ORG=0.129,O=0.015]	LOC	LOC
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.992,LOC=0.004,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.989,LOC=0.006,ORG=0.003,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	California
+	California
+	California
+-----------
+Move choice:
+Launch query on token 0 "California"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.066,LOC=0.790,ORG=0.129,O=0.015]	LOC	LOC
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.992,LOC=0.004,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.989,LOC=0.006,ORG=0.003,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	California
+	California
+	California
+	California
+-----------
+Move choice:
+Launch query on token 5 "John"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.066,LOC=0.790,ORG=0.129,O=0.015]	LOC	LOC
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.992,LOC=0.004,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.989,LOC=0.006,ORG=0.003,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	California
+	California
+	California
+	California
+	John
+-----------
+Next event:
+Got response on token 0 "California" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.037,LOC=0.446,ORG=0.509,O=0.008]	LOC	ORG
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.992,LOC=0.004,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.989,LOC=0.006,ORG=0.003,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	California
+	California
+	California
+	John
+-----------
+Move choice:
+Launch query on token 6 "McNamara"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.037,LOC=0.446,ORG=0.509,O=0.008]	LOC	ORG
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.992,LOC=0.004,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.989,LOC=0.006,ORG=0.003,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	California
+	McNamara
+	California
+	California
+	John
+-----------
+Next event:
+Got response on token 0 "California" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.010,LOC=0.849,ORG=0.138,O=0.002]	LOC	LOC
+played	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.992,LOC=0.004,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.989,LOC=0.006,ORG=0.003,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	McNamara
+	California
+	California
+	John
+-----------
+Next event:
+Got response on token 0 "California" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.002,LOC=0.975,ORG=0.023,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.992,LOC=0.004,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.989,LOC=0.006,ORG=0.003,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	McNamara
+	California
+	John
+-----------
+Next event:
+Got response on token 0 "California" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.992,LOC=0.004,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.989,LOC=0.006,ORG=0.003,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	McNamara
+	John
+-----------
+Next event:
+Got response on token 5 "John" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.968,LOC=0.029,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.978,LOC=0.015,ORG=0.003,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	McNamara
+-----------
+Move choice:
+Launch query on token 5 "John"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.968,LOC=0.029,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.978,LOC=0.015,ORG=0.003,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	McNamara
+	John
+-----------
+Move choice:
+Launch query on token 5 "John"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.968,LOC=0.029,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.978,LOC=0.015,ORG=0.003,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	John
+	McNamara
+	John
+-----------
+Move choice:
+Launch query on token 6 "McNamara"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.968,LOC=0.029,ORG=0.002,O=0.002]	PER	PER
+McNamara	[PER=0.978,LOC=0.015,ORG=0.003,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	John
+	McNamara
+	McNamara
+	John
+-----------
+Next event:
+Got response on token 5 "John" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.826,LOC=0.170,ORG=0.001,O=0.002]	PER	PER
+McNamara	[PER=0.916,LOC=0.066,ORG=0.006,O=0.012]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	McNamara
+	McNamara
+	John
+-----------
+Next event:
+Got response on token 5 "John" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.971,LOC=0.029,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.979,LOC=0.015,ORG=0.002,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	McNamara
+	McNamara
+-----------
+Move choice:
+Launch query on token 5 "John"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.971,LOC=0.029,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.979,LOC=0.015,ORG=0.002,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	John
+	McNamara
+	McNamara
+-----------
+Move choice:
+Launch query on token 12 "a"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.971,LOC=0.029,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.979,LOC=0.015,ORG=0.002,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	John
+	McNamara
+	McNamara
+	a
+-----------
+Next event:
+Got response on token 6 "McNamara" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.915,LOC=0.084,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.900,LOC=0.094,ORG=0.002,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	John
+	McNamara
+	a
+-----------
+Next event:
+Got response on token 5 "John" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.987,LOC=0.013,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.957,LOC=0.039,ORG=0.002,O=0.003]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	McNamara
+	a
+-----------
+Next event:
+Got response on token 6 "McNamara" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.996,LOC=0.004,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.994,LOC=0.006,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	a
+-----------
+Move choice:
+Launch query on token 6 "McNamara"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.996,LOC=0.004,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.994,LOC=0.006,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	McNamara
+	a
+-----------
+Move choice:
+Launch query on token 13 "New"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.996,LOC=0.004,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.994,LOC=0.006,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	New
+	McNamara
+	a
+-----------
+Next event:
+Got response on token 6 "McNamara" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+New	[PER=0.112,LOC=0.059,ORG=0.799,O=0.029]	LOC	ORG
+York	[PER=0.174,LOC=0.051,ORG=0.770,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	New
+	a
+-----------
+Next event:
+Got response on token 12 "a" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+New	[PER=0.113,LOC=0.060,ORG=0.798,O=0.029]	LOC	ORG
+York	[PER=0.175,LOC=0.052,ORG=0.768,O=0.006]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	New
+-----------
+Move choice:
+Launch query on token 13 "New"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+New	[PER=0.113,LOC=0.060,ORG=0.798,O=0.029]	LOC	ORG
+York	[PER=0.175,LOC=0.052,ORG=0.768,O=0.006]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	New
+	New
+-----------
+Move choice:
+Launch query on token 13 "New"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+New	[PER=0.113,LOC=0.060,ORG=0.798,O=0.029]	LOC	ORG
+York	[PER=0.175,LOC=0.052,ORG=0.768,O=0.006]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	New
+	New
+	New
+-----------
+Move choice:
+Launch query on token 13 "New"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+New	[PER=0.113,LOC=0.060,ORG=0.798,O=0.029]	LOC	ORG
+York	[PER=0.175,LOC=0.052,ORG=0.768,O=0.006]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	New
+	New
+	New
+	New
+-----------
+Move choice:
+Launch query on token 14 "York"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+New	[PER=0.113,LOC=0.060,ORG=0.798,O=0.029]	LOC	ORG
+York	[PER=0.175,LOC=0.052,ORG=0.768,O=0.006]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.017,O=0.982]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	New
+	New
+	New
+	York
+	New
+-----------
+Next event:
+Got response on token 13 "New" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+New	[PER=0.083,LOC=0.307,ORG=0.588,O=0.022]	LOC	ORG
+York	[PER=0.206,LOC=0.185,ORG=0.596,O=0.013]	LOC	ORG
+hospital	[PER=0.000,LOC=0.001,ORG=0.013,O=0.986]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	New
+	New
+	New
+	York
+-----------
+Next event:
+Got response on token 13 "New" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+New	[PER=0.018,LOC=0.068,ORG=0.909,O=0.005]	LOC	ORG
+York	[PER=0.074,LOC=0.052,ORG=0.869,O=0.005]	LOC	ORG
+hospital	[PER=0.000,LOC=0.000,ORG=0.019,O=0.980]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	New
+	New
+	York
+-----------
+Next event:
+Got response on token 13 "New" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+New	[PER=0.013,LOC=0.338,ORG=0.646,O=0.003]	LOC	ORG
+York	[PER=0.138,LOC=0.198,ORG=0.651,O=0.014]	LOC	ORG
+hospital	[PER=0.000,LOC=0.001,ORG=0.015,O=0.985]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	New
+	York
+-----------
+Next event:
+Got response on token 13 "New" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+New	[PER=0.004,LOC=0.781,ORG=0.213,O=0.001]	LOC	LOC
+York	[PER=0.242,LOC=0.438,ORG=0.292,O=0.028]	LOC	LOC
+hospital	[PER=0.000,LOC=0.001,ORG=0.007,O=0.992]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	York
+-----------
+Move choice:
+Launch query on token 14 "York"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+New	[PER=0.004,LOC=0.781,ORG=0.213,O=0.001]	LOC	LOC
+York	[PER=0.242,LOC=0.438,ORG=0.292,O=0.028]	LOC	LOC
+hospital	[PER=0.000,LOC=0.001,ORG=0.007,O=0.992]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	York
+	York
+-----------
+Move choice:
+Launch query on token 14 "York"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+New	[PER=0.004,LOC=0.781,ORG=0.213,O=0.001]	LOC	LOC
+York	[PER=0.242,LOC=0.438,ORG=0.292,O=0.028]	LOC	LOC
+hospital	[PER=0.000,LOC=0.001,ORG=0.007,O=0.992]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	York
+	York
+	York
+-----------
+Move choice:
+Launch query on token 14 "York"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+New	[PER=0.004,LOC=0.781,ORG=0.213,O=0.001]	LOC	LOC
+York	[PER=0.242,LOC=0.438,ORG=0.292,O=0.028]	LOC	LOC
+hospital	[PER=0.000,LOC=0.001,ORG=0.007,O=0.992]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	York
+	York
+	York
+	York
+-----------
+Move choice:
+Launch query on token 15 "hospital"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+New	[PER=0.004,LOC=0.781,ORG=0.213,O=0.001]	LOC	LOC
+York	[PER=0.242,LOC=0.438,ORG=0.292,O=0.028]	LOC	LOC
+hospital	[PER=0.000,LOC=0.001,ORG=0.007,O=0.992]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	York
+	York
+	York
+	York
+	hospital
+-----------
+Next event:
+Got response on token 14 "York" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+New	[PER=0.001,LOC=0.934,ORG=0.064,O=0.001]	LOC	LOC
+York	[PER=0.067,LOC=0.845,ORG=0.081,O=0.008]	LOC	LOC
+hospital	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	York
+	York
+	York
+	hospital
+-----------
+Next event:
+Got response on token 14 "York" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+New	[PER=0.000,LOC=0.983,ORG=0.016,O=0.001]	LOC	LOC
+York	[PER=0.011,LOC=0.974,ORG=0.013,O=0.001]	LOC	LOC
+hospital	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	York
+	York
+	hospital
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1c57062c
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+New	[PER=0.000,LOC=0.983,ORG=0.016,O=0.001]	LOC	LOC
+York	[PER=0.011,LOC=0.974,ORG=0.013,O=0.001]	LOC	LOC
+hospital	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	York
+	York
+	hospital
+-----------
+Next event:
+Got response on token 14 "York" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+New	[PER=0.000,LOC=0.991,ORG=0.008,O=0.001]	LOC	LOC
+York	[PER=0.002,LOC=0.996,ORG=0.002,O=0.000]	LOC	LOC
+hospital	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	York
+	hospital
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@2b2bc625
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+New	[PER=0.000,LOC=0.991,ORG=0.008,O=0.001]	LOC	LOC
+York	[PER=0.002,LOC=0.996,ORG=0.002,O=0.000]	LOC	LOC
+hospital	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	York
+	hospital
+-----------
+Next event:
+Got response on token 15 "hospital" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+New	[PER=0.000,LOC=0.991,ORG=0.008,O=0.001]	LOC	LOC
+York	[PER=0.002,LOC=0.996,ORG=0.002,O=0.000]	LOC	LOC
+hospital	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	York
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1a34100f
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+New	[PER=0.000,LOC=0.991,ORG=0.008,O=0.001]	LOC	LOC
+York	[PER=0.002,LOC=0.996,ORG=0.002,O=0.000]	LOC	LOC
+hospital	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	York
+-----------
+Next event:
+Got response on token 14 "York" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+California	[PER=0.000,LOC=0.996,ORG=0.003,O=0.000]	LOC	LOC
+played	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+without	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+interim	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+manager	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+John	[PER=0.997,LOC=0.003,ORG=0.000,O=0.000]	PER	PER
+McNamara	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+who	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+admitted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+New	[PER=0.000,LOC=0.983,ORG=0.016,O=0.001]	LOC	LOC
+York	[PER=0.002,LOC=0.985,ORG=0.013,O=0.000]	LOC	LOC
+hospital	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+blood	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+clot	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+right	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+calf	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@738db631

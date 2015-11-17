@@ -1,0 +1,37 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+I	O	O	0
+dont	O	O	0
+know	O	O	0
+if	O	O	0
+Alicia	PER	LOC	0
+is	O	O	0
+working	O	O	0
+out	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+I	[PER=0.007,LOC=0.004,ORG=0.009,O=0.980]	O	O
+dont	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+know	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+if	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Alicia	[PER=0.272,LOC=0.675,ORG=0.009,O=0.044]	PER	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+working	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+out	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

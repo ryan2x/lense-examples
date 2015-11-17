@@ -1,0 +1,1487 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+There	O	O	0
+were	O	O	0
+no	O	O	0
+significant	O	O	0
+differences	O	O	0
+between	O	O	0
+the	O	O	0
+groups	O	O	0
+receiving	O	O	0
+garlic	O	O	0
+and	O	O	0
+placebo	O	O	0
+,	O	O	0
+"	O	O	0
+they	O	O	0
+wrote	O	O	0
+in	O	O	0
+the	O	O	0
+Journal	ORG	O	5
+of	ORG	O	2
+the	ORG	O	0
+Royal	ORG	ORG	1
+College	ORG	ORG	1
+of	ORG	ORG	2
+Physicians	ORG	ORG	1
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.099,LOC=0.081,ORG=0.504,O=0.317]	ORG	ORG
+of	[PER=0.001,LOC=0.001,ORG=0.071,O=0.928]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	ORG	O
+Royal	[PER=0.026,LOC=0.015,ORG=0.923,O=0.036]	ORG	ORG
+College	[PER=0.007,LOC=0.002,ORG=0.932,O=0.059]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.788,O=0.212]	ORG	ORG
+Physicians	[PER=0.011,LOC=0.005,ORG=0.931,O=0.053]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.099,LOC=0.081,ORG=0.504,O=0.317]	ORG	ORG
+of	[PER=0.001,LOC=0.001,ORG=0.071,O=0.928]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	ORG	O
+Royal	[PER=0.026,LOC=0.015,ORG=0.923,O=0.036]	ORG	ORG
+College	[PER=0.007,LOC=0.002,ORG=0.932,O=0.059]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.788,O=0.212]	ORG	ORG
+Physicians	[PER=0.011,LOC=0.005,ORG=0.931,O=0.053]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.099,LOC=0.081,ORG=0.504,O=0.317]	ORG	ORG
+of	[PER=0.001,LOC=0.001,ORG=0.071,O=0.928]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	ORG	O
+Royal	[PER=0.026,LOC=0.015,ORG=0.923,O=0.036]	ORG	ORG
+College	[PER=0.007,LOC=0.002,ORG=0.932,O=0.059]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.788,O=0.212]	ORG	ORG
+Physicians	[PER=0.011,LOC=0.005,ORG=0.931,O=0.053]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.099,LOC=0.081,ORG=0.504,O=0.317]	ORG	ORG
+of	[PER=0.001,LOC=0.001,ORG=0.071,O=0.928]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	ORG	O
+Royal	[PER=0.026,LOC=0.015,ORG=0.923,O=0.036]	ORG	ORG
+College	[PER=0.007,LOC=0.002,ORG=0.932,O=0.059]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.788,O=0.212]	ORG	ORG
+Physicians	[PER=0.011,LOC=0.005,ORG=0.931,O=0.053]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.099,LOC=0.081,ORG=0.504,O=0.317]	ORG	ORG
+of	[PER=0.001,LOC=0.001,ORG=0.071,O=0.928]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	ORG	O
+Royal	[PER=0.026,LOC=0.015,ORG=0.923,O=0.036]	ORG	ORG
+College	[PER=0.007,LOC=0.002,ORG=0.932,O=0.059]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.788,O=0.212]	ORG	ORG
+Physicians	[PER=0.011,LOC=0.005,ORG=0.931,O=0.053]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.099,LOC=0.081,ORG=0.504,O=0.317]	ORG	ORG
+of	[PER=0.001,LOC=0.001,ORG=0.071,O=0.928]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	ORG	O
+Royal	[PER=0.026,LOC=0.015,ORG=0.923,O=0.036]	ORG	ORG
+College	[PER=0.007,LOC=0.002,ORG=0.932,O=0.059]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.788,O=0.212]	ORG	ORG
+Physicians	[PER=0.011,LOC=0.005,ORG=0.931,O=0.053]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.099,LOC=0.081,ORG=0.504,O=0.317]	ORG	ORG
+of	[PER=0.001,LOC=0.001,ORG=0.071,O=0.928]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	ORG	O
+Royal	[PER=0.026,LOC=0.015,ORG=0.923,O=0.036]	ORG	ORG
+College	[PER=0.007,LOC=0.002,ORG=0.932,O=0.059]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.788,O=0.212]	ORG	ORG
+Physicians	[PER=0.011,LOC=0.005,ORG=0.931,O=0.053]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.099,LOC=0.081,ORG=0.504,O=0.317]	ORG	ORG
+of	[PER=0.001,LOC=0.001,ORG=0.071,O=0.928]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	ORG	O
+Royal	[PER=0.026,LOC=0.015,ORG=0.923,O=0.036]	ORG	ORG
+College	[PER=0.007,LOC=0.002,ORG=0.932,O=0.059]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.788,O=0.212]	ORG	ORG
+Physicians	[PER=0.011,LOC=0.005,ORG=0.931,O=0.053]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.099,LOC=0.081,ORG=0.504,O=0.317]	ORG	ORG
+of	[PER=0.001,LOC=0.001,ORG=0.071,O=0.928]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	ORG	O
+Royal	[PER=0.026,LOC=0.015,ORG=0.923,O=0.036]	ORG	ORG
+College	[PER=0.007,LOC=0.002,ORG=0.932,O=0.059]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.788,O=0.212]	ORG	ORG
+Physicians	[PER=0.011,LOC=0.005,ORG=0.931,O=0.053]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.099,LOC=0.081,ORG=0.504,O=0.317]	ORG	ORG
+of	[PER=0.001,LOC=0.001,ORG=0.071,O=0.928]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	ORG	O
+Royal	[PER=0.026,LOC=0.015,ORG=0.923,O=0.036]	ORG	ORG
+College	[PER=0.007,LOC=0.002,ORG=0.932,O=0.059]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.788,O=0.212]	ORG	ORG
+Physicians	[PER=0.011,LOC=0.005,ORG=0.931,O=0.053]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@6
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.099,LOC=0.081,ORG=0.504,O=0.317]	ORG	ORG
+of	[PER=0.001,LOC=0.001,ORG=0.071,O=0.928]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	ORG	O
+Royal	[PER=0.026,LOC=0.015,ORG=0.923,O=0.036]	ORG	ORG
+College	[PER=0.007,LOC=0.002,ORG=0.932,O=0.059]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.788,O=0.212]	ORG	ORG
+Physicians	[PER=0.011,LOC=0.005,ORG=0.931,O=0.053]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 19 "Journal"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.099,LOC=0.081,ORG=0.504,O=0.317]	ORG	ORG
+of	[PER=0.001,LOC=0.001,ORG=0.071,O=0.928]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	ORG	O
+Royal	[PER=0.026,LOC=0.015,ORG=0.923,O=0.036]	ORG	ORG
+College	[PER=0.007,LOC=0.002,ORG=0.932,O=0.059]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.788,O=0.212]	ORG	ORG
+Physicians	[PER=0.011,LOC=0.005,ORG=0.931,O=0.053]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Journal
+-----------
+Move choice:
+Launch query on token 22 "Royal"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.099,LOC=0.081,ORG=0.504,O=0.317]	ORG	ORG
+of	[PER=0.001,LOC=0.001,ORG=0.071,O=0.928]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	ORG	O
+Royal	[PER=0.026,LOC=0.015,ORG=0.923,O=0.036]	ORG	ORG
+College	[PER=0.007,LOC=0.002,ORG=0.932,O=0.059]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.788,O=0.212]	ORG	ORG
+Physicians	[PER=0.011,LOC=0.005,ORG=0.931,O=0.053]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Royal
+	Journal
+-----------
+Next event:
+Got response on token 19 "Journal" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.025,LOC=0.020,ORG=0.877,O=0.079]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.122,O=0.878]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	ORG	O
+Royal	[PER=0.026,LOC=0.015,ORG=0.923,O=0.036]	ORG	ORG
+College	[PER=0.007,LOC=0.002,ORG=0.932,O=0.059]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.788,O=0.212]	ORG	ORG
+Physicians	[PER=0.011,LOC=0.005,ORG=0.931,O=0.053]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Royal
+-----------
+Move choice:
+Launch query on token 24 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.025,LOC=0.020,ORG=0.877,O=0.079]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.122,O=0.878]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	ORG	O
+Royal	[PER=0.026,LOC=0.015,ORG=0.923,O=0.036]	ORG	ORG
+College	[PER=0.007,LOC=0.002,ORG=0.932,O=0.059]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.788,O=0.212]	ORG	ORG
+Physicians	[PER=0.011,LOC=0.005,ORG=0.931,O=0.053]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Royal
+	of
+-----------
+Move choice:
+Launch query on token 20 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.025,LOC=0.020,ORG=0.877,O=0.079]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.122,O=0.878]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	ORG	O
+Royal	[PER=0.026,LOC=0.015,ORG=0.923,O=0.036]	ORG	ORG
+College	[PER=0.007,LOC=0.002,ORG=0.932,O=0.059]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.788,O=0.212]	ORG	ORG
+Physicians	[PER=0.011,LOC=0.005,ORG=0.931,O=0.053]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Royal
+	of
+	of
+-----------
+Next event:
+Got response on token 24 "of" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.025,LOC=0.020,ORG=0.877,O=0.079]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.122,O=0.878]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	ORG	O
+Royal	[PER=0.014,LOC=0.007,ORG=0.956,O=0.024]	ORG	ORG
+College	[PER=0.002,LOC=0.000,ORG=0.981,O=0.017]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.963,O=0.037]	ORG	ORG
+Physicians	[PER=0.004,LOC=0.001,ORG=0.980,O=0.015]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Royal
+	of
+-----------
+Next event:
+Got response on token 22 "Royal" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.025,LOC=0.020,ORG=0.877,O=0.079]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.122,O=0.878]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	ORG	O
+Royal	[PER=0.002,LOC=0.001,ORG=0.993,O=0.004]	ORG	ORG
+College	[PER=0.000,LOC=0.000,ORG=0.992,O=0.007]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.969,O=0.031]	ORG	ORG
+Physicians	[PER=0.003,LOC=0.001,ORG=0.982,O=0.014]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+-----------
+Move choice:
+Launch query on token 19 "Journal"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.025,LOC=0.020,ORG=0.877,O=0.079]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.122,O=0.878]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	ORG	O
+Royal	[PER=0.002,LOC=0.001,ORG=0.993,O=0.004]	ORG	ORG
+College	[PER=0.000,LOC=0.000,ORG=0.992,O=0.007]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.969,O=0.031]	ORG	ORG
+Physicians	[PER=0.003,LOC=0.001,ORG=0.982,O=0.014]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+	Journal
+-----------
+Move choice:
+Launch query on token 23 "College"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.025,LOC=0.020,ORG=0.877,O=0.079]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.122,O=0.878]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	ORG	O
+Royal	[PER=0.002,LOC=0.001,ORG=0.993,O=0.004]	ORG	ORG
+College	[PER=0.000,LOC=0.000,ORG=0.992,O=0.007]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.969,O=0.031]	ORG	ORG
+Physicians	[PER=0.003,LOC=0.001,ORG=0.982,O=0.014]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+	Journal
+	College
+-----------
+Next event:
+Got response on token 20 "of" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.027,LOC=0.022,ORG=0.863,O=0.088]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.019,O=0.980]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	ORG	O
+Royal	[PER=0.002,LOC=0.001,ORG=0.993,O=0.004]	ORG	ORG
+College	[PER=0.000,LOC=0.000,ORG=0.992,O=0.007]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.969,O=0.031]	ORG	ORG
+Physicians	[PER=0.003,LOC=0.001,ORG=0.982,O=0.014]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Journal
+	College
+-----------
+Move choice:
+Launch query on token 20 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.027,LOC=0.022,ORG=0.863,O=0.088]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.019,O=0.980]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	ORG	O
+Royal	[PER=0.002,LOC=0.001,ORG=0.993,O=0.004]	ORG	ORG
+College	[PER=0.000,LOC=0.000,ORG=0.992,O=0.007]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.969,O=0.031]	ORG	ORG
+Physicians	[PER=0.003,LOC=0.001,ORG=0.982,O=0.014]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+	Journal
+	College
+-----------
+Next event:
+Got response on token 23 "College" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.027,LOC=0.022,ORG=0.863,O=0.088]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.019,O=0.980]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	ORG	O
+Royal	[PER=0.002,LOC=0.001,ORG=0.995,O=0.003]	ORG	ORG
+College	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.972,O=0.028]	ORG	ORG
+Physicians	[PER=0.003,LOC=0.001,ORG=0.983,O=0.013]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+	Journal
+-----------
+Move choice:
+Launch query on token 19 "Journal"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.027,LOC=0.022,ORG=0.863,O=0.088]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.019,O=0.980]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	ORG	O
+Royal	[PER=0.002,LOC=0.001,ORG=0.995,O=0.003]	ORG	ORG
+College	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.972,O=0.028]	ORG	ORG
+Physicians	[PER=0.003,LOC=0.001,ORG=0.983,O=0.013]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+	Journal
+	Journal
+-----------
+Next event:
+Got response on token 19 "Journal" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.018,LOC=0.015,ORG=0.565,O=0.402]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.013,O=0.987]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	ORG	O
+Royal	[PER=0.002,LOC=0.001,ORG=0.995,O=0.003]	ORG	ORG
+College	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.972,O=0.028]	ORG	ORG
+Physicians	[PER=0.003,LOC=0.001,ORG=0.983,O=0.013]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+	Journal
+-----------
+Next event:
+Got response on token 20 "of" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.018,LOC=0.015,ORG=0.560,O=0.407]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	ORG	O
+Royal	[PER=0.002,LOC=0.001,ORG=0.995,O=0.003]	ORG	ORG
+College	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.972,O=0.028]	ORG	ORG
+Physicians	[PER=0.003,LOC=0.001,ORG=0.983,O=0.013]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Journal
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@57d
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.018,LOC=0.015,ORG=0.560,O=0.407]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	ORG	O
+Royal	[PER=0.002,LOC=0.001,ORG=0.995,O=0.003]	ORG	ORG
+College	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.972,O=0.028]	ORG	ORG
+Physicians	[PER=0.003,LOC=0.001,ORG=0.983,O=0.013]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Journal
+-----------
+Next event:
+Got response on token 19 "Journal" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.005,LOC=0.004,ORG=0.163,O=0.828]	ORG	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	ORG	O
+Royal	[PER=0.002,LOC=0.001,ORG=0.995,O=0.003]	ORG	ORG
+College	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.972,O=0.028]	ORG	ORG
+Physicians	[PER=0.003,LOC=0.001,ORG=0.983,O=0.013]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 19 "Journal"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.005,LOC=0.004,ORG=0.163,O=0.828]	ORG	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	ORG	O
+Royal	[PER=0.002,LOC=0.001,ORG=0.995,O=0.003]	ORG	ORG
+College	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.972,O=0.028]	ORG	ORG
+Physicians	[PER=0.003,LOC=0.001,ORG=0.983,O=0.013]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Journal
+-----------
+Move choice:
+Launch query on token 24 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.005,LOC=0.004,ORG=0.163,O=0.828]	ORG	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	ORG	O
+Royal	[PER=0.002,LOC=0.001,ORG=0.995,O=0.003]	ORG	ORG
+College	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.972,O=0.028]	ORG	ORG
+Physicians	[PER=0.003,LOC=0.001,ORG=0.983,O=0.013]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Journal
+	of
+-----------
+Next event:
+Got response on token 19 "Journal" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.001,LOC=0.001,ORG=0.027,O=0.971]	ORG	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	ORG	O
+Royal	[PER=0.002,LOC=0.001,ORG=0.995,O=0.003]	ORG	ORG
+College	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.972,O=0.028]	ORG	ORG
+Physicians	[PER=0.003,LOC=0.001,ORG=0.983,O=0.013]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+-----------
+Move choice:
+Launch query on token 19 "Journal"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.001,LOC=0.001,ORG=0.027,O=0.971]	ORG	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	ORG	O
+Royal	[PER=0.002,LOC=0.001,ORG=0.995,O=0.003]	ORG	ORG
+College	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.972,O=0.028]	ORG	ORG
+Physicians	[PER=0.003,LOC=0.001,ORG=0.983,O=0.013]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Journal
+	of
+-----------
+Move choice:
+Launch query on token 25 "Physicians"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.001,LOC=0.001,ORG=0.027,O=0.971]	ORG	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	ORG	O
+Royal	[PER=0.002,LOC=0.001,ORG=0.995,O=0.003]	ORG	ORG
+College	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.972,O=0.028]	ORG	ORG
+Physicians	[PER=0.003,LOC=0.001,ORG=0.983,O=0.013]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Journal
+	Physicians
+	of
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@66b
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.001,LOC=0.001,ORG=0.027,O=0.971]	ORG	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	ORG	O
+Royal	[PER=0.002,LOC=0.001,ORG=0.995,O=0.003]	ORG	ORG
+College	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.972,O=0.028]	ORG	ORG
+Physicians	[PER=0.003,LOC=0.001,ORG=0.983,O=0.013]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Journal
+	Physicians
+	of
+-----------
+Next event:
+Got response on token 25 "Physicians" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.001,LOC=0.001,ORG=0.027,O=0.971]	ORG	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	ORG	O
+Royal	[PER=0.001,LOC=0.001,ORG=0.995,O=0.003]	ORG	ORG
+College	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.979,O=0.021]	ORG	ORG
+Physicians	[PER=0.000,LOC=0.000,ORG=0.998,O=0.002]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Journal
+	of
+-----------
+Next event:
+Got response on token 24 "of" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.001,LOC=0.001,ORG=0.027,O=0.971]	ORG	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	ORG	O
+Royal	[PER=0.001,LOC=0.001,ORG=0.995,O=0.003]	ORG	ORG
+College	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+Physicians	[PER=0.000,LOC=0.000,ORG=0.998,O=0.001]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Journal
+-----------
+Next event:
+Got response on token 19 "Journal" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.003,ORG=0.001,O=0.996]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+significant	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+differences	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+between	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+groups	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+receiving	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+placebo	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+they	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wrote	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Journal	[PER=0.001,LOC=0.001,ORG=0.164,O=0.834]	ORG	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	ORG	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	ORG	O
+Royal	[PER=0.001,LOC=0.001,ORG=0.995,O=0.003]	ORG	ORG
+College	[PER=0.000,LOC=0.000,ORG=0.999,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+Physicians	[PER=0.000,LOC=0.000,ORG=0.998,O=0.001]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@78b

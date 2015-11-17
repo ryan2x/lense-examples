@@ -1,0 +1,205 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Halftime	O	O	2
+1-2	O	O	1
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Halftime	[PER=0.028,LOC=0.005,ORG=0.003,O=0.964]	O	O
+1-2	[PER=0.003,LOC=0.005,ORG=0.001,O=0.991]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Halftime	[PER=0.028,LOC=0.005,ORG=0.003,O=0.964]	O	O
+1-2	[PER=0.003,LOC=0.005,ORG=0.001,O=0.991]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2b080464
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Halftime	[PER=0.028,LOC=0.005,ORG=0.003,O=0.964]	O	O
+1-2	[PER=0.003,LOC=0.005,ORG=0.001,O=0.991]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Halftime	[PER=0.028,LOC=0.005,ORG=0.003,O=0.964]	O	O
+1-2	[PER=0.003,LOC=0.005,ORG=0.001,O=0.991]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@79c29761
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Halftime	[PER=0.028,LOC=0.005,ORG=0.003,O=0.964]	O	O
+1-2	[PER=0.003,LOC=0.005,ORG=0.001,O=0.991]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "Halftime"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Halftime	[PER=0.028,LOC=0.005,ORG=0.003,O=0.964]	O	O
+1-2	[PER=0.003,LOC=0.005,ORG=0.001,O=0.991]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Halftime
+-----------
+Move choice:
+Launch query on token 0 "Halftime"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Halftime	[PER=0.028,LOC=0.005,ORG=0.003,O=0.964]	O	O
+1-2	[PER=0.003,LOC=0.005,ORG=0.001,O=0.991]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Halftime
+	Halftime
+-----------
+Move choice:
+Launch query on token 1 "1-2"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Halftime	[PER=0.028,LOC=0.005,ORG=0.003,O=0.964]	O	O
+1-2	[PER=0.003,LOC=0.005,ORG=0.001,O=0.991]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	1-2
+	Halftime
+	Halftime
+-----------
+Next event:
+Got response on token 0 "Halftime" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Halftime	[PER=0.004,LOC=0.001,ORG=0.000,O=0.995]	O	O
+1-2	[PER=0.002,LOC=0.005,ORG=0.001,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	1-2
+	Halftime
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@5a9f6c6c
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Halftime	[PER=0.004,LOC=0.001,ORG=0.000,O=0.995]	O	O
+1-2	[PER=0.002,LOC=0.005,ORG=0.001,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	1-2
+	Halftime
+-----------
+Next event:
+Got response on token 1 "1-2" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Halftime	[PER=0.004,LOC=0.001,ORG=0.000,O=0.995]	O	O
+1-2	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Halftime
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@61598cf7
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Halftime	[PER=0.004,LOC=0.001,ORG=0.000,O=0.995]	O	O
+1-2	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Halftime
+-----------
+Next event:
+Got response on token 0 "Halftime" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Halftime	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+1-2	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@5b0b7fd7

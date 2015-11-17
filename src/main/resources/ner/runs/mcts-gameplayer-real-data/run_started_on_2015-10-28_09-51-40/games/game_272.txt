@@ -1,0 +1,971 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Crohn	PER	PER	5
+'s	O	O	1
+is	O	O	0
+an	O	O	0
+inflammation	O	O	0
+of	O	O	1
+the	O	O	0
+bowel	O	O	0
+that	O	O	0
+can	O	O	1
+sometimes	O	O	0
+require	O	O	2
+surgery	O	O	0
+.	O	O	1
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.423,LOC=0.192,ORG=0.279,O=0.107]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.423,LOC=0.192,ORG=0.279,O=0.107]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.423,LOC=0.192,ORG=0.279,O=0.107]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.423,LOC=0.192,ORG=0.279,O=0.107]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.423,LOC=0.192,ORG=0.279,O=0.107]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.423,LOC=0.192,ORG=0.279,O=0.107]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.423,LOC=0.192,ORG=0.279,O=0.107]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.423,LOC=0.192,ORG=0.279,O=0.107]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.423,LOC=0.192,ORG=0.279,O=0.107]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.423,LOC=0.192,ORG=0.279,O=0.107]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.423,LOC=0.192,ORG=0.279,O=0.107]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "Crohn"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.423,LOC=0.192,ORG=0.279,O=0.107]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+-----------
+Move choice:
+Launch query on token 0 "Crohn"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.423,LOC=0.192,ORG=0.279,O=0.107]	PER	PER
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+	Crohn
+-----------
+Next event:
+Got response on token 0 "Crohn" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.258,LOC=0.117,ORG=0.170,O=0.455]	PER	O
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+-----------
+Move choice:
+Launch query on token 0 "Crohn"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.258,LOC=0.117,ORG=0.170,O=0.455]	PER	O
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+	Crohn
+-----------
+Move choice:
+Launch query on token 1 "'s"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.258,LOC=0.117,ORG=0.170,O=0.455]	PER	O
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	's
+	Crohn
+	Crohn
+-----------
+Move choice:
+Launch query on token 11 "require"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.258,LOC=0.117,ORG=0.170,O=0.455]	PER	O
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	's
+	Crohn
+	require
+	Crohn
+-----------
+Move choice:
+Launch query on token 13 "."
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.258,LOC=0.117,ORG=0.170,O=0.455]	PER	O
+'s	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	's
+	.
+	Crohn
+	require
+	Crohn
+-----------
+Next event:
+Got response on token 1 "'s" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.257,LOC=0.117,ORG=0.169,O=0.456]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	.
+	Crohn
+	require
+	Crohn
+-----------
+Next event:
+Got response on token 11 "require" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.257,LOC=0.117,ORG=0.169,O=0.456]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	.
+	Crohn
+	Crohn
+-----------
+Move choice:
+Launch query on token 11 "require"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.257,LOC=0.117,ORG=0.169,O=0.456]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	.
+	Crohn
+	Crohn
+	require
+-----------
+Next event:
+Got response on token 13 "." = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.257,LOC=0.117,ORG=0.169,O=0.456]	PER	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+	Crohn
+	require
+-----------
+Next event:
+Got response on token 0 "Crohn" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.708,LOC=0.046,ORG=0.067,O=0.179]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+	require
+-----------
+Next event:
+Got response on token 0 "Crohn" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.944,LOC=0.009,ORG=0.013,O=0.034]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	require
+-----------
+Move choice:
+Launch query on token 0 "Crohn"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.944,LOC=0.009,ORG=0.013,O=0.034]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+	require
+-----------
+Next event:
+Got response on token 11 "require" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.944,LOC=0.009,ORG=0.013,O=0.034]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+-----------
+Move choice:
+Launch query on token 5 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.944,LOC=0.009,ORG=0.013,O=0.034]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+	Crohn
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1bc
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.944,LOC=0.009,ORG=0.013,O=0.034]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.004,O=0.996]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	of
+	Crohn
+-----------
+Next event:
+Got response on token 5 "of" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.944,LOC=0.009,ORG=0.013,O=0.034]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1fd
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.944,LOC=0.009,ORG=0.013,O=0.034]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+-----------
+Next event:
+Got response on token 0 "Crohn" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.784,LOC=0.007,ORG=0.011,O=0.198]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 9 "can"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.784,LOC=0.007,ORG=0.011,O=0.198]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	can
+-----------
+Move choice:
+Launch query on token 0 "Crohn"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.784,LOC=0.007,ORG=0.011,O=0.198]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	can
+	Crohn
+-----------
+Next event:
+Got response on token 9 "can" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.784,LOC=0.007,ORG=0.011,O=0.198]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@264
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.784,LOC=0.007,ORG=0.011,O=0.198]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Crohn
+-----------
+Next event:
+Got response on token 0 "Crohn" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Crohn	[PER=0.962,LOC=0.001,ORG=0.002,O=0.035]	PER	PER
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+an	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+inflammation	[PER=0.001,LOC=0.001,ORG=0.003,O=0.995]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bowel	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+can	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sometimes	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+require	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+surgery	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@2f0

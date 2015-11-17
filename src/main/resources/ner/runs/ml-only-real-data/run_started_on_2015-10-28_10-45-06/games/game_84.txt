@@ -1,0 +1,57 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+AL-ANWAR	ORG	O	0
+-	O	O	0
+Continued	O	O	0
+criticism	O	O	0
+of	O	O	0
+law	O	O	0
+violation	O	O	0
+incidents	O	O	0
+--	O	O	0
+which	O	O	0
+occurred	O	O	0
+in	O	O	0
+the	O	O	0
+Mount	LOC	LOC	0
+Lebanon	LOC	LOC	0
+elections	O	O	0
+last	O	O	0
+Sunday	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AL-ANWAR	[PER=0.038,LOC=0.123,ORG=0.272,O=0.567]	ORG	O
+-	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Continued	[PER=0.002,LOC=0.010,ORG=0.004,O=0.985]	O	O
+criticism	[PER=0.001,LOC=0.002,ORG=0.002,O=0.995]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+law	[PER=0.000,LOC=0.001,ORG=0.003,O=0.995]	O	O
+violation	[PER=0.002,LOC=0.001,ORG=0.012,O=0.985]	O	O
+incidents	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+which	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+occurred	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Mount	[PER=0.069,LOC=0.745,ORG=0.048,O=0.139]	LOC	LOC
+Lebanon	[PER=0.089,LOC=0.885,ORG=0.024,O=0.002]	LOC	LOC
+elections	[PER=0.001,LOC=0.003,ORG=0.002,O=0.994]	O	O
+last	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Sunday	[PER=0.057,LOC=0.015,ORG=0.038,O=0.890]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

@@ -1,0 +1,713 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+WASHINGTON	LOC	LOC	1
+1996-08-23	O	O	0
+Agriculture	O	O	1
+Secretary	O	O	1
+Dan	PER	PER	1
+Glickman	PER	PER	1
+said	O	O	0
+the	O	O	0
+department	O	O	0
+was	O	O	0
+monitoring	O	O	0
+reports	O	O	0
+of	O	O	1
+aflatoxin	O	O	0
+found	O	O	0
+in	O	O	0
+corn	O	O	0
+in	O	O	0
+parts	O	O	0
+of	O	O	1
+Texas	LOC	LOC	1
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+WASHINGTON	[PER=0.020,LOC=0.879,ORG=0.035,O=0.066]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+Agriculture	[PER=0.204,LOC=0.016,ORG=0.190,O=0.590]	O	O
+Secretary	[PER=0.442,LOC=0.006,ORG=0.141,O=0.411]	O	O
+Dan	[PER=0.958,LOC=0.003,ORG=0.038,O=0.001]	PER	PER
+Glickman	[PER=0.959,LOC=0.006,ORG=0.030,O=0.005]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+department	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+monitoring	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.009,O=0.991]	O	O
+aflatoxin	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+corn	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+parts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.002,ORG=0.030,O=0.968]	O	O
+Texas	[PER=0.101,LOC=0.795,ORG=0.090,O=0.015]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+WASHINGTON	[PER=0.020,LOC=0.879,ORG=0.035,O=0.066]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+Agriculture	[PER=0.204,LOC=0.016,ORG=0.190,O=0.590]	O	O
+Secretary	[PER=0.442,LOC=0.006,ORG=0.141,O=0.411]	O	O
+Dan	[PER=0.958,LOC=0.003,ORG=0.038,O=0.001]	PER	PER
+Glickman	[PER=0.959,LOC=0.006,ORG=0.030,O=0.005]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+department	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+monitoring	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.009,O=0.991]	O	O
+aflatoxin	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+corn	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+parts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.002,ORG=0.030,O=0.968]	O	O
+Texas	[PER=0.101,LOC=0.795,ORG=0.090,O=0.015]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4f9039b3
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+WASHINGTON	[PER=0.020,LOC=0.879,ORG=0.035,O=0.066]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+Agriculture	[PER=0.204,LOC=0.016,ORG=0.190,O=0.590]	O	O
+Secretary	[PER=0.442,LOC=0.006,ORG=0.141,O=0.411]	O	O
+Dan	[PER=0.958,LOC=0.003,ORG=0.038,O=0.001]	PER	PER
+Glickman	[PER=0.959,LOC=0.006,ORG=0.030,O=0.005]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+department	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+monitoring	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.009,O=0.991]	O	O
+aflatoxin	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+corn	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+parts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.002,ORG=0.030,O=0.968]	O	O
+Texas	[PER=0.101,LOC=0.795,ORG=0.090,O=0.015]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "WASHINGTON"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+WASHINGTON	[PER=0.020,LOC=0.879,ORG=0.035,O=0.066]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+Agriculture	[PER=0.204,LOC=0.016,ORG=0.190,O=0.590]	O	O
+Secretary	[PER=0.442,LOC=0.006,ORG=0.141,O=0.411]	O	O
+Dan	[PER=0.958,LOC=0.003,ORG=0.038,O=0.001]	PER	PER
+Glickman	[PER=0.959,LOC=0.006,ORG=0.030,O=0.005]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+department	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+monitoring	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.009,O=0.991]	O	O
+aflatoxin	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+corn	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+parts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.002,ORG=0.030,O=0.968]	O	O
+Texas	[PER=0.101,LOC=0.795,ORG=0.090,O=0.015]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	WASHINGTON
+-----------
+Move choice:
+Launch query on token 2 "Agriculture"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+WASHINGTON	[PER=0.020,LOC=0.879,ORG=0.035,O=0.066]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+Agriculture	[PER=0.204,LOC=0.016,ORG=0.190,O=0.590]	O	O
+Secretary	[PER=0.442,LOC=0.006,ORG=0.141,O=0.411]	O	O
+Dan	[PER=0.958,LOC=0.003,ORG=0.038,O=0.001]	PER	PER
+Glickman	[PER=0.959,LOC=0.006,ORG=0.030,O=0.005]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+department	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+monitoring	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.009,O=0.991]	O	O
+aflatoxin	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+corn	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+parts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.002,ORG=0.030,O=0.968]	O	O
+Texas	[PER=0.101,LOC=0.795,ORG=0.090,O=0.015]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Agriculture
+	WASHINGTON
+-----------
+Next event:
+Got response on token 0 "WASHINGTON" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+WASHINGTON	[PER=0.015,LOC=0.629,ORG=0.025,O=0.332]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Agriculture	[PER=0.204,LOC=0.016,ORG=0.190,O=0.590]	O	O
+Secretary	[PER=0.442,LOC=0.006,ORG=0.141,O=0.411]	O	O
+Dan	[PER=0.958,LOC=0.003,ORG=0.038,O=0.001]	PER	PER
+Glickman	[PER=0.959,LOC=0.006,ORG=0.030,O=0.005]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+department	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+monitoring	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.009,O=0.991]	O	O
+aflatoxin	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+corn	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+parts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.002,ORG=0.030,O=0.968]	O	O
+Texas	[PER=0.101,LOC=0.795,ORG=0.090,O=0.015]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Agriculture
+-----------
+Move choice:
+Launch query on token 3 "Secretary"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+WASHINGTON	[PER=0.015,LOC=0.629,ORG=0.025,O=0.332]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Agriculture	[PER=0.204,LOC=0.016,ORG=0.190,O=0.590]	O	O
+Secretary	[PER=0.442,LOC=0.006,ORG=0.141,O=0.411]	O	O
+Dan	[PER=0.958,LOC=0.003,ORG=0.038,O=0.001]	PER	PER
+Glickman	[PER=0.959,LOC=0.006,ORG=0.030,O=0.005]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+department	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+monitoring	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.009,O=0.991]	O	O
+aflatoxin	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+corn	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+parts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.002,ORG=0.030,O=0.968]	O	O
+Texas	[PER=0.101,LOC=0.795,ORG=0.090,O=0.015]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Agriculture
+	Secretary
+-----------
+Next event:
+Got response on token 2 "Agriculture" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+WASHINGTON	[PER=0.014,LOC=0.629,ORG=0.024,O=0.332]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Agriculture	[PER=0.045,LOC=0.004,ORG=0.042,O=0.910]	O	O
+Secretary	[PER=0.408,LOC=0.008,ORG=0.055,O=0.530]	O	O
+Dan	[PER=0.979,LOC=0.003,ORG=0.016,O=0.001]	PER	PER
+Glickman	[PER=0.976,LOC=0.005,ORG=0.014,O=0.004]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+department	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+monitoring	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.009,O=0.991]	O	O
+aflatoxin	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+corn	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+parts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.002,ORG=0.030,O=0.968]	O	O
+Texas	[PER=0.101,LOC=0.795,ORG=0.090,O=0.015]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Secretary
+-----------
+Move choice:
+Launch query on token 4 "Dan"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+WASHINGTON	[PER=0.014,LOC=0.629,ORG=0.024,O=0.332]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Agriculture	[PER=0.045,LOC=0.004,ORG=0.042,O=0.910]	O	O
+Secretary	[PER=0.408,LOC=0.008,ORG=0.055,O=0.530]	O	O
+Dan	[PER=0.979,LOC=0.003,ORG=0.016,O=0.001]	PER	PER
+Glickman	[PER=0.976,LOC=0.005,ORG=0.014,O=0.004]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+department	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+monitoring	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.009,O=0.991]	O	O
+aflatoxin	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+corn	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+parts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.002,ORG=0.030,O=0.968]	O	O
+Texas	[PER=0.101,LOC=0.795,ORG=0.090,O=0.015]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Secretary
+	Dan
+-----------
+Next event:
+Got response on token 3 "Secretary" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+WASHINGTON	[PER=0.014,LOC=0.630,ORG=0.024,O=0.332]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Agriculture	[PER=0.016,LOC=0.005,ORG=0.025,O=0.953]	O	O
+Secretary	[PER=0.098,LOC=0.002,ORG=0.013,O=0.887]	O	O
+Dan	[PER=0.986,LOC=0.004,ORG=0.007,O=0.002]	PER	PER
+Glickman	[PER=0.983,LOC=0.006,ORG=0.007,O=0.004]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+department	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+monitoring	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.009,O=0.991]	O	O
+aflatoxin	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+corn	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+parts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.002,ORG=0.030,O=0.968]	O	O
+Texas	[PER=0.101,LOC=0.795,ORG=0.090,O=0.015]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Dan
+-----------
+Move choice:
+Launch query on token 5 "Glickman"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+WASHINGTON	[PER=0.014,LOC=0.630,ORG=0.024,O=0.332]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Agriculture	[PER=0.016,LOC=0.005,ORG=0.025,O=0.953]	O	O
+Secretary	[PER=0.098,LOC=0.002,ORG=0.013,O=0.887]	O	O
+Dan	[PER=0.986,LOC=0.004,ORG=0.007,O=0.002]	PER	PER
+Glickman	[PER=0.983,LOC=0.006,ORG=0.007,O=0.004]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+department	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+monitoring	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.009,O=0.991]	O	O
+aflatoxin	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+corn	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+parts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.002,ORG=0.030,O=0.968]	O	O
+Texas	[PER=0.101,LOC=0.795,ORG=0.090,O=0.015]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Glickman
+	Dan
+-----------
+Next event:
+Got response on token 4 "Dan" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+WASHINGTON	[PER=0.014,LOC=0.630,ORG=0.024,O=0.332]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Agriculture	[PER=0.017,LOC=0.005,ORG=0.024,O=0.955]	O	O
+Secretary	[PER=0.099,LOC=0.002,ORG=0.010,O=0.889]	O	O
+Dan	[PER=0.998,LOC=0.001,ORG=0.001,O=0.000]	PER	PER
+Glickman	[PER=0.990,LOC=0.004,ORG=0.002,O=0.004]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+department	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+monitoring	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.009,O=0.991]	O	O
+aflatoxin	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+corn	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+parts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.002,ORG=0.030,O=0.968]	O	O
+Texas	[PER=0.101,LOC=0.795,ORG=0.090,O=0.015]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Glickman
+-----------
+Move choice:
+Launch query on token 12 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+WASHINGTON	[PER=0.014,LOC=0.630,ORG=0.024,O=0.332]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Agriculture	[PER=0.017,LOC=0.005,ORG=0.024,O=0.955]	O	O
+Secretary	[PER=0.099,LOC=0.002,ORG=0.010,O=0.889]	O	O
+Dan	[PER=0.998,LOC=0.001,ORG=0.001,O=0.000]	PER	PER
+Glickman	[PER=0.990,LOC=0.004,ORG=0.002,O=0.004]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+department	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+monitoring	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.009,O=0.991]	O	O
+aflatoxin	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+corn	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+parts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.002,ORG=0.030,O=0.968]	O	O
+Texas	[PER=0.101,LOC=0.795,ORG=0.090,O=0.015]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	of
+	Glickman
+-----------
+Next event:
+Got response on token 5 "Glickman" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+WASHINGTON	[PER=0.014,LOC=0.630,ORG=0.024,O=0.332]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Agriculture	[PER=0.017,LOC=0.005,ORG=0.024,O=0.955]	O	O
+Secretary	[PER=0.099,LOC=0.002,ORG=0.010,O=0.890]	O	O
+Dan	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Glickman	[PER=0.999,LOC=0.001,ORG=0.000,O=0.001]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+department	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+monitoring	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.009,O=0.991]	O	O
+aflatoxin	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+corn	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+parts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.002,ORG=0.030,O=0.968]	O	O
+Texas	[PER=0.101,LOC=0.795,ORG=0.090,O=0.015]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	of
+-----------
+Move choice:
+Launch query on token 19 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+WASHINGTON	[PER=0.014,LOC=0.630,ORG=0.024,O=0.332]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Agriculture	[PER=0.017,LOC=0.005,ORG=0.024,O=0.955]	O	O
+Secretary	[PER=0.099,LOC=0.002,ORG=0.010,O=0.890]	O	O
+Dan	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Glickman	[PER=0.999,LOC=0.001,ORG=0.000,O=0.001]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+department	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+monitoring	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.009,O=0.991]	O	O
+aflatoxin	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+corn	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+parts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.002,ORG=0.030,O=0.968]	O	O
+Texas	[PER=0.101,LOC=0.795,ORG=0.090,O=0.015]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	of
+	of
+-----------
+Next event:
+Got response on token 12 "of" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+WASHINGTON	[PER=0.014,LOC=0.630,ORG=0.024,O=0.332]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Agriculture	[PER=0.017,LOC=0.005,ORG=0.024,O=0.955]	O	O
+Secretary	[PER=0.099,LOC=0.002,ORG=0.010,O=0.890]	O	O
+Dan	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Glickman	[PER=0.999,LOC=0.001,ORG=0.000,O=0.001]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+department	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+monitoring	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.002,LOC=0.000,ORG=0.009,O=0.989]	O	O
+aflatoxin	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+corn	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+parts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.002,ORG=0.030,O=0.968]	O	O
+Texas	[PER=0.101,LOC=0.795,ORG=0.090,O=0.015]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	of
+-----------
+Move choice:
+Launch query on token 20 "Texas"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+WASHINGTON	[PER=0.014,LOC=0.630,ORG=0.024,O=0.332]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Agriculture	[PER=0.017,LOC=0.005,ORG=0.024,O=0.955]	O	O
+Secretary	[PER=0.099,LOC=0.002,ORG=0.010,O=0.890]	O	O
+Dan	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Glickman	[PER=0.999,LOC=0.001,ORG=0.000,O=0.001]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+department	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+monitoring	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.002,LOC=0.000,ORG=0.009,O=0.989]	O	O
+aflatoxin	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+corn	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+parts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.002,ORG=0.030,O=0.968]	O	O
+Texas	[PER=0.101,LOC=0.795,ORG=0.090,O=0.015]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	of
+	Texas
+-----------
+Next event:
+Got response on token 19 "of" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+WASHINGTON	[PER=0.014,LOC=0.630,ORG=0.024,O=0.332]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Agriculture	[PER=0.017,LOC=0.005,ORG=0.024,O=0.955]	O	O
+Secretary	[PER=0.099,LOC=0.002,ORG=0.010,O=0.890]	O	O
+Dan	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Glickman	[PER=0.999,LOC=0.001,ORG=0.000,O=0.001]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+department	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+monitoring	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.002,LOC=0.000,ORG=0.009,O=0.989]	O	O
+aflatoxin	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+corn	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+parts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+Texas	[PER=0.103,LOC=0.812,ORG=0.070,O=0.016]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Texas
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@244c5ec8
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+WASHINGTON	[PER=0.014,LOC=0.630,ORG=0.024,O=0.332]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Agriculture	[PER=0.017,LOC=0.005,ORG=0.024,O=0.955]	O	O
+Secretary	[PER=0.099,LOC=0.002,ORG=0.010,O=0.890]	O	O
+Dan	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Glickman	[PER=0.999,LOC=0.001,ORG=0.000,O=0.001]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+department	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+monitoring	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.002,LOC=0.000,ORG=0.009,O=0.989]	O	O
+aflatoxin	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+corn	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+parts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+Texas	[PER=0.103,LOC=0.812,ORG=0.070,O=0.016]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Texas
+-----------
+Next event:
+Got response on token 20 "Texas" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+WASHINGTON	[PER=0.014,LOC=0.630,ORG=0.024,O=0.332]	LOC	LOC
+1996-08-23	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Agriculture	[PER=0.017,LOC=0.005,ORG=0.024,O=0.955]	O	O
+Secretary	[PER=0.099,LOC=0.002,ORG=0.010,O=0.890]	O	O
+Dan	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Glickman	[PER=0.999,LOC=0.001,ORG=0.000,O=0.001]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+department	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+monitoring	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+reports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.002,LOC=0.000,ORG=0.009,O=0.989]	O	O
+aflatoxin	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+corn	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+parts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Texas	[PER=0.017,LOC=0.968,ORG=0.012,O=0.003]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@12c72b1a

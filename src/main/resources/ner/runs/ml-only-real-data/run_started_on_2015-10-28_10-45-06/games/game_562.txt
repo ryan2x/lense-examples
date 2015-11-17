@@ -1,0 +1,73 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+She	O	O	0
+was	O	O	0
+sent	O	O	0
+to	O	O	0
+Loretto	LOC	PER	0
+Abbey	LOC	PER	0
+in	O	O	0
+Dublin	LOC	LOC	0
+and	O	O	0
+from	O	O	0
+there	O	O	0
+to	O	O	0
+India	LOC	LOC	0
+to	O	O	0
+begin	O	O	0
+her	O	O	0
+novitiate	O	O	0
+and	O	O	0
+teach	O	O	0
+geography	O	O	0
+at	O	O	0
+a	O	O	0
+convent	O	O	0
+school	O	O	0
+in	O	O	0
+Calcutta	LOC	LOC	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.026,LOC=0.007,ORG=0.017,O=0.950]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+Loretto	[PER=0.590,LOC=0.306,ORG=0.081,O=0.022]	LOC	PER
+Abbey	[PER=0.605,LOC=0.262,ORG=0.109,O=0.024]	LOC	PER
+in	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+Dublin	[PER=0.045,LOC=0.906,ORG=0.025,O=0.024]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+there	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.002,ORG=0.001,O=0.998]	O	O
+India	[PER=0.006,LOC=0.949,ORG=0.028,O=0.016]	LOC	LOC
+to	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+begin	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+her	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+novitiate	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+teach	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+geography	[PER=0.001,LOC=0.002,ORG=0.002,O=0.995]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+convent	[PER=0.000,LOC=0.019,ORG=0.024,O=0.957]	O	O
+school	[PER=0.000,LOC=0.002,ORG=0.005,O=0.992]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Calcutta	[PER=0.048,LOC=0.907,ORG=0.033,O=0.013]	LOC	LOC
+.	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

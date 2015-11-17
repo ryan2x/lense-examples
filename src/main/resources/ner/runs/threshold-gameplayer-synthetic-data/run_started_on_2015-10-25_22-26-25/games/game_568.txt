@@ -1,0 +1,2267 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+She	O	O	2
+took	O	O	0
+the	O	O	0
+name	O	O	0
+of	O	O	1
+Teresa	PER	PER	4
+,	O	O	0
+after	O	O	0
+France	LOC	LOC	4
+'s	O	O	1
+Saint	O	O	4
+Therese	PER	PER	4
+of	O	O	1
+the	O	O	1
+Child	O	O	4
+Jesus	PER	PER	4
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.014,LOC=0.005,ORG=0.018,O=0.963]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.002,LOC=0.001,ORG=0.013,O=0.984]	O	O
+Teresa	[PER=0.466,LOC=0.397,ORG=0.037,O=0.100]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.014,LOC=0.005,ORG=0.018,O=0.963]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.002,LOC=0.001,ORG=0.013,O=0.984]	O	O
+Teresa	[PER=0.466,LOC=0.397,ORG=0.037,O=0.100]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@7188e5a
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.014,LOC=0.005,ORG=0.018,O=0.963]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.002,LOC=0.001,ORG=0.013,O=0.984]	O	O
+Teresa	[PER=0.466,LOC=0.397,ORG=0.037,O=0.100]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.014,LOC=0.005,ORG=0.018,O=0.963]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.002,LOC=0.001,ORG=0.013,O=0.984]	O	O
+Teresa	[PER=0.466,LOC=0.397,ORG=0.037,O=0.100]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@6ffed2d3
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.014,LOC=0.005,ORG=0.018,O=0.963]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.002,LOC=0.001,ORG=0.013,O=0.984]	O	O
+Teresa	[PER=0.466,LOC=0.397,ORG=0.037,O=0.100]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.014,LOC=0.005,ORG=0.018,O=0.963]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.002,LOC=0.001,ORG=0.013,O=0.984]	O	O
+Teresa	[PER=0.466,LOC=0.397,ORG=0.037,O=0.100]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@5df429f8
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.014,LOC=0.005,ORG=0.018,O=0.963]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.002,LOC=0.001,ORG=0.013,O=0.984]	O	O
+Teresa	[PER=0.466,LOC=0.397,ORG=0.037,O=0.100]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.014,LOC=0.005,ORG=0.018,O=0.963]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.002,LOC=0.001,ORG=0.013,O=0.984]	O	O
+Teresa	[PER=0.466,LOC=0.397,ORG=0.037,O=0.100]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2faaf33
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.014,LOC=0.005,ORG=0.018,O=0.963]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.002,LOC=0.001,ORG=0.013,O=0.984]	O	O
+Teresa	[PER=0.466,LOC=0.397,ORG=0.037,O=0.100]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "She"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.014,LOC=0.005,ORG=0.018,O=0.963]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.002,LOC=0.001,ORG=0.013,O=0.984]	O	O
+Teresa	[PER=0.466,LOC=0.397,ORG=0.037,O=0.100]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	She
+-----------
+Move choice:
+Launch query on token 0 "She"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.014,LOC=0.005,ORG=0.018,O=0.963]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.002,LOC=0.001,ORG=0.013,O=0.984]	O	O
+Teresa	[PER=0.466,LOC=0.397,ORG=0.037,O=0.100]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	She
+	She
+-----------
+Move choice:
+Launch query on token 4 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.014,LOC=0.005,ORG=0.018,O=0.963]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.002,LOC=0.001,ORG=0.013,O=0.984]	O	O
+Teresa	[PER=0.466,LOC=0.397,ORG=0.037,O=0.100]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	of
+	She
+	She
+-----------
+Next event:
+Got response on token 0 "She" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.002,LOC=0.001,ORG=0.003,O=0.995]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.002,LOC=0.001,ORG=0.013,O=0.984]	O	O
+Teresa	[PER=0.466,LOC=0.397,ORG=0.037,O=0.100]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	of
+	She
+-----------
+Next event:
+Got response on token 0 "She" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.002,LOC=0.001,ORG=0.013,O=0.984]	O	O
+Teresa	[PER=0.466,LOC=0.397,ORG=0.037,O=0.100]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	of
+-----------
+Move choice:
+Launch query on token 5 "Teresa"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.002,LOC=0.001,ORG=0.013,O=0.984]	O	O
+Teresa	[PER=0.466,LOC=0.397,ORG=0.037,O=0.100]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	of
+	Teresa
+-----------
+Next event:
+Got response on token 4 "of" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Teresa	[PER=0.469,LOC=0.400,ORG=0.030,O=0.101]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Teresa
+-----------
+Move choice:
+Launch query on token 5 "Teresa"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Teresa	[PER=0.469,LOC=0.400,ORG=0.030,O=0.101]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Teresa
+	Teresa
+-----------
+Move choice:
+Launch query on token 5 "Teresa"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Teresa	[PER=0.469,LOC=0.400,ORG=0.030,O=0.101]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Teresa
+	Teresa
+	Teresa
+-----------
+Move choice:
+Launch query on token 5 "Teresa"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Teresa	[PER=0.469,LOC=0.400,ORG=0.030,O=0.101]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Teresa
+	Teresa
+	Teresa
+	Teresa
+-----------
+Move choice:
+Launch query on token 8 "France"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+Teresa	[PER=0.469,LOC=0.400,ORG=0.030,O=0.101]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	France
+	Teresa
+	Teresa
+	Teresa
+	Teresa
+-----------
+Next event:
+Got response on token 5 "Teresa" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Teresa	[PER=0.861,LOC=0.105,ORG=0.008,O=0.026]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	France
+	Teresa
+	Teresa
+	Teresa
+-----------
+Move choice:
+Launch query on token 8 "France"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Teresa	[PER=0.861,LOC=0.105,ORG=0.008,O=0.026]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	France
+	Teresa
+	Teresa
+	Teresa
+	France
+-----------
+Next event:
+Got response on token 5 "Teresa" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=0.977,LOC=0.017,ORG=0.001,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	France
+	Teresa
+	Teresa
+	France
+-----------
+Move choice:
+Launch query on token 8 "France"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=0.977,LOC=0.017,ORG=0.001,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.038,LOC=0.933,ORG=0.012,O=0.016]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.008,O=0.989]	O	O
+Saint	[PER=0.405,LOC=0.349,ORG=0.161,O=0.084]	O	PER
+Therese	[PER=0.430,LOC=0.150,ORG=0.080,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.029,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	France
+	Teresa
+	Teresa
+	France
+	France
+-----------
+Next event:
+Got response on token 8 "France" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=0.977,LOC=0.017,ORG=0.001,O=0.004]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.219,LOC=0.758,ORG=0.010,O=0.013]	LOC	LOC
+'s	[PER=0.009,LOC=0.001,ORG=0.008,O=0.982]	O	O
+Saint	[PER=0.409,LOC=0.347,ORG=0.160,O=0.084]	O	PER
+Therese	[PER=0.433,LOC=0.149,ORG=0.079,O=0.338]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.028,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	France
+	Teresa
+	Teresa
+	France
+-----------
+Next event:
+Got response on token 5 "Teresa" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=0.997,LOC=0.002,ORG=0.000,O=0.001]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.219,LOC=0.758,ORG=0.010,O=0.013]	LOC	LOC
+'s	[PER=0.009,LOC=0.001,ORG=0.008,O=0.982]	O	O
+Saint	[PER=0.409,LOC=0.347,ORG=0.160,O=0.084]	O	PER
+Therese	[PER=0.433,LOC=0.149,ORG=0.079,O=0.338]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.028,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	France
+	Teresa
+	France
+-----------
+Next event:
+Got response on token 5 "Teresa" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.219,LOC=0.758,ORG=0.010,O=0.013]	LOC	LOC
+'s	[PER=0.009,LOC=0.001,ORG=0.008,O=0.982]	O	O
+Saint	[PER=0.409,LOC=0.347,ORG=0.160,O=0.084]	O	PER
+Therese	[PER=0.433,LOC=0.149,ORG=0.079,O=0.338]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.028,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	France
+	France
+-----------
+Move choice:
+Launch query on token 8 "France"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.219,LOC=0.758,ORG=0.010,O=0.013]	LOC	LOC
+'s	[PER=0.009,LOC=0.001,ORG=0.008,O=0.982]	O	O
+Saint	[PER=0.409,LOC=0.347,ORG=0.160,O=0.084]	O	PER
+Therese	[PER=0.433,LOC=0.149,ORG=0.079,O=0.338]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.028,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	France
+	France
+	France
+-----------
+Move choice:
+Launch query on token 9 "'s"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.219,LOC=0.758,ORG=0.010,O=0.013]	LOC	LOC
+'s	[PER=0.009,LOC=0.001,ORG=0.008,O=0.982]	O	O
+Saint	[PER=0.409,LOC=0.347,ORG=0.160,O=0.084]	O	PER
+Therese	[PER=0.433,LOC=0.149,ORG=0.079,O=0.338]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.028,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	France
+	's
+	France
+	France
+-----------
+Next event:
+Got response on token 8 "France" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.039,LOC=0.956,ORG=0.002,O=0.002]	LOC	LOC
+'s	[PER=0.002,LOC=0.001,ORG=0.005,O=0.992]	O	O
+Saint	[PER=0.407,LOC=0.350,ORG=0.159,O=0.084]	O	PER
+Therese	[PER=0.431,LOC=0.150,ORG=0.079,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.028,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	France
+	's
+	France
+-----------
+Next event:
+Got response on token 8 "France" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.006,LOC=0.994,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.001,LOC=0.001,ORG=0.004,O=0.993]	O	O
+Saint	[PER=0.406,LOC=0.351,ORG=0.159,O=0.084]	O	PER
+Therese	[PER=0.431,LOC=0.150,ORG=0.079,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.028,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	France
+	's
+-----------
+Next event:
+Got response on token 8 "France" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+Saint	[PER=0.406,LOC=0.351,ORG=0.159,O=0.085]	O	PER
+Therese	[PER=0.431,LOC=0.151,ORG=0.079,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.028,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	's
+-----------
+Move choice:
+Launch query on token 10 "Saint"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.001,LOC=0.001,ORG=0.004,O=0.994]	O	O
+Saint	[PER=0.406,LOC=0.351,ORG=0.159,O=0.085]	O	PER
+Therese	[PER=0.431,LOC=0.151,ORG=0.079,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.028,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	's
+	Saint
+-----------
+Next event:
+Got response on token 9 "'s" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Saint	[PER=0.407,LOC=0.352,ORG=0.156,O=0.085]	O	PER
+Therese	[PER=0.432,LOC=0.151,ORG=0.077,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.028,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Saint
+-----------
+Move choice:
+Launch query on token 10 "Saint"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Saint	[PER=0.407,LOC=0.352,ORG=0.156,O=0.085]	O	PER
+Therese	[PER=0.432,LOC=0.151,ORG=0.077,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.028,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Saint
+	Saint
+-----------
+Move choice:
+Launch query on token 10 "Saint"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Saint	[PER=0.407,LOC=0.352,ORG=0.156,O=0.085]	O	PER
+Therese	[PER=0.432,LOC=0.151,ORG=0.077,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.028,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Saint
+	Saint
+	Saint
+-----------
+Move choice:
+Launch query on token 10 "Saint"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Saint	[PER=0.407,LOC=0.352,ORG=0.156,O=0.085]	O	PER
+Therese	[PER=0.432,LOC=0.151,ORG=0.077,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.028,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Saint
+	Saint
+	Saint
+	Saint
+-----------
+Move choice:
+Launch query on token 11 "Therese"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Saint	[PER=0.407,LOC=0.352,ORG=0.156,O=0.085]	O	PER
+Therese	[PER=0.432,LOC=0.151,ORG=0.077,O=0.340]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.028,O=0.969]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.012,O=0.987]	O	O
+Child	[PER=0.683,LOC=0.040,ORG=0.182,O=0.095]	O	PER
+Jesus	[PER=0.750,LOC=0.048,ORG=0.176,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Saint
+	Therese
+	Saint
+	Saint
+	Saint
+-----------
+Next event:
+Got response on token 10 "Saint" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saint	[PER=0.270,LOC=0.233,ORG=0.103,O=0.394]	O	PER
+Therese	[PER=0.376,LOC=0.145,ORG=0.056,O=0.423]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.022,O=0.975]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.011,O=0.988]	O	O
+Child	[PER=0.684,LOC=0.040,ORG=0.181,O=0.095]	O	PER
+Jesus	[PER=0.751,LOC=0.048,ORG=0.175,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Saint
+	Therese
+	Saint
+	Saint
+-----------
+Move choice:
+Launch query on token 11 "Therese"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Saint	[PER=0.270,LOC=0.233,ORG=0.103,O=0.394]	O	PER
+Therese	[PER=0.376,LOC=0.145,ORG=0.056,O=0.423]	PER	PER
+of	[PER=0.002,LOC=0.001,ORG=0.022,O=0.975]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.011,O=0.988]	O	O
+Child	[PER=0.684,LOC=0.040,ORG=0.181,O=0.095]	O	PER
+Jesus	[PER=0.751,LOC=0.048,ORG=0.175,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Saint
+	Therese
+	Therese
+	Saint
+	Saint
+-----------
+Next event:
+Got response on token 10 "Saint" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.080,LOC=0.069,ORG=0.031,O=0.820]	O	O
+Therese	[PER=0.299,LOC=0.136,ORG=0.027,O=0.537]	PER	O
+of	[PER=0.002,LOC=0.001,ORG=0.014,O=0.984]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.009,O=0.990]	O	O
+Child	[PER=0.685,LOC=0.040,ORG=0.180,O=0.095]	O	PER
+Jesus	[PER=0.752,LOC=0.048,ORG=0.174,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Saint
+	Therese
+	Therese
+	Saint
+-----------
+Next event:
+Got response on token 11 "Therese" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.182,LOC=0.038,ORG=0.018,O=0.762]	O	O
+Therese	[PER=0.749,LOC=0.049,ORG=0.010,O=0.192]	PER	PER
+of	[PER=0.004,LOC=0.000,ORG=0.009,O=0.987]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.008,O=0.991]	O	O
+Child	[PER=0.686,LOC=0.040,ORG=0.179,O=0.095]	O	PER
+Jesus	[PER=0.753,LOC=0.048,ORG=0.173,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Saint
+	Therese
+	Saint
+-----------
+Next event:
+Got response on token 10 "Saint" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.033,LOC=0.007,ORG=0.003,O=0.957]	O	O
+Therese	[PER=0.724,LOC=0.051,ORG=0.006,O=0.219]	PER	PER
+of	[PER=0.003,LOC=0.000,ORG=0.008,O=0.988]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.008,O=0.991]	O	O
+Child	[PER=0.686,LOC=0.040,ORG=0.179,O=0.095]	O	PER
+Jesus	[PER=0.753,LOC=0.048,ORG=0.173,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Therese
+	Saint
+-----------
+Next event:
+Got response on token 10 "Saint" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.005,LOC=0.001,ORG=0.000,O=0.994]	O	O
+Therese	[PER=0.719,LOC=0.051,ORG=0.006,O=0.224]	PER	PER
+of	[PER=0.003,LOC=0.000,ORG=0.008,O=0.989]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.007,O=0.991]	O	O
+Child	[PER=0.686,LOC=0.040,ORG=0.179,O=0.095]	O	PER
+Jesus	[PER=0.753,LOC=0.048,ORG=0.173,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Therese
+-----------
+Move choice:
+Launch query on token 11 "Therese"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.005,LOC=0.001,ORG=0.000,O=0.994]	O	O
+Therese	[PER=0.719,LOC=0.051,ORG=0.006,O=0.224]	PER	PER
+of	[PER=0.003,LOC=0.000,ORG=0.008,O=0.989]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.007,O=0.991]	O	O
+Child	[PER=0.686,LOC=0.040,ORG=0.179,O=0.095]	O	PER
+Jesus	[PER=0.753,LOC=0.048,ORG=0.173,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Therese
+	Therese
+-----------
+Move choice:
+Launch query on token 11 "Therese"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.005,LOC=0.001,ORG=0.000,O=0.994]	O	O
+Therese	[PER=0.719,LOC=0.051,ORG=0.006,O=0.224]	PER	PER
+of	[PER=0.003,LOC=0.000,ORG=0.008,O=0.989]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.007,O=0.991]	O	O
+Child	[PER=0.686,LOC=0.040,ORG=0.179,O=0.095]	O	PER
+Jesus	[PER=0.753,LOC=0.048,ORG=0.173,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Therese
+	Therese
+	Therese
+-----------
+Move choice:
+Launch query on token 12 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.005,LOC=0.001,ORG=0.000,O=0.994]	O	O
+Therese	[PER=0.719,LOC=0.051,ORG=0.006,O=0.224]	PER	PER
+of	[PER=0.003,LOC=0.000,ORG=0.008,O=0.989]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.007,O=0.991]	O	O
+Child	[PER=0.686,LOC=0.040,ORG=0.179,O=0.095]	O	PER
+Jesus	[PER=0.753,LOC=0.048,ORG=0.173,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Therese
+	Therese
+	of
+	Therese
+-----------
+Move choice:
+Launch query on token 13 "the"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.005,LOC=0.001,ORG=0.000,O=0.994]	O	O
+Therese	[PER=0.719,LOC=0.051,ORG=0.006,O=0.224]	PER	PER
+of	[PER=0.003,LOC=0.000,ORG=0.008,O=0.989]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.007,O=0.991]	O	O
+Child	[PER=0.686,LOC=0.040,ORG=0.179,O=0.095]	O	PER
+Jesus	[PER=0.753,LOC=0.048,ORG=0.173,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Therese
+	Therese
+	of
+	the
+	Therese
+-----------
+Next event:
+Got response on token 12 "of" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.005,LOC=0.001,ORG=0.000,O=0.994]	O	O
+Therese	[PER=0.719,LOC=0.051,ORG=0.004,O=0.225]	PER	PER
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+Child	[PER=0.687,LOC=0.040,ORG=0.177,O=0.095]	O	PER
+Jesus	[PER=0.754,LOC=0.048,ORG=0.172,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Therese
+	Therese
+	the
+	Therese
+-----------
+Move choice:
+Launch query on token 14 "Child"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.005,LOC=0.001,ORG=0.000,O=0.994]	O	O
+Therese	[PER=0.719,LOC=0.051,ORG=0.004,O=0.225]	PER	PER
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+Child	[PER=0.687,LOC=0.040,ORG=0.177,O=0.095]	O	PER
+Jesus	[PER=0.754,LOC=0.048,ORG=0.172,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Therese
+	Therese
+	Child
+	the
+	Therese
+-----------
+Move choice:
+Launch query on token 14 "Child"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.005,LOC=0.001,ORG=0.000,O=0.994]	O	O
+Therese	[PER=0.719,LOC=0.051,ORG=0.004,O=0.225]	PER	PER
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+Child	[PER=0.687,LOC=0.040,ORG=0.177,O=0.095]	O	PER
+Jesus	[PER=0.754,LOC=0.048,ORG=0.172,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Therese
+	Therese
+	Child
+	Child
+	the
+	Therese
+-----------
+Next event:
+Got response on token 11 "Therese" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.006,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.947,LOC=0.010,ORG=0.001,O=0.042]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+Child	[PER=0.687,LOC=0.040,ORG=0.177,O=0.095]	O	PER
+Jesus	[PER=0.754,LOC=0.048,ORG=0.172,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Therese
+	Therese
+	Child
+	Child
+	the
+-----------
+Next event:
+Got response on token 11 "Therese" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.992,LOC=0.001,ORG=0.000,O=0.006]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+Child	[PER=0.687,LOC=0.040,ORG=0.177,O=0.095]	O	PER
+Jesus	[PER=0.754,LOC=0.048,ORG=0.172,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Therese
+	Child
+	Child
+	the
+-----------
+Move choice:
+Launch query on token 14 "Child"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.992,LOC=0.001,ORG=0.000,O=0.006]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+the	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+Child	[PER=0.687,LOC=0.040,ORG=0.177,O=0.095]	O	PER
+Jesus	[PER=0.754,LOC=0.048,ORG=0.172,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Therese
+	Child
+	Child
+	the
+	Child
+-----------
+Next event:
+Got response on token 13 "the" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.992,LOC=0.001,ORG=0.000,O=0.006]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Child	[PER=0.690,LOC=0.040,ORG=0.174,O=0.096]	O	PER
+Jesus	[PER=0.757,LOC=0.048,ORG=0.169,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Therese
+	Child
+	Child
+	Child
+-----------
+Next event:
+Got response on token 11 "Therese" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Child	[PER=0.690,LOC=0.040,ORG=0.174,O=0.096]	O	PER
+Jesus	[PER=0.757,LOC=0.048,ORG=0.169,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Child
+	Child
+	Child
+-----------
+Move choice:
+Launch query on token 14 "Child"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Child	[PER=0.690,LOC=0.040,ORG=0.174,O=0.096]	O	PER
+Jesus	[PER=0.757,LOC=0.048,ORG=0.169,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Child
+	Child
+	Child
+	Child
+-----------
+Move choice:
+Launch query on token 15 "Jesus"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Child	[PER=0.690,LOC=0.040,ORG=0.174,O=0.096]	O	PER
+Jesus	[PER=0.757,LOC=0.048,ORG=0.169,O=0.026]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Child
+	Child
+	Child
+	Jesus
+	Child
+-----------
+Next event:
+Got response on token 14 "Child" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Child	[PER=0.438,LOC=0.026,ORG=0.110,O=0.426]	O	PER
+Jesus	[PER=0.706,LOC=0.095,ORG=0.141,O=0.057]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Child
+	Child
+	Jesus
+	Child
+-----------
+Next event:
+Got response on token 14 "Child" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Child	[PER=0.123,LOC=0.007,ORG=0.031,O=0.838]	O	O
+Jesus	[PER=0.643,LOC=0.153,ORG=0.107,O=0.097]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Child
+	Child
+	Jesus
+-----------
+Next event:
+Got response on token 14 "Child" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Child	[PER=0.020,LOC=0.001,ORG=0.005,O=0.973]	O	O
+Jesus	[PER=0.622,LOC=0.173,ORG=0.096,O=0.110]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Child
+	Jesus
+-----------
+Move choice:
+Launch query on token 15 "Jesus"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Child	[PER=0.020,LOC=0.001,ORG=0.005,O=0.973]	O	O
+Jesus	[PER=0.622,LOC=0.173,ORG=0.096,O=0.110]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Child
+	Jesus
+	Jesus
+-----------
+Next event:
+Got response on token 14 "Child" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Child	[PER=0.003,LOC=0.000,ORG=0.001,O=0.996]	O	O
+Jesus	[PER=0.618,LOC=0.176,ORG=0.094,O=0.112]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Jesus
+	Jesus
+-----------
+Move choice:
+Launch query on token 15 "Jesus"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Child	[PER=0.003,LOC=0.000,ORG=0.001,O=0.996]	O	O
+Jesus	[PER=0.618,LOC=0.176,ORG=0.094,O=0.112]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Jesus
+	Jesus
+	Jesus
+-----------
+Move choice:
+Launch query on token 15 "Jesus"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Child	[PER=0.003,LOC=0.000,ORG=0.001,O=0.996]	O	O
+Jesus	[PER=0.618,LOC=0.176,ORG=0.094,O=0.112]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Jesus
+	Jesus
+	Jesus
+	Jesus
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1c4b12b7
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Child	[PER=0.003,LOC=0.000,ORG=0.001,O=0.996]	O	O
+Jesus	[PER=0.618,LOC=0.176,ORG=0.094,O=0.112]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Jesus
+	Jesus
+	Jesus
+	Jesus
+-----------
+Next event:
+Got response on token 15 "Jesus" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Child	[PER=0.002,LOC=0.000,ORG=0.003,O=0.995]	O	O
+Jesus	[PER=0.395,LOC=0.112,ORG=0.421,O=0.071]	PER	ORG
+.	[PER=0.001,LOC=0.000,ORG=0.002,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Jesus
+	Jesus
+	Jesus
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@d5b7a54
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Child	[PER=0.002,LOC=0.000,ORG=0.003,O=0.995]	O	O
+Jesus	[PER=0.395,LOC=0.112,ORG=0.421,O=0.071]	PER	ORG
+.	[PER=0.001,LOC=0.000,ORG=0.002,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Jesus
+	Jesus
+	Jesus
+-----------
+Next event:
+Got response on token 15 "Jesus" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Child	[PER=0.001,LOC=0.000,ORG=0.002,O=0.996]	O	O
+Jesus	[PER=0.276,LOC=0.079,ORG=0.295,O=0.350]	PER	O
+.	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Jesus
+	Jesus
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@37590514
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Child	[PER=0.001,LOC=0.000,ORG=0.002,O=0.996]	O	O
+Jesus	[PER=0.276,LOC=0.079,ORG=0.295,O=0.350]	PER	O
+.	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Jesus
+	Jesus
+-----------
+Next event:
+Got response on token 15 "Jesus" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Child	[PER=0.004,LOC=0.000,ORG=0.001,O=0.996]	O	O
+Jesus	[PER=0.728,LOC=0.030,ORG=0.111,O=0.132]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Jesus
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@30dea49b
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Child	[PER=0.004,LOC=0.000,ORG=0.001,O=0.996]	O	O
+Jesus	[PER=0.728,LOC=0.030,ORG=0.111,O=0.132]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.001,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Jesus
+-----------
+Next event:
+Got response on token 15 "Jesus" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Teresa	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+France	[PER=0.001,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Saint	[PER=0.007,LOC=0.001,ORG=0.000,O=0.993]	O	O
+Therese	[PER=0.999,LOC=0.000,ORG=0.000,O=0.001]	PER	PER
+of	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Child	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+Jesus	[PER=0.949,LOC=0.006,ORG=0.021,O=0.025]	PER	PER
+.	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@74c4c69d

@@ -1,0 +1,39 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Arafat	PER	PER	0
+to	O	O	0
+meet	O	O	0
+Peres	PER	PER	0
+in	O	O	0
+Gaza	LOC	LOC	0
+after	O	O	0
+flight	O	O	0
+ban	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Arafat	[PER=0.397,LOC=0.102,ORG=0.140,O=0.360]	PER	PER
+to	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+meet	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Peres	[PER=0.552,LOC=0.328,ORG=0.091,O=0.029]	PER	PER
+in	[PER=0.005,LOC=0.004,ORG=0.006,O=0.986]	O	O
+Gaza	[PER=0.080,LOC=0.874,ORG=0.022,O=0.024]	LOC	LOC
+after	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+flight	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+ban	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

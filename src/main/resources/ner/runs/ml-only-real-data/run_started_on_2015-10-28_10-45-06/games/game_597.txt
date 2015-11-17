@@ -1,0 +1,89 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+We	O	O	0
+have	O	O	0
+ordered	O	O	0
+a	O	O	0
+massive	O	O	0
+hunt	O	O	0
+for	O	O	0
+him	O	O	0
+and	O	O	0
+I	O	O	0
+am	O	O	0
+quite	O	O	0
+confident	O	O	0
+we	O	O	0
+will	O	O	0
+get	O	O	0
+him	O	O	0
+soon	O	O	0
+,	O	O	0
+"	O	O	0
+Vivit	PER	ORG	0
+Chatuparisut	PER	ORG	0
+,	O	O	0
+deputy	O	O	0
+director	O	O	0
+general	O	O	0
+of	O	O	0
+the	O	O	0
+Correction	ORG	ORG	0
+Department	ORG	ORG	0
+,	O	O	0
+told	O	O	0
+Reuters	ORG	ORG	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+We	[PER=0.001,LOC=0.002,ORG=0.001,O=0.996]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ordered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+massive	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+hunt	[PER=0.000,LOC=0.003,ORG=0.001,O=0.995]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+him	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.003,LOC=0.002,ORG=0.002,O=0.994]	O	O
+am	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+quite	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+confident	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+we	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+get	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+him	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+soon	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.001,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Vivit	[PER=0.282,LOC=0.192,ORG=0.460,O=0.066]	PER	ORG
+Chatuparisut	[PER=0.204,LOC=0.174,ORG=0.432,O=0.190]	PER	ORG
+,	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+deputy	[PER=0.001,LOC=0.000,ORG=0.001,O=0.997]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.016,O=0.983]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.031,O=0.969]	O	O
+Correction	[PER=0.013,LOC=0.027,ORG=0.898,O=0.061]	ORG	ORG
+Department	[PER=0.008,LOC=0.027,ORG=0.929,O=0.036]	ORG	ORG
+,	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Reuters	[PER=0.012,LOC=0.016,ORG=0.932,O=0.040]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

@@ -1,0 +1,57 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+India	LOC	LOC	0
+has	O	O	0
+often	O	O	0
+accused	O	O	0
+Pakistan	LOC	LOC	0
+of	O	O	0
+abetting	O	O	0
+militancy	O	O	0
+in	O	O	0
+the	O	O	0
+valley	O	O	0
+,	O	O	0
+a	O	O	0
+charge	O	O	0
+Islamabad	LOC	LOC	0
+has	O	O	0
+always	O	O	0
+denied	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+India	[PER=0.003,LOC=0.973,ORG=0.021,O=0.002]	LOC	LOC
+has	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+often	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+accused	[PER=0.000,LOC=0.002,ORG=0.001,O=0.997]	O	O
+Pakistan	[PER=0.015,LOC=0.936,ORG=0.038,O=0.012]	LOC	LOC
+of	[PER=0.000,LOC=0.003,ORG=0.020,O=0.977]	O	O
+abetting	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+militancy	[PER=0.001,LOC=0.006,ORG=0.015,O=0.978]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+valley	[PER=0.003,LOC=0.022,ORG=0.004,O=0.972]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+charge	[PER=0.000,LOC=0.015,ORG=0.006,O=0.979]	O	O
+Islamabad	[PER=0.020,LOC=0.882,ORG=0.052,O=0.045]	LOC	LOC
+has	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+always	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+denied	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

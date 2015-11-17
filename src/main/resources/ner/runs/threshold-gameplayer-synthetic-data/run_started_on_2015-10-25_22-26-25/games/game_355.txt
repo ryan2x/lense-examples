@@ -1,0 +1,1452 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+Interviewed	O	O	3
+in	O	O	0
+the	O	O	0
+presence	O	O	0
+of	O	O	1
+a	O	O	0
+psychologist	O	O	0
+,	O	O	0
+she	O	O	0
+said	O	O	0
+she	O	O	0
+wanted	O	O	0
+to	O	O	0
+use	O	O	0
+the	O	O	0
+money	O	O	0
+for	O	O	0
+school	O	O	0
+books	O	O	0
+and	O	O	0
+clothes	O	O	0
+,	O	O	0
+"	O	O	0
+spokesman	O	O	0
+Kazimierz	PER	PER	3
+Socha	PER	PER	2
+told	O	O	0
+Reuters	ORG	ORG	3
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.007,LOC=0.052,ORG=0.003,O=0.937]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.992]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.946,LOC=0.018,ORG=0.034,O=0.002]	PER	PER
+Socha	[PER=0.932,LOC=0.022,ORG=0.042,O=0.004]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.023,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.007,LOC=0.052,ORG=0.003,O=0.937]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.992]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.946,LOC=0.018,ORG=0.034,O=0.002]	PER	PER
+Socha	[PER=0.932,LOC=0.022,ORG=0.042,O=0.004]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.023,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@49df39e9
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.007,LOC=0.052,ORG=0.003,O=0.937]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.992]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.946,LOC=0.018,ORG=0.034,O=0.002]	PER	PER
+Socha	[PER=0.932,LOC=0.022,ORG=0.042,O=0.004]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.023,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.007,LOC=0.052,ORG=0.003,O=0.937]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.992]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.946,LOC=0.018,ORG=0.034,O=0.002]	PER	PER
+Socha	[PER=0.932,LOC=0.022,ORG=0.042,O=0.004]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.023,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@62da1943
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.007,LOC=0.052,ORG=0.003,O=0.937]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.992]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.946,LOC=0.018,ORG=0.034,O=0.002]	PER	PER
+Socha	[PER=0.932,LOC=0.022,ORG=0.042,O=0.004]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.023,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.007,LOC=0.052,ORG=0.003,O=0.937]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.992]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.946,LOC=0.018,ORG=0.034,O=0.002]	PER	PER
+Socha	[PER=0.932,LOC=0.022,ORG=0.042,O=0.004]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.023,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1ac03d59
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.007,LOC=0.052,ORG=0.003,O=0.937]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.992]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.946,LOC=0.018,ORG=0.034,O=0.002]	PER	PER
+Socha	[PER=0.932,LOC=0.022,ORG=0.042,O=0.004]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.023,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 1 "Interviewed"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.007,LOC=0.052,ORG=0.003,O=0.937]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.992]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.946,LOC=0.018,ORG=0.034,O=0.002]	PER	PER
+Socha	[PER=0.932,LOC=0.022,ORG=0.042,O=0.004]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.023,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Interviewed
+-----------
+Move choice:
+Launch query on token 1 "Interviewed"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.007,LOC=0.052,ORG=0.003,O=0.937]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.992]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.946,LOC=0.018,ORG=0.034,O=0.002]	PER	PER
+Socha	[PER=0.932,LOC=0.022,ORG=0.042,O=0.004]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.023,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Interviewed
+	Interviewed
+-----------
+Move choice:
+Launch query on token 1 "Interviewed"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.007,LOC=0.052,ORG=0.003,O=0.937]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.992]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.946,LOC=0.018,ORG=0.034,O=0.002]	PER	PER
+Socha	[PER=0.932,LOC=0.022,ORG=0.042,O=0.004]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.023,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Interviewed
+	Interviewed
+	Interviewed
+-----------
+Move choice:
+Launch query on token 5 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.007,LOC=0.052,ORG=0.003,O=0.937]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.992]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.946,LOC=0.018,ORG=0.034,O=0.002]	PER	PER
+Socha	[PER=0.932,LOC=0.022,ORG=0.042,O=0.004]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.023,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Interviewed
+	Interviewed
+	Interviewed
+	of
+-----------
+Next event:
+Got response on token 1 "Interviewed" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.001,LOC=0.008,ORG=0.000,O=0.991]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.992]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.946,LOC=0.018,ORG=0.034,O=0.002]	PER	PER
+Socha	[PER=0.932,LOC=0.022,ORG=0.042,O=0.004]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.023,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Interviewed
+	Interviewed
+	of
+-----------
+Move choice:
+Launch query on token 25 "Kazimierz"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.001,LOC=0.008,ORG=0.000,O=0.991]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.992]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.946,LOC=0.018,ORG=0.034,O=0.002]	PER	PER
+Socha	[PER=0.932,LOC=0.022,ORG=0.042,O=0.004]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.023,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Interviewed
+	Kazimierz
+	Interviewed
+	of
+-----------
+Next event:
+Got response on token 1 "Interviewed" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.007,O=0.992]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.946,LOC=0.018,ORG=0.034,O=0.002]	PER	PER
+Socha	[PER=0.932,LOC=0.022,ORG=0.042,O=0.004]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.023,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Interviewed
+	Kazimierz
+	of
+-----------
+Next event:
+Got response on token 5 "of" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.946,LOC=0.018,ORG=0.034,O=0.002]	PER	PER
+Socha	[PER=0.932,LOC=0.022,ORG=0.042,O=0.004]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.023,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Interviewed
+	Kazimierz
+-----------
+Move choice:
+Launch query on token 25 "Kazimierz"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.946,LOC=0.018,ORG=0.034,O=0.002]	PER	PER
+Socha	[PER=0.932,LOC=0.022,ORG=0.042,O=0.004]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.023,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Interviewed
+	Kazimierz
+	Kazimierz
+-----------
+Move choice:
+Launch query on token 26 "Socha"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.946,LOC=0.018,ORG=0.034,O=0.002]	PER	PER
+Socha	[PER=0.932,LOC=0.022,ORG=0.042,O=0.004]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.023,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Interviewed
+	Kazimierz
+	Socha
+	Kazimierz
+-----------
+Next event:
+Got response on token 1 "Interviewed" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.946,LOC=0.018,ORG=0.034,O=0.002]	PER	PER
+Socha	[PER=0.932,LOC=0.022,ORG=0.042,O=0.004]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.023,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Kazimierz
+	Socha
+	Kazimierz
+-----------
+Next event:
+Got response on token 25 "Kazimierz" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.992,LOC=0.003,ORG=0.005,O=0.000]	PER	PER
+Socha	[PER=0.971,LOC=0.012,ORG=0.014,O=0.004]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.023,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Socha
+	Kazimierz
+-----------
+Move choice:
+Launch query on token 26 "Socha"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.992,LOC=0.003,ORG=0.005,O=0.000]	PER	PER
+Socha	[PER=0.971,LOC=0.012,ORG=0.014,O=0.004]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.023,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Socha
+	Kazimierz
+	Socha
+-----------
+Next event:
+Got response on token 26 "Socha" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.998,LOC=0.001,ORG=0.001,O=0.000]	PER	PER
+Socha	[PER=0.996,LOC=0.002,ORG=0.002,O=0.001]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Reuters	[PER=0.024,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Kazimierz
+	Socha
+-----------
+Next event:
+Got response on token 25 "Kazimierz" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.992,LOC=0.001,ORG=0.007,O=0.000]	PER	PER
+Socha	[PER=0.992,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Reuters	[PER=0.024,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Socha
+-----------
+Move choice:
+Launch query on token 25 "Kazimierz"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.992,LOC=0.001,ORG=0.007,O=0.000]	PER	PER
+Socha	[PER=0.992,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Reuters	[PER=0.024,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Kazimierz
+	Socha
+-----------
+Move choice:
+Launch query on token 28 "Reuters"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.992,LOC=0.001,ORG=0.007,O=0.000]	PER	PER
+Socha	[PER=0.992,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Reuters	[PER=0.024,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Kazimierz
+	Reuters
+	Socha
+-----------
+Move choice:
+Launch query on token 28 "Reuters"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.992,LOC=0.001,ORG=0.007,O=0.000]	PER	PER
+Socha	[PER=0.992,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Reuters	[PER=0.024,LOC=0.036,ORG=0.879,O=0.061]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Reuters
+	Kazimierz
+	Reuters
+	Socha
+-----------
+Next event:
+Got response on token 28 "Reuters" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.992,LOC=0.001,ORG=0.007,O=0.000]	PER	PER
+Socha	[PER=0.992,LOC=0.002,ORG=0.006,O=0.001]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Reuters	[PER=0.004,LOC=0.006,ORG=0.981,O=0.010]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Reuters
+	Kazimierz
+	Socha
+-----------
+Next event:
+Got response on token 25 "Kazimierz" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=0.999,LOC=0.000,ORG=0.001,O=0.000]	PER	PER
+Socha	[PER=0.996,LOC=0.002,ORG=0.002,O=0.001]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Reuters	[PER=0.004,LOC=0.006,ORG=0.981,O=0.010]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Reuters
+	Socha
+-----------
+Next event:
+Got response on token 26 "Socha" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Socha	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Reuters	[PER=0.004,LOC=0.006,ORG=0.981,O=0.010]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Reuters
+-----------
+Move choice:
+Launch query on token 28 "Reuters"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Socha	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Reuters	[PER=0.004,LOC=0.006,ORG=0.981,O=0.010]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Reuters
+	Reuters
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@3f7c623a
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Socha	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Reuters	[PER=0.004,LOC=0.006,ORG=0.981,O=0.010]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Reuters
+	Reuters
+-----------
+Next event:
+Got response on token 28 "Reuters" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Socha	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Reuters	[PER=0.001,LOC=0.001,ORG=0.997,O=0.001]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Reuters
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1db9a962
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Socha	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Reuters	[PER=0.001,LOC=0.001,ORG=0.997,O=0.001]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+	Reuters
+-----------
+Next event:
+Got response on token 28 "Reuters" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Interviewed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+presence	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+psychologist	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+she	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+money	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+school	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+clothes	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Kazimierz	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Socha	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Reuters	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+.	[PER=0.000,LOC=0.000,ORG=0.004,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@2a12b003

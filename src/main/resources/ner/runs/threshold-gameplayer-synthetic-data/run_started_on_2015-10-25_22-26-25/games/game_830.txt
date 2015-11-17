@@ -1,0 +1,1524 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+The	O	O	2
+News	ORG	ORG	2
+Agency	ORG	ORG	2
+of	ORG	ORG	2
+Nigeria	ORG	ORG	2
+(	O	O	1
+NAN	ORG	LOC	2
+)	O	O	0
+quoted	O	O	0
+police	O	O	0
+spokesman	O	O	0
+Umar	PER	PER	2
+Shelling	PER	PER	2
+as	O	O	0
+saying	O	O	0
+the	O	O	0
+six	O	O	0
+were	O	O	0
+killed	O	O	0
+on	O	O	0
+Wednesday	O	O	1
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.002,ORG=0.087,O=0.911]	O	O
+News	[PER=0.008,LOC=0.005,ORG=0.982,O=0.005]	ORG	ORG
+Agency	[PER=0.006,LOC=0.005,ORG=0.968,O=0.021]	ORG	ORG
+of	[PER=0.000,LOC=0.001,ORG=0.270,O=0.729]	ORG	O
+Nigeria	[PER=0.006,LOC=0.854,ORG=0.139,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+NAN	[PER=0.078,LOC=0.451,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.002,ORG=0.087,O=0.911]	O	O
+News	[PER=0.008,LOC=0.005,ORG=0.982,O=0.005]	ORG	ORG
+Agency	[PER=0.006,LOC=0.005,ORG=0.968,O=0.021]	ORG	ORG
+of	[PER=0.000,LOC=0.001,ORG=0.270,O=0.729]	ORG	O
+Nigeria	[PER=0.006,LOC=0.854,ORG=0.139,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+NAN	[PER=0.078,LOC=0.451,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@7bacb1b0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.002,ORG=0.087,O=0.911]	O	O
+News	[PER=0.008,LOC=0.005,ORG=0.982,O=0.005]	ORG	ORG
+Agency	[PER=0.006,LOC=0.005,ORG=0.968,O=0.021]	ORG	ORG
+of	[PER=0.000,LOC=0.001,ORG=0.270,O=0.729]	ORG	O
+Nigeria	[PER=0.006,LOC=0.854,ORG=0.139,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+NAN	[PER=0.078,LOC=0.451,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.002,ORG=0.087,O=0.911]	O	O
+News	[PER=0.008,LOC=0.005,ORG=0.982,O=0.005]	ORG	ORG
+Agency	[PER=0.006,LOC=0.005,ORG=0.968,O=0.021]	ORG	ORG
+of	[PER=0.000,LOC=0.001,ORG=0.270,O=0.729]	ORG	O
+Nigeria	[PER=0.006,LOC=0.854,ORG=0.139,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+NAN	[PER=0.078,LOC=0.451,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@79459bba
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.002,ORG=0.087,O=0.911]	O	O
+News	[PER=0.008,LOC=0.005,ORG=0.982,O=0.005]	ORG	ORG
+Agency	[PER=0.006,LOC=0.005,ORG=0.968,O=0.021]	ORG	ORG
+of	[PER=0.000,LOC=0.001,ORG=0.270,O=0.729]	ORG	O
+Nigeria	[PER=0.006,LOC=0.854,ORG=0.139,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+NAN	[PER=0.078,LOC=0.451,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "The"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.002,ORG=0.087,O=0.911]	O	O
+News	[PER=0.008,LOC=0.005,ORG=0.982,O=0.005]	ORG	ORG
+Agency	[PER=0.006,LOC=0.005,ORG=0.968,O=0.021]	ORG	ORG
+of	[PER=0.000,LOC=0.001,ORG=0.270,O=0.729]	ORG	O
+Nigeria	[PER=0.006,LOC=0.854,ORG=0.139,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+NAN	[PER=0.078,LOC=0.451,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	The
+-----------
+Move choice:
+Launch query on token 0 "The"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.002,ORG=0.087,O=0.911]	O	O
+News	[PER=0.008,LOC=0.005,ORG=0.982,O=0.005]	ORG	ORG
+Agency	[PER=0.006,LOC=0.005,ORG=0.968,O=0.021]	ORG	ORG
+of	[PER=0.000,LOC=0.001,ORG=0.270,O=0.729]	ORG	O
+Nigeria	[PER=0.006,LOC=0.854,ORG=0.139,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+NAN	[PER=0.078,LOC=0.451,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	The
+	The
+-----------
+Move choice:
+Launch query on token 1 "News"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.002,ORG=0.087,O=0.911]	O	O
+News	[PER=0.008,LOC=0.005,ORG=0.982,O=0.005]	ORG	ORG
+Agency	[PER=0.006,LOC=0.005,ORG=0.968,O=0.021]	ORG	ORG
+of	[PER=0.000,LOC=0.001,ORG=0.270,O=0.729]	ORG	O
+Nigeria	[PER=0.006,LOC=0.854,ORG=0.139,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+NAN	[PER=0.078,LOC=0.451,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	News
+	The
+	The
+-----------
+Next event:
+Got response on token 0 "The" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.013,O=0.986]	O	O
+News	[PER=0.009,LOC=0.005,ORG=0.980,O=0.006]	ORG	ORG
+Agency	[PER=0.007,LOC=0.005,ORG=0.967,O=0.021]	ORG	ORG
+of	[PER=0.000,LOC=0.001,ORG=0.270,O=0.730]	ORG	O
+Nigeria	[PER=0.006,LOC=0.854,ORG=0.139,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+NAN	[PER=0.078,LOC=0.451,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	News
+	The
+-----------
+Next event:
+Got response on token 0 "The" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.009,LOC=0.005,ORG=0.980,O=0.006]	ORG	ORG
+Agency	[PER=0.007,LOC=0.005,ORG=0.967,O=0.021]	ORG	ORG
+of	[PER=0.000,LOC=0.001,ORG=0.270,O=0.730]	ORG	O
+Nigeria	[PER=0.006,LOC=0.854,ORG=0.139,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+NAN	[PER=0.078,LOC=0.451,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	News
+-----------
+Move choice:
+Launch query on token 1 "News"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.009,LOC=0.005,ORG=0.980,O=0.006]	ORG	ORG
+Agency	[PER=0.007,LOC=0.005,ORG=0.967,O=0.021]	ORG	ORG
+of	[PER=0.000,LOC=0.001,ORG=0.270,O=0.730]	ORG	O
+Nigeria	[PER=0.006,LOC=0.854,ORG=0.139,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+NAN	[PER=0.078,LOC=0.451,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	News
+	News
+-----------
+Move choice:
+Launch query on token 2 "Agency"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.009,LOC=0.005,ORG=0.980,O=0.006]	ORG	ORG
+Agency	[PER=0.007,LOC=0.005,ORG=0.967,O=0.021]	ORG	ORG
+of	[PER=0.000,LOC=0.001,ORG=0.270,O=0.730]	ORG	O
+Nigeria	[PER=0.006,LOC=0.854,ORG=0.139,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+NAN	[PER=0.078,LOC=0.451,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	News
+	News
+	Agency
+-----------
+Next event:
+Got response on token 1 "News" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.001,LOC=0.001,ORG=0.997,O=0.001]	ORG	ORG
+Agency	[PER=0.002,LOC=0.003,ORG=0.979,O=0.016]	ORG	ORG
+of	[PER=0.000,LOC=0.001,ORG=0.273,O=0.726]	ORG	O
+Nigeria	[PER=0.006,LOC=0.853,ORG=0.140,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+NAN	[PER=0.078,LOC=0.451,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	News
+	Agency
+-----------
+Move choice:
+Launch query on token 2 "Agency"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.001,LOC=0.001,ORG=0.997,O=0.001]	ORG	ORG
+Agency	[PER=0.002,LOC=0.003,ORG=0.979,O=0.016]	ORG	ORG
+of	[PER=0.000,LOC=0.001,ORG=0.273,O=0.726]	ORG	O
+Nigeria	[PER=0.006,LOC=0.853,ORG=0.140,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+NAN	[PER=0.078,LOC=0.451,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	News
+	Agency
+	Agency
+-----------
+Next event:
+Got response on token 1 "News" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.002,LOC=0.002,ORG=0.980,O=0.016]	ORG	ORG
+of	[PER=0.000,LOC=0.001,ORG=0.273,O=0.726]	ORG	O
+Nigeria	[PER=0.006,LOC=0.853,ORG=0.140,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+NAN	[PER=0.078,LOC=0.451,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Agency
+	Agency
+-----------
+Move choice:
+Launch query on token 3 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.002,LOC=0.002,ORG=0.980,O=0.016]	ORG	ORG
+of	[PER=0.000,LOC=0.001,ORG=0.273,O=0.726]	ORG	O
+Nigeria	[PER=0.006,LOC=0.853,ORG=0.140,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+NAN	[PER=0.078,LOC=0.451,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Agency
+	of
+	Agency
+-----------
+Next event:
+Got response on token 2 "Agency" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.001,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Agency	[PER=0.011,LOC=0.002,ORG=0.971,O=0.015]	ORG	ORG
+of	[PER=0.000,LOC=0.001,ORG=0.271,O=0.729]	ORG	O
+Nigeria	[PER=0.006,LOC=0.854,ORG=0.139,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+NAN	[PER=0.078,LOC=0.451,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	of
+	Agency
+-----------
+Move choice:
+Launch query on token 3 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.001,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Agency	[PER=0.011,LOC=0.002,ORG=0.971,O=0.015]	ORG	ORG
+of	[PER=0.000,LOC=0.001,ORG=0.271,O=0.729]	ORG	O
+Nigeria	[PER=0.006,LOC=0.854,ORG=0.139,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.002,O=0.996]	O	O
+NAN	[PER=0.078,LOC=0.451,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	of
+	Agency
+	of
+-----------
+Next event:
+Got response on token 3 "of" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.004,LOC=0.001,ORG=0.988,O=0.006]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.722,O=0.278]	ORG	ORG
+Nigeria	[PER=0.004,LOC=0.642,ORG=0.352,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+NAN	[PER=0.078,LOC=0.449,ORG=0.214,O=0.258]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Agency
+	of
+-----------
+Next event:
+Got response on token 2 "Agency" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.001,LOC=0.000,ORG=0.998,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.729,O=0.271]	ORG	ORG
+Nigeria	[PER=0.004,LOC=0.639,ORG=0.355,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+NAN	[PER=0.078,LOC=0.449,ORG=0.214,O=0.258]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	of
+-----------
+Move choice:
+Launch query on token 4 "Nigeria"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.001,LOC=0.000,ORG=0.998,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.729,O=0.271]	ORG	ORG
+Nigeria	[PER=0.004,LOC=0.639,ORG=0.355,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+NAN	[PER=0.078,LOC=0.449,ORG=0.214,O=0.258]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Nigeria
+	of
+-----------
+Move choice:
+Launch query on token 4 "Nigeria"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.001,LOC=0.000,ORG=0.998,O=0.001]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.729,O=0.271]	ORG	ORG
+Nigeria	[PER=0.004,LOC=0.639,ORG=0.355,O=0.001]	ORG	LOC
+(	[PER=0.000,LOC=0.001,ORG=0.005,O=0.994]	O	O
+NAN	[PER=0.078,LOC=0.449,ORG=0.214,O=0.258]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Nigeria
+	Nigeria
+	of
+-----------
+Next event:
+Got response on token 4 "Nigeria" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.908,O=0.092]	ORG	ORG
+Nigeria	[PER=0.001,LOC=0.204,ORG=0.794,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.001,ORG=0.011,O=0.988]	O	O
+NAN	[PER=0.078,LOC=0.446,ORG=0.219,O=0.257]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Nigeria
+	of
+-----------
+Next event:
+Got response on token 3 "of" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.986,O=0.014]	ORG	ORG
+Nigeria	[PER=0.001,LOC=0.142,ORG=0.856,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.012,O=0.987]	O	O
+NAN	[PER=0.077,LOC=0.446,ORG=0.220,O=0.257]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Nigeria
+-----------
+Move choice:
+Launch query on token 5 "("
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.986,O=0.014]	ORG	ORG
+Nigeria	[PER=0.001,LOC=0.142,ORG=0.856,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.012,O=0.987]	O	O
+NAN	[PER=0.077,LOC=0.446,ORG=0.220,O=0.257]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Nigeria
+	(
+-----------
+Move choice:
+Launch query on token 6 "NAN"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.986,O=0.014]	ORG	ORG
+Nigeria	[PER=0.001,LOC=0.142,ORG=0.856,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.012,O=0.987]	O	O
+NAN	[PER=0.077,LOC=0.446,ORG=0.220,O=0.257]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	NAN
+	Nigeria
+	(
+-----------
+Next event:
+Got response on token 4 "Nigeria" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+Nigeria	[PER=0.000,LOC=0.023,ORG=0.977,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.014,O=0.986]	O	O
+NAN	[PER=0.077,LOC=0.445,ORG=0.221,O=0.256]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	NAN
+	(
+-----------
+Next event:
+Got response on token 5 "(" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+Nigeria	[PER=0.000,LOC=0.023,ORG=0.976,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+NAN	[PER=0.078,LOC=0.450,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	NAN
+-----------
+Move choice:
+Launch query on token 6 "NAN"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+Nigeria	[PER=0.000,LOC=0.023,ORG=0.976,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+NAN	[PER=0.078,LOC=0.450,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	NAN
+	NAN
+-----------
+Move choice:
+Launch query on token 11 "Umar"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+Nigeria	[PER=0.000,LOC=0.023,ORG=0.976,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+NAN	[PER=0.078,LOC=0.450,ORG=0.212,O=0.259]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.999]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	NAN
+	NAN
+	Umar
+-----------
+Next event:
+Got response on token 6 "NAN" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+Nigeria	[PER=0.000,LOC=0.023,ORG=0.976,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.006,O=0.994]	O	O
+NAN	[PER=0.034,LOC=0.198,ORG=0.654,O=0.114]	ORG	ORG
+)	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	NAN
+	Umar
+-----------
+Next event:
+Got response on token 6 "NAN" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+Nigeria	[PER=0.000,LOC=0.023,ORG=0.976,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+NAN	[PER=0.016,LOC=0.634,ORG=0.299,O=0.052]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Umar
+-----------
+Move choice:
+Launch query on token 11 "Umar"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+Nigeria	[PER=0.000,LOC=0.023,ORG=0.976,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+NAN	[PER=0.016,LOC=0.634,ORG=0.299,O=0.052]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Umar
+	Umar
+-----------
+Move choice:
+Launch query on token 12 "Shelling"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+Nigeria	[PER=0.000,LOC=0.023,ORG=0.976,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+NAN	[PER=0.016,LOC=0.634,ORG=0.299,O=0.052]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Umar	[PER=0.265,LOC=0.113,ORG=0.555,O=0.067]	PER	ORG
+Shelling	[PER=0.047,LOC=0.018,ORG=0.554,O=0.382]	PER	ORG
+as	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Shelling
+	Umar
+	Umar
+-----------
+Next event:
+Got response on token 11 "Umar" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+Nigeria	[PER=0.000,LOC=0.023,ORG=0.976,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+NAN	[PER=0.016,LOC=0.634,ORG=0.299,O=0.052]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Umar	[PER=0.716,LOC=0.044,ORG=0.214,O=0.026]	PER	PER
+Shelling	[PER=0.122,LOC=0.015,ORG=0.271,O=0.593]	PER	O
+as	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Shelling
+	Umar
+-----------
+Next event:
+Got response on token 11 "Umar" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+Nigeria	[PER=0.000,LOC=0.023,ORG=0.976,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+NAN	[PER=0.016,LOC=0.634,ORG=0.299,O=0.052]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Umar	[PER=0.620,LOC=0.038,ORG=0.185,O=0.157]	PER	PER
+Shelling	[PER=0.107,LOC=0.017,ORG=0.258,O=0.618]	PER	O
+as	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Shelling
+-----------
+Move choice:
+Launch query on token 12 "Shelling"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+Nigeria	[PER=0.000,LOC=0.023,ORG=0.976,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+NAN	[PER=0.016,LOC=0.634,ORG=0.299,O=0.052]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Umar	[PER=0.620,LOC=0.038,ORG=0.185,O=0.157]	PER	PER
+Shelling	[PER=0.107,LOC=0.017,ORG=0.258,O=0.618]	PER	O
+as	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Shelling
+	Shelling
+-----------
+Move choice:
+Launch query on token 20 "Wednesday"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+Nigeria	[PER=0.000,LOC=0.023,ORG=0.976,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+NAN	[PER=0.016,LOC=0.634,ORG=0.299,O=0.052]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Umar	[PER=0.620,LOC=0.038,ORG=0.185,O=0.157]	PER	PER
+Shelling	[PER=0.107,LOC=0.017,ORG=0.258,O=0.618]	PER	O
+as	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Shelling
+	Shelling
+	Wednesday
+-----------
+Next event:
+Got response on token 12 "Shelling" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+Nigeria	[PER=0.000,LOC=0.023,ORG=0.976,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+NAN	[PER=0.016,LOC=0.634,ORG=0.299,O=0.052]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Umar	[PER=0.760,LOC=0.023,ORG=0.113,O=0.103]	PER	PER
+Shelling	[PER=0.456,LOC=0.010,ORG=0.157,O=0.376]	PER	PER
+as	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Shelling
+	Wednesday
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@648acc53
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+Nigeria	[PER=0.000,LOC=0.023,ORG=0.976,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+NAN	[PER=0.016,LOC=0.634,ORG=0.299,O=0.052]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Umar	[PER=0.760,LOC=0.023,ORG=0.113,O=0.103]	PER	PER
+Shelling	[PER=0.456,LOC=0.010,ORG=0.157,O=0.376]	PER	PER
+as	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.004,LOC=0.008,ORG=0.002,O=0.987]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Shelling
+	Wednesday
+-----------
+Next event:
+Got response on token 20 "Wednesday" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+Nigeria	[PER=0.000,LOC=0.023,ORG=0.976,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+NAN	[PER=0.016,LOC=0.634,ORG=0.299,O=0.052]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Umar	[PER=0.760,LOC=0.023,ORG=0.113,O=0.103]	PER	PER
+Shelling	[PER=0.456,LOC=0.010,ORG=0.157,O=0.376]	PER	PER
+as	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Shelling
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@35f767f7
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+Nigeria	[PER=0.000,LOC=0.023,ORG=0.976,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+NAN	[PER=0.016,LOC=0.634,ORG=0.299,O=0.052]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Umar	[PER=0.760,LOC=0.023,ORG=0.113,O=0.103]	PER	PER
+Shelling	[PER=0.456,LOC=0.010,ORG=0.157,O=0.376]	PER	PER
+as	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Shelling
+-----------
+Next event:
+Got response on token 12 "Shelling" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+News	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Agency	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+of	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+Nigeria	[PER=0.000,LOC=0.023,ORG=0.976,O=0.000]	ORG	ORG
+(	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+NAN	[PER=0.016,LOC=0.634,ORG=0.299,O=0.052]	ORG	LOC
+)	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+quoted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+spokesman	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Umar	[PER=0.921,LOC=0.007,ORG=0.031,O=0.041]	PER	PER
+Shelling	[PER=0.855,LOC=0.003,ORG=0.042,O=0.101]	PER	PER
+as	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+saying	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+six	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+were	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+killed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Wednesday	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@73aee4a

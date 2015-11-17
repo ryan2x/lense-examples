@@ -1,0 +1,137 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+CHESAPEAKE	LOC	PER	1
+,	O	O	0
+Va	LOC	LOC	1
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CHESAPEAKE	[PER=0.148,LOC=0.612,ORG=0.122,O=0.119]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Va	[PER=0.115,LOC=0.825,ORG=0.024,O=0.036]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CHESAPEAKE	[PER=0.148,LOC=0.612,ORG=0.122,O=0.119]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Va	[PER=0.115,LOC=0.825,ORG=0.024,O=0.036]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@5b3216b7
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CHESAPEAKE	[PER=0.148,LOC=0.612,ORG=0.122,O=0.119]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Va	[PER=0.115,LOC=0.825,ORG=0.024,O=0.036]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "CHESAPEAKE"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CHESAPEAKE	[PER=0.148,LOC=0.612,ORG=0.122,O=0.119]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Va	[PER=0.115,LOC=0.825,ORG=0.024,O=0.036]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	CHESAPEAKE
+-----------
+Move choice:
+Launch query on token 2 "Va"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CHESAPEAKE	[PER=0.148,LOC=0.612,ORG=0.122,O=0.119]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Va	[PER=0.115,LOC=0.825,ORG=0.024,O=0.036]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	CHESAPEAKE
+	Va
+-----------
+Next event:
+Got response on token 0 "CHESAPEAKE" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CHESAPEAKE	[PER=0.549,LOC=0.324,ORG=0.065,O=0.063]	LOC	PER
+,	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Va	[PER=0.116,LOC=0.825,ORG=0.024,O=0.036]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Va
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@97edd47
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CHESAPEAKE	[PER=0.549,LOC=0.324,ORG=0.065,O=0.063]	LOC	PER
+,	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Va	[PER=0.116,LOC=0.825,ORG=0.024,O=0.036]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Va
+-----------
+Next event:
+Got response on token 2 "Va" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+CHESAPEAKE	[PER=0.549,LOC=0.324,ORG=0.064,O=0.063]	LOC	PER
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Va	[PER=0.019,LOC=0.971,ORG=0.004,O=0.006]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@37f7fc5e

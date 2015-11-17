@@ -1,0 +1,49 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+He	O	O	0
+offered	O	O	0
+no	O	O	0
+details	O	O	0
+about	O	O	0
+the	O	O	0
+cause	O	O	0
+of	O	O	0
+Smith	PER	PER	0
+'s	O	O	0
+death	O	O	0
+or	O	O	0
+the	O	O	0
+location	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.006,LOC=0.003,ORG=0.006,O=0.986]	O	O
+offered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+details	[PER=0.001,LOC=0.001,ORG=0.001,O=0.998]	O	O
+about	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+cause	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.012,O=0.984]	O	O
+Smith	[PER=0.826,LOC=0.043,ORG=0.027,O=0.103]	PER	PER
+'s	[PER=0.005,LOC=0.002,ORG=0.001,O=0.991]	O	O
+death	[PER=0.002,LOC=0.001,ORG=0.002,O=0.995]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+location	[PER=0.001,LOC=0.010,ORG=0.002,O=0.988]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

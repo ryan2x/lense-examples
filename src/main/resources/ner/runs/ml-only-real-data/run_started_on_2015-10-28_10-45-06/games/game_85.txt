@@ -1,0 +1,37 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+AD-DIYAR	ORG	O	0
+-	O	O	0
+Financial	O	ORG	0
+negotiations	O	O	0
+between	O	O	0
+Lebanon	LOC	LOC	0
+and	O	O	0
+Pakistan	LOC	LOC	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+AD-DIYAR	[PER=0.030,LOC=0.276,ORG=0.272,O=0.422]	ORG	O
+-	[PER=0.001,LOC=0.001,ORG=0.036,O=0.962]	O	O
+Financial	[PER=0.126,LOC=0.125,ORG=0.504,O=0.245]	O	ORG
+negotiations	[PER=0.001,LOC=0.001,ORG=0.025,O=0.974]	O	O
+between	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+Lebanon	[PER=0.038,LOC=0.942,ORG=0.014,O=0.006]	LOC	LOC
+and	[PER=0.000,LOC=0.005,ORG=0.000,O=0.995]	O	O
+Pakistan	[PER=0.065,LOC=0.790,ORG=0.086,O=0.058]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

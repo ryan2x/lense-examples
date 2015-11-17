@@ -1,0 +1,47 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Reuters	ORG	ORG	0
+has	O	O	0
+not	O	O	0
+verified	O	O	0
+these	O	O	0
+stories	O	O	0
+and	O	O	0
+does	O	O	0
+not	O	O	0
+vouch	O	O	0
+for	O	O	0
+their	O	O	0
+accuracy	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Reuters	[PER=0.019,LOC=0.026,ORG=0.930,O=0.025]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+verified	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+these	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+stories	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+does	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+vouch	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+accuracy	[PER=0.001,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

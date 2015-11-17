@@ -1,0 +1,53 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+She	O	O	0
+took	O	O	0
+the	O	O	0
+name	O	O	0
+of	O	O	0
+Teresa	PER	PER	0
+,	O	O	0
+after	O	O	0
+France	LOC	LOC	0
+'s	O	O	0
+Saint	O	PER	0
+Therese	PER	PER	0
+of	O	O	0
+the	O	O	0
+Child	O	PER	0
+Jesus	PER	PER	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+She	[PER=0.026,LOC=0.007,ORG=0.017,O=0.950]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+name	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.002,LOC=0.001,ORG=0.012,O=0.984]	O	O
+Teresa	[PER=0.681,LOC=0.172,ORG=0.031,O=0.117]	PER	PER
+,	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+after	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.012,LOC=0.941,ORG=0.027,O=0.019]	LOC	LOC
+'s	[PER=0.001,LOC=0.056,ORG=0.020,O=0.922]	O	O
+Saint	[PER=0.349,LOC=0.444,ORG=0.182,O=0.025]	O	PER
+Therese	[PER=0.359,LOC=0.171,ORG=0.125,O=0.345]	PER	PER
+of	[PER=0.001,LOC=0.001,ORG=0.038,O=0.960]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.008,O=0.992]	O	O
+Child	[PER=0.357,LOC=0.128,ORG=0.116,O=0.399]	O	PER
+Jesus	[PER=0.546,LOC=0.191,ORG=0.115,O=0.148]	PER	PER
+.	[PER=0.001,LOC=0.000,ORG=0.001,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

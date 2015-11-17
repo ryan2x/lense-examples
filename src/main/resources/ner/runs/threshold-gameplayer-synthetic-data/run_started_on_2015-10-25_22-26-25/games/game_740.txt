@@ -1,0 +1,146 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+1-3	O	O	2
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+1-3	[PER=0.006,LOC=0.009,ORG=0.004,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+1-3	[PER=0.006,LOC=0.009,ORG=0.004,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@6659507a
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+1-3	[PER=0.006,LOC=0.009,ORG=0.004,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+1-3	[PER=0.006,LOC=0.009,ORG=0.004,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@157345d0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+1-3	[PER=0.006,LOC=0.009,ORG=0.004,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "1-3"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+1-3	[PER=0.006,LOC=0.009,ORG=0.004,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	1-3
+-----------
+Move choice:
+Launch query on token 0 "1-3"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+1-3	[PER=0.006,LOC=0.009,ORG=0.004,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	1-3
+	1-3
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@5de70652
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+1-3	[PER=0.006,LOC=0.009,ORG=0.004,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	1-3
+	1-3
+-----------
+Next event:
+Got response on token 0 "1-3" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+1-3	[PER=0.006,LOC=0.062,ORG=0.004,O=0.928]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	1-3
+-----------
+Next event:
+Got response on token 0 "1-3" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+1-3	[PER=0.001,LOC=0.009,ORG=0.001,O=0.989]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@79111b48

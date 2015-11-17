@@ -1,0 +1,35 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+So	O	O	0
+Ballybunion	ORG	LOC	0
+is	O	O	0
+going	O	O	0
+to	O	O	0
+America	LOC	LOC	0
+instead	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+So	[PER=0.005,LOC=0.011,ORG=0.003,O=0.980]	O	O
+Ballybunion	[PER=0.090,LOC=0.742,ORG=0.140,O=0.028]	ORG	LOC
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+going	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.002,ORG=0.001,O=0.998]	O	O
+America	[PER=0.035,LOC=0.901,ORG=0.025,O=0.039]	LOC	LOC
+instead	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

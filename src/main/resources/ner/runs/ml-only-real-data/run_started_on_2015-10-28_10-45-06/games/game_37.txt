@@ -1,0 +1,79 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Itamar	PER	PER	0
+Rabinovich	PER	PER	0
+,	O	O	0
+who	O	O	0
+as	O	O	0
+Israel	LOC	LOC	0
+'s	O	O	0
+ambassador	O	O	0
+to	O	O	0
+Washington	LOC	O	0
+conducted	O	O	0
+unfruitful	O	O	0
+negotiations	O	O	0
+with	O	O	0
+Syria	LOC	LOC	0
+,	O	O	0
+told	O	O	0
+Israel	ORG	ORG	0
+Radio	ORG	ORG	0
+it	O	O	0
+looked	O	O	0
+like	O	O	0
+Damascus	LOC	PER	0
+wanted	O	O	0
+to	O	O	0
+talk	O	O	0
+rather	O	O	0
+than	O	O	0
+fight	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Itamar	[PER=0.482,LOC=0.047,ORG=0.445,O=0.026]	PER	PER
+Rabinovich	[PER=0.408,LOC=0.068,ORG=0.382,O=0.142]	PER	PER
+,	[PER=0.001,LOC=0.001,ORG=0.001,O=0.998]	O	O
+who	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Israel	[PER=0.071,LOC=0.330,ORG=0.290,O=0.309]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+ambassador	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+to	[PER=0.001,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Washington	[PER=0.214,LOC=0.185,ORG=0.105,O=0.496]	LOC	O
+conducted	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+unfruitful	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+negotiations	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Syria	[PER=0.132,LOC=0.667,ORG=0.123,O=0.078]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+told	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Israel	[PER=0.069,LOC=0.103,ORG=0.736,O=0.093]	ORG	ORG
+Radio	[PER=0.063,LOC=0.031,ORG=0.640,O=0.266]	ORG	ORG
+it	[PER=0.000,LOC=0.001,ORG=0.017,O=0.982]	O	O
+looked	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+like	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Damascus	[PER=0.353,LOC=0.353,ORG=0.222,O=0.072]	LOC	PER
+wanted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+talk	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+rather	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+than	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+fight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

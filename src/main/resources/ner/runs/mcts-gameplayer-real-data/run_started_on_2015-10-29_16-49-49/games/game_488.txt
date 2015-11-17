@@ -1,0 +1,937 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Ischinger	PER	PER	2
+said	O	O	0
+the	O	O	0
+threat	O	O	0
+of	O	O	0
+a	O	O	0
+major	O	O	0
+assault	O	O	0
+to	O	O	0
+take	O	O	0
+Grozny	LOC	LOC	1
+had	O	O	0
+been	O	O	0
+the	O	O	0
+unauthorised	O	O	0
+initiative	O	O	0
+of	O	O	0
+the	O	O	0
+commanding	O	O	1
+general	O	O	0
+and	O	O	0
+not	O	O	0
+Moscow	LOC	LOC	1
+'s	O	O	0
+intention	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.644,LOC=0.205,ORG=0.112,O=0.040]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.066,LOC=0.877,ORG=0.044,O=0.014]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+commanding	[PER=0.001,LOC=0.000,ORG=0.008,O=0.992]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.644,LOC=0.205,ORG=0.112,O=0.040]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.066,LOC=0.877,ORG=0.044,O=0.014]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+commanding	[PER=0.001,LOC=0.000,ORG=0.008,O=0.992]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.644,LOC=0.205,ORG=0.112,O=0.040]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.066,LOC=0.877,ORG=0.044,O=0.014]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+commanding	[PER=0.001,LOC=0.000,ORG=0.008,O=0.992]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.644,LOC=0.205,ORG=0.112,O=0.040]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.066,LOC=0.877,ORG=0.044,O=0.014]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+commanding	[PER=0.001,LOC=0.000,ORG=0.008,O=0.992]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.644,LOC=0.205,ORG=0.112,O=0.040]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.066,LOC=0.877,ORG=0.044,O=0.014]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+commanding	[PER=0.001,LOC=0.000,ORG=0.008,O=0.992]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.644,LOC=0.205,ORG=0.112,O=0.040]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.066,LOC=0.877,ORG=0.044,O=0.014]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+commanding	[PER=0.001,LOC=0.000,ORG=0.008,O=0.992]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.644,LOC=0.205,ORG=0.112,O=0.040]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.066,LOC=0.877,ORG=0.044,O=0.014]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+commanding	[PER=0.001,LOC=0.000,ORG=0.008,O=0.992]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.644,LOC=0.205,ORG=0.112,O=0.040]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.066,LOC=0.877,ORG=0.044,O=0.014]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+commanding	[PER=0.001,LOC=0.000,ORG=0.008,O=0.992]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.644,LOC=0.205,ORG=0.112,O=0.040]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.066,LOC=0.877,ORG=0.044,O=0.014]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+commanding	[PER=0.001,LOC=0.000,ORG=0.008,O=0.992]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.644,LOC=0.205,ORG=0.112,O=0.040]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.066,LOC=0.877,ORG=0.044,O=0.014]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+commanding	[PER=0.001,LOC=0.000,ORG=0.008,O=0.992]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.644,LOC=0.205,ORG=0.112,O=0.040]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.066,LOC=0.877,ORG=0.044,O=0.014]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+commanding	[PER=0.001,LOC=0.000,ORG=0.008,O=0.992]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 10 "Grozny"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.644,LOC=0.205,ORG=0.112,O=0.040]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.066,LOC=0.877,ORG=0.044,O=0.014]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+commanding	[PER=0.001,LOC=0.000,ORG=0.008,O=0.992]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Grozny
+-----------
+Move choice:
+Launch query on token 18 "commanding"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.644,LOC=0.205,ORG=0.112,O=0.040]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.066,LOC=0.877,ORG=0.044,O=0.014]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+commanding	[PER=0.001,LOC=0.000,ORG=0.008,O=0.992]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Grozny
+	commanding
+-----------
+Next event:
+Got response on token 10 "Grozny" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.644,LOC=0.205,ORG=0.112,O=0.040]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.011,LOC=0.980,ORG=0.007,O=0.002]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+commanding	[PER=0.001,LOC=0.000,ORG=0.008,O=0.992]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	commanding
+-----------
+Move choice:
+Launch query on token 0 "Ischinger"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.644,LOC=0.205,ORG=0.112,O=0.040]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.011,LOC=0.980,ORG=0.007,O=0.002]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+commanding	[PER=0.001,LOC=0.000,ORG=0.008,O=0.992]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ischinger
+	commanding
+-----------
+Next event:
+Got response on token 18 "commanding" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.644,LOC=0.205,ORG=0.112,O=0.040]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.011,LOC=0.980,ORG=0.007,O=0.002]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+commanding	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ischinger
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@146
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.644,LOC=0.205,ORG=0.112,O=0.040]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.011,LOC=0.980,ORG=0.007,O=0.002]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+commanding	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ischinger
+-----------
+Next event:
+Got response on token 0 "Ischinger" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.927,LOC=0.042,ORG=0.023,O=0.008]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.011,LOC=0.980,ORG=0.007,O=0.002]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+commanding	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 22 "Moscow"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.927,LOC=0.042,ORG=0.023,O=0.008]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.011,LOC=0.980,ORG=0.007,O=0.002]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+commanding	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Moscow
+-----------
+Move choice:
+Launch query on token 0 "Ischinger"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.927,LOC=0.042,ORG=0.023,O=0.008]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.011,LOC=0.980,ORG=0.007,O=0.002]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+commanding	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ischinger
+	Moscow
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@251
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.927,LOC=0.042,ORG=0.023,O=0.008]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.011,LOC=0.980,ORG=0.007,O=0.002]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+commanding	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.017,LOC=0.955,ORG=0.019,O=0.010]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ischinger
+	Moscow
+-----------
+Next event:
+Got response on token 22 "Moscow" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.927,LOC=0.042,ORG=0.023,O=0.008]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.011,LOC=0.980,ORG=0.007,O=0.002]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+commanding	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.002,LOC=0.993,ORG=0.003,O=0.001]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ischinger
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@2a0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.927,LOC=0.042,ORG=0.023,O=0.008]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.011,LOC=0.980,ORG=0.007,O=0.002]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+commanding	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.002,LOC=0.993,ORG=0.003,O=0.001]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ischinger
+-----------
+Next event:
+Got response on token 0 "Ischinger" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.989,LOC=0.006,ORG=0.004,O=0.001]	PER	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+threat	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+assault	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Grozny	[PER=0.011,LOC=0.980,ORG=0.007,O=0.002]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+unauthorised	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+initiative	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+commanding	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+general	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Moscow	[PER=0.002,LOC=0.993,ORG=0.003,O=0.001]	LOC	LOC
+'s	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+intention	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@2f1

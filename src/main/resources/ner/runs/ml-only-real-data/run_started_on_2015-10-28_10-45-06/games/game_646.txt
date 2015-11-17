@@ -1,0 +1,57 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+At	O	O	0
+Leicester	LOC	LOC	0
+:	O	O	0
+Leicestershire	ORG	LOC	0
+343-8	O	O	0
+(	O	O	0
+P.	PER	PER	0
+Simmons	PER	PER	0
+108	O	O	0
+,	O	O	0
+P.	PER	PER	0
+Nixon	PER	PER	0
+67	O	O	0
+not	O	O	0
+out	O	O	0
+)	O	O	0
+v	O	O	0
+Hampshire	ORG	LOC	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+At	[PER=0.005,LOC=0.012,ORG=0.007,O=0.976]	O	O
+Leicester	[PER=0.067,LOC=0.836,ORG=0.042,O=0.055]	LOC	LOC
+:	[PER=0.000,LOC=0.009,ORG=0.000,O=0.991]	O	O
+Leicestershire	[PER=0.006,LOC=0.934,ORG=0.012,O=0.048]	ORG	LOC
+343-8	[PER=0.000,LOC=0.004,ORG=0.001,O=0.996]	O	O
+(	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+P.	[PER=0.932,LOC=0.004,ORG=0.012,O=0.052]	PER	PER
+Simmons	[PER=0.973,LOC=0.008,ORG=0.011,O=0.008]	PER	PER
+108	[PER=0.004,LOC=0.000,ORG=0.000,O=0.996]	O	O
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+P.	[PER=0.933,LOC=0.003,ORG=0.014,O=0.050]	PER	PER
+Nixon	[PER=0.977,LOC=0.007,ORG=0.013,O=0.002]	PER	PER
+67	[PER=0.005,LOC=0.000,ORG=0.000,O=0.994]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+out	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+v	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+Hampshire	[PER=0.011,LOC=0.949,ORG=0.023,O=0.017]	ORG	LOC
+.	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

@@ -1,0 +1,664 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+There	O	O	0
+is	O	O	0
+nothing	O	O	0
+left	O	O	0
+for	O	O	0
+us	O	O	0
+but	O	O	0
+to	O	O	0
+be	O	O	0
+grateful	O	O	0
+to	O	O	0
+civilisation	O	O	0
+for	O	O	0
+inventing	O	O	0
+photocopies	O	O	0
+,	O	O	0
+"	O	O	0
+Gazeta	ORG	PER	1
+Shqiptare	ORG	PER	2
+said	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nothing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+us	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grateful	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+civilisation	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inventing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+photocopies	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Gazeta	[PER=0.267,LOC=0.333,ORG=0.387,O=0.013]	ORG	ORG
+Shqiptare	[PER=0.201,LOC=0.247,ORG=0.402,O=0.150]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nothing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+us	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grateful	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+civilisation	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inventing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+photocopies	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Gazeta	[PER=0.267,LOC=0.333,ORG=0.387,O=0.013]	ORG	ORG
+Shqiptare	[PER=0.201,LOC=0.247,ORG=0.402,O=0.150]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nothing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+us	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grateful	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+civilisation	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inventing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+photocopies	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Gazeta	[PER=0.267,LOC=0.333,ORG=0.387,O=0.013]	ORG	ORG
+Shqiptare	[PER=0.201,LOC=0.247,ORG=0.402,O=0.150]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nothing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+us	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grateful	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+civilisation	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inventing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+photocopies	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Gazeta	[PER=0.267,LOC=0.333,ORG=0.387,O=0.013]	ORG	ORG
+Shqiptare	[PER=0.201,LOC=0.247,ORG=0.402,O=0.150]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nothing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+us	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grateful	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+civilisation	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inventing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+photocopies	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Gazeta	[PER=0.267,LOC=0.333,ORG=0.387,O=0.013]	ORG	ORG
+Shqiptare	[PER=0.201,LOC=0.247,ORG=0.402,O=0.150]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nothing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+us	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grateful	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+civilisation	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inventing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+photocopies	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Gazeta	[PER=0.267,LOC=0.333,ORG=0.387,O=0.013]	ORG	ORG
+Shqiptare	[PER=0.201,LOC=0.247,ORG=0.402,O=0.150]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nothing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+us	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grateful	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+civilisation	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inventing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+photocopies	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Gazeta	[PER=0.267,LOC=0.333,ORG=0.387,O=0.013]	ORG	ORG
+Shqiptare	[PER=0.201,LOC=0.247,ORG=0.402,O=0.150]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nothing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+us	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grateful	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+civilisation	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inventing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+photocopies	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Gazeta	[PER=0.267,LOC=0.333,ORG=0.387,O=0.013]	ORG	ORG
+Shqiptare	[PER=0.201,LOC=0.247,ORG=0.402,O=0.150]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nothing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+us	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grateful	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+civilisation	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inventing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+photocopies	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Gazeta	[PER=0.267,LOC=0.333,ORG=0.387,O=0.013]	ORG	ORG
+Shqiptare	[PER=0.201,LOC=0.247,ORG=0.402,O=0.150]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nothing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+us	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grateful	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+civilisation	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inventing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+photocopies	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Gazeta	[PER=0.267,LOC=0.333,ORG=0.387,O=0.013]	ORG	ORG
+Shqiptare	[PER=0.201,LOC=0.247,ORG=0.402,O=0.150]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nothing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+us	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grateful	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+civilisation	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inventing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+photocopies	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Gazeta	[PER=0.267,LOC=0.333,ORG=0.387,O=0.013]	ORG	ORG
+Shqiptare	[PER=0.201,LOC=0.247,ORG=0.402,O=0.150]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 18 "Gazeta"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nothing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+us	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grateful	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+civilisation	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inventing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+photocopies	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Gazeta	[PER=0.267,LOC=0.333,ORG=0.387,O=0.013]	ORG	ORG
+Shqiptare	[PER=0.201,LOC=0.247,ORG=0.402,O=0.150]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Gazeta
+-----------
+Move choice:
+Launch query on token 19 "Shqiptare"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nothing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+us	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grateful	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+civilisation	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inventing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+photocopies	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Gazeta	[PER=0.267,LOC=0.333,ORG=0.387,O=0.013]	ORG	ORG
+Shqiptare	[PER=0.201,LOC=0.247,ORG=0.402,O=0.150]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Gazeta
+	Shqiptare
+-----------
+Next event:
+Got response on token 18 "Gazeta" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nothing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+us	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grateful	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+civilisation	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inventing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+photocopies	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Gazeta	[PER=0.718,LOC=0.128,ORG=0.149,O=0.005]	ORG	PER
+Shqiptare	[PER=0.517,LOC=0.139,ORG=0.191,O=0.154]	ORG	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Shqiptare
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@bf
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nothing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+us	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grateful	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+civilisation	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inventing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+photocopies	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Gazeta	[PER=0.718,LOC=0.128,ORG=0.149,O=0.005]	ORG	PER
+Shqiptare	[PER=0.517,LOC=0.139,ORG=0.191,O=0.154]	ORG	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Shqiptare
+-----------
+Next event:
+Got response on token 19 "Shqiptare" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nothing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+us	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grateful	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+civilisation	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inventing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+photocopies	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Gazeta	[PER=0.925,LOC=0.034,ORG=0.038,O=0.002]	ORG	PER
+Shqiptare	[PER=0.882,LOC=0.034,ORG=0.047,O=0.037]	ORG	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 19 "Shqiptare"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nothing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+us	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grateful	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+civilisation	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inventing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+photocopies	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Gazeta	[PER=0.925,LOC=0.034,ORG=0.038,O=0.002]	ORG	PER
+Shqiptare	[PER=0.882,LOC=0.034,ORG=0.047,O=0.037]	ORG	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Shqiptare
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@12c
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nothing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+us	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grateful	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+civilisation	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inventing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+photocopies	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Gazeta	[PER=0.925,LOC=0.034,ORG=0.038,O=0.002]	ORG	PER
+Shqiptare	[PER=0.882,LOC=0.034,ORG=0.047,O=0.037]	ORG	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Shqiptare
+-----------
+Next event:
+Got response on token 19 "Shqiptare" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+There	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nothing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+left	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+us	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+but	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+grateful	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+civilisation	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+inventing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+photocopies	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Gazeta	[PER=0.982,LOC=0.009,ORG=0.009,O=0.001]	ORG	PER
+Shqiptare	[PER=0.981,LOC=0.005,ORG=0.007,O=0.006]	ORG	PER
+said	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@1ae

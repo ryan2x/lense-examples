@@ -1,0 +1,57 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+--	O	O	0
+Paris	ORG	PER	0
+Newsroom	ORG	PER	0
++33	O	O	0
+1	O	O	0
+42	O	O	0
+21	O	O	0
+53	O	O	0
+81	O	O	0
+Well	O	O	0
+repairs	O	O	0
+to	O	O	0
+lift	O	O	0
+Heidrun	LOC	PER	0
+oil	O	O	0
+output	O	O	0
+-	O	O	0
+Statoil	ORG	ORG	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.010,LOC=0.004,ORG=0.030,O=0.956]	O	O
+Paris	[PER=0.529,LOC=0.090,ORG=0.327,O=0.054]	ORG	PER
+Newsroom	[PER=0.539,LOC=0.055,ORG=0.354,O=0.052]	ORG	PER
++33	[PER=0.006,LOC=0.002,ORG=0.018,O=0.974]	O	O
+1	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+42	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+21	[PER=0.001,LOC=0.001,ORG=0.000,O=0.999]	O	O
+53	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+81	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Well	[PER=0.002,LOC=0.007,ORG=0.001,O=0.991]	O	O
+repairs	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lift	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Heidrun	[PER=0.769,LOC=0.080,ORG=0.072,O=0.079]	LOC	PER
+oil	[PER=0.003,LOC=0.003,ORG=0.015,O=0.979]	O	O
+output	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+-	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Statoil	[PER=0.234,LOC=0.206,ORG=0.377,O=0.183]	ORG	ORG
+.	[PER=0.001,LOC=0.000,ORG=0.003,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

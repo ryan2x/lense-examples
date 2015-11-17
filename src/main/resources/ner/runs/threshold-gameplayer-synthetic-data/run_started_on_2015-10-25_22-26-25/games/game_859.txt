@@ -1,0 +1,463 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Ibrahim	PER	PER	1
+told	O	O	0
+Reuters	ORG	ORG	1
+by	O	O	0
+telephone	O	O	0
+from	O	O	0
+his	O	O	0
+embassy	O	O	0
+office	O	O	0
+in	O	O	0
+Amman	LOC	LOC	1
+that	O	O	0
+he	O	O	0
+"	O	O	0
+had	O	O	0
+not	O	O	0
+been	O	O	0
+notified	O	O	0
+"	O	O	0
+of	O	O	1
+any	O	O	0
+explusion	O	O	0
+order	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ibrahim	[PER=0.687,LOC=0.151,ORG=0.110,O=0.052]	PER	PER
+told	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Reuters	[PER=0.009,LOC=0.016,ORG=0.945,O=0.030]	ORG	ORG
+by	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+telephone	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+embassy	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+office	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Amman	[PER=0.044,LOC=0.876,ORG=0.065,O=0.016]	LOC	LOC
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+notified	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.008,O=0.991]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+explusion	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+order	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ibrahim	[PER=0.687,LOC=0.151,ORG=0.110,O=0.052]	PER	PER
+told	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Reuters	[PER=0.009,LOC=0.016,ORG=0.945,O=0.030]	ORG	ORG
+by	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+telephone	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+embassy	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+office	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Amman	[PER=0.044,LOC=0.876,ORG=0.065,O=0.016]	LOC	LOC
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+notified	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.008,O=0.991]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+explusion	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+order	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2aefc539
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ibrahim	[PER=0.687,LOC=0.151,ORG=0.110,O=0.052]	PER	PER
+told	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Reuters	[PER=0.009,LOC=0.016,ORG=0.945,O=0.030]	ORG	ORG
+by	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+telephone	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+embassy	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+office	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Amman	[PER=0.044,LOC=0.876,ORG=0.065,O=0.016]	LOC	LOC
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+notified	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.008,O=0.991]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+explusion	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+order	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "Ibrahim"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ibrahim	[PER=0.687,LOC=0.151,ORG=0.110,O=0.052]	PER	PER
+told	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Reuters	[PER=0.009,LOC=0.016,ORG=0.945,O=0.030]	ORG	ORG
+by	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+telephone	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+embassy	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+office	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Amman	[PER=0.044,LOC=0.876,ORG=0.065,O=0.016]	LOC	LOC
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+notified	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.008,O=0.991]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+explusion	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+order	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Ibrahim
+-----------
+Move choice:
+Launch query on token 2 "Reuters"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ibrahim	[PER=0.687,LOC=0.151,ORG=0.110,O=0.052]	PER	PER
+told	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+Reuters	[PER=0.009,LOC=0.016,ORG=0.945,O=0.030]	ORG	ORG
+by	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+telephone	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+embassy	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+office	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Amman	[PER=0.044,LOC=0.876,ORG=0.065,O=0.016]	LOC	LOC
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+notified	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.008,O=0.991]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+explusion	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+order	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Reuters
+	Ibrahim
+-----------
+Next event:
+Got response on token 0 "Ibrahim" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ibrahim	[PER=0.939,LOC=0.030,ORG=0.021,O=0.010]	PER	PER
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.009,LOC=0.016,ORG=0.945,O=0.030]	ORG	ORG
+by	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+telephone	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+embassy	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+office	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Amman	[PER=0.044,LOC=0.876,ORG=0.065,O=0.016]	LOC	LOC
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+notified	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.008,O=0.991]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+explusion	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+order	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Reuters
+-----------
+Move choice:
+Launch query on token 10 "Amman"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ibrahim	[PER=0.939,LOC=0.030,ORG=0.021,O=0.010]	PER	PER
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Reuters	[PER=0.009,LOC=0.016,ORG=0.945,O=0.030]	ORG	ORG
+by	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+telephone	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+embassy	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+office	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Amman	[PER=0.044,LOC=0.876,ORG=0.065,O=0.016]	LOC	LOC
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+notified	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.008,O=0.991]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+explusion	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+order	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Amman
+	Reuters
+-----------
+Next event:
+Got response on token 2 "Reuters" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ibrahim	[PER=0.939,LOC=0.029,ORG=0.021,O=0.010]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.057,LOC=0.016,ORG=0.899,O=0.029]	ORG	ORG
+by	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+telephone	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+embassy	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+office	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Amman	[PER=0.044,LOC=0.876,ORG=0.065,O=0.016]	LOC	LOC
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+notified	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.008,O=0.991]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+explusion	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+order	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Amman
+-----------
+Move choice:
+Launch query on token 19 "of"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ibrahim	[PER=0.939,LOC=0.029,ORG=0.021,O=0.010]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.057,LOC=0.016,ORG=0.899,O=0.029]	ORG	ORG
+by	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+telephone	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+embassy	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+office	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Amman	[PER=0.044,LOC=0.876,ORG=0.065,O=0.016]	LOC	LOC
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+notified	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.008,O=0.991]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+explusion	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+order	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	of
+	Amman
+-----------
+Next event:
+Got response on token 10 "Amman" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ibrahim	[PER=0.939,LOC=0.029,ORG=0.021,O=0.010]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.057,LOC=0.016,ORG=0.899,O=0.029]	ORG	ORG
+by	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+telephone	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+embassy	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+office	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Amman	[PER=0.007,LOC=0.980,ORG=0.010,O=0.002]	LOC	LOC
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+notified	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.008,O=0.991]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+explusion	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+order	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	of
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@19d6f815
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ibrahim	[PER=0.939,LOC=0.029,ORG=0.021,O=0.010]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.057,LOC=0.016,ORG=0.899,O=0.029]	ORG	ORG
+by	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+telephone	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+embassy	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+office	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Amman	[PER=0.007,LOC=0.980,ORG=0.010,O=0.002]	LOC	LOC
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+notified	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.008,O=0.991]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+explusion	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+order	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	of
+-----------
+Next event:
+Got response on token 19 "of" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ibrahim	[PER=0.939,LOC=0.029,ORG=0.021,O=0.010]	PER	PER
+told	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Reuters	[PER=0.057,LOC=0.016,ORG=0.899,O=0.029]	ORG	ORG
+by	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+telephone	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+his	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+embassy	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+office	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Amman	[PER=0.007,LOC=0.980,ORG=0.010,O=0.002]	LOC	LOC
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+notified	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+explusion	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+order	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@75fe4fff

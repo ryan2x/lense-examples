@@ -1,0 +1,67 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+But	O	O	0
+some	O	O	0
+members	O	O	0
+of	O	O	0
+the	O	O	0
+EU	ORG	ORG	0
+'s	O	O	0
+standing	O	O	0
+veterinary	O	ORG	0
+committee	O	ORG	0
+questioned	O	O	0
+whether	O	O	0
+the	O	O	0
+action	O	O	0
+was	O	O	0
+necessary	O	O	0
+given	O	O	0
+the	O	O	0
+slight	O	O	0
+risk	O	O	0
+to	O	O	0
+human	O	O	0
+health	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+But	[PER=0.001,LOC=0.003,ORG=0.000,O=0.996]	O	O
+some	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+members	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.028,O=0.971]	O	O
+EU	[PER=0.005,LOC=0.048,ORG=0.933,O=0.014]	ORG	ORG
+'s	[PER=0.000,LOC=0.013,ORG=0.018,O=0.969]	O	O
+standing	[PER=0.001,LOC=0.000,ORG=0.011,O=0.988]	O	O
+veterinary	[PER=0.000,LOC=0.000,ORG=0.958,O=0.042]	O	ORG
+committee	[PER=0.000,LOC=0.000,ORG=0.945,O=0.055]	O	ORG
+questioned	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+whether	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+necessary	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+given	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+slight	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+risk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+human	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+health	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

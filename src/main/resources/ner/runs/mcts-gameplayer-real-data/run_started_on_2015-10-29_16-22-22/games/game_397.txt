@@ -1,0 +1,660 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Cheung	PER	PER	5
+was	O	O	0
+being	O	O	0
+detained	O	O	0
+pending	O	O	0
+formal	O	O	0
+charges	O	O	0
+,	O	O	1
+police	O	O	1
+said	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.231,LOC=0.072,ORG=0.030,O=0.668]	PER	O
+was	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.231,LOC=0.072,ORG=0.030,O=0.668]	PER	O
+was	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.231,LOC=0.072,ORG=0.030,O=0.668]	PER	O
+was	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.231,LOC=0.072,ORG=0.030,O=0.668]	PER	O
+was	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.231,LOC=0.072,ORG=0.030,O=0.668]	PER	O
+was	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.231,LOC=0.072,ORG=0.030,O=0.668]	PER	O
+was	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.231,LOC=0.072,ORG=0.030,O=0.668]	PER	O
+was	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.231,LOC=0.072,ORG=0.030,O=0.668]	PER	O
+was	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.231,LOC=0.072,ORG=0.030,O=0.668]	PER	O
+was	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.231,LOC=0.072,ORG=0.030,O=0.668]	PER	O
+was	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.231,LOC=0.072,ORG=0.030,O=0.668]	PER	O
+was	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "Cheung"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.231,LOC=0.072,ORG=0.030,O=0.668]	PER	O
+was	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Cheung
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@28
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.231,LOC=0.072,ORG=0.030,O=0.668]	PER	O
+was	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Cheung
+-----------
+Next event:
+Got response on token 0 "Cheung" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.677,LOC=0.030,ORG=0.012,O=0.280]	PER	PER
+was	[PER=0.004,LOC=0.000,ORG=0.000,O=0.996]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "Cheung"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.677,LOC=0.030,ORG=0.012,O=0.280]	PER	PER
+was	[PER=0.004,LOC=0.000,ORG=0.000,O=0.996]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Cheung
+-----------
+Move choice:
+Launch query on token 0 "Cheung"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.677,LOC=0.030,ORG=0.012,O=0.280]	PER	PER
+was	[PER=0.004,LOC=0.000,ORG=0.000,O=0.996]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Cheung
+	Cheung
+-----------
+Next event:
+Got response on token 0 "Cheung" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.253,LOC=0.011,ORG=0.005,O=0.732]	PER	O
+was	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Cheung
+-----------
+Move choice:
+Launch query on token 0 "Cheung"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.253,LOC=0.011,ORG=0.005,O=0.732]	PER	O
+was	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Cheung
+	Cheung
+-----------
+Move choice:
+Launch query on token 7 ","
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.253,LOC=0.011,ORG=0.005,O=0.732]	PER	O
+was	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Cheung
+	Cheung
+	,
+-----------
+Next event:
+Got response on token 0 "Cheung" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.703,LOC=0.004,ORG=0.002,O=0.291]	PER	PER
+was	[PER=0.004,LOC=0.000,ORG=0.000,O=0.996]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Cheung
+	,
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@22b
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.703,LOC=0.004,ORG=0.002,O=0.291]	PER	PER
+was	[PER=0.004,LOC=0.000,ORG=0.000,O=0.996]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Cheung
+	,
+-----------
+Next event:
+Got response on token 7 "," = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.703,LOC=0.004,ORG=0.002,O=0.291]	PER	PER
+was	[PER=0.004,LOC=0.000,ORG=0.000,O=0.996]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Cheung
+-----------
+Move choice:
+Launch query on token 0 "Cheung"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.703,LOC=0.004,ORG=0.002,O=0.291]	PER	PER
+was	[PER=0.004,LOC=0.000,ORG=0.000,O=0.996]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Cheung
+	Cheung
+-----------
+Move choice:
+Launch query on token 8 "police"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.703,LOC=0.004,ORG=0.002,O=0.291]	PER	PER
+was	[PER=0.004,LOC=0.000,ORG=0.000,O=0.996]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Cheung
+	police
+	Cheung
+-----------
+Next event:
+Got response on token 0 "Cheung" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.943,LOC=0.001,ORG=0.000,O=0.056]	PER	PER
+was	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	police
+	Cheung
+-----------
+Next event:
+Got response on token 0 "Cheung" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.991,LOC=0.000,ORG=0.000,O=0.008]	PER	PER
+was	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	police
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@44f
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.991,LOC=0.000,ORG=0.000,O=0.008]	PER	PER
+was	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	police
+-----------
+Next event:
+Got response on token 8 "police" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Cheung	[PER=0.991,LOC=0.000,ORG=0.000,O=0.008]	PER	PER
+was	[PER=0.005,LOC=0.000,ORG=0.000,O=0.995]	O	O
+being	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+detained	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+pending	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+formal	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+charges	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+police	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@4a7

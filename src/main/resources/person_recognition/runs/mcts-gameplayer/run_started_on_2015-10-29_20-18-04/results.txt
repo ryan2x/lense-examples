@@ -1,0 +1,29 @@
+Completed: 1927 documents
+
+Accuracy: 0.9927348209652309 (1913/1927)
+Queries per document: 2.36948624805397 (4566/1927)
+Delay per document: 159ms (307628/1927)
+
+Confusion:
+True: Anderson Cooper, Guessed: Anderson Cooper -> 115
+True: Anderson Cooper, Guessed: Daniel Craig -> 0
+True: Anderson Cooper, Guessed: Miley Cyrus -> 0
+True: Anderson Cooper, Guessed: Scarlett Johansson -> 0
+True: Daniel Craig, Guessed: Anderson Cooper -> 0
+True: Daniel Craig, Guessed: Daniel Craig -> 190
+True: Daniel Craig, Guessed: Miley Cyrus -> 2
+True: Daniel Craig, Guessed: Scarlett Johansson -> 0
+True: Miley Cyrus, Guessed: Anderson Cooper -> 0
+True: Miley Cyrus, Guessed: Daniel Craig -> 0
+True: Miley Cyrus, Guessed: Miley Cyrus -> 1349
+True: Miley Cyrus, Guessed: Scarlett Johansson -> 0
+True: Scarlett Johansson, Guessed: Anderson Cooper -> 0
+True: Scarlett Johansson, Guessed: Daniel Craig -> 0
+True: Scarlett Johansson, Guessed: Miley Cyrus -> 12
+True: Scarlett Johansson, Guessed: Scarlett Johansson -> 259
+
+Queries Per Type:
+Anderson Cooper: 4.182608695652174 (481.0/115)
+Daniel Craig: 3.8072916666666665 (731.0/192)
+Miley Cyrus: 1.558932542624166 (2103.0/1349)
+Scarlett Johansson: 4.6162361623616235 (1251.0/271)

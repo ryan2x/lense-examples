@@ -1,0 +1,153 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+That	O	O	1
+was	O	O	0
+the	O	O	0
+second-largest	O	O	0
+loss	O	O	0
+in	O	O	0
+the	O	O	0
+company	O	O	0
+'s	O	O	0
+history	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+That	[PER=0.005,LOC=0.002,ORG=0.002,O=0.991]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+second-largest	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+loss	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+company	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+history	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+That	[PER=0.005,LOC=0.002,ORG=0.002,O=0.991]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+second-largest	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+loss	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+company	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+history	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4e690bc9
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+That	[PER=0.005,LOC=0.002,ORG=0.002,O=0.991]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+second-largest	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+loss	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+company	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+history	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "That"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+That	[PER=0.005,LOC=0.002,ORG=0.002,O=0.991]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+second-largest	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+loss	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+company	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+history	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	That
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@a67e46
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+That	[PER=0.005,LOC=0.002,ORG=0.002,O=0.991]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+second-largest	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+loss	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+company	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+history	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	That
+-----------
+Next event:
+Got response on token 0 "That" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+That	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+second-largest	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+loss	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+company	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+history	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@6970ad8

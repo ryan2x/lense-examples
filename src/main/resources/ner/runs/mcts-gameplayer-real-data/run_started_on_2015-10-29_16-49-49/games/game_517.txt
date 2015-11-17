@@ -1,0 +1,508 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Mia	PER	PER	2
+,	O	O	0
+a	O	O	0
+father	O	O	0
+of	O	O	0
+five	O	O	0
+children	O	O	0
+,	O	O	0
+had	O	O	0
+a	O	O	0
+restaurant	O	O	0
+business	O	O	0
+in	O	O	0
+a	O	O	0
+London	LOC	LOC	0
+suburb	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Mia	[PER=0.343,LOC=0.590,ORG=0.033,O=0.035]	PER	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+father	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+five	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+children	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+restaurant	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+business	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.003,LOC=0.990,ORG=0.003,O=0.003]	LOC	LOC
+suburb	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Mia	[PER=0.343,LOC=0.590,ORG=0.033,O=0.035]	PER	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+father	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+five	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+children	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+restaurant	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+business	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.003,LOC=0.990,ORG=0.003,O=0.003]	LOC	LOC
+suburb	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Mia	[PER=0.343,LOC=0.590,ORG=0.033,O=0.035]	PER	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+father	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+five	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+children	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+restaurant	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+business	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.003,LOC=0.990,ORG=0.003,O=0.003]	LOC	LOC
+suburb	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Mia	[PER=0.343,LOC=0.590,ORG=0.033,O=0.035]	PER	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+father	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+five	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+children	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+restaurant	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+business	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.003,LOC=0.990,ORG=0.003,O=0.003]	LOC	LOC
+suburb	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Mia	[PER=0.343,LOC=0.590,ORG=0.033,O=0.035]	PER	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+father	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+five	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+children	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+restaurant	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+business	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.003,LOC=0.990,ORG=0.003,O=0.003]	LOC	LOC
+suburb	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Mia	[PER=0.343,LOC=0.590,ORG=0.033,O=0.035]	PER	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+father	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+five	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+children	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+restaurant	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+business	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.003,LOC=0.990,ORG=0.003,O=0.003]	LOC	LOC
+suburb	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Mia	[PER=0.343,LOC=0.590,ORG=0.033,O=0.035]	PER	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+father	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+five	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+children	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+restaurant	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+business	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.003,LOC=0.990,ORG=0.003,O=0.003]	LOC	LOC
+suburb	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Mia	[PER=0.343,LOC=0.590,ORG=0.033,O=0.035]	PER	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+father	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+five	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+children	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+restaurant	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+business	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.003,LOC=0.990,ORG=0.003,O=0.003]	LOC	LOC
+suburb	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Mia	[PER=0.343,LOC=0.590,ORG=0.033,O=0.035]	PER	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+father	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+five	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+children	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+restaurant	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+business	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.003,LOC=0.990,ORG=0.003,O=0.003]	LOC	LOC
+suburb	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Mia	[PER=0.343,LOC=0.590,ORG=0.033,O=0.035]	PER	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+father	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+five	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+children	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+restaurant	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+business	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.003,LOC=0.990,ORG=0.003,O=0.003]	LOC	LOC
+suburb	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Mia	[PER=0.343,LOC=0.590,ORG=0.033,O=0.035]	PER	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+father	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+five	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+children	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+restaurant	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+business	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.003,LOC=0.990,ORG=0.003,O=0.003]	LOC	LOC
+suburb	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "Mia"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Mia	[PER=0.343,LOC=0.590,ORG=0.033,O=0.035]	PER	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+father	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+five	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+children	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+restaurant	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+business	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.003,LOC=0.990,ORG=0.003,O=0.003]	LOC	LOC
+suburb	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+-----------
+Move choice:
+Launch query on token 0 "Mia"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Mia	[PER=0.343,LOC=0.590,ORG=0.033,O=0.035]	PER	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+father	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+five	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+children	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+restaurant	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+business	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.003,LOC=0.990,ORG=0.003,O=0.003]	LOC	LOC
+suburb	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+	Mia
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@97
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Mia	[PER=0.343,LOC=0.590,ORG=0.033,O=0.035]	PER	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+father	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+five	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+children	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+restaurant	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+business	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.003,LOC=0.990,ORG=0.003,O=0.003]	LOC	LOC
+suburb	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+	Mia
+-----------
+Next event:
+Got response on token 0 "Mia" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Mia	[PER=0.785,LOC=0.193,ORG=0.011,O=0.011]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+father	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+five	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+children	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+restaurant	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+business	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.003,LOC=0.990,ORG=0.003,O=0.003]	LOC	LOC
+suburb	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@103
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Mia	[PER=0.785,LOC=0.193,ORG=0.011,O=0.011]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+father	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+five	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+children	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+restaurant	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+business	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.003,LOC=0.990,ORG=0.003,O=0.003]	LOC	LOC
+suburb	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+-----------
+Next event:
+Got response on token 0 "Mia" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Mia	[PER=0.962,LOC=0.034,ORG=0.002,O=0.002]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+father	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+five	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+children	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+restaurant	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+business	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+London	[PER=0.003,LOC=0.990,ORG=0.003,O=0.003]	LOC	LOC
+suburb	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@1398

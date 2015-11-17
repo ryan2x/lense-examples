@@ -1,0 +1,956 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+China	LOC	LOC	1
+,	O	O	0
+along	O	O	0
+with	O	O	0
+Britain	LOC	LOC	1
+,	O	O	0
+France	LOC	LOC	1
+,	O	O	0
+Russia	LOC	LOC	1
+and	O	O	0
+the	O	O	0
+United	LOC	LOC	2
+States	LOC	LOC	2
+,	O	O	0
+is	O	O	0
+a	O	O	0
+declared	O	O	0
+nuclear	O	O	0
+power	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.004,LOC=0.980,ORG=0.009,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.016,O=0.984]	O	O
+United	[PER=0.006,LOC=0.290,ORG=0.685,O=0.018]	LOC	ORG
+States	[PER=0.006,LOC=0.352,ORG=0.598,O=0.044]	LOC	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.004,LOC=0.980,ORG=0.009,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.016,O=0.984]	O	O
+United	[PER=0.006,LOC=0.290,ORG=0.685,O=0.018]	LOC	ORG
+States	[PER=0.006,LOC=0.352,ORG=0.598,O=0.044]	LOC	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.004,LOC=0.980,ORG=0.009,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.016,O=0.984]	O	O
+United	[PER=0.006,LOC=0.290,ORG=0.685,O=0.018]	LOC	ORG
+States	[PER=0.006,LOC=0.352,ORG=0.598,O=0.044]	LOC	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.004,LOC=0.980,ORG=0.009,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.016,O=0.984]	O	O
+United	[PER=0.006,LOC=0.290,ORG=0.685,O=0.018]	LOC	ORG
+States	[PER=0.006,LOC=0.352,ORG=0.598,O=0.044]	LOC	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.004,LOC=0.980,ORG=0.009,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.016,O=0.984]	O	O
+United	[PER=0.006,LOC=0.290,ORG=0.685,O=0.018]	LOC	ORG
+States	[PER=0.006,LOC=0.352,ORG=0.598,O=0.044]	LOC	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.004,LOC=0.980,ORG=0.009,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.016,O=0.984]	O	O
+United	[PER=0.006,LOC=0.290,ORG=0.685,O=0.018]	LOC	ORG
+States	[PER=0.006,LOC=0.352,ORG=0.598,O=0.044]	LOC	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.004,LOC=0.980,ORG=0.009,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.016,O=0.984]	O	O
+United	[PER=0.006,LOC=0.290,ORG=0.685,O=0.018]	LOC	ORG
+States	[PER=0.006,LOC=0.352,ORG=0.598,O=0.044]	LOC	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.004,LOC=0.980,ORG=0.009,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.016,O=0.984]	O	O
+United	[PER=0.006,LOC=0.290,ORG=0.685,O=0.018]	LOC	ORG
+States	[PER=0.006,LOC=0.352,ORG=0.598,O=0.044]	LOC	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.004,LOC=0.980,ORG=0.009,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.016,O=0.984]	O	O
+United	[PER=0.006,LOC=0.290,ORG=0.685,O=0.018]	LOC	ORG
+States	[PER=0.006,LOC=0.352,ORG=0.598,O=0.044]	LOC	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.004,LOC=0.980,ORG=0.009,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.016,O=0.984]	O	O
+United	[PER=0.006,LOC=0.290,ORG=0.685,O=0.018]	LOC	ORG
+States	[PER=0.006,LOC=0.352,ORG=0.598,O=0.044]	LOC	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.004,LOC=0.980,ORG=0.009,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.016,O=0.984]	O	O
+United	[PER=0.006,LOC=0.290,ORG=0.685,O=0.018]	LOC	ORG
+States	[PER=0.006,LOC=0.352,ORG=0.598,O=0.044]	LOC	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 13 "States"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.004,LOC=0.980,ORG=0.009,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.016,O=0.984]	O	O
+United	[PER=0.006,LOC=0.290,ORG=0.685,O=0.018]	LOC	ORG
+States	[PER=0.006,LOC=0.352,ORG=0.598,O=0.044]	LOC	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	States
+-----------
+Move choice:
+Launch query on token 12 "United"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.004,LOC=0.980,ORG=0.009,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.016,O=0.984]	O	O
+United	[PER=0.006,LOC=0.290,ORG=0.685,O=0.018]	LOC	ORG
+States	[PER=0.006,LOC=0.352,ORG=0.598,O=0.044]	LOC	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	States
+	United
+-----------
+Move choice:
+Launch query on token 1 "China"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.004,LOC=0.980,ORG=0.009,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.016,O=0.984]	O	O
+United	[PER=0.006,LOC=0.290,ORG=0.685,O=0.018]	LOC	ORG
+States	[PER=0.006,LOC=0.352,ORG=0.598,O=0.044]	LOC	ORG
+,	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	States
+	United
+	China
+-----------
+Next event:
+Got response on token 13 "States" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.004,LOC=0.980,ORG=0.009,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.009,O=0.991]	O	O
+United	[PER=0.007,LOC=0.606,ORG=0.357,O=0.031]	LOC	LOC
+States	[PER=0.002,LOC=0.792,ORG=0.192,O=0.014]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	United
+	China
+-----------
+Next event:
+Got response on token 12 "United" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.004,LOC=0.980,ORG=0.009,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+United	[PER=0.001,LOC=0.915,ORG=0.077,O=0.007]	LOC	LOC
+States	[PER=0.001,LOC=0.945,ORG=0.044,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	China
+-----------
+Move choice:
+Launch query on token 12 "United"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.004,LOC=0.980,ORG=0.009,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+United	[PER=0.001,LOC=0.915,ORG=0.077,O=0.007]	LOC	LOC
+States	[PER=0.001,LOC=0.945,ORG=0.044,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	United
+	China
+-----------
+Move choice:
+Launch query on token 7 "France"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.004,LOC=0.980,ORG=0.009,O=0.007]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+United	[PER=0.001,LOC=0.915,ORG=0.077,O=0.007]	LOC	LOC
+States	[PER=0.001,LOC=0.945,ORG=0.044,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	France
+	United
+	China
+-----------
+Next event:
+Got response on token 1 "China" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.001,LOC=0.997,ORG=0.001,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+United	[PER=0.001,LOC=0.915,ORG=0.077,O=0.007]	LOC	LOC
+States	[PER=0.001,LOC=0.945,ORG=0.044,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	France
+	United
+-----------
+Move choice:
+Launch query on token 13 "States"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.001,LOC=0.997,ORG=0.001,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+United	[PER=0.001,LOC=0.915,ORG=0.077,O=0.007]	LOC	LOC
+States	[PER=0.001,LOC=0.945,ORG=0.044,O=0.011]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	States
+	France
+	United
+-----------
+Next event:
+Got response on token 12 "United" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.001,LOC=0.997,ORG=0.001,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.010,LOC=0.945,ORG=0.016,O=0.029]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+United	[PER=0.000,LOC=0.987,ORG=0.012,O=0.001]	LOC	LOC
+States	[PER=0.000,LOC=0.980,ORG=0.009,O=0.010]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	States
+	France
+-----------
+Next event:
+Got response on token 7 "France" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.001,LOC=0.997,ORG=0.001,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.002,LOC=0.992,ORG=0.002,O=0.004]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+United	[PER=0.000,LOC=0.987,ORG=0.012,O=0.001]	LOC	LOC
+States	[PER=0.000,LOC=0.980,ORG=0.009,O=0.010]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	States
+-----------
+Move choice:
+Launch query on token 9 "Russia"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.001,LOC=0.997,ORG=0.001,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.002,LOC=0.992,ORG=0.002,O=0.004]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+United	[PER=0.000,LOC=0.987,ORG=0.012,O=0.001]	LOC	LOC
+States	[PER=0.000,LOC=0.980,ORG=0.009,O=0.010]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	States
+	Russia
+-----------
+Move choice:
+Launch query on token 5 "Britain"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.001,LOC=0.997,ORG=0.001,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.002,LOC=0.992,ORG=0.002,O=0.004]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+United	[PER=0.000,LOC=0.987,ORG=0.012,O=0.001]	LOC	LOC
+States	[PER=0.000,LOC=0.980,ORG=0.009,O=0.010]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	States
+	Russia
+	Britain
+-----------
+Next event:
+Got response on token 13 "States" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.001,LOC=0.997,ORG=0.001,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.002,LOC=0.992,ORG=0.002,O=0.004]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.011,LOC=0.978,ORG=0.008,O=0.002]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+United	[PER=0.000,LOC=0.992,ORG=0.006,O=0.001]	LOC	LOC
+States	[PER=0.000,LOC=0.997,ORG=0.001,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Russia
+	Britain
+-----------
+Next event:
+Got response on token 9 "Russia" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.001,LOC=0.997,ORG=0.001,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.002,LOC=0.992,ORG=0.002,O=0.004]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.002,LOC=0.997,ORG=0.001,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+United	[PER=0.000,LOC=0.992,ORG=0.006,O=0.001]	LOC	LOC
+States	[PER=0.000,LOC=0.997,ORG=0.001,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Britain
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@37
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.001,LOC=0.997,ORG=0.001,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.005,LOC=0.988,ORG=0.006,O=0.002]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.002,LOC=0.992,ORG=0.002,O=0.004]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.002,LOC=0.997,ORG=0.001,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+United	[PER=0.000,LOC=0.992,ORG=0.006,O=0.001]	LOC	LOC
+States	[PER=0.000,LOC=0.997,ORG=0.001,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Britain
+-----------
+Next event:
+Got response on token 5 "Britain" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+China	[PER=0.001,LOC=0.997,ORG=0.001,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+along	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Britain	[PER=0.001,LOC=0.998,ORG=0.001,O=0.000]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+France	[PER=0.002,LOC=0.992,ORG=0.002,O=0.004]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.002,LOC=0.997,ORG=0.001,O=0.000]	LOC	LOC
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+United	[PER=0.000,LOC=0.992,ORG=0.006,O=0.001]	LOC	LOC
+States	[PER=0.000,LOC=0.997,ORG=0.001,O=0.001]	LOC	LOC
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+declared	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+nuclear	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+power	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@3c

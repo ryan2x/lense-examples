@@ -1,0 +1,35 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+RESEARCH	O	ORG	0
+ALERT	O	ORG	0
+-	O	O	0
+Lehman	ORG	PER	0
+starts	O	O	0
+SNET	ORG	ORG	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.002,ORG=0.009,O=0.987]	O	O
+RESEARCH	[PER=0.006,LOC=0.413,ORG=0.566,O=0.015]	O	ORG
+ALERT	[PER=0.005,LOC=0.485,ORG=0.501,O=0.009]	O	ORG
+-	[PER=0.002,LOC=0.001,ORG=0.003,O=0.994]	O	O
+Lehman	[PER=0.799,LOC=0.150,ORG=0.014,O=0.037]	ORG	PER
+starts	[PER=0.005,LOC=0.001,ORG=0.007,O=0.987]	O	O
+SNET	[PER=0.121,LOC=0.360,ORG=0.392,O=0.127]	ORG	ORG
+.	[PER=0.001,LOC=0.001,ORG=0.004,O=0.995]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

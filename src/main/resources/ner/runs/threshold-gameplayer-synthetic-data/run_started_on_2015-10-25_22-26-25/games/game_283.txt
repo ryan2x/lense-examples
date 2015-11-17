@@ -1,0 +1,1244 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+A	O	O	1
+study	O	O	0
+by	O	O	0
+a	O	O	0
+team	O	O	0
+of	O	O	0
+doctors	O	O	0
+at	O	O	0
+Oxford	ORG	ORG	4
+University	ORG	ORG	4
+has	O	O	0
+found	O	O	0
+people	O	O	0
+with	O	O	0
+high	O	O	0
+blood	O	O	0
+cholesterol	O	O	1
+do	O	O	0
+not	O	O	0
+benefit	O	O	0
+significantly	O	O	0
+from	O	O	0
+taking	O	O	0
+garlic	O	O	0
+tablets	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.003,LOC=0.004,ORG=0.007,O=0.986]	O	O
+study	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Oxford	[PER=0.151,LOC=0.696,ORG=0.136,O=0.016]	ORG	LOC
+University	[PER=0.129,LOC=0.704,ORG=0.125,O=0.042]	ORG	LOC
+has	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.003,LOC=0.004,ORG=0.007,O=0.986]	O	O
+study	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Oxford	[PER=0.151,LOC=0.696,ORG=0.136,O=0.016]	ORG	LOC
+University	[PER=0.129,LOC=0.704,ORG=0.125,O=0.042]	ORG	LOC
+has	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1d579f90
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.003,LOC=0.004,ORG=0.007,O=0.986]	O	O
+study	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Oxford	[PER=0.151,LOC=0.696,ORG=0.136,O=0.016]	ORG	LOC
+University	[PER=0.129,LOC=0.704,ORG=0.125,O=0.042]	ORG	LOC
+has	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.003,LOC=0.004,ORG=0.007,O=0.986]	O	O
+study	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Oxford	[PER=0.151,LOC=0.696,ORG=0.136,O=0.016]	ORG	LOC
+University	[PER=0.129,LOC=0.704,ORG=0.125,O=0.042]	ORG	LOC
+has	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@5aaee625
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.003,LOC=0.004,ORG=0.007,O=0.986]	O	O
+study	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Oxford	[PER=0.151,LOC=0.696,ORG=0.136,O=0.016]	ORG	LOC
+University	[PER=0.129,LOC=0.704,ORG=0.125,O=0.042]	ORG	LOC
+has	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.003,LOC=0.004,ORG=0.007,O=0.986]	O	O
+study	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Oxford	[PER=0.151,LOC=0.696,ORG=0.136,O=0.016]	ORG	LOC
+University	[PER=0.129,LOC=0.704,ORG=0.125,O=0.042]	ORG	LOC
+has	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@58c7300
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.003,LOC=0.004,ORG=0.007,O=0.986]	O	O
+study	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Oxford	[PER=0.151,LOC=0.696,ORG=0.136,O=0.016]	ORG	LOC
+University	[PER=0.129,LOC=0.704,ORG=0.125,O=0.042]	ORG	LOC
+has	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.003,LOC=0.004,ORG=0.007,O=0.986]	O	O
+study	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Oxford	[PER=0.151,LOC=0.696,ORG=0.136,O=0.016]	ORG	LOC
+University	[PER=0.129,LOC=0.704,ORG=0.125,O=0.042]	ORG	LOC
+has	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@607d36d5
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.003,LOC=0.004,ORG=0.007,O=0.986]	O	O
+study	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Oxford	[PER=0.151,LOC=0.696,ORG=0.136,O=0.016]	ORG	LOC
+University	[PER=0.129,LOC=0.704,ORG=0.125,O=0.042]	ORG	LOC
+has	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "A"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.003,LOC=0.004,ORG=0.007,O=0.986]	O	O
+study	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Oxford	[PER=0.151,LOC=0.696,ORG=0.136,O=0.016]	ORG	LOC
+University	[PER=0.129,LOC=0.704,ORG=0.125,O=0.042]	ORG	LOC
+has	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	A
+-----------
+Move choice:
+Launch query on token 8 "Oxford"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.003,LOC=0.004,ORG=0.007,O=0.986]	O	O
+study	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Oxford	[PER=0.151,LOC=0.696,ORG=0.136,O=0.016]	ORG	LOC
+University	[PER=0.129,LOC=0.704,ORG=0.125,O=0.042]	ORG	LOC
+has	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Oxford
+	A
+-----------
+Next event:
+Got response on token 0 "A" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+study	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Oxford	[PER=0.151,LOC=0.696,ORG=0.136,O=0.016]	ORG	LOC
+University	[PER=0.129,LOC=0.704,ORG=0.125,O=0.042]	ORG	LOC
+has	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Oxford
+-----------
+Move choice:
+Launch query on token 8 "Oxford"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+study	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Oxford	[PER=0.151,LOC=0.696,ORG=0.136,O=0.016]	ORG	LOC
+University	[PER=0.129,LOC=0.704,ORG=0.125,O=0.042]	ORG	LOC
+has	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Oxford
+	Oxford
+-----------
+Move choice:
+Launch query on token 8 "Oxford"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+study	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Oxford	[PER=0.151,LOC=0.696,ORG=0.136,O=0.016]	ORG	LOC
+University	[PER=0.129,LOC=0.704,ORG=0.125,O=0.042]	ORG	LOC
+has	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Oxford
+	Oxford
+	Oxford
+-----------
+Move choice:
+Launch query on token 8 "Oxford"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+study	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Oxford	[PER=0.151,LOC=0.696,ORG=0.136,O=0.016]	ORG	LOC
+University	[PER=0.129,LOC=0.704,ORG=0.125,O=0.042]	ORG	LOC
+has	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Oxford
+	Oxford
+	Oxford
+	Oxford
+-----------
+Move choice:
+Launch query on token 9 "University"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+study	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Oxford	[PER=0.151,LOC=0.696,ORG=0.136,O=0.016]	ORG	LOC
+University	[PER=0.129,LOC=0.704,ORG=0.125,O=0.042]	ORG	LOC
+has	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Oxford
+	University
+	Oxford
+	Oxford
+	Oxford
+-----------
+Next event:
+Got response on token 8 "Oxford" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+study	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Oxford	[PER=0.138,LOC=0.634,ORG=0.124,O=0.104]	ORG	LOC
+University	[PER=0.125,LOC=0.708,ORG=0.119,O=0.048]	ORG	LOC
+has	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Oxford
+	University
+	Oxford
+	Oxford
+-----------
+Next event:
+Got response on token 8 "Oxford" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+study	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Oxford	[PER=0.079,LOC=0.364,ORG=0.497,O=0.060]	ORG	ORG
+University	[PER=0.078,LOC=0.462,ORG=0.422,O=0.038]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	University
+	Oxford
+	Oxford
+-----------
+Move choice:
+Launch query on token 9 "University"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+study	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Oxford	[PER=0.079,LOC=0.364,ORG=0.497,O=0.060]	ORG	ORG
+University	[PER=0.078,LOC=0.462,ORG=0.422,O=0.038]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	University
+	Oxford
+	Oxford
+	University
+-----------
+Next event:
+Got response on token 8 "Oxford" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+study	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Oxford	[PER=0.020,LOC=0.091,ORG=0.874,O=0.015]	ORG	ORG
+University	[PER=0.031,LOC=0.213,ORG=0.728,O=0.028]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	University
+	Oxford
+	University
+-----------
+Move choice:
+Launch query on token 9 "University"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+study	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Oxford	[PER=0.020,LOC=0.091,ORG=0.874,O=0.015]	ORG	ORG
+University	[PER=0.031,LOC=0.213,ORG=0.728,O=0.028]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	University
+	Oxford
+	University
+	University
+-----------
+Move choice:
+Launch query on token 9 "University"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+study	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Oxford	[PER=0.020,LOC=0.091,ORG=0.874,O=0.015]	ORG	ORG
+University	[PER=0.031,LOC=0.213,ORG=0.728,O=0.028]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	University
+	University
+	Oxford
+	University
+	University
+-----------
+Next event:
+Got response on token 8 "Oxford" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+study	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Oxford	[PER=0.003,LOC=0.015,ORG=0.980,O=0.002]	ORG	ORG
+University	[PER=0.017,LOC=0.143,ORG=0.814,O=0.026]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	University
+	University
+	University
+	University
+-----------
+Move choice:
+Launch query on token 16 "cholesterol"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+study	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Oxford	[PER=0.003,LOC=0.015,ORG=0.980,O=0.002]	ORG	ORG
+University	[PER=0.017,LOC=0.143,ORG=0.814,O=0.026]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	University
+	cholesterol
+	University
+	University
+	University
+-----------
+Next event:
+Got response on token 9 "University" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+study	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Oxford	[PER=0.001,LOC=0.003,ORG=0.996,O=0.001]	ORG	ORG
+University	[PER=0.003,LOC=0.024,ORG=0.968,O=0.004]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	University
+	cholesterol
+	University
+	University
+-----------
+Next event:
+Got response on token 9 "University" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+study	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Oxford	[PER=0.001,LOC=0.003,ORG=0.995,O=0.001]	ORG	ORG
+University	[PER=0.003,LOC=0.024,ORG=0.944,O=0.030]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	University
+	cholesterol
+	University
+-----------
+Next event:
+Got response on token 9 "University" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+study	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Oxford	[PER=0.001,LOC=0.015,ORG=0.982,O=0.002]	ORG	ORG
+University	[PER=0.003,LOC=0.146,ORG=0.826,O=0.026]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	cholesterol
+	University
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1c6c059e
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+study	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Oxford	[PER=0.001,LOC=0.015,ORG=0.982,O=0.002]	ORG	ORG
+University	[PER=0.003,LOC=0.146,ORG=0.826,O=0.026]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.996]	O	O
+cholesterol	[PER=0.001,LOC=0.002,ORG=0.011,O=0.987]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	cholesterol
+	University
+-----------
+Next event:
+Got response on token 16 "cholesterol" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+study	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Oxford	[PER=0.001,LOC=0.015,ORG=0.982,O=0.002]	ORG	ORG
+University	[PER=0.003,LOC=0.146,ORG=0.826,O=0.026]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.997]	O	O
+cholesterol	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	University
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@67fd7497
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+study	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Oxford	[PER=0.001,LOC=0.015,ORG=0.982,O=0.002]	ORG	ORG
+University	[PER=0.003,LOC=0.146,ORG=0.826,O=0.026]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.997]	O	O
+cholesterol	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	University
+-----------
+Next event:
+Got response on token 9 "University" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+A	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+study	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+team	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+doctors	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Oxford	[PER=0.002,LOC=0.016,ORG=0.979,O=0.003]	ORG	ORG
+University	[PER=0.002,LOC=0.126,ORG=0.715,O=0.157]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+found	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+people	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+high	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+blood	[PER=0.002,LOC=0.001,ORG=0.001,O=0.997]	O	O
+cholesterol	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+do	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+benefit	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+significantly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+taking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+garlic	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+tablets	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@559100ea

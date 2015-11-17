@@ -1,0 +1,214 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Brazil	LOC	LOC	1
+to	O	O	0
+use	O	O	0
+hovercrafts	O	O	0
+for	O	O	0
+Amazon	LOC	LOC	1
+travel	O	O	1
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Brazil	[PER=0.059,LOC=0.676,ORG=0.140,O=0.125]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hovercrafts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Amazon	[PER=0.240,LOC=0.330,ORG=0.383,O=0.047]	LOC	ORG
+travel	[PER=0.001,LOC=0.001,ORG=0.008,O=0.991]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Brazil	[PER=0.059,LOC=0.676,ORG=0.140,O=0.125]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hovercrafts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Amazon	[PER=0.240,LOC=0.330,ORG=0.383,O=0.047]	LOC	ORG
+travel	[PER=0.001,LOC=0.001,ORG=0.008,O=0.991]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@7a7522b9
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Brazil	[PER=0.059,LOC=0.676,ORG=0.140,O=0.125]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hovercrafts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Amazon	[PER=0.240,LOC=0.330,ORG=0.383,O=0.047]	LOC	ORG
+travel	[PER=0.001,LOC=0.001,ORG=0.008,O=0.991]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "Brazil"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Brazil	[PER=0.059,LOC=0.676,ORG=0.140,O=0.125]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hovercrafts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Amazon	[PER=0.240,LOC=0.330,ORG=0.383,O=0.047]	LOC	ORG
+travel	[PER=0.001,LOC=0.001,ORG=0.008,O=0.991]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Brazil
+-----------
+Move choice:
+Launch query on token 5 "Amazon"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Brazil	[PER=0.059,LOC=0.676,ORG=0.140,O=0.125]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hovercrafts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Amazon	[PER=0.240,LOC=0.330,ORG=0.383,O=0.047]	LOC	ORG
+travel	[PER=0.001,LOC=0.001,ORG=0.008,O=0.991]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Brazil
+	Amazon
+-----------
+Next event:
+Got response on token 0 "Brazil" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Brazil	[PER=0.012,LOC=0.936,ORG=0.028,O=0.025]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hovercrafts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Amazon	[PER=0.240,LOC=0.330,ORG=0.383,O=0.047]	LOC	ORG
+travel	[PER=0.001,LOC=0.001,ORG=0.008,O=0.991]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	Amazon
+-----------
+Move choice:
+Launch query on token 6 "travel"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Brazil	[PER=0.012,LOC=0.936,ORG=0.028,O=0.025]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hovercrafts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Amazon	[PER=0.240,LOC=0.330,ORG=0.383,O=0.047]	LOC	ORG
+travel	[PER=0.001,LOC=0.001,ORG=0.008,O=0.991]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	travel
+	Amazon
+-----------
+Next event:
+Got response on token 5 "Amazon" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Brazil	[PER=0.012,LOC=0.936,ORG=0.028,O=0.025]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hovercrafts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Amazon	[PER=0.080,LOC=0.775,ORG=0.129,O=0.016]	LOC	LOC
+travel	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	travel
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@43c7d3b9
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Brazil	[PER=0.012,LOC=0.936,ORG=0.028,O=0.025]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hovercrafts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Amazon	[PER=0.080,LOC=0.775,ORG=0.129,O=0.016]	LOC	LOC
+travel	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	travel
+-----------
+Next event:
+Got response on token 6 "travel" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Brazil	[PER=0.012,LOC=0.936,ORG=0.028,O=0.025]	LOC	LOC
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+use	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hovercrafts	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Amazon	[PER=0.081,LOC=0.777,ORG=0.127,O=0.016]	LOC	LOC
+travel	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@fef4e6b

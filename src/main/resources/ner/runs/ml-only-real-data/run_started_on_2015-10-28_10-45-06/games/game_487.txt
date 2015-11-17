@@ -1,0 +1,41 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Ischinger	PER	PER	0
+is	O	O	0
+the	O	O	0
+political	O	O	0
+director	O	O	0
+of	O	O	0
+Bonn	LOC	PER	0
+'s	O	O	0
+foreign	O	O	0
+ministry	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Ischinger	[PER=0.592,LOC=0.203,ORG=0.090,O=0.114]	PER	PER
+is	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+political	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+director	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+of	[PER=0.003,LOC=0.001,ORG=0.028,O=0.969]	O	O
+Bonn	[PER=0.702,LOC=0.160,ORG=0.123,O=0.015]	LOC	PER
+'s	[PER=0.004,LOC=0.005,ORG=0.020,O=0.971]	O	O
+foreign	[PER=0.001,LOC=0.006,ORG=0.113,O=0.879]	O	O
+ministry	[PER=0.001,LOC=0.002,ORG=0.120,O=0.877]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

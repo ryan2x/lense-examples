@@ -1,0 +1,55 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+In	O	O	0
+1991	O	O	0
+,	O	O	0
+Mother	PER	PER	0
+Teresa	PER	PER	0
+was	O	O	0
+treated	O	O	0
+at	O	O	0
+a	O	O	0
+California	LOC	LOC	0
+hospital	O	O	0
+for	O	O	0
+heart	O	O	0
+disease	O	O	0
+and	O	O	0
+bacterial	O	O	0
+pneumonia	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+In	[PER=0.002,LOC=0.001,ORG=0.003,O=0.993]	O	O
+1991	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Mother	[PER=0.761,LOC=0.030,ORG=0.013,O=0.196]	PER	PER
+Teresa	[PER=0.893,LOC=0.062,ORG=0.014,O=0.031]	PER	PER
+was	[PER=0.004,LOC=0.000,ORG=0.000,O=0.996]	O	O
+treated	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.004,ORG=0.001,O=0.996]	O	O
+California	[PER=0.009,LOC=0.982,ORG=0.002,O=0.007]	LOC	LOC
+hospital	[PER=0.000,LOC=0.017,ORG=0.003,O=0.980]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+heart	[PER=0.000,LOC=0.002,ORG=0.002,O=0.996]	O	O
+disease	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bacterial	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+pneumonia	[PER=0.001,LOC=0.016,ORG=0.002,O=0.980]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

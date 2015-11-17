@@ -1,0 +1,41 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+The	O	O	0
+boat	O	O	0
+was	O	O	0
+towed	O	O	0
+to	O	O	0
+the	O	O	0
+port	O	O	0
+city	O	O	0
+of	O	O	0
+Buenaventura	LOC	LOC	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+The	[PER=0.001,LOC=0.001,ORG=0.000,O=0.999]	O	O
+boat	[PER=0.001,LOC=0.003,ORG=0.002,O=0.994]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+towed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+port	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+city	[PER=0.000,LOC=0.003,ORG=0.005,O=0.991]	O	O
+of	[PER=0.002,LOC=0.002,ORG=0.015,O=0.981]	O	O
+Buenaventura	[PER=0.364,LOC=0.535,ORG=0.035,O=0.066]	LOC	LOC
+.	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

@@ -1,0 +1,43 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+He	O	O	0
+was	O	O	0
+believed	O	O	0
+by	O	O	0
+prison	O	O	0
+officials	O	O	0
+to	O	O	0
+still	O	O	0
+be	O	O	0
+in	O	O	0
+Thailand	LOC	LOC	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.004,O=0.989]	O	O
+was	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+believed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+by	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+prison	[PER=0.003,LOC=0.010,ORG=0.008,O=0.979]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+still	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Thailand	[PER=0.013,LOC=0.841,ORG=0.011,O=0.135]	LOC	LOC
+.	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

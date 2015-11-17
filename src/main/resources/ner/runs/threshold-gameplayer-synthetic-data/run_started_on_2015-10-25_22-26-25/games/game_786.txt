@@ -1,0 +1,820 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+--	O	O	1
+Chicago	LOC	LOC	2
+newsdesk	O	O	1
+,	O	O	0
+312-408-8787	O	O	0
+Buffett	PER	PER	2
+raises	O	O	2
+Property	ORG	O	2
+Capital	ORG	LOC	2
+stake	O	O	1
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.001,LOC=0.002,ORG=0.003,O=0.995]	O	O
+Chicago	[PER=0.058,LOC=0.700,ORG=0.205,O=0.037]	LOC	LOC
+newsdesk	[PER=0.001,LOC=0.003,ORG=0.025,O=0.971]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Buffett	[PER=0.527,LOC=0.149,ORG=0.153,O=0.172]	PER	PER
+raises	[PER=0.004,LOC=0.000,ORG=0.050,O=0.946]	O	O
+Property	[PER=0.061,LOC=0.062,ORG=0.635,O=0.242]	ORG	ORG
+Capital	[PER=0.042,LOC=0.157,ORG=0.678,O=0.122]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.001,LOC=0.002,ORG=0.003,O=0.995]	O	O
+Chicago	[PER=0.058,LOC=0.700,ORG=0.205,O=0.037]	LOC	LOC
+newsdesk	[PER=0.001,LOC=0.003,ORG=0.025,O=0.971]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Buffett	[PER=0.527,LOC=0.149,ORG=0.153,O=0.172]	PER	PER
+raises	[PER=0.004,LOC=0.000,ORG=0.050,O=0.946]	O	O
+Property	[PER=0.061,LOC=0.062,ORG=0.635,O=0.242]	ORG	ORG
+Capital	[PER=0.042,LOC=0.157,ORG=0.678,O=0.122]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@8542a3a
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.001,LOC=0.002,ORG=0.003,O=0.995]	O	O
+Chicago	[PER=0.058,LOC=0.700,ORG=0.205,O=0.037]	LOC	LOC
+newsdesk	[PER=0.001,LOC=0.003,ORG=0.025,O=0.971]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Buffett	[PER=0.527,LOC=0.149,ORG=0.153,O=0.172]	PER	PER
+raises	[PER=0.004,LOC=0.000,ORG=0.050,O=0.946]	O	O
+Property	[PER=0.061,LOC=0.062,ORG=0.635,O=0.242]	ORG	ORG
+Capital	[PER=0.042,LOC=0.157,ORG=0.678,O=0.122]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.001,LOC=0.002,ORG=0.003,O=0.995]	O	O
+Chicago	[PER=0.058,LOC=0.700,ORG=0.205,O=0.037]	LOC	LOC
+newsdesk	[PER=0.001,LOC=0.003,ORG=0.025,O=0.971]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Buffett	[PER=0.527,LOC=0.149,ORG=0.153,O=0.172]	PER	PER
+raises	[PER=0.004,LOC=0.000,ORG=0.050,O=0.946]	O	O
+Property	[PER=0.061,LOC=0.062,ORG=0.635,O=0.242]	ORG	ORG
+Capital	[PER=0.042,LOC=0.157,ORG=0.678,O=0.122]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@32a866b9
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.001,LOC=0.002,ORG=0.003,O=0.995]	O	O
+Chicago	[PER=0.058,LOC=0.700,ORG=0.205,O=0.037]	LOC	LOC
+newsdesk	[PER=0.001,LOC=0.003,ORG=0.025,O=0.971]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Buffett	[PER=0.527,LOC=0.149,ORG=0.153,O=0.172]	PER	PER
+raises	[PER=0.004,LOC=0.000,ORG=0.050,O=0.946]	O	O
+Property	[PER=0.061,LOC=0.062,ORG=0.635,O=0.242]	ORG	ORG
+Capital	[PER=0.042,LOC=0.157,ORG=0.678,O=0.122]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "--"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.001,LOC=0.002,ORG=0.003,O=0.995]	O	O
+Chicago	[PER=0.058,LOC=0.700,ORG=0.205,O=0.037]	LOC	LOC
+newsdesk	[PER=0.001,LOC=0.003,ORG=0.025,O=0.971]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Buffett	[PER=0.527,LOC=0.149,ORG=0.153,O=0.172]	PER	PER
+raises	[PER=0.004,LOC=0.000,ORG=0.050,O=0.946]	O	O
+Property	[PER=0.061,LOC=0.062,ORG=0.635,O=0.242]	ORG	ORG
+Capital	[PER=0.042,LOC=0.157,ORG=0.678,O=0.122]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	--
+-----------
+Move choice:
+Launch query on token 1 "Chicago"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.001,LOC=0.002,ORG=0.003,O=0.995]	O	O
+Chicago	[PER=0.058,LOC=0.700,ORG=0.205,O=0.037]	LOC	LOC
+newsdesk	[PER=0.001,LOC=0.003,ORG=0.025,O=0.971]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Buffett	[PER=0.527,LOC=0.149,ORG=0.153,O=0.172]	PER	PER
+raises	[PER=0.004,LOC=0.000,ORG=0.050,O=0.946]	O	O
+Property	[PER=0.061,LOC=0.062,ORG=0.635,O=0.242]	ORG	ORG
+Capital	[PER=0.042,LOC=0.157,ORG=0.678,O=0.122]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Chicago
+	--
+-----------
+Next event:
+Got response on token 0 "--" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Chicago	[PER=0.058,LOC=0.701,ORG=0.203,O=0.038]	LOC	LOC
+newsdesk	[PER=0.001,LOC=0.003,ORG=0.025,O=0.971]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Buffett	[PER=0.527,LOC=0.149,ORG=0.153,O=0.172]	PER	PER
+raises	[PER=0.004,LOC=0.000,ORG=0.050,O=0.946]	O	O
+Property	[PER=0.061,LOC=0.062,ORG=0.635,O=0.242]	ORG	ORG
+Capital	[PER=0.042,LOC=0.157,ORG=0.678,O=0.122]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Chicago
+-----------
+Move choice:
+Launch query on token 1 "Chicago"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Chicago	[PER=0.058,LOC=0.701,ORG=0.203,O=0.038]	LOC	LOC
+newsdesk	[PER=0.001,LOC=0.003,ORG=0.025,O=0.971]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Buffett	[PER=0.527,LOC=0.149,ORG=0.153,O=0.172]	PER	PER
+raises	[PER=0.004,LOC=0.000,ORG=0.050,O=0.946]	O	O
+Property	[PER=0.061,LOC=0.062,ORG=0.635,O=0.242]	ORG	ORG
+Capital	[PER=0.042,LOC=0.157,ORG=0.678,O=0.122]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Chicago
+	Chicago
+-----------
+Move choice:
+Launch query on token 2 "newsdesk"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Chicago	[PER=0.058,LOC=0.701,ORG=0.203,O=0.038]	LOC	LOC
+newsdesk	[PER=0.001,LOC=0.003,ORG=0.025,O=0.971]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Buffett	[PER=0.527,LOC=0.149,ORG=0.153,O=0.172]	PER	PER
+raises	[PER=0.004,LOC=0.000,ORG=0.050,O=0.946]	O	O
+Property	[PER=0.061,LOC=0.062,ORG=0.635,O=0.242]	ORG	ORG
+Capital	[PER=0.042,LOC=0.157,ORG=0.678,O=0.122]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Chicago
+	Chicago
+	newsdesk
+-----------
+Next event:
+Got response on token 1 "Chicago" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.011,LOC=0.943,ORG=0.039,O=0.007]	LOC	LOC
+newsdesk	[PER=0.001,LOC=0.003,ORG=0.006,O=0.990]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Buffett	[PER=0.527,LOC=0.149,ORG=0.153,O=0.172]	PER	PER
+raises	[PER=0.004,LOC=0.000,ORG=0.050,O=0.946]	O	O
+Property	[PER=0.061,LOC=0.062,ORG=0.635,O=0.242]	ORG	ORG
+Capital	[PER=0.042,LOC=0.157,ORG=0.678,O=0.122]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Chicago
+	newsdesk
+-----------
+Move choice:
+Launch query on token 5 "Buffett"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.011,LOC=0.943,ORG=0.039,O=0.007]	LOC	LOC
+newsdesk	[PER=0.001,LOC=0.003,ORG=0.006,O=0.990]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Buffett	[PER=0.527,LOC=0.149,ORG=0.153,O=0.172]	PER	PER
+raises	[PER=0.004,LOC=0.000,ORG=0.050,O=0.946]	O	O
+Property	[PER=0.061,LOC=0.062,ORG=0.635,O=0.242]	ORG	ORG
+Capital	[PER=0.042,LOC=0.157,ORG=0.678,O=0.122]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Chicago
+	Buffett
+	newsdesk
+-----------
+Next event:
+Got response on token 1 "Chicago" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.991,ORG=0.006,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.004,ORG=0.002,O=0.994]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Buffett	[PER=0.527,LOC=0.149,ORG=0.153,O=0.172]	PER	PER
+raises	[PER=0.004,LOC=0.000,ORG=0.050,O=0.946]	O	O
+Property	[PER=0.061,LOC=0.062,ORG=0.635,O=0.242]	ORG	ORG
+Capital	[PER=0.042,LOC=0.157,ORG=0.678,O=0.122]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Buffett
+	newsdesk
+-----------
+Next event:
+Got response on token 2 "newsdesk" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Buffett	[PER=0.527,LOC=0.149,ORG=0.153,O=0.172]	PER	PER
+raises	[PER=0.004,LOC=0.000,ORG=0.050,O=0.946]	O	O
+Property	[PER=0.061,LOC=0.062,ORG=0.635,O=0.242]	ORG	ORG
+Capital	[PER=0.042,LOC=0.157,ORG=0.678,O=0.122]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Buffett
+-----------
+Move choice:
+Launch query on token 5 "Buffett"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Buffett	[PER=0.527,LOC=0.149,ORG=0.153,O=0.172]	PER	PER
+raises	[PER=0.004,LOC=0.000,ORG=0.050,O=0.946]	O	O
+Property	[PER=0.061,LOC=0.062,ORG=0.635,O=0.242]	ORG	ORG
+Capital	[PER=0.042,LOC=0.157,ORG=0.678,O=0.122]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Buffett
+	Buffett
+-----------
+Move choice:
+Launch query on token 6 "raises"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Buffett	[PER=0.527,LOC=0.149,ORG=0.153,O=0.172]	PER	PER
+raises	[PER=0.004,LOC=0.000,ORG=0.050,O=0.946]	O	O
+Property	[PER=0.061,LOC=0.062,ORG=0.635,O=0.242]	ORG	ORG
+Capital	[PER=0.042,LOC=0.157,ORG=0.678,O=0.122]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Buffett
+	raises
+	Buffett
+-----------
+Next event:
+Got response on token 5 "Buffett" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+Buffett	[PER=0.886,LOC=0.036,ORG=0.037,O=0.041]	PER	PER
+raises	[PER=0.006,LOC=0.000,ORG=0.016,O=0.978]	O	O
+Property	[PER=0.065,LOC=0.064,ORG=0.621,O=0.251]	ORG	ORG
+Capital	[PER=0.044,LOC=0.162,ORG=0.668,O=0.126]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Buffett
+	raises
+-----------
+Move choice:
+Launch query on token 6 "raises"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+Buffett	[PER=0.886,LOC=0.036,ORG=0.037,O=0.041]	PER	PER
+raises	[PER=0.006,LOC=0.000,ORG=0.016,O=0.978]	O	O
+Property	[PER=0.065,LOC=0.064,ORG=0.621,O=0.251]	ORG	ORG
+Capital	[PER=0.044,LOC=0.162,ORG=0.668,O=0.126]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Buffett
+	raises
+	raises
+-----------
+Next event:
+Got response on token 5 "Buffett" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+Buffett	[PER=0.982,LOC=0.006,ORG=0.006,O=0.007]	PER	PER
+raises	[PER=0.007,LOC=0.000,ORG=0.007,O=0.986]	O	O
+Property	[PER=0.066,LOC=0.064,ORG=0.618,O=0.253]	ORG	ORG
+Capital	[PER=0.045,LOC=0.163,ORG=0.665,O=0.127]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	raises
+	raises
+-----------
+Move choice:
+Launch query on token 7 "Property"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+Buffett	[PER=0.982,LOC=0.006,ORG=0.006,O=0.007]	PER	PER
+raises	[PER=0.007,LOC=0.000,ORG=0.007,O=0.986]	O	O
+Property	[PER=0.066,LOC=0.064,ORG=0.618,O=0.253]	ORG	ORG
+Capital	[PER=0.045,LOC=0.163,ORG=0.665,O=0.127]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	raises
+	raises
+	Property
+-----------
+Next event:
+Got response on token 6 "raises" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+Buffett	[PER=0.983,LOC=0.006,ORG=0.004,O=0.007]	PER	PER
+raises	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Property	[PER=0.063,LOC=0.065,ORG=0.618,O=0.255]	ORG	ORG
+Capital	[PER=0.043,LOC=0.164,ORG=0.666,O=0.127]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	raises
+	Property
+-----------
+Move choice:
+Launch query on token 7 "Property"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+Buffett	[PER=0.983,LOC=0.006,ORG=0.004,O=0.007]	PER	PER
+raises	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Property	[PER=0.063,LOC=0.065,ORG=0.618,O=0.255]	ORG	ORG
+Capital	[PER=0.043,LOC=0.164,ORG=0.666,O=0.127]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	raises
+	Property
+	Property
+-----------
+Next event:
+Got response on token 7 "Property" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+Buffett	[PER=0.983,LOC=0.006,ORG=0.004,O=0.007]	PER	PER
+raises	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Property	[PER=0.045,LOC=0.326,ORG=0.445,O=0.184]	ORG	ORG
+Capital	[PER=0.033,LOC=0.324,ORG=0.502,O=0.141]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	raises
+	Property
+-----------
+Next event:
+Got response on token 6 "raises" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+Buffett	[PER=0.984,LOC=0.006,ORG=0.004,O=0.007]	PER	PER
+raises	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Property	[PER=0.045,LOC=0.327,ORG=0.445,O=0.184]	ORG	ORG
+Capital	[PER=0.033,LOC=0.324,ORG=0.501,O=0.141]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Property
+-----------
+Move choice:
+Launch query on token 8 "Capital"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+Buffett	[PER=0.984,LOC=0.006,ORG=0.004,O=0.007]	PER	PER
+raises	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Property	[PER=0.045,LOC=0.327,ORG=0.445,O=0.184]	ORG	ORG
+Capital	[PER=0.033,LOC=0.324,ORG=0.501,O=0.141]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Capital
+	Property
+-----------
+Move choice:
+Launch query on token 8 "Capital"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+Buffett	[PER=0.984,LOC=0.006,ORG=0.004,O=0.007]	PER	PER
+raises	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Property	[PER=0.045,LOC=0.327,ORG=0.445,O=0.184]	ORG	ORG
+Capital	[PER=0.033,LOC=0.324,ORG=0.501,O=0.141]	ORG	ORG
+stake	[PER=0.000,LOC=0.000,ORG=0.005,O=0.994]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Capital
+	Property
+	Capital
+-----------
+Next event:
+Got response on token 7 "Property" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+Buffett	[PER=0.984,LOC=0.006,ORG=0.004,O=0.007]	PER	PER
+raises	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Property	[PER=0.021,LOC=0.155,ORG=0.212,O=0.612]	ORG	O
+Capital	[PER=0.038,LOC=0.354,ORG=0.367,O=0.241]	ORG	LOC
+stake	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Capital
+	Capital
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@7df4dbd2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+Buffett	[PER=0.984,LOC=0.006,ORG=0.004,O=0.007]	PER	PER
+raises	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Property	[PER=0.021,LOC=0.155,ORG=0.212,O=0.612]	ORG	O
+Capital	[PER=0.038,LOC=0.354,ORG=0.367,O=0.241]	ORG	LOC
+stake	[PER=0.000,LOC=0.000,ORG=0.004,O=0.996]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Capital
+	Capital
+-----------
+Next event:
+Got response on token 8 "Capital" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+Buffett	[PER=0.984,LOC=0.006,ORG=0.004,O=0.007]	PER	PER
+raises	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Property	[PER=0.013,LOC=0.269,ORG=0.075,O=0.644]	ORG	O
+Capital	[PER=0.012,LOC=0.793,ORG=0.118,O=0.077]	ORG	LOC
+stake	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Capital
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@47d96ff7
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+Buffett	[PER=0.984,LOC=0.006,ORG=0.004,O=0.007]	PER	PER
+raises	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Property	[PER=0.013,LOC=0.269,ORG=0.075,O=0.644]	ORG	O
+Capital	[PER=0.012,LOC=0.793,ORG=0.118,O=0.077]	ORG	LOC
+stake	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	Capital
+-----------
+Next event:
+Got response on token 8 "Capital" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+Buffett	[PER=0.984,LOC=0.006,ORG=0.004,O=0.007]	PER	PER
+raises	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Property	[PER=0.010,LOC=0.172,ORG=0.272,O=0.547]	ORG	O
+Capital	[PER=0.007,LOC=0.465,ORG=0.482,O=0.045]	ORG	LOC
+stake	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 9 "stake"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+Buffett	[PER=0.984,LOC=0.006,ORG=0.004,O=0.007]	PER	PER
+raises	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Property	[PER=0.010,LOC=0.172,ORG=0.272,O=0.547]	ORG	O
+Capital	[PER=0.007,LOC=0.465,ORG=0.482,O=0.045]	ORG	LOC
+stake	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	stake
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@6e5e9ec7
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+Buffett	[PER=0.984,LOC=0.006,ORG=0.004,O=0.007]	PER	PER
+raises	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Property	[PER=0.010,LOC=0.172,ORG=0.272,O=0.547]	ORG	O
+Capital	[PER=0.007,LOC=0.465,ORG=0.482,O=0.045]	ORG	LOC
+stake	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+	stake
+-----------
+Next event:
+Got response on token 9 "stake" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Chicago	[PER=0.002,LOC=0.992,ORG=0.005,O=0.001]	LOC	LOC
+newsdesk	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+312-408-8787	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+Buffett	[PER=0.984,LOC=0.006,ORG=0.004,O=0.007]	PER	PER
+raises	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Property	[PER=0.010,LOC=0.172,ORG=0.271,O=0.547]	ORG	O
+Capital	[PER=0.007,LOC=0.467,ORG=0.480,O=0.045]	ORG	LOC
+stake	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@43189db5

@@ -1,0 +1,43 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+Our	O	O	0
+ambassador	O	O	0
+is	O	O	0
+in	O	O	0
+touch	O	O	0
+with	O	O	0
+the	O	O	0
+UAE	LOC	LOC	0
+foreign	O	O	0
+ministry	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Our	[PER=0.020,LOC=0.008,ORG=0.003,O=0.969]	O	O
+ambassador	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+touch	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.003,O=0.997]	O	O
+UAE	[PER=0.013,LOC=0.852,ORG=0.095,O=0.041]	LOC	LOC
+foreign	[PER=0.001,LOC=0.023,ORG=0.026,O=0.950]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

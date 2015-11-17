@@ -1,0 +1,973 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+ZDF	ORG	ORG	4
+said	O	O	0
+Germany	LOC	LOC	3
+imported	O	O	0
+47,600	O	O	0
+sheep	O	O	0
+from	O	O	0
+Britain	LOC	LOC	3
+last	O	O	0
+year	O	O	0
+,	O	O	0
+nearly	O	O	0
+half	O	O	0
+of	O	O	0
+total	O	O	0
+imports	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.120,LOC=0.442,ORG=0.404,O=0.034]	ORG	LOC
+said	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Germany	[PER=0.009,LOC=0.971,ORG=0.010,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.120,LOC=0.442,ORG=0.404,O=0.034]	ORG	LOC
+said	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Germany	[PER=0.009,LOC=0.971,ORG=0.010,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@5a
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.120,LOC=0.442,ORG=0.404,O=0.034]	ORG	LOC
+said	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Germany	[PER=0.009,LOC=0.971,ORG=0.010,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.120,LOC=0.442,ORG=0.404,O=0.034]	ORG	LOC
+said	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Germany	[PER=0.009,LOC=0.971,ORG=0.010,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@64
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.120,LOC=0.442,ORG=0.404,O=0.034]	ORG	LOC
+said	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Germany	[PER=0.009,LOC=0.971,ORG=0.010,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.120,LOC=0.442,ORG=0.404,O=0.034]	ORG	LOC
+said	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Germany	[PER=0.009,LOC=0.971,ORG=0.010,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@79
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.120,LOC=0.442,ORG=0.404,O=0.034]	ORG	LOC
+said	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Germany	[PER=0.009,LOC=0.971,ORG=0.010,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.120,LOC=0.442,ORG=0.404,O=0.034]	ORG	LOC
+said	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Germany	[PER=0.009,LOC=0.971,ORG=0.010,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@8f
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.120,LOC=0.442,ORG=0.404,O=0.034]	ORG	LOC
+said	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Germany	[PER=0.009,LOC=0.971,ORG=0.010,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "ZDF"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.120,LOC=0.442,ORG=0.404,O=0.034]	ORG	LOC
+said	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Germany	[PER=0.009,LOC=0.971,ORG=0.010,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	ZDF
+-----------
+Move choice:
+Launch query on token 0 "ZDF"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.120,LOC=0.442,ORG=0.404,O=0.034]	ORG	LOC
+said	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Germany	[PER=0.009,LOC=0.971,ORG=0.010,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	ZDF
+	ZDF
+-----------
+Move choice:
+Launch query on token 0 "ZDF"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.120,LOC=0.442,ORG=0.404,O=0.034]	ORG	LOC
+said	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Germany	[PER=0.009,LOC=0.971,ORG=0.010,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	ZDF
+	ZDF
+	ZDF
+-----------
+Move choice:
+Launch query on token 0 "ZDF"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.120,LOC=0.442,ORG=0.404,O=0.034]	ORG	LOC
+said	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Germany	[PER=0.009,LOC=0.971,ORG=0.010,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	ZDF
+	ZDF
+	ZDF
+	ZDF
+-----------
+Move choice:
+Launch query on token 2 "Germany"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.120,LOC=0.442,ORG=0.404,O=0.034]	ORG	LOC
+said	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Germany	[PER=0.009,LOC=0.971,ORG=0.010,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	ZDF
+	ZDF
+	Germany
+	ZDF
+	ZDF
+-----------
+Next event:
+Got response on token 0 "ZDF" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.035,LOC=0.129,ORG=0.826,O=0.010]	ORG	ORG
+said	[PER=0.000,LOC=0.001,ORG=0.003,O=0.997]	O	O
+Germany	[PER=0.009,LOC=0.971,ORG=0.011,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	ZDF
+	ZDF
+	Germany
+	ZDF
+-----------
+Next event:
+Got response on token 0 "ZDF" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.006,LOC=0.022,ORG=0.971,O=0.002]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Germany	[PER=0.009,LOC=0.970,ORG=0.011,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	ZDF
+	ZDF
+	Germany
+-----------
+Next event:
+Got response on token 0 "ZDF" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.001,LOC=0.003,ORG=0.996,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Germany	[PER=0.009,LOC=0.970,ORG=0.011,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	ZDF
+	Germany
+-----------
+Move choice:
+Launch query on token 2 "Germany"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.001,LOC=0.003,ORG=0.996,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Germany	[PER=0.009,LOC=0.970,ORG=0.011,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	ZDF
+	Germany
+	Germany
+-----------
+Next event:
+Got response on token 2 "Germany" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.001,LOC=0.003,ORG=0.996,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Germany	[PER=0.001,LOC=0.996,ORG=0.002,O=0.001]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	ZDF
+	Germany
+-----------
+Next event:
+Got response on token 0 "ZDF" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Germany	[PER=0.001,LOC=0.996,ORG=0.002,O=0.001]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Germany
+-----------
+Move choice:
+Launch query on token 7 "Britain"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Germany	[PER=0.001,LOC=0.996,ORG=0.002,O=0.001]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Germany
+	Britain
+-----------
+Move choice:
+Launch query on token 7 "Britain"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Germany	[PER=0.001,LOC=0.996,ORG=0.002,O=0.001]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Britain
+	Germany
+	Britain
+-----------
+Next event:
+Got response on token 2 "Germany" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Germany	[PER=0.001,LOC=0.987,ORG=0.002,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Britain
+	Britain
+-----------
+Move choice:
+Launch query on token 2 "Germany"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Germany	[PER=0.001,LOC=0.987,ORG=0.002,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Britain
+	Germany
+	Britain
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@24f
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Germany	[PER=0.001,LOC=0.987,ORG=0.002,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.005,LOC=0.982,ORG=0.010,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Britain
+	Germany
+	Britain
+-----------
+Next event:
+Got response on token 7 "Britain" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Germany	[PER=0.001,LOC=0.987,ORG=0.002,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.001,LOC=0.997,ORG=0.001,O=0.000]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Britain
+	Germany
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@256
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Germany	[PER=0.001,LOC=0.987,ORG=0.002,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.001,LOC=0.997,ORG=0.001,O=0.000]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Britain
+	Germany
+-----------
+Next event:
+Got response on token 7 "Britain" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Germany	[PER=0.001,LOC=0.987,ORG=0.002,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.001,LOC=0.995,ORG=0.001,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Germany
+-----------
+Move choice:
+Launch query on token 7 "Britain"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Germany	[PER=0.001,LOC=0.987,ORG=0.002,O=0.010]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.001,LOC=0.995,ORG=0.001,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Britain
+	Germany
+-----------
+Next event:
+Got response on token 2 "Germany" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Germany	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.001,LOC=0.995,ORG=0.001,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Britain
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@28a
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Germany	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.001,LOC=0.995,ORG=0.001,O=0.003]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Britain
+-----------
+Next event:
+Got response on token 7 "Britain" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+ZDF	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Germany	[PER=0.000,LOC=0.998,ORG=0.000,O=0.001]	LOC	LOC
+imported	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+47,600	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+sheep	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+from	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+Britain	[PER=0.000,LOC=0.999,ORG=0.000,O=0.000]	LOC	LOC
+last	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+year	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+nearly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+half	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+total	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+imports	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@2bc

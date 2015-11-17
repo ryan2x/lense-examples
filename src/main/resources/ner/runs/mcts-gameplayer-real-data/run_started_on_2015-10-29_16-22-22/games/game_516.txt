@@ -1,0 +1,932 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Bangladesh	LOC	LOC	1
+'s	O	O	1
+Criminal	ORG	ORG	2
+Investigation	ORG	ORG	0
+Department	ORG	ORG	1
+has	O	O	0
+charged	O	O	0
+two	O	O	0
+immigration	O	O	0
+officials	O	O	0
+in	O	O	0
+connection	O	O	0
+with	O	O	0
+Mia	PER	PER	4
+'s	O	O	0
+killing	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.838,ORG=0.132,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.032,O=0.967]	O	O
+Criminal	[PER=0.005,LOC=0.002,ORG=0.861,O=0.132]	ORG	ORG
+Investigation	[PER=0.002,LOC=0.001,ORG=0.995,O=0.002]	ORG	ORG
+Department	[PER=0.003,LOC=0.006,ORG=0.982,O=0.008]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.298,LOC=0.586,ORG=0.044,O=0.073]	PER	LOC
+'s	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.838,ORG=0.132,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.032,O=0.967]	O	O
+Criminal	[PER=0.005,LOC=0.002,ORG=0.861,O=0.132]	ORG	ORG
+Investigation	[PER=0.002,LOC=0.001,ORG=0.995,O=0.002]	ORG	ORG
+Department	[PER=0.003,LOC=0.006,ORG=0.982,O=0.008]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.298,LOC=0.586,ORG=0.044,O=0.073]	PER	LOC
+'s	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.838,ORG=0.132,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.032,O=0.967]	O	O
+Criminal	[PER=0.005,LOC=0.002,ORG=0.861,O=0.132]	ORG	ORG
+Investigation	[PER=0.002,LOC=0.001,ORG=0.995,O=0.002]	ORG	ORG
+Department	[PER=0.003,LOC=0.006,ORG=0.982,O=0.008]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.298,LOC=0.586,ORG=0.044,O=0.073]	PER	LOC
+'s	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.838,ORG=0.132,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.032,O=0.967]	O	O
+Criminal	[PER=0.005,LOC=0.002,ORG=0.861,O=0.132]	ORG	ORG
+Investigation	[PER=0.002,LOC=0.001,ORG=0.995,O=0.002]	ORG	ORG
+Department	[PER=0.003,LOC=0.006,ORG=0.982,O=0.008]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.298,LOC=0.586,ORG=0.044,O=0.073]	PER	LOC
+'s	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.838,ORG=0.132,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.032,O=0.967]	O	O
+Criminal	[PER=0.005,LOC=0.002,ORG=0.861,O=0.132]	ORG	ORG
+Investigation	[PER=0.002,LOC=0.001,ORG=0.995,O=0.002]	ORG	ORG
+Department	[PER=0.003,LOC=0.006,ORG=0.982,O=0.008]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.298,LOC=0.586,ORG=0.044,O=0.073]	PER	LOC
+'s	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.838,ORG=0.132,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.032,O=0.967]	O	O
+Criminal	[PER=0.005,LOC=0.002,ORG=0.861,O=0.132]	ORG	ORG
+Investigation	[PER=0.002,LOC=0.001,ORG=0.995,O=0.002]	ORG	ORG
+Department	[PER=0.003,LOC=0.006,ORG=0.982,O=0.008]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.298,LOC=0.586,ORG=0.044,O=0.073]	PER	LOC
+'s	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.838,ORG=0.132,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.032,O=0.967]	O	O
+Criminal	[PER=0.005,LOC=0.002,ORG=0.861,O=0.132]	ORG	ORG
+Investigation	[PER=0.002,LOC=0.001,ORG=0.995,O=0.002]	ORG	ORG
+Department	[PER=0.003,LOC=0.006,ORG=0.982,O=0.008]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.298,LOC=0.586,ORG=0.044,O=0.073]	PER	LOC
+'s	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.838,ORG=0.132,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.032,O=0.967]	O	O
+Criminal	[PER=0.005,LOC=0.002,ORG=0.861,O=0.132]	ORG	ORG
+Investigation	[PER=0.002,LOC=0.001,ORG=0.995,O=0.002]	ORG	ORG
+Department	[PER=0.003,LOC=0.006,ORG=0.982,O=0.008]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.298,LOC=0.586,ORG=0.044,O=0.073]	PER	LOC
+'s	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.838,ORG=0.132,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.032,O=0.967]	O	O
+Criminal	[PER=0.005,LOC=0.002,ORG=0.861,O=0.132]	ORG	ORG
+Investigation	[PER=0.002,LOC=0.001,ORG=0.995,O=0.002]	ORG	ORG
+Department	[PER=0.003,LOC=0.006,ORG=0.982,O=0.008]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.298,LOC=0.586,ORG=0.044,O=0.073]	PER	LOC
+'s	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.838,ORG=0.132,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.032,O=0.967]	O	O
+Criminal	[PER=0.005,LOC=0.002,ORG=0.861,O=0.132]	ORG	ORG
+Investigation	[PER=0.002,LOC=0.001,ORG=0.995,O=0.002]	ORG	ORG
+Department	[PER=0.003,LOC=0.006,ORG=0.982,O=0.008]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.298,LOC=0.586,ORG=0.044,O=0.073]	PER	LOC
+'s	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.838,ORG=0.132,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.032,O=0.967]	O	O
+Criminal	[PER=0.005,LOC=0.002,ORG=0.861,O=0.132]	ORG	ORG
+Investigation	[PER=0.002,LOC=0.001,ORG=0.995,O=0.002]	ORG	ORG
+Department	[PER=0.003,LOC=0.006,ORG=0.982,O=0.008]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.298,LOC=0.586,ORG=0.044,O=0.073]	PER	LOC
+'s	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 13 "Mia"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.838,ORG=0.132,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.032,O=0.967]	O	O
+Criminal	[PER=0.005,LOC=0.002,ORG=0.861,O=0.132]	ORG	ORG
+Investigation	[PER=0.002,LOC=0.001,ORG=0.995,O=0.002]	ORG	ORG
+Department	[PER=0.003,LOC=0.006,ORG=0.982,O=0.008]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.298,LOC=0.586,ORG=0.044,O=0.073]	PER	LOC
+'s	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+-----------
+Move choice:
+Launch query on token 13 "Mia"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.838,ORG=0.132,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.032,O=0.967]	O	O
+Criminal	[PER=0.005,LOC=0.002,ORG=0.861,O=0.132]	ORG	ORG
+Investigation	[PER=0.002,LOC=0.001,ORG=0.995,O=0.002]	ORG	ORG
+Department	[PER=0.003,LOC=0.006,ORG=0.982,O=0.008]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.298,LOC=0.586,ORG=0.044,O=0.073]	PER	LOC
+'s	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+	Mia
+-----------
+Move choice:
+Launch query on token 4 "Department"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.838,ORG=0.132,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.032,O=0.967]	O	O
+Criminal	[PER=0.005,LOC=0.002,ORG=0.861,O=0.132]	ORG	ORG
+Investigation	[PER=0.002,LOC=0.001,ORG=0.995,O=0.002]	ORG	ORG
+Department	[PER=0.003,LOC=0.006,ORG=0.982,O=0.008]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.298,LOC=0.586,ORG=0.044,O=0.073]	PER	LOC
+'s	[PER=0.001,LOC=0.001,ORG=0.000,O=0.998]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Department
+	Mia
+	Mia
+-----------
+Next event:
+Got response on token 13 "Mia" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.838,ORG=0.132,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.032,O=0.967]	O	O
+Criminal	[PER=0.005,LOC=0.002,ORG=0.861,O=0.132]	ORG	ORG
+Investigation	[PER=0.002,LOC=0.001,ORG=0.995,O=0.002]	ORG	ORG
+Department	[PER=0.003,LOC=0.006,ORG=0.982,O=0.008]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.748,LOC=0.210,ORG=0.016,O=0.026]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Department
+	Mia
+-----------
+Move choice:
+Launch query on token 2 "Criminal"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.838,ORG=0.132,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.032,O=0.967]	O	O
+Criminal	[PER=0.005,LOC=0.002,ORG=0.861,O=0.132]	ORG	ORG
+Investigation	[PER=0.002,LOC=0.001,ORG=0.995,O=0.002]	ORG	ORG
+Department	[PER=0.003,LOC=0.006,ORG=0.982,O=0.008]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.748,LOC=0.210,ORG=0.016,O=0.026]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Department
+	Mia
+	Criminal
+-----------
+Next event:
+Got response on token 4 "Department" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.838,ORG=0.132,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.033,O=0.967]	O	O
+Criminal	[PER=0.004,LOC=0.002,ORG=0.863,O=0.130]	ORG	ORG
+Investigation	[PER=0.001,LOC=0.000,ORG=0.998,O=0.001]	ORG	ORG
+Department	[PER=0.000,LOC=0.001,ORG=0.997,O=0.001]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.748,LOC=0.210,ORG=0.016,O=0.026]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+	Criminal
+-----------
+Move choice:
+Launch query on token 1 "'s"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.838,ORG=0.132,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.033,O=0.967]	O	O
+Criminal	[PER=0.004,LOC=0.002,ORG=0.863,O=0.130]	ORG	ORG
+Investigation	[PER=0.001,LOC=0.000,ORG=0.998,O=0.001]	ORG	ORG
+Department	[PER=0.000,LOC=0.001,ORG=0.997,O=0.001]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.748,LOC=0.210,ORG=0.016,O=0.026]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	's
+	Mia
+	Criminal
+-----------
+Move choice:
+Launch query on token 13 "Mia"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.838,ORG=0.132,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.033,O=0.967]	O	O
+Criminal	[PER=0.004,LOC=0.002,ORG=0.863,O=0.130]	ORG	ORG
+Investigation	[PER=0.001,LOC=0.000,ORG=0.998,O=0.001]	ORG	ORG
+Department	[PER=0.000,LOC=0.001,ORG=0.997,O=0.001]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.748,LOC=0.210,ORG=0.016,O=0.026]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	's
+	Mia
+	Criminal
+	Mia
+-----------
+Next event:
+Got response on token 1 "'s" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.859,ORG=0.110,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+Criminal	[PER=0.005,LOC=0.002,ORG=0.859,O=0.134]	ORG	ORG
+Investigation	[PER=0.001,LOC=0.000,ORG=0.998,O=0.001]	ORG	ORG
+Department	[PER=0.000,LOC=0.001,ORG=0.997,O=0.001]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.748,LOC=0.210,ORG=0.016,O=0.026]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+	Criminal
+	Mia
+-----------
+Move choice:
+Launch query on token 13 "Mia"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.859,ORG=0.110,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+Criminal	[PER=0.005,LOC=0.002,ORG=0.859,O=0.134]	ORG	ORG
+Investigation	[PER=0.001,LOC=0.000,ORG=0.998,O=0.001]	ORG	ORG
+Department	[PER=0.000,LOC=0.001,ORG=0.997,O=0.001]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.748,LOC=0.210,ORG=0.016,O=0.026]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+	Criminal
+	Mia
+	Mia
+-----------
+Next event:
+Got response on token 2 "Criminal" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.859,ORG=0.110,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+Criminal	[PER=0.001,LOC=0.000,ORG=0.977,O=0.022]	ORG	ORG
+Investigation	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Department	[PER=0.000,LOC=0.001,ORG=0.998,O=0.001]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.748,LOC=0.210,ORG=0.016,O=0.026]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+	Mia
+	Mia
+-----------
+Next event:
+Got response on token 13 "Mia" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.859,ORG=0.110,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+Criminal	[PER=0.001,LOC=0.000,ORG=0.977,O=0.022]	ORG	ORG
+Investigation	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Department	[PER=0.000,LOC=0.001,ORG=0.998,O=0.001]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.954,LOC=0.038,ORG=0.003,O=0.005]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+	Mia
+-----------
+Next event:
+Got response on token 13 "Mia" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.859,ORG=0.110,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+Criminal	[PER=0.001,LOC=0.000,ORG=0.977,O=0.022]	ORG	ORG
+Investigation	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Department	[PER=0.000,LOC=0.001,ORG=0.998,O=0.001]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.993,LOC=0.006,ORG=0.000,O=0.001]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mia
+-----------
+Move choice:
+Launch query on token 0 "Bangladesh"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.859,ORG=0.110,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+Criminal	[PER=0.001,LOC=0.000,ORG=0.977,O=0.022]	ORG	ORG
+Investigation	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Department	[PER=0.000,LOC=0.001,ORG=0.998,O=0.001]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.993,LOC=0.006,ORG=0.000,O=0.001]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Bangladesh
+	Mia
+-----------
+Next event:
+Got response on token 13 "Mia" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.859,ORG=0.110,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+Criminal	[PER=0.001,LOC=0.000,ORG=0.977,O=0.022]	ORG	ORG
+Investigation	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Department	[PER=0.000,LOC=0.001,ORG=0.998,O=0.001]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Bangladesh
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1d2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.021,LOC=0.859,ORG=0.110,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.005,O=0.995]	O	O
+Criminal	[PER=0.001,LOC=0.000,ORG=0.977,O=0.022]	ORG	ORG
+Investigation	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Department	[PER=0.000,LOC=0.001,ORG=0.998,O=0.001]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Bangladesh
+-----------
+Next event:
+Got response on token 0 "Bangladesh" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.003,LOC=0.977,ORG=0.018,O=0.002]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Criminal	[PER=0.001,LOC=0.000,ORG=0.977,O=0.022]	ORG	ORG
+Investigation	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Department	[PER=0.000,LOC=0.001,ORG=0.998,O=0.001]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 2 "Criminal"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.003,LOC=0.977,ORG=0.018,O=0.002]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Criminal	[PER=0.001,LOC=0.000,ORG=0.977,O=0.022]	ORG	ORG
+Investigation	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Department	[PER=0.000,LOC=0.001,ORG=0.998,O=0.001]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Criminal
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@2ae
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.003,LOC=0.977,ORG=0.018,O=0.002]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Criminal	[PER=0.001,LOC=0.000,ORG=0.977,O=0.022]	ORG	ORG
+Investigation	[PER=0.000,LOC=0.000,ORG=0.999,O=0.000]	ORG	ORG
+Department	[PER=0.000,LOC=0.001,ORG=0.998,O=0.001]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Criminal
+-----------
+Next event:
+Got response on token 2 "Criminal" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bangladesh	[PER=0.003,LOC=0.977,ORG=0.018,O=0.002]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Criminal	[PER=0.000,LOC=0.000,ORG=0.997,O=0.003]	ORG	ORG
+Investigation	[PER=0.000,LOC=0.000,ORG=1.000,O=0.000]	ORG	ORG
+Department	[PER=0.000,LOC=0.001,ORG=0.998,O=0.001]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+charged	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+two	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+immigration	[PER=0.000,LOC=0.002,ORG=0.003,O=0.995]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+connection	[PER=0.000,LOC=0.001,ORG=0.003,O=0.996]	O	O
+with	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Mia	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+killing	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@334

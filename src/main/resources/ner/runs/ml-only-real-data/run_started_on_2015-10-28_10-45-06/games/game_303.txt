@@ -1,0 +1,55 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+--	O	O	0
+Sydney	ORG	LOC	0
+Newsroom	ORG	LOC	0
+61-2	O	O	0
+9373-1800	O	O	0
+RTRS	ORG	O	0
+-	O	O	0
+Tennis	O	O	0
+-	O	O	0
+Muster	PER	O	0
+upset	O	O	0
+,	O	O	0
+Philippoussis	PER	PER	0
+wins	O	O	0
+,	O	O	0
+Stoltenberg	PER	PER	0
+loses	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.001,LOC=0.003,ORG=0.002,O=0.994]	O	O
+Sydney	[PER=0.058,LOC=0.852,ORG=0.078,O=0.011]	ORG	LOC
+Newsroom	[PER=0.066,LOC=0.658,ORG=0.234,O=0.042]	ORG	LOC
+61-2	[PER=0.001,LOC=0.002,ORG=0.003,O=0.994]	O	O
+9373-1800	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+RTRS	[PER=0.007,LOC=0.014,ORG=0.013,O=0.966]	ORG	O
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Tennis	[PER=0.033,LOC=0.005,ORG=0.005,O=0.957]	O	O
+-	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Muster	[PER=0.315,LOC=0.095,ORG=0.026,O=0.564]	PER	O
+upset	[PER=0.004,LOC=0.001,ORG=0.002,O=0.994]	O	O
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Philippoussis	[PER=0.704,LOC=0.052,ORG=0.135,O=0.109]	PER	PER
+wins	[PER=0.002,LOC=0.000,ORG=0.001,O=0.998]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Stoltenberg	[PER=0.595,LOC=0.185,ORG=0.113,O=0.107]	PER	PER
+loses	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

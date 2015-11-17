@@ -1,0 +1,9 @@
+set terminal png medium
+set output "lense-examples/src/main/resources/person_recognition/runs/mcts-gameplayer/run_started_on_2015-10-29_20-18-04/Queries_by_true_type_of_document/Queries_by_true_type_of_document.png"
+set title 'Queries by true type of document'
+set xlabel 'time'
+set ylabel 'queries'
+plot 'lense-examples/src/main/resources/person_recognition/runs/mcts-gameplayer/run_started_on_2015-10-29_20-18-04/Queries_by_true_type_of_document/Anderson Cooper.dat' with lines, \
+'lense-examples/src/main/resources/person_recognition/runs/mcts-gameplayer/run_started_on_2015-10-29_20-18-04/Queries_by_true_type_of_document/Daniel Craig.dat' with lines, \
+'lense-examples/src/main/resources/person_recognition/runs/mcts-gameplayer/run_started_on_2015-10-29_20-18-04/Queries_by_true_type_of_document/Miley Cyrus.dat' with lines, \
+'lense-examples/src/main/resources/person_recognition/runs/mcts-gameplayer/run_started_on_2015-10-29_20-18-04/Queries_by_true_type_of_document/Scarlett Johansson.dat' with lines

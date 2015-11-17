@@ -1,0 +1,529 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+He	O	O	0
+offered	O	O	0
+no	O	O	0
+details	O	O	0
+about	O	O	0
+the	O	O	0
+cause	O	O	0
+of	O	O	0
+Smith	PER	PER	2
+'s	O	O	0
+death	O	O	0
+or	O	O	0
+the	O	O	0
+location	O	O	1
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.989]	O	O
+offered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+details	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+about	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cause	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.017,O=0.979]	O	O
+Smith	[PER=0.766,LOC=0.088,ORG=0.033,O=0.113]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+death	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+location	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.989]	O	O
+offered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+details	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+about	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cause	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.017,O=0.979]	O	O
+Smith	[PER=0.766,LOC=0.088,ORG=0.033,O=0.113]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+death	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+location	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.989]	O	O
+offered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+details	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+about	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cause	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.017,O=0.979]	O	O
+Smith	[PER=0.766,LOC=0.088,ORG=0.033,O=0.113]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+death	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+location	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.989]	O	O
+offered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+details	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+about	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cause	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.017,O=0.979]	O	O
+Smith	[PER=0.766,LOC=0.088,ORG=0.033,O=0.113]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+death	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+location	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.989]	O	O
+offered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+details	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+about	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cause	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.017,O=0.979]	O	O
+Smith	[PER=0.766,LOC=0.088,ORG=0.033,O=0.113]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+death	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+location	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.989]	O	O
+offered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+details	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+about	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cause	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.017,O=0.979]	O	O
+Smith	[PER=0.766,LOC=0.088,ORG=0.033,O=0.113]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+death	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+location	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.989]	O	O
+offered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+details	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+about	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cause	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.017,O=0.979]	O	O
+Smith	[PER=0.766,LOC=0.088,ORG=0.033,O=0.113]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+death	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+location	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.989]	O	O
+offered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+details	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+about	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cause	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.017,O=0.979]	O	O
+Smith	[PER=0.766,LOC=0.088,ORG=0.033,O=0.113]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+death	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+location	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.989]	O	O
+offered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+details	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+about	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cause	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.017,O=0.979]	O	O
+Smith	[PER=0.766,LOC=0.088,ORG=0.033,O=0.113]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+death	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+location	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.989]	O	O
+offered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+details	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+about	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cause	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.017,O=0.979]	O	O
+Smith	[PER=0.766,LOC=0.088,ORG=0.033,O=0.113]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+death	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+location	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.989]	O	O
+offered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+details	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+about	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cause	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.017,O=0.979]	O	O
+Smith	[PER=0.766,LOC=0.088,ORG=0.033,O=0.113]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+death	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+location	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 8 "Smith"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.989]	O	O
+offered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+details	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+about	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cause	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.017,O=0.979]	O	O
+Smith	[PER=0.766,LOC=0.088,ORG=0.033,O=0.113]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+death	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+location	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Smith
+-----------
+Move choice:
+Launch query on token 8 "Smith"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.989]	O	O
+offered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+details	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+about	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cause	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.017,O=0.979]	O	O
+Smith	[PER=0.766,LOC=0.088,ORG=0.033,O=0.113]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+death	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+location	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Smith
+	Smith
+-----------
+Move choice:
+Launch query on token 13 "location"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.989]	O	O
+offered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+details	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+about	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cause	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.017,O=0.979]	O	O
+Smith	[PER=0.766,LOC=0.088,ORG=0.033,O=0.113]	PER	PER
+'s	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+death	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+location	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Smith
+	Smith
+	location
+-----------
+Next event:
+Got response on token 8 "Smith" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.989]	O	O
+offered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+details	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+about	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cause	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.011,O=0.984]	O	O
+Smith	[PER=0.958,LOC=0.016,ORG=0.006,O=0.020]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+death	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+location	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Smith
+	location
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@9d
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.989]	O	O
+offered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+details	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+about	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cause	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.011,O=0.984]	O	O
+Smith	[PER=0.958,LOC=0.016,ORG=0.006,O=0.020]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+death	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+location	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Smith
+	location
+-----------
+Next event:
+Got response on token 13 "location" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.989]	O	O
+offered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+details	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+about	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cause	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.011,O=0.984]	O	O
+Smith	[PER=0.958,LOC=0.016,ORG=0.006,O=0.020]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+death	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+location	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Smith
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@bc
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.989]	O	O
+offered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+details	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+about	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cause	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.004,LOC=0.000,ORG=0.011,O=0.984]	O	O
+Smith	[PER=0.958,LOC=0.016,ORG=0.006,O=0.020]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+death	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+location	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Smith
+-----------
+Next event:
+Got response on token 8 "Smith" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.003,O=0.989]	O	O
+offered	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+details	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+about	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cause	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+of	[PER=0.005,LOC=0.000,ORG=0.010,O=0.985]	O	O
+Smith	[PER=0.994,LOC=0.002,ORG=0.001,O=0.003]	PER	PER
+'s	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+death	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+or	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+location	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@102

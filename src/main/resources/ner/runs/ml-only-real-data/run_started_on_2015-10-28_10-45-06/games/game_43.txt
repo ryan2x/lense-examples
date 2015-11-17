@@ -1,0 +1,45 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+The	O	O	0
+voices	O	O	0
+coming	O	O	0
+out	O	O	0
+of	O	O	0
+Damascus	LOC	LOC	0
+are	O	O	0
+bad	O	O	0
+,	O	O	0
+not	O	O	0
+good	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+voices	[PER=0.002,LOC=0.003,ORG=0.006,O=0.989]	O	O
+coming	[PER=0.000,LOC=0.002,ORG=0.002,O=0.996]	O	O
+out	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Damascus	[PER=0.015,LOC=0.974,ORG=0.009,O=0.002]	LOC	LOC
+are	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bad	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+good	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

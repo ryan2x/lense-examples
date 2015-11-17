@@ -1,0 +1,73 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Analysts	O	O	0
+said	O	O	0
+sharply	O	O	0
+lower	O	O	0
+earnings	O	O	0
+from	O	O	0
+News	ORG	ORG	0
+Corp	ORG	ORG	0
+'s	O	O	0
+book	O	O	0
+publishing	O	O	0
+division	O	O	0
+and	O	O	0
+its	O	O	0
+U.S.	LOC	LOC	0
+magazines	O	O	0
+had	O	O	0
+been	O	O	0
+the	O	O	0
+major	O	O	0
+surprises	O	O	0
+in	O	O	0
+the	O	O	0
+results	O	O	0
+for	O	O	0
+1995/96	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Analysts	[PER=0.015,LOC=0.010,ORG=0.024,O=0.951]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sharply	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+lower	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+earnings	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+from	[PER=0.000,LOC=0.000,ORG=0.013,O=0.986]	O	O
+News	[PER=0.032,LOC=0.024,ORG=0.909,O=0.036]	ORG	ORG
+Corp	[PER=0.029,LOC=0.016,ORG=0.925,O=0.029]	ORG	ORG
+'s	[PER=0.000,LOC=0.002,ORG=0.036,O=0.962]	O	O
+book	[PER=0.001,LOC=0.001,ORG=0.002,O=0.997]	O	O
+publishing	[PER=0.000,LOC=0.001,ORG=0.002,O=0.997]	O	O
+division	[PER=0.001,LOC=0.002,ORG=0.004,O=0.992]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+its	[PER=0.000,LOC=0.002,ORG=0.002,O=0.996]	O	O
+U.S.	[PER=0.015,LOC=0.804,ORG=0.131,O=0.049]	LOC	LOC
+magazines	[PER=0.000,LOC=0.005,ORG=0.014,O=0.980]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+been	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+major	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+surprises	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+results	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+for	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+1995/96	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

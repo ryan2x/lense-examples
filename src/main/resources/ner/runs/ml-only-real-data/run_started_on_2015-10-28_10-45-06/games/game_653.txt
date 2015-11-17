@@ -1,0 +1,39 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Lancashire	ORG	LOC	0
+162-4	O	O	0
+(	O	O	0
+N.	PER	PER	0
+Fairbrother	PER	PER	0
+53	O	O	0
+not	O	O	0
+out	O	O	0
+)	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Lancashire	[PER=0.005,LOC=0.962,ORG=0.026,O=0.007]	ORG	LOC
+162-4	[PER=0.000,LOC=0.003,ORG=0.001,O=0.997]	O	O
+(	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+N.	[PER=0.901,LOC=0.012,ORG=0.015,O=0.072]	PER	PER
+Fairbrother	[PER=0.972,LOC=0.005,ORG=0.004,O=0.019]	PER	PER
+53	[PER=0.005,LOC=0.000,ORG=0.000,O=0.994]	O	O
+not	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+out	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

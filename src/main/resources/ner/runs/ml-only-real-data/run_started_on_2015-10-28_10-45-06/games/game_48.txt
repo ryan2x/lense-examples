@@ -1,0 +1,55 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+Israel	LOC	LOC	0
+'s	O	O	0
+Channel	ORG	LOC	0
+Two	ORG	O	0
+television	O	O	0
+said	O	O	0
+Damascus	LOC	LOC	0
+had	O	O	0
+sent	O	O	0
+a	O	O	0
+"	O	O	0
+calming	O	O	0
+signal	O	O	0
+"	O	O	0
+to	O	O	0
+Israel	LOC	LOC	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.004,ORG=0.000,O=0.995]	O	O
+Israel	[PER=0.003,LOC=0.994,ORG=0.001,O=0.002]	LOC	LOC
+'s	[PER=0.002,LOC=0.210,ORG=0.004,O=0.784]	O	O
+Channel	[PER=0.113,LOC=0.468,ORG=0.241,O=0.178]	ORG	LOC
+Two	[PER=0.033,LOC=0.014,ORG=0.084,O=0.869]	ORG	O
+television	[PER=0.001,LOC=0.001,ORG=0.031,O=0.967]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Damascus	[PER=0.010,LOC=0.983,ORG=0.005,O=0.003]	LOC	LOC
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sent	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+calming	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+signal	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+Israel	[PER=0.003,LOC=0.993,ORG=0.000,O=0.003]	LOC	LOC
+.	[PER=0.000,LOC=0.001,ORG=0.000,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

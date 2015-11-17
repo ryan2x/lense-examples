@@ -1,0 +1,89 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	0
+He	O	O	0
+is	O	O	0
+in	O	O	0
+no	O	O	0
+danger	O	O	0
+and	O	O	0
+will	O	O	0
+be	O	O	0
+treated	O	O	0
+and	O	O	0
+observed	O	O	0
+this	O	O	0
+evening	O	O	0
+,	O	O	0
+"	O	O	0
+said	O	O	0
+Orioles	ORG	PER	0
+team	O	O	0
+physician	O	O	0
+Dr.	O	PER	0
+William	PER	PER	0
+Goldiner	PER	PER	0
+,	O	O	0
+adding	O	O	0
+that	O	O	0
+Johnson	PER	PER	0
+is	O	O	0
+expected	O	O	0
+to	O	O	0
+be	O	O	0
+released	O	O	0
+on	O	O	0
+Friday	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+He	[PER=0.002,LOC=0.002,ORG=0.002,O=0.994]	O	O
+is	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+danger	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+will	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+treated	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+observed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+this	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+evening	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Orioles	[PER=0.394,LOC=0.194,ORG=0.161,O=0.251]	ORG	PER
+team	[PER=0.033,LOC=0.001,ORG=0.027,O=0.940]	O	O
+physician	[PER=0.089,LOC=0.001,ORG=0.007,O=0.903]	O	O
+Dr.	[PER=0.996,LOC=0.000,ORG=0.002,O=0.001]	O	PER
+William	[PER=0.997,LOC=0.000,ORG=0.001,O=0.001]	PER	PER
+Goldiner	[PER=0.923,LOC=0.004,ORG=0.005,O=0.068]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+adding	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.001,LOC=0.000,ORG=0.002,O=0.997]	O	O
+Johnson	[PER=0.827,LOC=0.093,ORG=0.047,O=0.033]	PER	PER
+is	[PER=0.002,LOC=0.000,ORG=0.000,O=0.997]	O	O
+expected	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+be	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+released	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Friday	[PER=0.013,LOC=0.008,ORG=0.010,O=0.969]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

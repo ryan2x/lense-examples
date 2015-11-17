@@ -1,0 +1,930 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Scotland	LOC	LOC	2
+manager	O	O	0
+Craig	PER	PER	1
+Brown	PER	PER	1
+said	O	O	0
+on	O	O	0
+Thursday	O	O	1
+:	O	O	0
+"	O	O	0
+I	O	O	0
+'ve	O	O	0
+watched	O	O	0
+Duncan	PER	PER	0
+Ferguson	PER	PER	0
+in	O	O	1
+action	O	O	0
+twice	O	O	0
+recently	O	O	0
+and	O	O	0
+he	O	O	0
+'s	O	O	0
+bang	O	O	0
+in	O	O	0
+form	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.036,LOC=0.615,ORG=0.343,O=0.006]	LOC	LOC
+manager	[PER=0.025,LOC=0.001,ORG=0.005,O=0.969]	O	O
+Craig	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Brown	[PER=0.991,LOC=0.008,ORG=0.001,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.036,LOC=0.615,ORG=0.343,O=0.006]	LOC	LOC
+manager	[PER=0.025,LOC=0.001,ORG=0.005,O=0.969]	O	O
+Craig	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Brown	[PER=0.991,LOC=0.008,ORG=0.001,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.036,LOC=0.615,ORG=0.343,O=0.006]	LOC	LOC
+manager	[PER=0.025,LOC=0.001,ORG=0.005,O=0.969]	O	O
+Craig	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Brown	[PER=0.991,LOC=0.008,ORG=0.001,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.036,LOC=0.615,ORG=0.343,O=0.006]	LOC	LOC
+manager	[PER=0.025,LOC=0.001,ORG=0.005,O=0.969]	O	O
+Craig	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Brown	[PER=0.991,LOC=0.008,ORG=0.001,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.036,LOC=0.615,ORG=0.343,O=0.006]	LOC	LOC
+manager	[PER=0.025,LOC=0.001,ORG=0.005,O=0.969]	O	O
+Craig	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Brown	[PER=0.991,LOC=0.008,ORG=0.001,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.036,LOC=0.615,ORG=0.343,O=0.006]	LOC	LOC
+manager	[PER=0.025,LOC=0.001,ORG=0.005,O=0.969]	O	O
+Craig	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Brown	[PER=0.991,LOC=0.008,ORG=0.001,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.036,LOC=0.615,ORG=0.343,O=0.006]	LOC	LOC
+manager	[PER=0.025,LOC=0.001,ORG=0.005,O=0.969]	O	O
+Craig	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Brown	[PER=0.991,LOC=0.008,ORG=0.001,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.036,LOC=0.615,ORG=0.343,O=0.006]	LOC	LOC
+manager	[PER=0.025,LOC=0.001,ORG=0.005,O=0.969]	O	O
+Craig	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Brown	[PER=0.991,LOC=0.008,ORG=0.001,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.036,LOC=0.615,ORG=0.343,O=0.006]	LOC	LOC
+manager	[PER=0.025,LOC=0.001,ORG=0.005,O=0.969]	O	O
+Craig	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Brown	[PER=0.991,LOC=0.008,ORG=0.001,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.036,LOC=0.615,ORG=0.343,O=0.006]	LOC	LOC
+manager	[PER=0.025,LOC=0.001,ORG=0.005,O=0.969]	O	O
+Craig	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Brown	[PER=0.991,LOC=0.008,ORG=0.001,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.036,LOC=0.615,ORG=0.343,O=0.006]	LOC	LOC
+manager	[PER=0.025,LOC=0.001,ORG=0.005,O=0.969]	O	O
+Craig	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Brown	[PER=0.991,LOC=0.008,ORG=0.001,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "Scotland"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.036,LOC=0.615,ORG=0.343,O=0.006]	LOC	LOC
+manager	[PER=0.025,LOC=0.001,ORG=0.005,O=0.969]	O	O
+Craig	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Brown	[PER=0.991,LOC=0.008,ORG=0.001,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Scotland
+-----------
+Move choice:
+Launch query on token 0 "Scotland"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.036,LOC=0.615,ORG=0.343,O=0.006]	LOC	LOC
+manager	[PER=0.025,LOC=0.001,ORG=0.005,O=0.969]	O	O
+Craig	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Brown	[PER=0.991,LOC=0.008,ORG=0.001,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Scotland
+	Scotland
+-----------
+Move choice:
+Launch query on token 14 "in"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.036,LOC=0.615,ORG=0.343,O=0.006]	LOC	LOC
+manager	[PER=0.025,LOC=0.001,ORG=0.005,O=0.969]	O	O
+Craig	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Brown	[PER=0.991,LOC=0.008,ORG=0.001,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Scotland
+	in
+	Scotland
+-----------
+Move choice:
+Launch query on token 6 "Thursday"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.036,LOC=0.615,ORG=0.343,O=0.006]	LOC	LOC
+manager	[PER=0.025,LOC=0.001,ORG=0.005,O=0.969]	O	O
+Craig	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Brown	[PER=0.991,LOC=0.008,ORG=0.001,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Scotland
+	in
+	Scotland
+	Thursday
+-----------
+Move choice:
+Launch query on token 2 "Craig"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.036,LOC=0.615,ORG=0.343,O=0.006]	LOC	LOC
+manager	[PER=0.025,LOC=0.001,ORG=0.005,O=0.969]	O	O
+Craig	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Brown	[PER=0.991,LOC=0.008,ORG=0.001,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Craig
+	Scotland
+	in
+	Scotland
+	Thursday
+-----------
+Next event:
+Got response on token 14 "in" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.036,LOC=0.615,ORG=0.343,O=0.006]	LOC	LOC
+manager	[PER=0.025,LOC=0.001,ORG=0.005,O=0.969]	O	O
+Craig	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Brown	[PER=0.991,LOC=0.008,ORG=0.001,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.996]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Craig
+	Scotland
+	Scotland
+	Thursday
+-----------
+Next event:
+Got response on token 6 "Thursday" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.036,LOC=0.615,ORG=0.343,O=0.006]	LOC	LOC
+manager	[PER=0.025,LOC=0.001,ORG=0.005,O=0.969]	O	O
+Craig	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Brown	[PER=0.991,LOC=0.008,ORG=0.001,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Craig
+	Scotland
+	Scotland
+-----------
+Move choice:
+Launch query on token 3 "Brown"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.036,LOC=0.615,ORG=0.343,O=0.006]	LOC	LOC
+manager	[PER=0.025,LOC=0.001,ORG=0.005,O=0.969]	O	O
+Craig	[PER=0.971,LOC=0.009,ORG=0.012,O=0.008]	PER	PER
+Brown	[PER=0.991,LOC=0.008,ORG=0.001,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Craig
+	Scotland
+	Brown
+	Scotland
+-----------
+Next event:
+Got response on token 0 "Scotland" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.008,LOC=0.918,ORG=0.073,O=0.001]	LOC	LOC
+manager	[PER=0.011,LOC=0.001,ORG=0.001,O=0.987]	O	O
+Craig	[PER=0.971,LOC=0.009,ORG=0.011,O=0.008]	PER	PER
+Brown	[PER=0.991,LOC=0.008,ORG=0.001,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Craig
+	Scotland
+	Brown
+-----------
+Next event:
+Got response on token 2 "Craig" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.008,LOC=0.918,ORG=0.073,O=0.001]	LOC	LOC
+manager	[PER=0.011,LOC=0.001,ORG=0.001,O=0.987]	O	O
+Craig	[PER=0.996,LOC=0.001,ORG=0.002,O=0.001]	PER	PER
+Brown	[PER=0.995,LOC=0.004,ORG=0.000,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Scotland
+	Brown
+-----------
+Next event:
+Got response on token 0 "Scotland" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.001,LOC=0.987,ORG=0.011,O=0.000]	LOC	LOC
+manager	[PER=0.008,LOC=0.001,ORG=0.000,O=0.991]	O	O
+Craig	[PER=0.996,LOC=0.001,ORG=0.002,O=0.001]	PER	PER
+Brown	[PER=0.995,LOC=0.004,ORG=0.000,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Brown
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@40d
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.001,LOC=0.987,ORG=0.011,O=0.000]	LOC	LOC
+manager	[PER=0.008,LOC=0.001,ORG=0.000,O=0.991]	O	O
+Craig	[PER=0.996,LOC=0.001,ORG=0.002,O=0.001]	PER	PER
+Brown	[PER=0.995,LOC=0.004,ORG=0.000,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Brown
+-----------
+Next event:
+Got response on token 3 "Brown" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Scotland	[PER=0.001,LOC=0.987,ORG=0.011,O=0.000]	LOC	LOC
+manager	[PER=0.008,LOC=0.001,ORG=0.000,O=0.991]	O	O
+Craig	[PER=0.997,LOC=0.001,ORG=0.001,O=0.001]	PER	PER
+Brown	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Thursday	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+I	[PER=0.002,LOC=0.004,ORG=0.001,O=0.992]	O	O
+'ve	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+watched	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Duncan	[PER=0.989,LOC=0.005,ORG=0.005,O=0.001]	PER	PER
+Ferguson	[PER=0.980,LOC=0.011,ORG=0.007,O=0.002]	PER	PER
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+action	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+twice	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+recently	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+bang	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+form	[PER=0.000,LOC=0.001,ORG=0.001,O=0.997]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@45d

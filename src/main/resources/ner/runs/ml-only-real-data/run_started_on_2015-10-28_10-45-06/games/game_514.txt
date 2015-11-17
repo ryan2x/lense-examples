@@ -1,0 +1,59 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Fox	PER	ORG	0
+said	O	O	0
+he	O	O	0
+had	O	O	0
+brought	O	O	0
+up	O	O	0
+the	O	O	0
+issue	O	O	0
+at	O	O	0
+every	O	O	0
+meeting	O	O	0
+he	O	O	0
+had	O	O	0
+had	O	O	0
+with	O	O	0
+government	O	O	0
+leaders	O	O	0
+in	O	O	0
+Dhaka	LOC	LOC	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Fox	[PER=0.326,LOC=0.096,ORG=0.465,O=0.113]	PER	ORG
+said	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+brought	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+up	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+issue	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+every	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+he	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+had	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+government	[PER=0.000,LOC=0.008,ORG=0.195,O=0.797]	O	O
+leaders	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Dhaka	[PER=0.008,LOC=0.965,ORG=0.020,O=0.007]	LOC	LOC
+.	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

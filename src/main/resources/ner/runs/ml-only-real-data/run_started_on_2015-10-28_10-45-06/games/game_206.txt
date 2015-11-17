@@ -1,0 +1,55 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Jimmy	PER	PER	0
+Key	PER	PER	0
+(	O	O	0
+9-10	O	O	0
+)	O	O	0
+took	O	O	0
+the	O	O	0
+loss	O	O	0
+as	O	O	0
+the	O	O	0
+Yankees	ORG	ORG	0
+lost	O	O	0
+their	O	O	0
+ninth	O	O	0
+in	O	O	0
+14	O	O	0
+games	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Jimmy	[PER=0.953,LOC=0.009,ORG=0.023,O=0.014]	PER	PER
+Key	[PER=0.927,LOC=0.033,ORG=0.028,O=0.012]	PER	PER
+(	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+9-10	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+)	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+took	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+loss	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+as	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.013,O=0.986]	O	O
+Yankees	[PER=0.133,LOC=0.128,ORG=0.632,O=0.108]	ORG	ORG
+lost	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+their	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+ninth	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+14	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+games	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

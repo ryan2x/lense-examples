@@ -1,0 +1,2155 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+"	O	O	1
+President	O	PER	4
+Saddam	PER	PER	3
+Hussein	PER	PER	4
+stressed	O	O	0
+during	O	O	0
+the	O	O	0
+meeting	O	O	0
+Iraq	LOC	LOC	4
+'s	O	O	0
+keenness	O	O	0
+to	O	O	0
+maintain	O	O	0
+friendship	O	O	0
+and	O	O	0
+cooperation	O	O	2
+with	O	O	0
+Russia	LOC	LOC	4
+,	O	O	0
+"	O	O	0
+the	O	O	0
+papers	O	O	0
+said	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.005,LOC=0.001,ORG=0.003,O=0.991]	O	O
+President	[PER=0.685,LOC=0.021,ORG=0.143,O=0.152]	O	PER
+Saddam	[PER=0.790,LOC=0.077,ORG=0.131,O=0.002]	PER	PER
+Hussein	[PER=0.610,LOC=0.305,ORG=0.079,O=0.006]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.005,LOC=0.001,ORG=0.003,O=0.991]	O	O
+President	[PER=0.685,LOC=0.021,ORG=0.143,O=0.152]	O	PER
+Saddam	[PER=0.790,LOC=0.077,ORG=0.131,O=0.002]	PER	PER
+Hussein	[PER=0.610,LOC=0.305,ORG=0.079,O=0.006]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@1dbe592f
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.005,LOC=0.001,ORG=0.003,O=0.991]	O	O
+President	[PER=0.685,LOC=0.021,ORG=0.143,O=0.152]	O	PER
+Saddam	[PER=0.790,LOC=0.077,ORG=0.131,O=0.002]	PER	PER
+Hussein	[PER=0.610,LOC=0.305,ORG=0.079,O=0.006]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.005,LOC=0.001,ORG=0.003,O=0.991]	O	O
+President	[PER=0.685,LOC=0.021,ORG=0.143,O=0.152]	O	PER
+Saddam	[PER=0.790,LOC=0.077,ORG=0.131,O=0.002]	PER	PER
+Hussein	[PER=0.610,LOC=0.305,ORG=0.079,O=0.006]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@64f34c91
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.005,LOC=0.001,ORG=0.003,O=0.991]	O	O
+President	[PER=0.685,LOC=0.021,ORG=0.143,O=0.152]	O	PER
+Saddam	[PER=0.790,LOC=0.077,ORG=0.131,O=0.002]	PER	PER
+Hussein	[PER=0.610,LOC=0.305,ORG=0.079,O=0.006]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.005,LOC=0.001,ORG=0.003,O=0.991]	O	O
+President	[PER=0.685,LOC=0.021,ORG=0.143,O=0.152]	O	PER
+Saddam	[PER=0.790,LOC=0.077,ORG=0.131,O=0.002]	PER	PER
+Hussein	[PER=0.610,LOC=0.305,ORG=0.079,O=0.006]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@7a174e4b
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.005,LOC=0.001,ORG=0.003,O=0.991]	O	O
+President	[PER=0.685,LOC=0.021,ORG=0.143,O=0.152]	O	PER
+Saddam	[PER=0.790,LOC=0.077,ORG=0.131,O=0.002]	PER	PER
+Hussein	[PER=0.610,LOC=0.305,ORG=0.079,O=0.006]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.005,LOC=0.001,ORG=0.003,O=0.991]	O	O
+President	[PER=0.685,LOC=0.021,ORG=0.143,O=0.152]	O	PER
+Saddam	[PER=0.790,LOC=0.077,ORG=0.131,O=0.002]	PER	PER
+Hussein	[PER=0.610,LOC=0.305,ORG=0.079,O=0.006]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@46a5aff
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.005,LOC=0.001,ORG=0.003,O=0.991]	O	O
+President	[PER=0.685,LOC=0.021,ORG=0.143,O=0.152]	O	PER
+Saddam	[PER=0.790,LOC=0.077,ORG=0.131,O=0.002]	PER	PER
+Hussein	[PER=0.610,LOC=0.305,ORG=0.079,O=0.006]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 """
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.005,LOC=0.001,ORG=0.003,O=0.991]	O	O
+President	[PER=0.685,LOC=0.021,ORG=0.143,O=0.152]	O	PER
+Saddam	[PER=0.790,LOC=0.077,ORG=0.131,O=0.002]	PER	PER
+Hussein	[PER=0.610,LOC=0.305,ORG=0.079,O=0.006]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	"
+-----------
+Move choice:
+Launch query on token 1 "President"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.005,LOC=0.001,ORG=0.003,O=0.991]	O	O
+President	[PER=0.685,LOC=0.021,ORG=0.143,O=0.152]	O	PER
+Saddam	[PER=0.790,LOC=0.077,ORG=0.131,O=0.002]	PER	PER
+Hussein	[PER=0.610,LOC=0.305,ORG=0.079,O=0.006]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	President
+	"
+-----------
+Next event:
+Got response on token 0 """ = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.685,LOC=0.021,ORG=0.142,O=0.153]	O	PER
+Saddam	[PER=0.791,LOC=0.078,ORG=0.130,O=0.002]	PER	PER
+Hussein	[PER=0.611,LOC=0.305,ORG=0.079,O=0.006]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	President
+-----------
+Move choice:
+Launch query on token 1 "President"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.685,LOC=0.021,ORG=0.142,O=0.153]	O	PER
+Saddam	[PER=0.791,LOC=0.078,ORG=0.130,O=0.002]	PER	PER
+Hussein	[PER=0.611,LOC=0.305,ORG=0.079,O=0.006]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	President
+	President
+-----------
+Move choice:
+Launch query on token 1 "President"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.685,LOC=0.021,ORG=0.142,O=0.153]	O	PER
+Saddam	[PER=0.791,LOC=0.078,ORG=0.130,O=0.002]	PER	PER
+Hussein	[PER=0.611,LOC=0.305,ORG=0.079,O=0.006]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	President
+	President
+	President
+-----------
+Move choice:
+Launch query on token 1 "President"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.685,LOC=0.021,ORG=0.142,O=0.153]	O	PER
+Saddam	[PER=0.791,LOC=0.078,ORG=0.130,O=0.002]	PER	PER
+Hussein	[PER=0.611,LOC=0.305,ORG=0.079,O=0.006]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	President
+	President
+	President
+	President
+-----------
+Move choice:
+Launch query on token 2 "Saddam"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.685,LOC=0.021,ORG=0.142,O=0.153]	O	PER
+Saddam	[PER=0.791,LOC=0.078,ORG=0.130,O=0.002]	PER	PER
+Hussein	[PER=0.611,LOC=0.305,ORG=0.079,O=0.006]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	President
+	President
+	President
+	Saddam
+	President
+-----------
+Next event:
+Got response on token 1 "President" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.357,LOC=0.011,ORG=0.074,O=0.558]	O	O
+Saddam	[PER=0.733,LOC=0.165,ORG=0.096,O=0.006]	PER	PER
+Hussein	[PER=0.570,LOC=0.362,ORG=0.061,O=0.007]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	President
+	President
+	Saddam
+	President
+-----------
+Move choice:
+Launch query on token 2 "Saddam"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.357,LOC=0.011,ORG=0.074,O=0.558]	O	O
+Saddam	[PER=0.733,LOC=0.165,ORG=0.096,O=0.006]	PER	PER
+Hussein	[PER=0.570,LOC=0.362,ORG=0.061,O=0.007]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Saddam
+	President
+	President
+	Saddam
+	President
+-----------
+Next event:
+Got response on token 1 "President" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+President	[PER=0.082,LOC=0.002,ORG=0.017,O=0.898]	O	O
+Saddam	[PER=0.684,LOC=0.239,ORG=0.067,O=0.010]	PER	PER
+Hussein	[PER=0.536,LOC=0.410,ORG=0.045,O=0.009]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Saddam
+	President
+	Saddam
+	President
+-----------
+Next event:
+Got response on token 1 "President" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.386,LOC=0.002,ORG=0.011,O=0.601]	O	O
+Saddam	[PER=0.776,LOC=0.169,ORG=0.048,O=0.007]	PER	PER
+Hussein	[PER=0.599,LOC=0.358,ORG=0.035,O=0.007]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Saddam
+	President
+	Saddam
+-----------
+Move choice:
+Launch query on token 2 "Saddam"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.386,LOC=0.002,ORG=0.011,O=0.601]	O	O
+Saddam	[PER=0.776,LOC=0.169,ORG=0.048,O=0.007]	PER	PER
+Hussein	[PER=0.599,LOC=0.358,ORG=0.035,O=0.007]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Saddam
+	President
+	Saddam
+	Saddam
+-----------
+Next event:
+Got response on token 1 "President" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.815,LOC=0.001,ORG=0.003,O=0.181]	O	PER
+Saddam	[PER=0.907,LOC=0.070,ORG=0.021,O=0.002]	PER	PER
+Hussein	[PER=0.689,LOC=0.285,ORG=0.020,O=0.006]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Saddam
+	Saddam
+	Saddam
+-----------
+Move choice:
+Launch query on token 3 "Hussein"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.815,LOC=0.001,ORG=0.003,O=0.181]	O	PER
+Saddam	[PER=0.907,LOC=0.070,ORG=0.021,O=0.002]	PER	PER
+Hussein	[PER=0.689,LOC=0.285,ORG=0.020,O=0.006]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Saddam
+	Saddam
+	Saddam
+	Hussein
+-----------
+Next event:
+Got response on token 2 "Saddam" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.857,LOC=0.000,ORG=0.001,O=0.141]	O	PER
+Saddam	[PER=0.986,LOC=0.011,ORG=0.003,O=0.000]	PER	PER
+Hussein	[PER=0.743,LOC=0.241,ORG=0.011,O=0.005]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Saddam
+	Saddam
+	Hussein
+-----------
+Next event:
+Got response on token 2 "Saddam" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.864,LOC=0.000,ORG=0.001,O=0.135]	O	PER
+Saddam	[PER=0.998,LOC=0.002,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=0.751,LOC=0.235,ORG=0.009,O=0.005]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Saddam
+	Hussein
+-----------
+Next event:
+Got response on token 2 "Saddam" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=0.752,LOC=0.234,ORG=0.009,O=0.005]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Hussein
+-----------
+Move choice:
+Launch query on token 3 "Hussein"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=0.752,LOC=0.234,ORG=0.009,O=0.005]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Hussein
+	Hussein
+-----------
+Move choice:
+Launch query on token 3 "Hussein"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=0.752,LOC=0.234,ORG=0.009,O=0.005]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Hussein
+	Hussein
+	Hussein
+-----------
+Move choice:
+Launch query on token 3 "Hussein"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=0.752,LOC=0.234,ORG=0.009,O=0.005]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Hussein
+	Hussein
+	Hussein
+	Hussein
+-----------
+Move choice:
+Launch query on token 8 "Iraq"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=0.752,LOC=0.234,ORG=0.009,O=0.005]	PER	PER
+stressed	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Iraq
+	Hussein
+	Hussein
+	Hussein
+	Hussein
+-----------
+Next event:
+Got response on token 3 "Hussein" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=0.955,LOC=0.042,ORG=0.002,O=0.001]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Iraq
+	Hussein
+	Hussein
+	Hussein
+-----------
+Next event:
+Got response on token 3 "Hussein" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=0.993,LOC=0.006,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Iraq
+	Hussein
+	Hussein
+-----------
+Next event:
+Got response on token 3 "Hussein" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Iraq
+	Hussein
+-----------
+Move choice:
+Launch query on token 8 "Iraq"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Iraq	[PER=0.031,LOC=0.893,ORG=0.021,O=0.055]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Iraq
+	Iraq
+	Hussein
+-----------
+Next event:
+Got response on token 8 "Iraq" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Iraq	[PER=0.023,LOC=0.672,ORG=0.016,O=0.289]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Iraq
+	Hussein
+-----------
+Next event:
+Got response on token 3 "Hussein" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Iraq	[PER=0.023,LOC=0.672,ORG=0.016,O=0.289]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Iraq
+-----------
+Move choice:
+Launch query on token 8 "Iraq"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Iraq	[PER=0.023,LOC=0.672,ORG=0.016,O=0.289]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Iraq
+	Iraq
+-----------
+Move choice:
+Launch query on token 8 "Iraq"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Iraq	[PER=0.023,LOC=0.672,ORG=0.016,O=0.289]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Iraq
+	Iraq
+	Iraq
+-----------
+Move choice:
+Launch query on token 15 "cooperation"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Iraq	[PER=0.023,LOC=0.672,ORG=0.016,O=0.289]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Iraq
+	Iraq
+	Iraq
+	cooperation
+-----------
+Move choice:
+Launch query on token 15 "cooperation"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.001,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Iraq	[PER=0.023,LOC=0.672,ORG=0.016,O=0.289]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Iraq
+	Iraq
+	cooperation
+	Iraq
+	cooperation
+-----------
+Next event:
+Got response on token 8 "Iraq" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.005,LOC=0.935,ORG=0.003,O=0.057]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.002,LOC=0.001,ORG=0.099,O=0.898]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.003,O=0.996]	O	O
+Russia	[PER=0.014,LOC=0.949,ORG=0.018,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Iraq
+	cooperation
+	Iraq
+	cooperation
+-----------
+Next event:
+Got response on token 15 "cooperation" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.005,LOC=0.935,ORG=0.003,O=0.057]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.000,LOC=0.000,ORG=0.015,O=0.984]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Russia	[PER=0.014,LOC=0.950,ORG=0.016,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Iraq
+	cooperation
+	Iraq
+-----------
+Next event:
+Got response on token 8 "Iraq" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.001,LOC=0.990,ORG=0.000,O=0.009]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.000,LOC=0.000,ORG=0.015,O=0.984]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Russia	[PER=0.014,LOC=0.950,ORG=0.016,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	cooperation
+	Iraq
+-----------
+Next event:
+Got response on token 8 "Iraq" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.000,LOC=0.999,ORG=0.000,O=0.001]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.000,LOC=0.000,ORG=0.015,O=0.984]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Russia	[PER=0.014,LOC=0.950,ORG=0.016,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	cooperation
+-----------
+Move choice:
+Launch query on token 17 "Russia"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.000,LOC=0.999,ORG=0.000,O=0.001]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.000,LOC=0.000,ORG=0.015,O=0.984]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Russia	[PER=0.014,LOC=0.950,ORG=0.016,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	cooperation
+	Russia
+-----------
+Move choice:
+Launch query on token 17 "Russia"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.000,LOC=0.999,ORG=0.000,O=0.001]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.000,LOC=0.000,ORG=0.015,O=0.984]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Russia	[PER=0.014,LOC=0.950,ORG=0.016,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	cooperation
+	Russia
+	Russia
+-----------
+Next event:
+Got response on token 15 "cooperation" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.000,LOC=0.999,ORG=0.000,O=0.001]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.014,LOC=0.950,ORG=0.016,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Russia
+	Russia
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@6e620fa9
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.000,LOC=0.999,ORG=0.000,O=0.001]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.014,LOC=0.950,ORG=0.016,O=0.019]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Russia
+	Russia
+-----------
+Next event:
+Got response on token 17 "Russia" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.000,LOC=0.999,ORG=0.000,O=0.001]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.091,LOC=0.876,ORG=0.015,O=0.018]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Russia
+-----------
+Move choice:
+Launch query on token 17 "Russia"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.000,LOC=0.999,ORG=0.000,O=0.001]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.091,LOC=0.876,ORG=0.015,O=0.018]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Russia
+	Russia
+-----------
+Move choice:
+Launch query on token 17 "Russia"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.000,LOC=0.999,ORG=0.000,O=0.001]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.091,LOC=0.876,ORG=0.015,O=0.018]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Russia
+	Russia
+	Russia
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@2cee1bcf
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.000,LOC=0.999,ORG=0.000,O=0.001]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.091,LOC=0.876,ORG=0.015,O=0.018]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Russia
+	Russia
+	Russia
+-----------
+Next event:
+Got response on token 17 "Russia" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.000,LOC=0.999,ORG=0.000,O=0.001]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.015,LOC=0.980,ORG=0.002,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Russia
+	Russia
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@ae4a043
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.000,LOC=0.999,ORG=0.000,O=0.001]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Russia	[PER=0.015,LOC=0.980,ORG=0.002,O=0.003]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Russia
+	Russia
+-----------
+Next event:
+Got response on token 17 "Russia" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.000,LOC=0.999,ORG=0.000,O=0.001]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Russia	[PER=0.002,LOC=0.997,ORG=0.000,O=0.000]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Russia
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@50c9b080
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.000,LOC=0.999,ORG=0.000,O=0.001]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Russia	[PER=0.002,LOC=0.997,ORG=0.000,O=0.000]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Russia
+-----------
+Next event:
+Got response on token 17 "Russia" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+"	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+President	[PER=0.865,LOC=0.000,ORG=0.001,O=0.134]	O	PER
+Saddam	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Hussein	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+stressed	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+during	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+meeting	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Iraq	[PER=0.000,LOC=0.999,ORG=0.000,O=0.001]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+keenness	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+maintain	[PER=0.000,LOC=0.002,ORG=0.000,O=0.998]	O	O
+friendship	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+cooperation	[PER=0.000,LOC=0.000,ORG=0.002,O=0.998]	O	O
+with	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Russia	[PER=0.000,LOC=1.000,ORG=0.000,O=0.000]	LOC	LOC
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+papers	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+said	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@2ea8f277

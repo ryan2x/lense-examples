@@ -1,0 +1,3439 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Palestinian	ORG	ORG	5
+Information	ORG	ORG	5
+Ministry	ORG	ORG	5
+Director-General	O	O	5
+Mutawakel	PER	PER	1
+Taha	PER	PER	3
+denied	O	O	1
+that	O	O	0
+ministry	O	O	0
+officials	O	O	0
+forced	O	O	0
+anyone	O	O	0
+to	O	O	0
+sign	O	O	0
+any	O	O	0
+undertaking	O	O	0
+and	O	O	0
+insisted	O	O	0
+that	O	O	0
+the	O	O	0
+Palestinian	ORG	ORG	4
+Authority	ORG	ORG	3
+has	O	O	0
+no	O	O	0
+plans	O	O	0
+to	O	O	0
+censor	O	O	0
+books	O	O	0
+.	O	O	1
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.120,LOC=0.017,ORG=0.854,O=0.009]	ORG	ORG
+Information	[PER=0.075,LOC=0.001,ORG=0.923,O=0.001]	ORG	ORG
+Ministry	[PER=0.082,LOC=0.002,ORG=0.911,O=0.005]	ORG	ORG
+Director-General	[PER=0.163,LOC=0.004,ORG=0.781,O=0.051]	O	ORG
+Mutawakel	[PER=0.382,LOC=0.018,ORG=0.588,O=0.012]	PER	ORG
+Taha	[PER=0.523,LOC=0.135,ORG=0.338,O=0.003]	PER	ORG
+denied	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Palestinian	[PER=0.486,LOC=0.248,ORG=0.261,O=0.005]	ORG	PER
+Authority	[PER=0.436,LOC=0.079,ORG=0.240,O=0.245]	ORG	PER
+has	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.120,LOC=0.017,ORG=0.854,O=0.009]	ORG	ORG
+Information	[PER=0.075,LOC=0.001,ORG=0.923,O=0.001]	ORG	ORG
+Ministry	[PER=0.082,LOC=0.002,ORG=0.911,O=0.005]	ORG	ORG
+Director-General	[PER=0.163,LOC=0.004,ORG=0.781,O=0.051]	O	ORG
+Mutawakel	[PER=0.382,LOC=0.018,ORG=0.588,O=0.012]	PER	ORG
+Taha	[PER=0.523,LOC=0.135,ORG=0.338,O=0.003]	PER	ORG
+denied	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Palestinian	[PER=0.486,LOC=0.248,ORG=0.261,O=0.005]	ORG	PER
+Authority	[PER=0.436,LOC=0.079,ORG=0.240,O=0.245]	ORG	PER
+has	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.120,LOC=0.017,ORG=0.854,O=0.009]	ORG	ORG
+Information	[PER=0.075,LOC=0.001,ORG=0.923,O=0.001]	ORG	ORG
+Ministry	[PER=0.082,LOC=0.002,ORG=0.911,O=0.005]	ORG	ORG
+Director-General	[PER=0.163,LOC=0.004,ORG=0.781,O=0.051]	O	ORG
+Mutawakel	[PER=0.382,LOC=0.018,ORG=0.588,O=0.012]	PER	ORG
+Taha	[PER=0.523,LOC=0.135,ORG=0.338,O=0.003]	PER	ORG
+denied	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Palestinian	[PER=0.486,LOC=0.248,ORG=0.261,O=0.005]	ORG	PER
+Authority	[PER=0.436,LOC=0.079,ORG=0.240,O=0.245]	ORG	PER
+has	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.120,LOC=0.017,ORG=0.854,O=0.009]	ORG	ORG
+Information	[PER=0.075,LOC=0.001,ORG=0.923,O=0.001]	ORG	ORG
+Ministry	[PER=0.082,LOC=0.002,ORG=0.911,O=0.005]	ORG	ORG
+Director-General	[PER=0.163,LOC=0.004,ORG=0.781,O=0.051]	O	ORG
+Mutawakel	[PER=0.382,LOC=0.018,ORG=0.588,O=0.012]	PER	ORG
+Taha	[PER=0.523,LOC=0.135,ORG=0.338,O=0.003]	PER	ORG
+denied	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Palestinian	[PER=0.486,LOC=0.248,ORG=0.261,O=0.005]	ORG	PER
+Authority	[PER=0.436,LOC=0.079,ORG=0.240,O=0.245]	ORG	PER
+has	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.120,LOC=0.017,ORG=0.854,O=0.009]	ORG	ORG
+Information	[PER=0.075,LOC=0.001,ORG=0.923,O=0.001]	ORG	ORG
+Ministry	[PER=0.082,LOC=0.002,ORG=0.911,O=0.005]	ORG	ORG
+Director-General	[PER=0.163,LOC=0.004,ORG=0.781,O=0.051]	O	ORG
+Mutawakel	[PER=0.382,LOC=0.018,ORG=0.588,O=0.012]	PER	ORG
+Taha	[PER=0.523,LOC=0.135,ORG=0.338,O=0.003]	PER	ORG
+denied	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Palestinian	[PER=0.486,LOC=0.248,ORG=0.261,O=0.005]	ORG	PER
+Authority	[PER=0.436,LOC=0.079,ORG=0.240,O=0.245]	ORG	PER
+has	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.120,LOC=0.017,ORG=0.854,O=0.009]	ORG	ORG
+Information	[PER=0.075,LOC=0.001,ORG=0.923,O=0.001]	ORG	ORG
+Ministry	[PER=0.082,LOC=0.002,ORG=0.911,O=0.005]	ORG	ORG
+Director-General	[PER=0.163,LOC=0.004,ORG=0.781,O=0.051]	O	ORG
+Mutawakel	[PER=0.382,LOC=0.018,ORG=0.588,O=0.012]	PER	ORG
+Taha	[PER=0.523,LOC=0.135,ORG=0.338,O=0.003]	PER	ORG
+denied	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Palestinian	[PER=0.486,LOC=0.248,ORG=0.261,O=0.005]	ORG	PER
+Authority	[PER=0.436,LOC=0.079,ORG=0.240,O=0.245]	ORG	PER
+has	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.120,LOC=0.017,ORG=0.854,O=0.009]	ORG	ORG
+Information	[PER=0.075,LOC=0.001,ORG=0.923,O=0.001]	ORG	ORG
+Ministry	[PER=0.082,LOC=0.002,ORG=0.911,O=0.005]	ORG	ORG
+Director-General	[PER=0.163,LOC=0.004,ORG=0.781,O=0.051]	O	ORG
+Mutawakel	[PER=0.382,LOC=0.018,ORG=0.588,O=0.012]	PER	ORG
+Taha	[PER=0.523,LOC=0.135,ORG=0.338,O=0.003]	PER	ORG
+denied	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Palestinian	[PER=0.486,LOC=0.248,ORG=0.261,O=0.005]	ORG	PER
+Authority	[PER=0.436,LOC=0.079,ORG=0.240,O=0.245]	ORG	PER
+has	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.120,LOC=0.017,ORG=0.854,O=0.009]	ORG	ORG
+Information	[PER=0.075,LOC=0.001,ORG=0.923,O=0.001]	ORG	ORG
+Ministry	[PER=0.082,LOC=0.002,ORG=0.911,O=0.005]	ORG	ORG
+Director-General	[PER=0.163,LOC=0.004,ORG=0.781,O=0.051]	O	ORG
+Mutawakel	[PER=0.382,LOC=0.018,ORG=0.588,O=0.012]	PER	ORG
+Taha	[PER=0.523,LOC=0.135,ORG=0.338,O=0.003]	PER	ORG
+denied	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Palestinian	[PER=0.486,LOC=0.248,ORG=0.261,O=0.005]	ORG	PER
+Authority	[PER=0.436,LOC=0.079,ORG=0.240,O=0.245]	ORG	PER
+has	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@4
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.120,LOC=0.017,ORG=0.854,O=0.009]	ORG	ORG
+Information	[PER=0.075,LOC=0.001,ORG=0.923,O=0.001]	ORG	ORG
+Ministry	[PER=0.082,LOC=0.002,ORG=0.911,O=0.005]	ORG	ORG
+Director-General	[PER=0.163,LOC=0.004,ORG=0.781,O=0.051]	O	ORG
+Mutawakel	[PER=0.382,LOC=0.018,ORG=0.588,O=0.012]	PER	ORG
+Taha	[PER=0.523,LOC=0.135,ORG=0.338,O=0.003]	PER	ORG
+denied	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Palestinian	[PER=0.486,LOC=0.248,ORG=0.261,O=0.005]	ORG	PER
+Authority	[PER=0.436,LOC=0.079,ORG=0.240,O=0.245]	ORG	PER
+has	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.120,LOC=0.017,ORG=0.854,O=0.009]	ORG	ORG
+Information	[PER=0.075,LOC=0.001,ORG=0.923,O=0.001]	ORG	ORG
+Ministry	[PER=0.082,LOC=0.002,ORG=0.911,O=0.005]	ORG	ORG
+Director-General	[PER=0.163,LOC=0.004,ORG=0.781,O=0.051]	O	ORG
+Mutawakel	[PER=0.382,LOC=0.018,ORG=0.588,O=0.012]	PER	ORG
+Taha	[PER=0.523,LOC=0.135,ORG=0.338,O=0.003]	PER	ORG
+denied	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Palestinian	[PER=0.486,LOC=0.248,ORG=0.261,O=0.005]	ORG	PER
+Authority	[PER=0.436,LOC=0.079,ORG=0.240,O=0.245]	ORG	PER
+has	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@6
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.120,LOC=0.017,ORG=0.854,O=0.009]	ORG	ORG
+Information	[PER=0.075,LOC=0.001,ORG=0.923,O=0.001]	ORG	ORG
+Ministry	[PER=0.082,LOC=0.002,ORG=0.911,O=0.005]	ORG	ORG
+Director-General	[PER=0.163,LOC=0.004,ORG=0.781,O=0.051]	O	ORG
+Mutawakel	[PER=0.382,LOC=0.018,ORG=0.588,O=0.012]	PER	ORG
+Taha	[PER=0.523,LOC=0.135,ORG=0.338,O=0.003]	PER	ORG
+denied	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Palestinian	[PER=0.486,LOC=0.248,ORG=0.261,O=0.005]	ORG	PER
+Authority	[PER=0.436,LOC=0.079,ORG=0.240,O=0.245]	ORG	PER
+has	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 21 "Authority"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.120,LOC=0.017,ORG=0.854,O=0.009]	ORG	ORG
+Information	[PER=0.075,LOC=0.001,ORG=0.923,O=0.001]	ORG	ORG
+Ministry	[PER=0.082,LOC=0.002,ORG=0.911,O=0.005]	ORG	ORG
+Director-General	[PER=0.163,LOC=0.004,ORG=0.781,O=0.051]	O	ORG
+Mutawakel	[PER=0.382,LOC=0.018,ORG=0.588,O=0.012]	PER	ORG
+Taha	[PER=0.523,LOC=0.135,ORG=0.338,O=0.003]	PER	ORG
+denied	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Palestinian	[PER=0.486,LOC=0.248,ORG=0.261,O=0.005]	ORG	PER
+Authority	[PER=0.436,LOC=0.079,ORG=0.240,O=0.245]	ORG	PER
+has	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Authority
+-----------
+Move choice:
+Launch query on token 5 "Taha"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.120,LOC=0.017,ORG=0.854,O=0.009]	ORG	ORG
+Information	[PER=0.075,LOC=0.001,ORG=0.923,O=0.001]	ORG	ORG
+Ministry	[PER=0.082,LOC=0.002,ORG=0.911,O=0.005]	ORG	ORG
+Director-General	[PER=0.163,LOC=0.004,ORG=0.781,O=0.051]	O	ORG
+Mutawakel	[PER=0.382,LOC=0.018,ORG=0.588,O=0.012]	PER	ORG
+Taha	[PER=0.523,LOC=0.135,ORG=0.338,O=0.003]	PER	ORG
+denied	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Palestinian	[PER=0.486,LOC=0.248,ORG=0.261,O=0.005]	ORG	PER
+Authority	[PER=0.436,LOC=0.079,ORG=0.240,O=0.245]	ORG	PER
+has	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Authority
+	Taha
+-----------
+Next event:
+Got response on token 21 "Authority" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.120,LOC=0.017,ORG=0.854,O=0.009]	ORG	ORG
+Information	[PER=0.075,LOC=0.001,ORG=0.923,O=0.001]	ORG	ORG
+Ministry	[PER=0.082,LOC=0.002,ORG=0.911,O=0.005]	ORG	ORG
+Director-General	[PER=0.163,LOC=0.004,ORG=0.781,O=0.051]	O	ORG
+Mutawakel	[PER=0.382,LOC=0.018,ORG=0.588,O=0.012]	PER	ORG
+Taha	[PER=0.523,LOC=0.135,ORG=0.338,O=0.003]	PER	ORG
+denied	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Palestinian	[PER=0.219,LOC=0.128,ORG=0.649,O=0.003]	ORG	ORG
+Authority	[PER=0.179,LOC=0.032,ORG=0.689,O=0.101]	ORG	ORG
+has	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Taha
+-----------
+Move choice:
+Launch query on token 4 "Mutawakel"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.120,LOC=0.017,ORG=0.854,O=0.009]	ORG	ORG
+Information	[PER=0.075,LOC=0.001,ORG=0.923,O=0.001]	ORG	ORG
+Ministry	[PER=0.082,LOC=0.002,ORG=0.911,O=0.005]	ORG	ORG
+Director-General	[PER=0.163,LOC=0.004,ORG=0.781,O=0.051]	O	ORG
+Mutawakel	[PER=0.382,LOC=0.018,ORG=0.588,O=0.012]	PER	ORG
+Taha	[PER=0.523,LOC=0.135,ORG=0.338,O=0.003]	PER	ORG
+denied	[PER=0.002,LOC=0.000,ORG=0.002,O=0.996]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Palestinian	[PER=0.219,LOC=0.128,ORG=0.649,O=0.003]	ORG	ORG
+Authority	[PER=0.179,LOC=0.032,ORG=0.689,O=0.101]	ORG	ORG
+has	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mutawakel
+	Taha
+-----------
+Next event:
+Got response on token 5 "Taha" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.161,LOC=0.017,ORG=0.814,O=0.009]	ORG	ORG
+Information	[PER=0.119,LOC=0.001,ORG=0.879,O=0.001]	ORG	ORG
+Ministry	[PER=0.133,LOC=0.002,ORG=0.858,O=0.006]	ORG	ORG
+Director-General	[PER=0.267,LOC=0.004,ORG=0.660,O=0.069]	O	ORG
+Mutawakel	[PER=0.627,LOC=0.006,ORG=0.358,O=0.008]	PER	PER
+Taha	[PER=0.885,LOC=0.033,ORG=0.082,O=0.001]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.001,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Palestinian	[PER=0.219,LOC=0.128,ORG=0.649,O=0.003]	ORG	ORG
+Authority	[PER=0.179,LOC=0.032,ORG=0.689,O=0.101]	ORG	ORG
+has	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mutawakel
+-----------
+Move choice:
+Launch query on token 20 "Palestinian"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.161,LOC=0.017,ORG=0.814,O=0.009]	ORG	ORG
+Information	[PER=0.119,LOC=0.001,ORG=0.879,O=0.001]	ORG	ORG
+Ministry	[PER=0.133,LOC=0.002,ORG=0.858,O=0.006]	ORG	ORG
+Director-General	[PER=0.267,LOC=0.004,ORG=0.660,O=0.069]	O	ORG
+Mutawakel	[PER=0.627,LOC=0.006,ORG=0.358,O=0.008]	PER	PER
+Taha	[PER=0.885,LOC=0.033,ORG=0.082,O=0.001]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.001,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Palestinian	[PER=0.219,LOC=0.128,ORG=0.649,O=0.003]	ORG	ORG
+Authority	[PER=0.179,LOC=0.032,ORG=0.689,O=0.101]	ORG	ORG
+has	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Mutawakel
+	Palestinian
+-----------
+Move choice:
+Launch query on token 3 "Director-General"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.161,LOC=0.017,ORG=0.814,O=0.009]	ORG	ORG
+Information	[PER=0.119,LOC=0.001,ORG=0.879,O=0.001]	ORG	ORG
+Ministry	[PER=0.133,LOC=0.002,ORG=0.858,O=0.006]	ORG	ORG
+Director-General	[PER=0.267,LOC=0.004,ORG=0.660,O=0.069]	O	ORG
+Mutawakel	[PER=0.627,LOC=0.006,ORG=0.358,O=0.008]	PER	PER
+Taha	[PER=0.885,LOC=0.033,ORG=0.082,O=0.001]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.001,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Palestinian	[PER=0.219,LOC=0.128,ORG=0.649,O=0.003]	ORG	ORG
+Authority	[PER=0.179,LOC=0.032,ORG=0.689,O=0.101]	ORG	ORG
+has	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Director-General
+	Mutawakel
+	Palestinian
+-----------
+Next event:
+Got response on token 20 "Palestinian" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.161,LOC=0.017,ORG=0.814,O=0.009]	ORG	ORG
+Information	[PER=0.119,LOC=0.001,ORG=0.879,O=0.001]	ORG	ORG
+Ministry	[PER=0.133,LOC=0.002,ORG=0.858,O=0.006]	ORG	ORG
+Director-General	[PER=0.267,LOC=0.004,ORG=0.660,O=0.069]	O	ORG
+Mutawakel	[PER=0.627,LOC=0.006,ORG=0.358,O=0.008]	PER	PER
+Taha	[PER=0.885,LOC=0.033,ORG=0.082,O=0.001]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.001,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.045,LOC=0.026,ORG=0.928,O=0.001]	ORG	ORG
+Authority	[PER=0.041,LOC=0.008,ORG=0.916,O=0.035]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Director-General
+	Mutawakel
+-----------
+Next event:
+Got response on token 4 "Mutawakel" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.210,LOC=0.016,ORG=0.766,O=0.009]	ORG	ORG
+Information	[PER=0.171,LOC=0.001,ORG=0.826,O=0.002]	ORG	ORG
+Ministry	[PER=0.195,LOC=0.003,ORG=0.794,O=0.008]	ORG	ORG
+Director-General	[PER=0.392,LOC=0.004,ORG=0.511,O=0.093]	O	ORG
+Mutawakel	[PER=0.922,LOC=0.001,ORG=0.075,O=0.002]	PER	PER
+Taha	[PER=0.972,LOC=0.010,ORG=0.017,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.045,LOC=0.026,ORG=0.928,O=0.001]	ORG	ORG
+Authority	[PER=0.041,LOC=0.008,ORG=0.916,O=0.035]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Director-General
+-----------
+Move choice:
+Launch query on token 3 "Director-General"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.210,LOC=0.016,ORG=0.766,O=0.009]	ORG	ORG
+Information	[PER=0.171,LOC=0.001,ORG=0.826,O=0.002]	ORG	ORG
+Ministry	[PER=0.195,LOC=0.003,ORG=0.794,O=0.008]	ORG	ORG
+Director-General	[PER=0.392,LOC=0.004,ORG=0.511,O=0.093]	O	ORG
+Mutawakel	[PER=0.922,LOC=0.001,ORG=0.075,O=0.002]	PER	PER
+Taha	[PER=0.972,LOC=0.010,ORG=0.017,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.045,LOC=0.026,ORG=0.928,O=0.001]	ORG	ORG
+Authority	[PER=0.041,LOC=0.008,ORG=0.916,O=0.035]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Director-General
+	Director-General
+-----------
+Next event:
+Got response on token 3 "Director-General" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.168,LOC=0.017,ORG=0.806,O=0.009]	ORG	ORG
+Information	[PER=0.126,LOC=0.002,ORG=0.871,O=0.002]	ORG	ORG
+Ministry	[PER=0.138,LOC=0.008,ORG=0.836,O=0.018]	ORG	ORG
+Director-General	[PER=0.252,LOC=0.003,ORG=0.329,O=0.417]	O	O
+Mutawakel	[PER=0.944,LOC=0.003,ORG=0.050,O=0.003]	PER	PER
+Taha	[PER=0.978,LOC=0.010,ORG=0.012,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.045,LOC=0.026,ORG=0.928,O=0.001]	ORG	ORG
+Authority	[PER=0.041,LOC=0.008,ORG=0.916,O=0.035]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Director-General
+-----------
+Move choice:
+Launch query on token 21 "Authority"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.168,LOC=0.017,ORG=0.806,O=0.009]	ORG	ORG
+Information	[PER=0.126,LOC=0.002,ORG=0.871,O=0.002]	ORG	ORG
+Ministry	[PER=0.138,LOC=0.008,ORG=0.836,O=0.018]	ORG	ORG
+Director-General	[PER=0.252,LOC=0.003,ORG=0.329,O=0.417]	O	O
+Mutawakel	[PER=0.944,LOC=0.003,ORG=0.050,O=0.003]	PER	PER
+Taha	[PER=0.978,LOC=0.010,ORG=0.012,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.045,LOC=0.026,ORG=0.928,O=0.001]	ORG	ORG
+Authority	[PER=0.041,LOC=0.008,ORG=0.916,O=0.035]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Authority
+	Director-General
+-----------
+Next event:
+Got response on token 3 "Director-General" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.114,LOC=0.019,ORG=0.858,O=0.009]	ORG	ORG
+Information	[PER=0.067,LOC=0.003,ORG=0.928,O=0.003]	ORG	ORG
+Ministry	[PER=0.065,LOC=0.015,ORG=0.890,O=0.030]	ORG	ORG
+Director-General	[PER=0.072,LOC=0.001,ORG=0.094,O=0.833]	O	O
+Mutawakel	[PER=0.973,LOC=0.004,ORG=0.019,O=0.004]	PER	PER
+Taha	[PER=0.986,LOC=0.009,ORG=0.005,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.045,LOC=0.026,ORG=0.928,O=0.001]	ORG	ORG
+Authority	[PER=0.041,LOC=0.008,ORG=0.916,O=0.035]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Authority
+-----------
+Move choice:
+Launch query on token 3 "Director-General"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.114,LOC=0.019,ORG=0.858,O=0.009]	ORG	ORG
+Information	[PER=0.067,LOC=0.003,ORG=0.928,O=0.003]	ORG	ORG
+Ministry	[PER=0.065,LOC=0.015,ORG=0.890,O=0.030]	ORG	ORG
+Director-General	[PER=0.072,LOC=0.001,ORG=0.094,O=0.833]	O	O
+Mutawakel	[PER=0.973,LOC=0.004,ORG=0.019,O=0.004]	PER	PER
+Taha	[PER=0.986,LOC=0.009,ORG=0.005,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.045,LOC=0.026,ORG=0.928,O=0.001]	ORG	ORG
+Authority	[PER=0.041,LOC=0.008,ORG=0.916,O=0.035]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Authority
+	Director-General
+-----------
+Next event:
+Got response on token 21 "Authority" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.114,LOC=0.019,ORG=0.858,O=0.009]	ORG	ORG
+Information	[PER=0.067,LOC=0.003,ORG=0.928,O=0.003]	ORG	ORG
+Ministry	[PER=0.065,LOC=0.015,ORG=0.890,O=0.030]	ORG	ORG
+Director-General	[PER=0.072,LOC=0.001,ORG=0.094,O=0.833]	O	O
+Mutawakel	[PER=0.973,LOC=0.004,ORG=0.019,O=0.004]	PER	PER
+Taha	[PER=0.986,LOC=0.009,ORG=0.005,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.011,LOC=0.010,ORG=0.978,O=0.000]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.987,O=0.005]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Director-General
+-----------
+Move choice:
+Launch query on token 1 "Information"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.114,LOC=0.019,ORG=0.858,O=0.009]	ORG	ORG
+Information	[PER=0.067,LOC=0.003,ORG=0.928,O=0.003]	ORG	ORG
+Ministry	[PER=0.065,LOC=0.015,ORG=0.890,O=0.030]	ORG	ORG
+Director-General	[PER=0.072,LOC=0.001,ORG=0.094,O=0.833]	O	O
+Mutawakel	[PER=0.973,LOC=0.004,ORG=0.019,O=0.004]	PER	PER
+Taha	[PER=0.986,LOC=0.009,ORG=0.005,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.011,LOC=0.010,ORG=0.978,O=0.000]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.987,O=0.005]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Information
+	Director-General
+-----------
+Move choice:
+Launch query on token 2 "Ministry"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.114,LOC=0.019,ORG=0.858,O=0.009]	ORG	ORG
+Information	[PER=0.067,LOC=0.003,ORG=0.928,O=0.003]	ORG	ORG
+Ministry	[PER=0.065,LOC=0.015,ORG=0.890,O=0.030]	ORG	ORG
+Director-General	[PER=0.072,LOC=0.001,ORG=0.094,O=0.833]	O	O
+Mutawakel	[PER=0.973,LOC=0.004,ORG=0.019,O=0.004]	PER	PER
+Taha	[PER=0.986,LOC=0.009,ORG=0.005,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.011,LOC=0.010,ORG=0.978,O=0.000]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.987,O=0.005]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Information
+	Ministry
+	Director-General
+-----------
+Move choice:
+Launch query on token 3 "Director-General"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.114,LOC=0.019,ORG=0.858,O=0.009]	ORG	ORG
+Information	[PER=0.067,LOC=0.003,ORG=0.928,O=0.003]	ORG	ORG
+Ministry	[PER=0.065,LOC=0.015,ORG=0.890,O=0.030]	ORG	ORG
+Director-General	[PER=0.072,LOC=0.001,ORG=0.094,O=0.833]	O	O
+Mutawakel	[PER=0.973,LOC=0.004,ORG=0.019,O=0.004]	PER	PER
+Taha	[PER=0.986,LOC=0.009,ORG=0.005,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.011,LOC=0.010,ORG=0.978,O=0.000]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.987,O=0.005]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Information
+	Ministry
+	Director-General
+	Director-General
+-----------
+Move choice:
+Launch query on token 5 "Taha"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.114,LOC=0.019,ORG=0.858,O=0.009]	ORG	ORG
+Information	[PER=0.067,LOC=0.003,ORG=0.928,O=0.003]	ORG	ORG
+Ministry	[PER=0.065,LOC=0.015,ORG=0.890,O=0.030]	ORG	ORG
+Director-General	[PER=0.072,LOC=0.001,ORG=0.094,O=0.833]	O	O
+Mutawakel	[PER=0.973,LOC=0.004,ORG=0.019,O=0.004]	PER	PER
+Taha	[PER=0.986,LOC=0.009,ORG=0.005,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.011,LOC=0.010,ORG=0.978,O=0.000]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.987,O=0.005]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Information
+	Ministry
+	Taha
+	Director-General
+	Director-General
+-----------
+Next event:
+Got response on token 2 "Ministry" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.131,LOC=0.022,ORG=0.837,O=0.010]	ORG	ORG
+Information	[PER=0.084,LOC=0.006,ORG=0.903,O=0.007]	ORG	ORG
+Ministry	[PER=0.055,LOC=0.013,ORG=0.753,O=0.179]	ORG	ORG
+Director-General	[PER=0.065,LOC=0.001,ORG=0.080,O=0.854]	O	O
+Mutawakel	[PER=0.975,LOC=0.004,ORG=0.017,O=0.004]	PER	PER
+Taha	[PER=0.986,LOC=0.009,ORG=0.004,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.011,LOC=0.010,ORG=0.978,O=0.000]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.987,O=0.005]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Information
+	Taha
+	Director-General
+	Director-General
+-----------
+Next event:
+Got response on token 1 "Information" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.144,LOC=0.034,ORG=0.811,O=0.012]	ORG	ORG
+Information	[PER=0.080,LOC=0.006,ORG=0.868,O=0.045]	ORG	ORG
+Ministry	[PER=0.054,LOC=0.016,ORG=0.728,O=0.203]	ORG	ORG
+Director-General	[PER=0.064,LOC=0.001,ORG=0.077,O=0.858]	O	O
+Mutawakel	[PER=0.975,LOC=0.004,ORG=0.016,O=0.004]	PER	PER
+Taha	[PER=0.986,LOC=0.009,ORG=0.004,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.011,LOC=0.010,ORG=0.978,O=0.000]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.987,O=0.005]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Taha
+	Director-General
+	Director-General
+-----------
+Move choice:
+Launch query on token 2 "Ministry"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.144,LOC=0.034,ORG=0.811,O=0.012]	ORG	ORG
+Information	[PER=0.080,LOC=0.006,ORG=0.868,O=0.045]	ORG	ORG
+Ministry	[PER=0.054,LOC=0.016,ORG=0.728,O=0.203]	ORG	ORG
+Director-General	[PER=0.064,LOC=0.001,ORG=0.077,O=0.858]	O	O
+Mutawakel	[PER=0.975,LOC=0.004,ORG=0.016,O=0.004]	PER	PER
+Taha	[PER=0.986,LOC=0.009,ORG=0.004,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.011,LOC=0.010,ORG=0.978,O=0.000]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.987,O=0.005]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Taha
+	Director-General
+	Director-General
+	Ministry
+-----------
+Next event:
+Got response on token 3 "Director-General" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.222,LOC=0.031,ORG=0.736,O=0.011]	ORG	ORG
+Information	[PER=0.167,LOC=0.005,ORG=0.787,O=0.041]	ORG	ORG
+Ministry	[PER=0.165,LOC=0.012,ORG=0.653,O=0.170]	ORG	ORG
+Director-General	[PER=0.324,LOC=0.001,ORG=0.056,O=0.619]	O	O
+Mutawakel	[PER=0.982,LOC=0.003,ORG=0.012,O=0.003]	PER	PER
+Taha	[PER=0.989,LOC=0.008,ORG=0.003,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.011,LOC=0.010,ORG=0.978,O=0.000]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.987,O=0.005]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Taha
+	Director-General
+	Ministry
+-----------
+Next event:
+Got response on token 3 "Director-General" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.150,LOC=0.035,ORG=0.803,O=0.012]	ORG	ORG
+Information	[PER=0.086,LOC=0.007,ORG=0.860,O=0.048]	ORG	ORG
+Ministry	[PER=0.057,LOC=0.017,ORG=0.709,O=0.217]	ORG	ORG
+Director-General	[PER=0.069,LOC=0.000,ORG=0.012,O=0.919]	O	O
+Mutawakel	[PER=0.984,LOC=0.005,ORG=0.007,O=0.004]	PER	PER
+Taha	[PER=0.989,LOC=0.009,ORG=0.002,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.011,LOC=0.010,ORG=0.978,O=0.000]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.987,O=0.005]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Taha
+	Ministry
+-----------
+Next event:
+Got response on token 5 "Taha" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.150,LOC=0.035,ORG=0.803,O=0.012]	ORG	ORG
+Information	[PER=0.086,LOC=0.007,ORG=0.860,O=0.048]	ORG	ORG
+Ministry	[PER=0.057,LOC=0.017,ORG=0.709,O=0.217]	ORG	ORG
+Director-General	[PER=0.069,LOC=0.000,ORG=0.011,O=0.919]	O	O
+Mutawakel	[PER=0.989,LOC=0.002,ORG=0.005,O=0.003]	PER	PER
+Taha	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.011,LOC=0.010,ORG=0.978,O=0.000]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.987,O=0.005]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ministry
+-----------
+Move choice:
+Launch query on token 21 "Authority"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.150,LOC=0.035,ORG=0.803,O=0.012]	ORG	ORG
+Information	[PER=0.086,LOC=0.007,ORG=0.860,O=0.048]	ORG	ORG
+Ministry	[PER=0.057,LOC=0.017,ORG=0.709,O=0.217]	ORG	ORG
+Director-General	[PER=0.069,LOC=0.000,ORG=0.011,O=0.919]	O	O
+Mutawakel	[PER=0.989,LOC=0.002,ORG=0.005,O=0.003]	PER	PER
+Taha	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.011,LOC=0.010,ORG=0.978,O=0.000]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.987,O=0.005]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Authority
+	Ministry
+-----------
+Next event:
+Got response on token 2 "Ministry" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.213,LOC=0.062,ORG=0.707,O=0.017]	ORG	ORG
+Information	[PER=0.122,LOC=0.015,ORG=0.743,O=0.120]	ORG	ORG
+Ministry	[PER=0.025,LOC=0.007,ORG=0.308,O=0.659]	ORG	O
+Director-General	[PER=0.045,LOC=0.000,ORG=0.005,O=0.949]	O	O
+Mutawakel	[PER=0.989,LOC=0.002,ORG=0.005,O=0.004]	PER	PER
+Taha	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.011,LOC=0.010,ORG=0.978,O=0.000]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.987,O=0.005]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Authority
+-----------
+Move choice:
+Launch query on token 0 "Palestinian"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.213,LOC=0.062,ORG=0.707,O=0.017]	ORG	ORG
+Information	[PER=0.122,LOC=0.015,ORG=0.743,O=0.120]	ORG	ORG
+Ministry	[PER=0.025,LOC=0.007,ORG=0.308,O=0.659]	ORG	O
+Director-General	[PER=0.045,LOC=0.000,ORG=0.005,O=0.949]	O	O
+Mutawakel	[PER=0.989,LOC=0.002,ORG=0.005,O=0.004]	PER	PER
+Taha	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.011,LOC=0.010,ORG=0.978,O=0.000]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.987,O=0.005]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Palestinian
+	Authority
+-----------
+Next event:
+Got response on token 21 "Authority" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.213,LOC=0.062,ORG=0.707,O=0.017]	ORG	ORG
+Information	[PER=0.122,LOC=0.015,ORG=0.743,O=0.120]	ORG	ORG
+Ministry	[PER=0.025,LOC=0.007,ORG=0.308,O=0.659]	ORG	O
+Director-General	[PER=0.045,LOC=0.000,ORG=0.005,O=0.949]	O	O
+Mutawakel	[PER=0.989,LOC=0.002,ORG=0.005,O=0.004]	PER	PER
+Taha	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.015,LOC=0.021,ORG=0.963,O=0.001]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.956,O=0.037]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Palestinian
+-----------
+Move choice:
+Launch query on token 2 "Ministry"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.213,LOC=0.062,ORG=0.707,O=0.017]	ORG	ORG
+Information	[PER=0.122,LOC=0.015,ORG=0.743,O=0.120]	ORG	ORG
+Ministry	[PER=0.025,LOC=0.007,ORG=0.308,O=0.659]	ORG	O
+Director-General	[PER=0.045,LOC=0.000,ORG=0.005,O=0.949]	O	O
+Mutawakel	[PER=0.989,LOC=0.002,ORG=0.005,O=0.004]	PER	PER
+Taha	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.015,LOC=0.021,ORG=0.963,O=0.001]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.956,O=0.037]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Palestinian
+	Ministry
+-----------
+Next event:
+Got response on token 0 "Palestinian" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.156,LOC=0.315,ORG=0.517,O=0.013]	ORG	ORG
+Information	[PER=0.093,LOC=0.055,ORG=0.597,O=0.255]	ORG	ORG
+Ministry	[PER=0.020,LOC=0.010,ORG=0.250,O=0.720]	ORG	O
+Director-General	[PER=0.042,LOC=0.000,ORG=0.004,O=0.954]	O	O
+Mutawakel	[PER=0.989,LOC=0.002,ORG=0.005,O=0.004]	PER	PER
+Taha	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.015,LOC=0.021,ORG=0.963,O=0.001]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.956,O=0.037]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ministry
+-----------
+Move choice:
+Launch query on token 0 "Palestinian"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.156,LOC=0.315,ORG=0.517,O=0.013]	ORG	ORG
+Information	[PER=0.093,LOC=0.055,ORG=0.597,O=0.255]	ORG	ORG
+Ministry	[PER=0.020,LOC=0.010,ORG=0.250,O=0.720]	ORG	O
+Director-General	[PER=0.042,LOC=0.000,ORG=0.004,O=0.954]	O	O
+Mutawakel	[PER=0.989,LOC=0.002,ORG=0.005,O=0.004]	PER	PER
+Taha	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.015,LOC=0.021,ORG=0.963,O=0.001]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.956,O=0.037]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Palestinian
+	Ministry
+-----------
+Next event:
+Got response on token 2 "Ministry" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.172,LOC=0.373,ORG=0.441,O=0.014]	ORG	ORG
+Information	[PER=0.102,LOC=0.070,ORG=0.502,O=0.326]	ORG	ORG
+Ministry	[PER=0.004,LOC=0.002,ORG=0.047,O=0.947]	ORG	O
+Director-General	[PER=0.030,LOC=0.000,ORG=0.001,O=0.969]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.005,O=0.004]	PER	PER
+Taha	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.015,LOC=0.021,ORG=0.963,O=0.001]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.956,O=0.037]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Palestinian
+-----------
+Move choice:
+Launch query on token 0 "Palestinian"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.172,LOC=0.373,ORG=0.441,O=0.014]	ORG	ORG
+Information	[PER=0.102,LOC=0.070,ORG=0.502,O=0.326]	ORG	ORG
+Ministry	[PER=0.004,LOC=0.002,ORG=0.047,O=0.947]	ORG	O
+Director-General	[PER=0.030,LOC=0.000,ORG=0.001,O=0.969]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.005,O=0.004]	PER	PER
+Taha	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.015,LOC=0.021,ORG=0.963,O=0.001]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.956,O=0.037]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Palestinian
+	Palestinian
+-----------
+Move choice:
+Launch query on token 5 "Taha"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.172,LOC=0.373,ORG=0.441,O=0.014]	ORG	ORG
+Information	[PER=0.102,LOC=0.070,ORG=0.502,O=0.326]	ORG	ORG
+Ministry	[PER=0.004,LOC=0.002,ORG=0.047,O=0.947]	ORG	O
+Director-General	[PER=0.030,LOC=0.000,ORG=0.001,O=0.969]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.005,O=0.004]	PER	PER
+Taha	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.015,LOC=0.021,ORG=0.963,O=0.001]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.956,O=0.037]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Palestinian
+	Taha
+	Palestinian
+-----------
+Next event:
+Got response on token 0 "Palestinian" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.053,LOC=0.806,ORG=0.136,O=0.004]	ORG	LOC
+Information	[PER=0.041,LOC=0.142,ORG=0.254,O=0.563]	ORG	O
+Ministry	[PER=0.002,LOC=0.003,ORG=0.025,O=0.971]	ORG	O
+Director-General	[PER=0.029,LOC=0.000,ORG=0.001,O=0.970]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.015,LOC=0.021,ORG=0.963,O=0.001]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.956,O=0.037]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Taha
+	Palestinian
+-----------
+Move choice:
+Launch query on token 1 "Information"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.053,LOC=0.806,ORG=0.136,O=0.004]	ORG	LOC
+Information	[PER=0.041,LOC=0.142,ORG=0.254,O=0.563]	ORG	O
+Ministry	[PER=0.002,LOC=0.003,ORG=0.025,O=0.971]	ORG	O
+Director-General	[PER=0.029,LOC=0.000,ORG=0.001,O=0.970]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=0.998,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.015,LOC=0.021,ORG=0.963,O=0.001]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.956,O=0.037]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Information
+	Taha
+	Palestinian
+-----------
+Next event:
+Got response on token 5 "Taha" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.053,LOC=0.806,ORG=0.136,O=0.004]	ORG	LOC
+Information	[PER=0.041,LOC=0.142,ORG=0.254,O=0.563]	ORG	O
+Ministry	[PER=0.002,LOC=0.003,ORG=0.025,O=0.971]	ORG	O
+Director-General	[PER=0.029,LOC=0.000,ORG=0.001,O=0.970]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.015,LOC=0.021,ORG=0.963,O=0.001]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.956,O=0.037]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Information
+	Palestinian
+-----------
+Next event:
+Got response on token 0 "Palestinian" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.029,LOC=0.443,ORG=0.525,O=0.002]	ORG	ORG
+Information	[PER=0.024,LOC=0.079,ORG=0.569,O=0.328]	ORG	ORG
+Ministry	[PER=0.002,LOC=0.002,ORG=0.053,O=0.943]	ORG	O
+Director-General	[PER=0.029,LOC=0.000,ORG=0.001,O=0.970]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.015,LOC=0.021,ORG=0.963,O=0.001]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.956,O=0.037]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Information
+-----------
+Move choice:
+Launch query on token 1 "Information"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.029,LOC=0.443,ORG=0.525,O=0.002]	ORG	ORG
+Information	[PER=0.024,LOC=0.079,ORG=0.569,O=0.328]	ORG	ORG
+Ministry	[PER=0.002,LOC=0.002,ORG=0.053,O=0.943]	ORG	O
+Director-General	[PER=0.029,LOC=0.000,ORG=0.001,O=0.970]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.015,LOC=0.021,ORG=0.963,O=0.001]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.956,O=0.037]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Information
+	Information
+-----------
+Move choice:
+Launch query on token 28 "."
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.029,LOC=0.443,ORG=0.525,O=0.002]	ORG	ORG
+Information	[PER=0.024,LOC=0.079,ORG=0.569,O=0.328]	ORG	ORG
+Ministry	[PER=0.002,LOC=0.002,ORG=0.053,O=0.943]	ORG	O
+Director-General	[PER=0.029,LOC=0.000,ORG=0.001,O=0.970]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.015,LOC=0.021,ORG=0.963,O=0.001]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.956,O=0.037]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Information
+	.
+	Information
+-----------
+Next event:
+Got response on token 1 "Information" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.027,LOC=0.749,ORG=0.220,O=0.004]	ORG	LOC
+Information	[PER=0.008,LOC=0.027,ORG=0.192,O=0.773]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.019,O=0.977]	ORG	O
+Director-General	[PER=0.028,LOC=0.000,ORG=0.001,O=0.971]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.015,LOC=0.021,ORG=0.963,O=0.001]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.956,O=0.037]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Information
+	.
+-----------
+Next event:
+Got response on token 1 "Information" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.026,LOC=0.877,ORG=0.092,O=0.004]	ORG	LOC
+Information	[PER=0.001,LOC=0.005,ORG=0.034,O=0.960]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.005,O=0.992]	ORG	O
+Director-General	[PER=0.028,LOC=0.000,ORG=0.000,O=0.972]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.015,LOC=0.021,ORG=0.963,O=0.001]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.956,O=0.037]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	.
+-----------
+Move choice:
+Launch query on token 20 "Palestinian"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.026,LOC=0.877,ORG=0.092,O=0.004]	ORG	LOC
+Information	[PER=0.001,LOC=0.005,ORG=0.034,O=0.960]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.005,O=0.992]	ORG	O
+Director-General	[PER=0.028,LOC=0.000,ORG=0.000,O=0.972]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.015,LOC=0.021,ORG=0.963,O=0.001]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.956,O=0.037]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	.
+	Palestinian
+-----------
+Next event:
+Got response on token 28 "." = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.026,LOC=0.877,ORG=0.092,O=0.004]	ORG	LOC
+Information	[PER=0.001,LOC=0.005,ORG=0.034,O=0.960]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.005,O=0.992]	ORG	O
+Director-General	[PER=0.028,LOC=0.000,ORG=0.000,O=0.972]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.015,LOC=0.021,ORG=0.963,O=0.001]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.956,O=0.037]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Palestinian
+-----------
+Move choice:
+Launch query on token 0 "Palestinian"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.026,LOC=0.877,ORG=0.092,O=0.004]	ORG	LOC
+Information	[PER=0.001,LOC=0.005,ORG=0.034,O=0.960]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.005,O=0.992]	ORG	O
+Director-General	[PER=0.028,LOC=0.000,ORG=0.000,O=0.972]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Palestinian	[PER=0.015,LOC=0.021,ORG=0.963,O=0.001]	ORG	ORG
+Authority	[PER=0.006,LOC=0.001,ORG=0.956,O=0.037]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Palestinian
+	Palestinian
+-----------
+Next event:
+Got response on token 20 "Palestinian" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.026,LOC=0.877,ORG=0.092,O=0.004]	ORG	LOC
+Information	[PER=0.001,LOC=0.005,ORG=0.034,O=0.960]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.005,O=0.992]	ORG	O
+Director-General	[PER=0.028,LOC=0.000,ORG=0.000,O=0.972]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.002,LOC=0.003,ORG=0.995,O=0.000]	ORG	ORG
+Authority	[PER=0.002,LOC=0.000,ORG=0.977,O=0.021]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Palestinian
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@15bb
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.026,LOC=0.877,ORG=0.092,O=0.004]	ORG	LOC
+Information	[PER=0.001,LOC=0.005,ORG=0.034,O=0.960]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.005,O=0.992]	ORG	O
+Director-General	[PER=0.028,LOC=0.000,ORG=0.000,O=0.972]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.002,LOC=0.003,ORG=0.995,O=0.000]	ORG	ORG
+Authority	[PER=0.002,LOC=0.000,ORG=0.977,O=0.021]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Palestinian
+-----------
+Next event:
+Got response on token 0 "Palestinian" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.017,LOC=0.565,ORG=0.415,O=0.003]	ORG	LOC
+Information	[PER=0.001,LOC=0.003,ORG=0.138,O=0.858]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.014,O=0.983]	ORG	O
+Director-General	[PER=0.028,LOC=0.000,ORG=0.001,O=0.971]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.002,LOC=0.003,ORG=0.995,O=0.000]	ORG	ORG
+Authority	[PER=0.002,LOC=0.000,ORG=0.977,O=0.021]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "Palestinian"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.017,LOC=0.565,ORG=0.415,O=0.003]	ORG	LOC
+Information	[PER=0.001,LOC=0.003,ORG=0.138,O=0.858]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.014,O=0.983]	ORG	O
+Director-General	[PER=0.028,LOC=0.000,ORG=0.001,O=0.971]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.002,LOC=0.003,ORG=0.995,O=0.000]	ORG	ORG
+Authority	[PER=0.002,LOC=0.000,ORG=0.977,O=0.021]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Palestinian
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@18a2
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.017,LOC=0.565,ORG=0.415,O=0.003]	ORG	LOC
+Information	[PER=0.001,LOC=0.003,ORG=0.138,O=0.858]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.014,O=0.983]	ORG	O
+Director-General	[PER=0.028,LOC=0.000,ORG=0.001,O=0.971]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.002,LOC=0.003,ORG=0.995,O=0.000]	ORG	ORG
+Authority	[PER=0.002,LOC=0.000,ORG=0.977,O=0.021]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Palestinian
+-----------
+Next event:
+Got response on token 0 "Palestinian" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.107,LOC=0.513,ORG=0.377,O=0.003]	ORG	LOC
+Information	[PER=0.005,LOC=0.003,ORG=0.126,O=0.866]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.013,O=0.984]	ORG	O
+Director-General	[PER=0.028,LOC=0.000,ORG=0.001,O=0.971]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.002,LOC=0.003,ORG=0.995,O=0.000]	ORG	ORG
+Authority	[PER=0.002,LOC=0.000,ORG=0.977,O=0.021]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 20 "Palestinian"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.107,LOC=0.513,ORG=0.377,O=0.003]	ORG	LOC
+Information	[PER=0.005,LOC=0.003,ORG=0.126,O=0.866]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.013,O=0.984]	ORG	O
+Director-General	[PER=0.028,LOC=0.000,ORG=0.001,O=0.971]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.002,LOC=0.003,ORG=0.995,O=0.000]	ORG	ORG
+Authority	[PER=0.002,LOC=0.000,ORG=0.977,O=0.021]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Palestinian
+-----------
+Move choice:
+Launch query on token 6 "denied"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.107,LOC=0.513,ORG=0.377,O=0.003]	ORG	LOC
+Information	[PER=0.005,LOC=0.003,ORG=0.126,O=0.866]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.013,O=0.984]	ORG	O
+Director-General	[PER=0.028,LOC=0.000,ORG=0.001,O=0.971]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.002,LOC=0.003,ORG=0.995,O=0.000]	ORG	ORG
+Authority	[PER=0.002,LOC=0.000,ORG=0.977,O=0.021]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Palestinian
+	denied
+-----------
+Move choice:
+Launch query on token 1 "Information"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.107,LOC=0.513,ORG=0.377,O=0.003]	ORG	LOC
+Information	[PER=0.005,LOC=0.003,ORG=0.126,O=0.866]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.013,O=0.984]	ORG	O
+Director-General	[PER=0.028,LOC=0.000,ORG=0.001,O=0.971]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.002,LOC=0.003,ORG=0.995,O=0.000]	ORG	ORG
+Authority	[PER=0.002,LOC=0.000,ORG=0.977,O=0.021]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Information
+	Palestinian
+	denied
+-----------
+Next event:
+Got response on token 20 "Palestinian" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.107,LOC=0.513,ORG=0.377,O=0.003]	ORG	LOC
+Information	[PER=0.005,LOC=0.003,ORG=0.126,O=0.866]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.013,O=0.984]	ORG	O
+Director-General	[PER=0.028,LOC=0.000,ORG=0.001,O=0.971]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.003,LOC=0.000,ORG=0.000,O=0.997]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.002,LOC=0.021,ORG=0.976,O=0.000]	ORG	ORG
+Authority	[PER=0.002,LOC=0.001,ORG=0.965,O=0.033]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Information
+	denied
+-----------
+Next event:
+Got response on token 6 "denied" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.107,LOC=0.513,ORG=0.377,O=0.003]	ORG	LOC
+Information	[PER=0.005,LOC=0.003,ORG=0.126,O=0.866]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.013,O=0.984]	ORG	O
+Director-General	[PER=0.028,LOC=0.000,ORG=0.001,O=0.971]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.002,LOC=0.021,ORG=0.976,O=0.000]	ORG	ORG
+Authority	[PER=0.002,LOC=0.001,ORG=0.965,O=0.033]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Information
+-----------
+Move choice:
+Launch query on token 2 "Ministry"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.107,LOC=0.513,ORG=0.377,O=0.003]	ORG	LOC
+Information	[PER=0.005,LOC=0.003,ORG=0.126,O=0.866]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.013,O=0.984]	ORG	O
+Director-General	[PER=0.028,LOC=0.000,ORG=0.001,O=0.971]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.002,LOC=0.021,ORG=0.976,O=0.000]	ORG	ORG
+Authority	[PER=0.002,LOC=0.001,ORG=0.965,O=0.033]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Information
+	Ministry
+-----------
+Move choice:
+Launch query on token 20 "Palestinian"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.107,LOC=0.513,ORG=0.377,O=0.003]	ORG	LOC
+Information	[PER=0.005,LOC=0.003,ORG=0.126,O=0.866]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.013,O=0.984]	ORG	O
+Director-General	[PER=0.028,LOC=0.000,ORG=0.001,O=0.971]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.002,LOC=0.021,ORG=0.976,O=0.000]	ORG	ORG
+Authority	[PER=0.002,LOC=0.001,ORG=0.965,O=0.033]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Information
+	Ministry
+	Palestinian
+-----------
+Next event:
+Got response on token 1 "Information" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.064,LOC=0.300,ORG=0.634,O=0.002]	ORG	ORG
+Information	[PER=0.003,LOC=0.002,ORG=0.502,O=0.494]	ORG	ORG
+Ministry	[PER=0.001,LOC=0.002,ORG=0.047,O=0.950]	ORG	O
+Director-General	[PER=0.029,LOC=0.000,ORG=0.001,O=0.970]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.002,LOC=0.021,ORG=0.976,O=0.000]	ORG	ORG
+Authority	[PER=0.002,LOC=0.001,ORG=0.965,O=0.033]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ministry
+	Palestinian
+-----------
+Next event:
+Got response on token 2 "Ministry" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.052,LOC=0.240,ORG=0.706,O=0.001]	ORG	ORG
+Information	[PER=0.002,LOC=0.001,ORG=0.607,O=0.390]	ORG	ORG
+Ministry	[PER=0.001,LOC=0.001,ORG=0.257,O=0.741]	ORG	O
+Director-General	[PER=0.032,LOC=0.000,ORG=0.004,O=0.963]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.005,O=0.003]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.002,LOC=0.021,ORG=0.976,O=0.000]	ORG	ORG
+Authority	[PER=0.002,LOC=0.001,ORG=0.965,O=0.033]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Palestinian
+-----------
+Move choice:
+Launch query on token 1 "Information"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.052,LOC=0.240,ORG=0.706,O=0.001]	ORG	ORG
+Information	[PER=0.002,LOC=0.001,ORG=0.607,O=0.390]	ORG	ORG
+Ministry	[PER=0.001,LOC=0.001,ORG=0.257,O=0.741]	ORG	O
+Director-General	[PER=0.032,LOC=0.000,ORG=0.004,O=0.963]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.005,O=0.003]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.002,LOC=0.021,ORG=0.976,O=0.000]	ORG	ORG
+Authority	[PER=0.002,LOC=0.001,ORG=0.965,O=0.033]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Information
+	Palestinian
+-----------
+Next event:
+Got response on token 20 "Palestinian" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.052,LOC=0.240,ORG=0.706,O=0.001]	ORG	ORG
+Information	[PER=0.002,LOC=0.001,ORG=0.607,O=0.390]	ORG	ORG
+Ministry	[PER=0.001,LOC=0.001,ORG=0.257,O=0.741]	ORG	O
+Director-General	[PER=0.032,LOC=0.000,ORG=0.004,O=0.963]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.005,O=0.003]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.000,LOC=0.003,ORG=0.997,O=0.000]	ORG	ORG
+Authority	[PER=0.001,LOC=0.000,ORG=0.978,O=0.021]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Information
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1d76
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.052,LOC=0.240,ORG=0.706,O=0.001]	ORG	ORG
+Information	[PER=0.002,LOC=0.001,ORG=0.607,O=0.390]	ORG	ORG
+Ministry	[PER=0.001,LOC=0.001,ORG=0.257,O=0.741]	ORG	O
+Director-General	[PER=0.032,LOC=0.000,ORG=0.004,O=0.963]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.005,O=0.003]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.000,LOC=0.003,ORG=0.997,O=0.000]	ORG	ORG
+Authority	[PER=0.001,LOC=0.000,ORG=0.978,O=0.021]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Information
+-----------
+Next event:
+Got response on token 1 "Information" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.098,LOC=0.483,ORG=0.417,O=0.002]	ORG	LOC
+Information	[PER=0.001,LOC=0.000,ORG=0.182,O=0.817]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.087,O=0.910]	ORG	O
+Director-General	[PER=0.029,LOC=0.000,ORG=0.002,O=0.969]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.000,LOC=0.003,ORG=0.997,O=0.000]	ORG	ORG
+Authority	[PER=0.001,LOC=0.000,ORG=0.978,O=0.021]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 2 "Ministry"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.098,LOC=0.483,ORG=0.417,O=0.002]	ORG	LOC
+Information	[PER=0.001,LOC=0.000,ORG=0.182,O=0.817]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.087,O=0.910]	ORG	O
+Director-General	[PER=0.029,LOC=0.000,ORG=0.002,O=0.969]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.000,LOC=0.003,ORG=0.997,O=0.000]	ORG	ORG
+Authority	[PER=0.001,LOC=0.000,ORG=0.978,O=0.021]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ministry
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@1ebd
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.098,LOC=0.483,ORG=0.417,O=0.002]	ORG	LOC
+Information	[PER=0.001,LOC=0.000,ORG=0.182,O=0.817]	ORG	O
+Ministry	[PER=0.001,LOC=0.002,ORG=0.087,O=0.910]	ORG	O
+Director-General	[PER=0.029,LOC=0.000,ORG=0.002,O=0.969]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.000,LOC=0.003,ORG=0.997,O=0.000]	ORG	ORG
+Authority	[PER=0.001,LOC=0.000,ORG=0.978,O=0.021]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Ministry
+-----------
+Next event:
+Got response on token 2 "Ministry" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.072,LOC=0.350,ORG=0.576,O=0.002]	ORG	ORG
+Information	[PER=0.000,LOC=0.000,ORG=0.416,O=0.583]	ORG	ORG
+Ministry	[PER=0.000,LOC=0.001,ORG=0.401,O=0.597]	ORG	ORG
+Director-General	[PER=0.034,LOC=0.000,ORG=0.007,O=0.959]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.005,O=0.003]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.000,LOC=0.003,ORG=0.997,O=0.000]	ORG	ORG
+Authority	[PER=0.001,LOC=0.000,ORG=0.978,O=0.021]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 3 "Director-General"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.072,LOC=0.350,ORG=0.576,O=0.002]	ORG	ORG
+Information	[PER=0.000,LOC=0.000,ORG=0.416,O=0.583]	ORG	ORG
+Ministry	[PER=0.000,LOC=0.001,ORG=0.401,O=0.597]	ORG	ORG
+Director-General	[PER=0.034,LOC=0.000,ORG=0.007,O=0.959]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.005,O=0.003]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.000,LOC=0.003,ORG=0.997,O=0.000]	ORG	ORG
+Authority	[PER=0.001,LOC=0.000,ORG=0.978,O=0.021]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Director-General
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@2dcc
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.072,LOC=0.350,ORG=0.576,O=0.002]	ORG	ORG
+Information	[PER=0.000,LOC=0.000,ORG=0.416,O=0.583]	ORG	ORG
+Ministry	[PER=0.000,LOC=0.001,ORG=0.401,O=0.597]	ORG	ORG
+Director-General	[PER=0.034,LOC=0.000,ORG=0.007,O=0.959]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.005,O=0.003]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.000,LOC=0.003,ORG=0.997,O=0.000]	ORG	ORG
+Authority	[PER=0.001,LOC=0.000,ORG=0.978,O=0.021]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+	Director-General
+-----------
+Next event:
+Got response on token 3 "Director-General" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Palestinian	[PER=0.073,LOC=0.353,ORG=0.573,O=0.002]	ORG	ORG
+Information	[PER=0.000,LOC=0.000,ORG=0.411,O=0.589]	ORG	ORG
+Ministry	[PER=0.000,LOC=0.001,ORG=0.394,O=0.604]	ORG	ORG
+Director-General	[PER=0.005,LOC=0.000,ORG=0.001,O=0.994]	O	O
+Mutawakel	[PER=0.990,LOC=0.002,ORG=0.004,O=0.004]	PER	PER
+Taha	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+denied	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+ministry	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+officials	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+forced	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+anyone	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+sign	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+any	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+undertaking	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+insisted	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+that	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+Palestinian	[PER=0.000,LOC=0.003,ORG=0.997,O=0.000]	ORG	ORG
+Authority	[PER=0.001,LOC=0.000,ORG=0.978,O=0.021]	ORG	ORG
+has	[PER=0.000,LOC=0.000,ORG=0.001,O=0.998]	O	O
+no	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+plans	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+censor	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+books	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 5
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@2e93

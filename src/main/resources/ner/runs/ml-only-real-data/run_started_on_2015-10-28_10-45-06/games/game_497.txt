@@ -1,0 +1,43 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Experts	O	O	0
+believe	O	O	0
+both	O	O	0
+India	LOC	LOC	0
+and	O	O	0
+Pakistan	LOC	LOC	0
+could	O	O	0
+quickly	O	O	0
+assemble	O	O	0
+nuclear	O	O	0
+weapons	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Experts	[PER=0.002,LOC=0.006,ORG=0.016,O=0.976]	O	O
+believe	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+both	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+India	[PER=0.003,LOC=0.969,ORG=0.022,O=0.006]	LOC	LOC
+and	[PER=0.000,LOC=0.002,ORG=0.000,O=0.997]	O	O
+Pakistan	[PER=0.016,LOC=0.930,ORG=0.039,O=0.015]	LOC	LOC
+could	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+quickly	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+assemble	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+nuclear	[PER=0.001,LOC=0.004,ORG=0.008,O=0.987]	O	O
+weapons	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

@@ -1,0 +1,97 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Halftime	O	O	0
+1-2	O	O	1
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Halftime	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+1-2	[PER=0.001,LOC=0.004,ORG=0.001,O=0.995]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Halftime	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+1-2	[PER=0.001,LOC=0.004,ORG=0.001,O=0.995]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@9
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Halftime	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+1-2	[PER=0.001,LOC=0.004,ORG=0.001,O=0.995]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 1 "1-2"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Halftime	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+1-2	[PER=0.001,LOC=0.004,ORG=0.001,O=0.995]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	1-2
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@3
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Halftime	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+1-2	[PER=0.001,LOC=0.004,ORG=0.001,O=0.995]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+	1-2
+-----------
+Next event:
+Got response on token 1 "1-2" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Halftime	[PER=0.001,LOC=0.000,ORG=0.000,O=0.998]	O	O
+1-2	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@16

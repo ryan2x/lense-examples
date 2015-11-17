@@ -1,0 +1,33 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+He	O	O	0
+returned	O	O	0
+to	O	O	0
+Bonn	LOC	PER	0
+on	O	O	0
+Thursday	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+He	[PER=0.005,LOC=0.002,ORG=0.004,O=0.988]	O	O
+returned	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+to	[PER=0.002,LOC=0.000,ORG=0.001,O=0.997]	O	O
+Bonn	[PER=0.728,LOC=0.164,ORG=0.093,O=0.016]	LOC	PER
+on	[PER=0.001,LOC=0.000,ORG=0.001,O=0.998]	O	O
+Thursday	[PER=0.002,LOC=0.002,ORG=0.001,O=0.995]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

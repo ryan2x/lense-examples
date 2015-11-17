@@ -1,0 +1,49 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Susan	PER	PER	0
+Nadeau	PER	PER	0
+CHICAGO	LOC	PER	0
+1996-08-22	O	O	0
+A	O	O	0
+consortium	O	O	0
+of	O	O	0
+telephone	O	O	0
+companies	O	O	0
+and	O	O	0
+The	ORG	O	0
+Walt	ORG	PER	0
+Disney	ORG	PER	0
+Co	ORG	PER	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Susan	[PER=0.779,LOC=0.039,ORG=0.170,O=0.012]	PER	PER
+Nadeau	[PER=0.774,LOC=0.038,ORG=0.186,O=0.002]	PER	PER
+CHICAGO	[PER=0.391,LOC=0.416,ORG=0.153,O=0.040]	LOC	PER
+1996-08-22	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+A	[PER=0.002,LOC=0.005,ORG=0.004,O=0.988]	O	O
+consortium	[PER=0.000,LOC=0.000,ORG=0.002,O=0.997]	O	O
+of	[PER=0.000,LOC=0.000,ORG=0.009,O=0.990]	O	O
+telephone	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+companies	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+and	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+The	[PER=0.009,LOC=0.001,ORG=0.017,O=0.972]	ORG	O
+Walt	[PER=0.552,LOC=0.019,ORG=0.411,O=0.018]	ORG	PER
+Disney	[PER=0.497,LOC=0.011,ORG=0.484,O=0.008]	ORG	PER
+Co	[PER=0.424,LOC=0.033,ORG=0.504,O=0.039]	ORG	PER
+.	[PER=0.001,LOC=0.000,ORG=0.002,O=0.997]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@216e0a8f

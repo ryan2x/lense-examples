@@ -1,0 +1,85 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Chairman	O	PER	0
+Mohamed	PER	PER	0
+Fahim	PER	PER	0
+Rayyan	PER	PER	0
+told	O	O	0
+a	O	O	0
+news	O	O	0
+conference	O	O	0
+at	O	O	0
+Cairo	LOC	LOC	0
+airport	O	O	0
+:	O	O	0
+"	O	O	0
+The	O	O	0
+control	O	O	0
+tower	O	O	0
+should	O	O	0
+have	O	O	0
+allocated	O	O	0
+the	O	O	0
+plane	O	O	0
+another	O	O	0
+runway	O	O	0
+,	O	O	0
+instead	O	O	0
+of	O	O	0
+the	O	O	0
+one	O	O	0
+the	O	O	0
+plane	O	O	0
+landed	O	O	0
+on	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Chairman	[PER=0.432,LOC=0.010,ORG=0.147,O=0.411]	O	PER
+Mohamed	[PER=0.669,LOC=0.070,ORG=0.214,O=0.047]	PER	PER
+Fahim	[PER=0.699,LOC=0.032,ORG=0.262,O=0.007]	PER	PER
+Rayyan	[PER=0.682,LOC=0.045,ORG=0.261,O=0.012]	PER	PER
+told	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+a	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+news	[PER=0.001,LOC=0.006,ORG=0.047,O=0.946]	O	O
+conference	[PER=0.000,LOC=0.002,ORG=0.008,O=0.990]	O	O
+at	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Cairo	[PER=0.023,LOC=0.929,ORG=0.020,O=0.028]	LOC	LOC
+airport	[PER=0.000,LOC=0.011,ORG=0.007,O=0.982]	O	O
+:	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+"	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+The	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+control	[PER=0.000,LOC=0.003,ORG=0.007,O=0.989]	O	O
+tower	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+should	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+have	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+allocated	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+plane	[PER=0.000,LOC=0.004,ORG=0.003,O=0.993]	O	O
+another	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+runway	[PER=0.000,LOC=0.007,ORG=0.002,O=0.990]	O	O
+,	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+instead	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+of	[PER=0.000,LOC=0.001,ORG=0.006,O=0.993]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+one	[PER=0.000,LOC=0.001,ORG=0.001,O=0.998]	O	O
+the	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+plane	[PER=0.000,LOC=0.004,ORG=0.003,O=0.993]	O	O
+landed	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+on	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0

@@ -1,0 +1,9 @@
+set terminal png medium
+set output "lense-examples/src/main/resources/ner/runs/mcts-gameplayer-real-data/run_started_on_2015-10-29_18-56-34/queries/Queries-tok_vs_time,_by_class/Queries-tok_vs_time,_by_class.png"
+set title 'Queries/tok vs time, by class'
+set xlabel 'iterations'
+set ylabel 'Queries/tok'
+plot 'lense-examples/src/main/resources/ner/runs/mcts-gameplayer-real-data/run_started_on_2015-10-29_18-56-34/queries/Queries-tok_vs_time,_by_class/PER.dat' with lines, \
+'lense-examples/src/main/resources/ner/runs/mcts-gameplayer-real-data/run_started_on_2015-10-29_18-56-34/queries/Queries-tok_vs_time,_by_class/LOC.dat' with lines, \
+'lense-examples/src/main/resources/ner/runs/mcts-gameplayer-real-data/run_started_on_2015-10-29_18-56-34/queries/Queries-tok_vs_time,_by_class/ORG.dat' with lines, \
+'lense-examples/src/main/resources/ner/runs/mcts-gameplayer-real-data/run_started_on_2015-10-29_18-56-34/queries/Queries-tok_vs_time,_by_class/O.dat' with lines

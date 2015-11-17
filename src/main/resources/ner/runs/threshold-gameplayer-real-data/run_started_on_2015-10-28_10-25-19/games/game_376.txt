@@ -1,0 +1,2026 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+--	O	O	1
+Jason	PER	PER	1
+Webb	PER	PER	2
+,	O	O	1
+Buenos	ORG	ORG	4
+Aires	ORG	ORG	4
+Newsroom	ORG	ORG	4
++541	O	O	1
+318-0655	O	O	1
+Peru	LOC	LOC	4
+'s	O	O	0
+guerrillas	O	O	0
+kill	O	O	0
+one	O	O	0
+,	O	O	0
+take	O	O	0
+8	O	O	0
+hostage	O	O	0
+in	O	O	0
+jungle	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.012,LOC=0.001,ORG=0.001,O=0.987]	O	O
+Jason	[PER=0.990,LOC=0.005,ORG=0.002,O=0.003]	PER	PER
+Webb	[PER=0.974,LOC=0.015,ORG=0.003,O=0.009]	PER	PER
+,	[PER=0.006,LOC=0.000,ORG=0.001,O=0.992]	O	O
+Buenos	[PER=0.186,LOC=0.014,ORG=0.785,O=0.015]	ORG	ORG
+Aires	[PER=0.193,LOC=0.003,ORG=0.802,O=0.001]	ORG	ORG
+Newsroom	[PER=0.129,LOC=0.005,ORG=0.864,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.012,LOC=0.001,ORG=0.001,O=0.987]	O	O
+Jason	[PER=0.990,LOC=0.005,ORG=0.002,O=0.003]	PER	PER
+Webb	[PER=0.974,LOC=0.015,ORG=0.003,O=0.009]	PER	PER
+,	[PER=0.006,LOC=0.000,ORG=0.001,O=0.992]	O	O
+Buenos	[PER=0.186,LOC=0.014,ORG=0.785,O=0.015]	ORG	ORG
+Aires	[PER=0.193,LOC=0.003,ORG=0.802,O=0.001]	ORG	ORG
+Newsroom	[PER=0.129,LOC=0.005,ORG=0.864,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@e0
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.012,LOC=0.001,ORG=0.001,O=0.987]	O	O
+Jason	[PER=0.990,LOC=0.005,ORG=0.002,O=0.003]	PER	PER
+Webb	[PER=0.974,LOC=0.015,ORG=0.003,O=0.009]	PER	PER
+,	[PER=0.006,LOC=0.000,ORG=0.001,O=0.992]	O	O
+Buenos	[PER=0.186,LOC=0.014,ORG=0.785,O=0.015]	ORG	ORG
+Aires	[PER=0.193,LOC=0.003,ORG=0.802,O=0.001]	ORG	ORG
+Newsroom	[PER=0.129,LOC=0.005,ORG=0.864,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.012,LOC=0.001,ORG=0.001,O=0.987]	O	O
+Jason	[PER=0.990,LOC=0.005,ORG=0.002,O=0.003]	PER	PER
+Webb	[PER=0.974,LOC=0.015,ORG=0.003,O=0.009]	PER	PER
+,	[PER=0.006,LOC=0.000,ORG=0.001,O=0.992]	O	O
+Buenos	[PER=0.186,LOC=0.014,ORG=0.785,O=0.015]	ORG	ORG
+Aires	[PER=0.193,LOC=0.003,ORG=0.802,O=0.001]	ORG	ORG
+Newsroom	[PER=0.129,LOC=0.005,ORG=0.864,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 1
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@100
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.012,LOC=0.001,ORG=0.001,O=0.987]	O	O
+Jason	[PER=0.990,LOC=0.005,ORG=0.002,O=0.003]	PER	PER
+Webb	[PER=0.974,LOC=0.015,ORG=0.003,O=0.009]	PER	PER
+,	[PER=0.006,LOC=0.000,ORG=0.001,O=0.992]	O	O
+Buenos	[PER=0.186,LOC=0.014,ORG=0.785,O=0.015]	ORG	ORG
+Aires	[PER=0.193,LOC=0.003,ORG=0.802,O=0.001]	ORG	ORG
+Newsroom	[PER=0.129,LOC=0.005,ORG=0.864,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.012,LOC=0.001,ORG=0.001,O=0.987]	O	O
+Jason	[PER=0.990,LOC=0.005,ORG=0.002,O=0.003]	PER	PER
+Webb	[PER=0.974,LOC=0.015,ORG=0.003,O=0.009]	PER	PER
+,	[PER=0.006,LOC=0.000,ORG=0.001,O=0.992]	O	O
+Buenos	[PER=0.186,LOC=0.014,ORG=0.785,O=0.015]	ORG	ORG
+Aires	[PER=0.193,LOC=0.003,ORG=0.802,O=0.001]	ORG	ORG
+Newsroom	[PER=0.129,LOC=0.005,ORG=0.864,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 2
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@121
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.012,LOC=0.001,ORG=0.001,O=0.987]	O	O
+Jason	[PER=0.990,LOC=0.005,ORG=0.002,O=0.003]	PER	PER
+Webb	[PER=0.974,LOC=0.015,ORG=0.003,O=0.009]	PER	PER
+,	[PER=0.006,LOC=0.000,ORG=0.001,O=0.992]	O	O
+Buenos	[PER=0.186,LOC=0.014,ORG=0.785,O=0.015]	ORG	ORG
+Aires	[PER=0.193,LOC=0.003,ORG=0.802,O=0.001]	ORG	ORG
+Newsroom	[PER=0.129,LOC=0.005,ORG=0.864,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Move choice:
+Making job posting
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.012,LOC=0.001,ORG=0.001,O=0.987]	O	O
+Jason	[PER=0.990,LOC=0.005,ORG=0.002,O=0.003]	PER	PER
+Webb	[PER=0.974,LOC=0.015,ORG=0.003,O=0.009]	PER	PER
+,	[PER=0.006,LOC=0.000,ORG=0.001,O=0.992]	O	O
+Buenos	[PER=0.186,LOC=0.014,ORG=0.785,O=0.015]	ORG	ORG
+Aires	[PER=0.193,LOC=0.003,ORG=0.802,O=0.001]	ORG	ORG
+Newsroom	[PER=0.129,LOC=0.005,ORG=0.864,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 1
+Current available humans: 3
+Current in-flight queries: 
+-----------
+Next event:
+io.hybridcrowd.gameplay.Game$HumanArrival@132
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.012,LOC=0.001,ORG=0.001,O=0.987]	O	O
+Jason	[PER=0.990,LOC=0.005,ORG=0.002,O=0.003]	PER	PER
+Webb	[PER=0.974,LOC=0.015,ORG=0.003,O=0.009]	PER	PER
+,	[PER=0.006,LOC=0.000,ORG=0.001,O=0.992]	O	O
+Buenos	[PER=0.186,LOC=0.014,ORG=0.785,O=0.015]	ORG	ORG
+Aires	[PER=0.193,LOC=0.003,ORG=0.802,O=0.001]	ORG	ORG
+Newsroom	[PER=0.129,LOC=0.005,ORG=0.864,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+Launch query on token 0 "--"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.012,LOC=0.001,ORG=0.001,O=0.987]	O	O
+Jason	[PER=0.990,LOC=0.005,ORG=0.002,O=0.003]	PER	PER
+Webb	[PER=0.974,LOC=0.015,ORG=0.003,O=0.009]	PER	PER
+,	[PER=0.006,LOC=0.000,ORG=0.001,O=0.992]	O	O
+Buenos	[PER=0.186,LOC=0.014,ORG=0.785,O=0.015]	ORG	ORG
+Aires	[PER=0.193,LOC=0.003,ORG=0.802,O=0.001]	ORG	ORG
+Newsroom	[PER=0.129,LOC=0.005,ORG=0.864,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	--
+-----------
+Move choice:
+Launch query on token 1 "Jason"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.012,LOC=0.001,ORG=0.001,O=0.987]	O	O
+Jason	[PER=0.990,LOC=0.005,ORG=0.002,O=0.003]	PER	PER
+Webb	[PER=0.974,LOC=0.015,ORG=0.003,O=0.009]	PER	PER
+,	[PER=0.006,LOC=0.000,ORG=0.001,O=0.992]	O	O
+Buenos	[PER=0.186,LOC=0.014,ORG=0.785,O=0.015]	ORG	ORG
+Aires	[PER=0.193,LOC=0.003,ORG=0.802,O=0.001]	ORG	ORG
+Newsroom	[PER=0.129,LOC=0.005,ORG=0.864,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Jason
+	--
+-----------
+Next event:
+Got response on token 0 "--" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=0.990,LOC=0.005,ORG=0.002,O=0.003]	PER	PER
+Webb	[PER=0.974,LOC=0.015,ORG=0.003,O=0.009]	PER	PER
+,	[PER=0.006,LOC=0.000,ORG=0.001,O=0.992]	O	O
+Buenos	[PER=0.186,LOC=0.014,ORG=0.785,O=0.015]	ORG	ORG
+Aires	[PER=0.193,LOC=0.003,ORG=0.802,O=0.001]	ORG	ORG
+Newsroom	[PER=0.129,LOC=0.005,ORG=0.864,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Jason
+-----------
+Move choice:
+Launch query on token 2 "Webb"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=0.990,LOC=0.005,ORG=0.002,O=0.003]	PER	PER
+Webb	[PER=0.974,LOC=0.015,ORG=0.003,O=0.009]	PER	PER
+,	[PER=0.006,LOC=0.000,ORG=0.001,O=0.992]	O	O
+Buenos	[PER=0.186,LOC=0.014,ORG=0.785,O=0.015]	ORG	ORG
+Aires	[PER=0.193,LOC=0.003,ORG=0.802,O=0.001]	ORG	ORG
+Newsroom	[PER=0.129,LOC=0.005,ORG=0.864,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Jason
+	Webb
+-----------
+Next event:
+Got response on token 1 "Jason" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=0.980,LOC=0.011,ORG=0.002,O=0.008]	PER	PER
+,	[PER=0.006,LOC=0.000,ORG=0.001,O=0.992]	O	O
+Buenos	[PER=0.186,LOC=0.014,ORG=0.785,O=0.015]	ORG	ORG
+Aires	[PER=0.193,LOC=0.003,ORG=0.802,O=0.001]	ORG	ORG
+Newsroom	[PER=0.129,LOC=0.005,ORG=0.864,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Webb
+-----------
+Move choice:
+Launch query on token 2 "Webb"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=0.980,LOC=0.011,ORG=0.002,O=0.008]	PER	PER
+,	[PER=0.006,LOC=0.000,ORG=0.001,O=0.992]	O	O
+Buenos	[PER=0.186,LOC=0.014,ORG=0.785,O=0.015]	ORG	ORG
+Aires	[PER=0.193,LOC=0.003,ORG=0.802,O=0.001]	ORG	ORG
+Newsroom	[PER=0.129,LOC=0.005,ORG=0.864,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Webb
+	Webb
+-----------
+Move choice:
+Launch query on token 3 ","
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=0.999,LOC=0.001,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=0.980,LOC=0.011,ORG=0.002,O=0.008]	PER	PER
+,	[PER=0.006,LOC=0.000,ORG=0.001,O=0.992]	O	O
+Buenos	[PER=0.186,LOC=0.014,ORG=0.785,O=0.015]	ORG	ORG
+Aires	[PER=0.193,LOC=0.003,ORG=0.802,O=0.001]	ORG	ORG
+Newsroom	[PER=0.129,LOC=0.005,ORG=0.864,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Webb
+	Webb
+	,
+-----------
+Next event:
+Got response on token 2 "Webb" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=0.997,LOC=0.002,ORG=0.000,O=0.001]	PER	PER
+,	[PER=0.007,LOC=0.000,ORG=0.001,O=0.992]	O	O
+Buenos	[PER=0.186,LOC=0.014,ORG=0.785,O=0.015]	ORG	ORG
+Aires	[PER=0.193,LOC=0.003,ORG=0.802,O=0.001]	ORG	ORG
+Newsroom	[PER=0.129,LOC=0.005,ORG=0.864,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Webb
+	,
+-----------
+Move choice:
+Launch query on token 4 "Buenos"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=0.999,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=0.997,LOC=0.002,ORG=0.000,O=0.001]	PER	PER
+,	[PER=0.007,LOC=0.000,ORG=0.001,O=0.992]	O	O
+Buenos	[PER=0.186,LOC=0.014,ORG=0.785,O=0.015]	ORG	ORG
+Aires	[PER=0.193,LOC=0.003,ORG=0.802,O=0.001]	ORG	ORG
+Newsroom	[PER=0.129,LOC=0.005,ORG=0.864,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Webb
+	Buenos
+	,
+-----------
+Next event:
+Got response on token 2 "Webb" = PER
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.007,LOC=0.000,ORG=0.001,O=0.992]	O	O
+Buenos	[PER=0.186,LOC=0.014,ORG=0.785,O=0.015]	ORG	ORG
+Aires	[PER=0.193,LOC=0.003,ORG=0.802,O=0.001]	ORG	ORG
+Newsroom	[PER=0.129,LOC=0.005,ORG=0.864,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Buenos
+	,
+-----------
+Next event:
+Got response on token 3 "," = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Buenos	[PER=0.182,LOC=0.014,ORG=0.788,O=0.015]	ORG	ORG
+Aires	[PER=0.190,LOC=0.003,ORG=0.806,O=0.001]	ORG	ORG
+Newsroom	[PER=0.127,LOC=0.005,ORG=0.867,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Buenos
+-----------
+Move choice:
+Launch query on token 4 "Buenos"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Buenos	[PER=0.182,LOC=0.014,ORG=0.788,O=0.015]	ORG	ORG
+Aires	[PER=0.190,LOC=0.003,ORG=0.806,O=0.001]	ORG	ORG
+Newsroom	[PER=0.127,LOC=0.005,ORG=0.867,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Buenos
+	Buenos
+-----------
+Move choice:
+Launch query on token 4 "Buenos"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Buenos	[PER=0.182,LOC=0.014,ORG=0.788,O=0.015]	ORG	ORG
+Aires	[PER=0.190,LOC=0.003,ORG=0.806,O=0.001]	ORG	ORG
+Newsroom	[PER=0.127,LOC=0.005,ORG=0.867,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Buenos
+	Buenos
+	Buenos
+-----------
+Move choice:
+Launch query on token 4 "Buenos"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Buenos	[PER=0.182,LOC=0.014,ORG=0.788,O=0.015]	ORG	ORG
+Aires	[PER=0.190,LOC=0.003,ORG=0.806,O=0.001]	ORG	ORG
+Newsroom	[PER=0.127,LOC=0.005,ORG=0.867,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Buenos
+	Buenos
+	Buenos
+	Buenos
+-----------
+Move choice:
+Launch query on token 5 "Aires"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Buenos	[PER=0.182,LOC=0.014,ORG=0.788,O=0.015]	ORG	ORG
+Aires	[PER=0.190,LOC=0.003,ORG=0.806,O=0.001]	ORG	ORG
+Newsroom	[PER=0.127,LOC=0.005,ORG=0.867,O=0.001]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Buenos
+	Buenos
+	Buenos
+	Aires
+	Buenos
+-----------
+Next event:
+Got response on token 4 "Buenos" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Buenos	[PER=0.168,LOC=0.091,ORG=0.727,O=0.014]	ORG	ORG
+Aires	[PER=0.199,LOC=0.015,ORG=0.782,O=0.004]	ORG	ORG
+Newsroom	[PER=0.134,LOC=0.010,ORG=0.855,O=0.002]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Buenos
+	Buenos
+	Aires
+	Buenos
+-----------
+Next event:
+Got response on token 4 "Buenos" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.031,LOC=0.017,ORG=0.949,O=0.003]	ORG	ORG
+Aires	[PER=0.046,LOC=0.003,ORG=0.950,O=0.001]	ORG	ORG
+Newsroom	[PER=0.032,LOC=0.003,ORG=0.965,O=0.001]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.067,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Buenos
+	Aires
+	Buenos
+-----------
+Next event:
+Got response on token 4 "Buenos" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.028,LOC=0.108,ORG=0.861,O=0.002]	ORG	ORG
+Aires	[PER=0.071,LOC=0.017,ORG=0.908,O=0.004]	ORG	ORG
+Newsroom	[PER=0.049,LOC=0.008,ORG=0.942,O=0.001]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.067,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Buenos
+	Aires
+-----------
+Move choice:
+Launch query on token 5 "Aires"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.028,LOC=0.108,ORG=0.861,O=0.002]	ORG	ORG
+Aires	[PER=0.071,LOC=0.017,ORG=0.908,O=0.004]	ORG	ORG
+Newsroom	[PER=0.049,LOC=0.008,ORG=0.942,O=0.001]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.067,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Aires
+	Buenos
+	Aires
+-----------
+Move choice:
+Launch query on token 5 "Aires"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.028,LOC=0.108,ORG=0.861,O=0.002]	ORG	ORG
+Aires	[PER=0.071,LOC=0.017,ORG=0.908,O=0.004]	ORG	ORG
+Newsroom	[PER=0.049,LOC=0.008,ORG=0.942,O=0.001]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.067,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Aires
+	Aires
+	Buenos
+	Aires
+-----------
+Next event:
+Got response on token 5 "Aires" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.026,LOC=0.190,ORG=0.782,O=0.002]	ORG	ORG
+Aires	[PER=0.064,LOC=0.110,ORG=0.822,O=0.003]	ORG	ORG
+Newsroom	[PER=0.048,LOC=0.041,ORG=0.908,O=0.003]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Aires
+	Aires
+	Buenos
+-----------
+Next event:
+Got response on token 4 "Buenos" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.012,LOC=0.621,ORG=0.366,O=0.001]	ORG	ORG
+Aires	[PER=0.116,LOC=0.352,ORG=0.522,O=0.010]	ORG	ORG
+Newsroom	[PER=0.092,LOC=0.127,ORG=0.771,O=0.010]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Aires
+	Aires
+-----------
+Move choice:
+Launch query on token 5 "Aires"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.012,LOC=0.621,ORG=0.366,O=0.001]	ORG	ORG
+Aires	[PER=0.116,LOC=0.352,ORG=0.522,O=0.010]	ORG	ORG
+Newsroom	[PER=0.092,LOC=0.127,ORG=0.771,O=0.010]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Aires
+	Aires
+	Aires
+-----------
+Move choice:
+Launch query on token 6 "Newsroom"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.012,LOC=0.621,ORG=0.366,O=0.001]	ORG	ORG
+Aires	[PER=0.116,LOC=0.352,ORG=0.522,O=0.010]	ORG	ORG
+Newsroom	[PER=0.092,LOC=0.127,ORG=0.771,O=0.010]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Aires
+	Aires
+	Aires
+	Newsroom
+-----------
+Move choice:
+Launch query on token 6 "Newsroom"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.012,LOC=0.621,ORG=0.366,O=0.001]	ORG	ORG
+Aires	[PER=0.116,LOC=0.352,ORG=0.522,O=0.010]	ORG	ORG
+Newsroom	[PER=0.092,LOC=0.127,ORG=0.771,O=0.010]	ORG	ORG
++541	[PER=0.001,LOC=0.000,ORG=0.006,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Aires
+	Aires
+	Aires
+	Newsroom
+	Newsroom
+-----------
+Next event:
+Got response on token 5 "Aires" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.004,LOC=0.383,ORG=0.612,O=0.001]	ORG	ORG
+Aires	[PER=0.028,LOC=0.085,ORG=0.884,O=0.003]	ORG	ORG
+Newsroom	[PER=0.023,LOC=0.031,ORG=0.943,O=0.003]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.067,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Aires
+	Aires
+	Newsroom
+	Newsroom
+-----------
+Move choice:
+Launch query on token 6 "Newsroom"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.004,LOC=0.383,ORG=0.612,O=0.001]	ORG	ORG
+Aires	[PER=0.028,LOC=0.085,ORG=0.884,O=0.003]	ORG	ORG
+Newsroom	[PER=0.023,LOC=0.031,ORG=0.943,O=0.003]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.067,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	Aires
+	Aires
+	Newsroom
+	Newsroom
+-----------
+Next event:
+Got response on token 6 "Newsroom" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.004,LOC=0.391,ORG=0.604,O=0.001]	ORG	ORG
+Aires	[PER=0.028,LOC=0.097,ORG=0.872,O=0.003]	ORG	ORG
+Newsroom	[PER=0.023,LOC=0.031,ORG=0.928,O=0.018]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.067,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	Aires
+	Aires
+	Newsroom
+-----------
+Next event:
+Got response on token 5 "Aires" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.002,LOC=0.320,ORG=0.677,O=0.001]	ORG	ORG
+Aires	[PER=0.005,LOC=0.016,ORG=0.979,O=0.000]	ORG	ORG
+Newsroom	[PER=0.005,LOC=0.006,ORG=0.985,O=0.004]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.067,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	Aires
+	Newsroom
+-----------
+Next event:
+Got response on token 5 "Aires" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.002,LOC=0.378,ORG=0.619,O=0.001]	ORG	ORG
+Aires	[PER=0.004,LOC=0.100,ORG=0.896,O=0.000]	ORG	ORG
+Newsroom	[PER=0.007,LOC=0.031,ORG=0.944,O=0.017]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.067,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	Newsroom
+-----------
+Move choice:
+Launch query on token 6 "Newsroom"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.002,LOC=0.378,ORG=0.619,O=0.001]	ORG	ORG
+Aires	[PER=0.004,LOC=0.100,ORG=0.896,O=0.000]	ORG	ORG
+Newsroom	[PER=0.007,LOC=0.031,ORG=0.944,O=0.017]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.067,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	Newsroom
+	Newsroom
+-----------
+Move choice:
+Launch query on token 7 "+541"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.002,LOC=0.378,ORG=0.619,O=0.001]	ORG	ORG
+Aires	[PER=0.004,LOC=0.100,ORG=0.896,O=0.000]	ORG	ORG
+Newsroom	[PER=0.007,LOC=0.031,ORG=0.944,O=0.017]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.067,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	+541
+	Newsroom
+	Newsroom
+-----------
+Move choice:
+Launch query on token 8 "318-0655"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.002,LOC=0.378,ORG=0.619,O=0.001]	ORG	ORG
+Aires	[PER=0.004,LOC=0.100,ORG=0.896,O=0.000]	ORG	ORG
+Newsroom	[PER=0.007,LOC=0.031,ORG=0.944,O=0.017]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.007,O=0.993]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.067,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	+541
+	Newsroom
+	Newsroom
+	318-0655
+-----------
+Next event:
+Got response on token 6 "Newsroom" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.001,LOC=0.349,ORG=0.648,O=0.001]	ORG	ORG
+Aires	[PER=0.002,LOC=0.060,ORG=0.938,O=0.000]	ORG	ORG
+Newsroom	[PER=0.001,LOC=0.005,ORG=0.992,O=0.003]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.007,O=0.992]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.993]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.067,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	+541
+	Newsroom
+	318-0655
+-----------
+Next event:
+Got response on token 7 "+541" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.001,LOC=0.349,ORG=0.648,O=0.001]	ORG	ORG
+Aires	[PER=0.002,LOC=0.060,ORG=0.938,O=0.000]	ORG	ORG
+Newsroom	[PER=0.001,LOC=0.005,ORG=0.992,O=0.003]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.994]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	Newsroom
+	318-0655
+-----------
+Move choice:
+Launch query on token 9 "Peru"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.001,LOC=0.349,ORG=0.648,O=0.001]	ORG	ORG
+Aires	[PER=0.002,LOC=0.060,ORG=0.938,O=0.000]	ORG	ORG
+Newsroom	[PER=0.001,LOC=0.005,ORG=0.992,O=0.003]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+318-0655	[PER=0.004,LOC=0.001,ORG=0.002,O=0.994]	O	O
+Peru	[PER=0.285,LOC=0.561,ORG=0.066,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	Newsroom
+	Peru
+	318-0655
+-----------
+Next event:
+Got response on token 8 "318-0655" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.001,LOC=0.349,ORG=0.648,O=0.001]	ORG	ORG
+Aires	[PER=0.002,LOC=0.060,ORG=0.938,O=0.000]	ORG	ORG
+Newsroom	[PER=0.001,LOC=0.005,ORG=0.992,O=0.003]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+318-0655	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Peru	[PER=0.284,LOC=0.563,ORG=0.065,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	Newsroom
+	Peru
+-----------
+Move choice:
+Launch query on token 9 "Peru"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.001,LOC=0.349,ORG=0.648,O=0.001]	ORG	ORG
+Aires	[PER=0.002,LOC=0.060,ORG=0.938,O=0.000]	ORG	ORG
+Newsroom	[PER=0.001,LOC=0.005,ORG=0.992,O=0.003]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+318-0655	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Peru	[PER=0.284,LOC=0.563,ORG=0.065,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Newsroom
+	Peru
+	Newsroom
+	Peru
+-----------
+Move choice:
+Launch query on token 9 "Peru"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.001,LOC=0.349,ORG=0.648,O=0.001]	ORG	ORG
+Aires	[PER=0.002,LOC=0.060,ORG=0.938,O=0.000]	ORG	ORG
+Newsroom	[PER=0.001,LOC=0.005,ORG=0.992,O=0.003]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+318-0655	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Peru	[PER=0.284,LOC=0.563,ORG=0.065,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Peru
+	Newsroom
+	Peru
+	Newsroom
+	Peru
+-----------
+Next event:
+Got response on token 6 "Newsroom" = ORG
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.001,LOC=0.345,ORG=0.652,O=0.001]	ORG	ORG
+Aires	[PER=0.001,LOC=0.054,ORG=0.944,O=0.000]	ORG	ORG
+Newsroom	[PER=0.000,LOC=0.001,ORG=0.999,O=0.000]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+318-0655	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Peru	[PER=0.284,LOC=0.563,ORG=0.065,O=0.088]	LOC	LOC
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Peru
+	Newsroom
+	Peru
+	Peru
+-----------
+Next event:
+Got response on token 9 "Peru" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.001,LOC=0.345,ORG=0.652,O=0.001]	ORG	ORG
+Aires	[PER=0.001,LOC=0.054,ORG=0.944,O=0.000]	ORG	ORG
+Newsroom	[PER=0.000,LOC=0.001,ORG=0.999,O=0.000]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+318-0655	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Peru	[PER=0.186,LOC=0.368,ORG=0.043,O=0.404]	LOC	O
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Peru
+	Newsroom
+	Peru
+-----------
+Next event:
+Got response on token 6 "Newsroom" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.001,LOC=0.348,ORG=0.650,O=0.001]	ORG	ORG
+Aires	[PER=0.001,LOC=0.058,ORG=0.940,O=0.000]	ORG	ORG
+Newsroom	[PER=0.000,LOC=0.005,ORG=0.995,O=0.000]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+318-0655	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Peru	[PER=0.186,LOC=0.368,ORG=0.043,O=0.404]	LOC	O
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Peru
+	Peru
+-----------
+Move choice:
+Launch query on token 9 "Peru"
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.001,LOC=0.348,ORG=0.650,O=0.001]	ORG	ORG
+Aires	[PER=0.001,LOC=0.058,ORG=0.940,O=0.000]	ORG	ORG
+Newsroom	[PER=0.000,LOC=0.005,ORG=0.995,O=0.000]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+318-0655	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Peru	[PER=0.186,LOC=0.368,ORG=0.043,O=0.404]	LOC	O
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Peru
+	Peru
+	Peru
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@49d
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.001,LOC=0.348,ORG=0.650,O=0.001]	ORG	ORG
+Aires	[PER=0.001,LOC=0.058,ORG=0.940,O=0.000]	ORG	ORG
+Newsroom	[PER=0.000,LOC=0.005,ORG=0.995,O=0.000]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+318-0655	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+Peru	[PER=0.186,LOC=0.368,ORG=0.043,O=0.404]	LOC	O
+'s	[PER=0.001,LOC=0.000,ORG=0.000,O=0.999]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Peru
+	Peru
+	Peru
+-----------
+Next event:
+Got response on token 9 "Peru" = O
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.001,LOC=0.348,ORG=0.650,O=0.001]	ORG	ORG
+Aires	[PER=0.001,LOC=0.058,ORG=0.940,O=0.000]	ORG	ORG
+Newsroom	[PER=0.000,LOC=0.005,ORG=0.995,O=0.000]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+318-0655	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Peru	[PER=0.054,LOC=0.108,ORG=0.012,O=0.826]	LOC	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Peru
+	Peru
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@4b8
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.001,LOC=0.348,ORG=0.650,O=0.001]	ORG	ORG
+Aires	[PER=0.001,LOC=0.058,ORG=0.940,O=0.000]	ORG	ORG
+Newsroom	[PER=0.000,LOC=0.005,ORG=0.995,O=0.000]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+318-0655	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Peru	[PER=0.054,LOC=0.108,ORG=0.012,O=0.826]	LOC	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Peru
+	Peru
+-----------
+Next event:
+Got response on token 9 "Peru" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.001,LOC=0.348,ORG=0.650,O=0.001]	ORG	ORG
+Aires	[PER=0.001,LOC=0.058,ORG=0.940,O=0.000]	ORG	ORG
+Newsroom	[PER=0.000,LOC=0.005,ORG=0.995,O=0.000]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+318-0655	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Peru	[PER=0.033,LOC=0.458,ORG=0.008,O=0.502]	LOC	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Peru
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$Wait@4d3
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.001,LOC=0.348,ORG=0.650,O=0.001]	ORG	ORG
+Aires	[PER=0.001,LOC=0.058,ORG=0.940,O=0.000]	ORG	ORG
+Newsroom	[PER=0.000,LOC=0.005,ORG=0.995,O=0.000]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+318-0655	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Peru	[PER=0.033,LOC=0.458,ORG=0.008,O=0.502]	LOC	O
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+	Peru
+-----------
+Next event:
+Got response on token 9 "Peru" = LOC
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+--	[PER=0.002,LOC=0.000,ORG=0.000,O=0.998]	O	O
+Jason	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+Webb	[PER=1.000,LOC=0.000,ORG=0.000,O=0.000]	PER	PER
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Buenos	[PER=0.001,LOC=0.348,ORG=0.650,O=0.001]	ORG	ORG
+Aires	[PER=0.001,LOC=0.058,ORG=0.940,O=0.000]	ORG	ORG
+Newsroom	[PER=0.000,LOC=0.005,ORG=0.995,O=0.000]	ORG	ORG
++541	[PER=0.000,LOC=0.000,ORG=0.001,O=0.999]	O	O
+318-0655	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+Peru	[PER=0.009,LOC=0.855,ORG=0.002,O=0.134]	LOC	LOC
+'s	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+guerrillas	[PER=0.001,LOC=0.001,ORG=0.001,O=0.997]	O	O
+kill	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+one	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+,	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+take	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+8	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+hostage	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+in	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+jungle	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 4
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@623

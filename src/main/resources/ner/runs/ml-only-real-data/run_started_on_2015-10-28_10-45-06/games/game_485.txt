@@ -1,0 +1,37 @@
+Game Results:
+
+TOKEN	TAG	GUESS
+QUERIES
+-------------
+Bonn	LOC	PER	0
+says	O	O	0
+Moscow	LOC	LOC	0
+has	O	O	0
+promised	O	O	0
+to	O	O	0
+observe	O	O	0
+ceasefire	O	O	0
+.	O	O	0
+
+Game History:
+
+-----------
+TOKEN	DIST	TAG	GUESS
+-------------
+Bonn	[PER=0.724,LOC=0.149,ORG=0.119,O=0.008]	LOC	PER
+says	[PER=0.001,LOC=0.001,ORG=0.000,O=0.997]	O	O
+Moscow	[PER=0.022,LOC=0.941,ORG=0.017,O=0.020]	LOC	LOC
+has	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+promised	[PER=0.000,LOC=0.001,ORG=0.000,O=0.999]	O	O
+to	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+observe	[PER=0.000,LOC=0.000,ORG=0.000,O=0.999]	O	O
+ceasefire	[PER=0.000,LOC=0.013,ORG=0.003,O=0.983]	O	O
+.	[PER=0.000,LOC=0.000,ORG=0.000,O=1.000]	O	O
+
+-----------
+Current job postings un-answered: 0
+Current available humans: 0
+Current in-flight queries: 
+-----------
+Move choice:
+io.hybridcrowd.gameplay.Game$TurnIn@0
