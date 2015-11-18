@@ -31,7 +31,7 @@ public class SyntheticDataGen {
         List<String> tags = new ArrayList<>();
         for (String t : CoNLLTags) tags.add(t);
 
-        ModelBatch batch = new ModelBatch("lense-examples/src/main/resources/ner-batch.ser");
+        ModelBatch batch = new ModelBatch("src/main/resources/ner-batch.ser");
 
         List<Long> delays = new ArrayList<>();
         outer: for (int j = 10; j < batch.size(); j++) {
@@ -86,6 +86,6 @@ public class SyntheticDataGen {
             synthetic.add(clone);
         }
 
-        synthetic.writeToFileWithoutFactors("lense-examples/src/main/resources/ner-batch-synthetic.ser");
+        synthetic.writeToFileWithoutFactors("src/main/resources/ner-batch-synthetic.ser");
     }
 }

@@ -30,17 +30,17 @@ public class SentimentMCTSNoEmbeddingsGameplayer extends SentimentStaticBatch {
 
     @Override
     public String getBatchFileLocation() {
-        return "lense-examples/src/main/resources/sentiment/batches/sentiment.ser";
+        return "src/main/resources/sentiment/batches/sentiment.ser";
     }
 
     @Override
     public String getModelDumpFileLocation() {
-        return "lense-examples/src/main/resources/sentiment/batches/sentiment-dump.txt";
+        return "src/main/resources/sentiment/batches/sentiment-dump.txt";
     }
 
     @Override
     public String getPerformanceReportFolder() {
-        return "lense-examples/src/main/resources/sentiment/runs/mcts-gameplayer-balanced-no-embeddings";
+        return "src/main/resources/sentiment/runs/mcts-gameplayer-balanced-no-embeddings";
     }
 
     @Override

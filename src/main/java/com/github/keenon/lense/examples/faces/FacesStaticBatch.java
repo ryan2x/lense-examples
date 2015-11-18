@@ -31,12 +31,12 @@ public abstract class FacesStaticBatch extends StaticBatchLense {
         try {
             BufferedReader[] embeddingsReaders = new BufferedReader[tags.length];
             for (int i = 0; i < tags.length; i++) {
-                embeddingsReaders[i] = new BufferedReader(new FileReader("lense-examples/src/main/resources/person_recognition/"+tags[i]+" Embeddings.txt"));
+                embeddingsReaders[i] = new BufferedReader(new FileReader("src/main/resources/person_recognition/"+tags[i]+" Embeddings.txt"));
             }
 
             Map<String,GraphicalModel> urlToModel = new HashMap<>();
 
-            BufferedReader br = new BufferedReader(new FileReader("lense-examples/src/main/resources/person_recognition/dev_urls.txt"));
+            BufferedReader br = new BufferedReader(new FileReader("src/main/resources/person_recognition/dev_urls.txt"));
             String line;
             while ((line = br.readLine()) != null) {
                 if (line.startsWith("#")) continue;
@@ -79,7 +79,7 @@ public abstract class FacesStaticBatch extends StaticBatchLense {
                 }
             }
 
-            File f = new File("lense-examples/src/main/resources/person_recognition/context");
+            File f = new File("src/main/resources/person_recognition/context");
 
             double numCorrect = 0.0;
             double total = 0.0;

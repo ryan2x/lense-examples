@@ -11,7 +11,7 @@ import java.io.IOException;
  */
 public class SentimentStatistics {
     public static void main(String[] args) throws IOException {
-        ModelBatch batch = new ModelBatch("lense-examples/src/main/resources/sentiment/batches/sentiment.ser");
+        ModelBatch batch = new ModelBatch("src/main/resources/sentiment/batches/sentiment.ser");
 
         ModelBatch pos = new ModelBatch();
         ModelBatch neg = new ModelBatch();
@@ -39,6 +39,6 @@ public class SentimentStatistics {
             cursor++;
         }
 
-        angryReviewerDataset.writeToFile("lense-examples/src/main/resources/sentiment/batches/sentiment-angry.ser");
+        angryReviewerDataset.writeToFile("src/main/resources/sentiment/batches/sentiment-angry.ser");
     }
 }

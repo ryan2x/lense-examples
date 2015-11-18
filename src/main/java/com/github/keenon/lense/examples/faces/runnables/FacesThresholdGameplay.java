@@ -31,17 +31,17 @@ public class FacesThresholdGameplay extends FacesStaticBatch {
 
     @Override
     public String getBatchFileLocation() {
-        return "lense-examples/src/main/resources/person_recognition/batches/person.ser";
+        return "src/main/resources/person_recognition/batches/person.ser";
     }
 
     @Override
     public String getModelDumpFileLocation() {
-        return "lense-examples/src/main/resources/person_recognition/batches/person-dump.txt";
+        return "src/main/resources/person_recognition/batches/person-dump.txt";
     }
 
     @Override
     public String getPerformanceReportFolder() {
-        return "lense-examples/src/main/resources/person_recognition/runs/mcts-time-gameplayer";
+        return "src/main/resources/person_recognition/runs/mcts-time-gameplayer";
     }
 
     @Override

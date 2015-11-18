@@ -14,7 +14,7 @@ public class MaxVote {
     static int n = 1;
 
     public static void main(String[] args) throws IOException {
-        ModelBatch batch = new ModelBatch("lense-examples/src/main/resources/person_recognition/batches/person.ser");
+        ModelBatch batch = new ModelBatch("src/main/resources/person_recognition/batches/person.ser");
 
         int numCorrect = 0;
         int total = 0;

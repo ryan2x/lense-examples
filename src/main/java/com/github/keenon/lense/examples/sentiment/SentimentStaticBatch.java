@@ -35,7 +35,7 @@ public abstract class SentimentStaticBatch extends StaticBatchLense {
         // Read out both the recorded sentiment data and the CSVs of recorded human responses
 
         try {
-            BufferedReader br = new BufferedReader(new FileReader("lense-examples/src/main/resources/sentiment/socher_cache.txt"));
+            BufferedReader br = new BufferedReader(new FileReader("src/main/resources/sentiment/socher_cache.txt"));
 
             Map<String, GraphicalModel> articleToModel = new HashMap<>();
 
@@ -80,10 +80,10 @@ public abstract class SentimentStaticBatch extends StaticBatchLense {
 
             // Read through the positive and negative articles, and assign codes accordingly
 
-            assignCodes("lense-examples/src/main/resources/sentiment/aclImdb/test/neg/neg.combined", articleToModel, "NEG");
-            assignCodes("lense-examples/src/main/resources/sentiment/aclImdb/train/neg/neg.combined", articleToModel, "NEG");
-            assignCodes("lense-examples/src/main/resources/sentiment/aclImdb/test/pos/pos.combined", articleToModel, "POS");
-            assignCodes("lense-examples/src/main/resources/sentiment/aclImdb/train/pos/pos.combined", articleToModel, "POS");
+            assignCodes("src/main/resources/sentiment/aclImdb/test/neg/neg.combined", articleToModel, "NEG");
+            assignCodes("src/main/resources/sentiment/aclImdb/train/neg/neg.combined", articleToModel, "NEG");
+            assignCodes("src/main/resources/sentiment/aclImdb/test/pos/pos.combined", articleToModel, "POS");
+            assignCodes("src/main/resources/sentiment/aclImdb/train/pos/pos.combined", articleToModel, "POS");
 
             // Check that every article has a code assigned
 

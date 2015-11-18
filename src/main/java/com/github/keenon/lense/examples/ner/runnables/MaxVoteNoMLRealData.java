@@ -14,7 +14,7 @@ import java.util.Map;
  * Runs a simple, max-vote system, without involving any ML at all.
  */
 public class MaxVoteNoMLRealData {
-    static String batchLocation = "lense-examples/src/main/resources/ner/batches/ner-batch-5-vote.ser";
+    static String batchLocation = "src/main/resources/ner/batches/ner-batch-5-vote.ser";
 
     static String[] CoNLLTags = new String[] {
             "PER",

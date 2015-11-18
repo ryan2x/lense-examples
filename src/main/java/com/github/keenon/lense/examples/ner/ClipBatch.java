@@ -13,7 +13,7 @@ public class ClipBatch {
     static final int clipUnder = 5;
 
     public static void main(String[] args) throws IOException {
-        ModelBatch batch = new ModelBatch("lense-examples/src/main/resources/ner-batch.ser");
+        ModelBatch batch = new ModelBatch("src/main/resources/ner-batch.ser");
 
         ModelBatch clippedBatch = new ModelBatch();
 
@@ -30,6 +30,6 @@ public class ClipBatch {
             clippedBatch.add(model);
         }
 
-        clippedBatch.writeToFileWithoutFactors("lense-examples/src/main/resources/ner-batch-5-vote.ser");
+        clippedBatch.writeToFileWithoutFactors("src/main/resources/ner-batch-5-vote.ser");
     }
 }

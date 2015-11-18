@@ -40,7 +40,7 @@ public abstract class NERStaticBatch extends StaticBatchLense {
 
     @Override
     public String getModelDumpFileLocation() {
-        return "lense-examples/src/main/resources/ner-dump.txt";
+        return "src/main/resources/ner-dump.txt";
     }
 
     @Override
@@ -50,7 +50,7 @@ public abstract class NERStaticBatch extends StaticBatchLense {
         int batchSize = 1000;
 
         try {
-            BufferedReader br = new BufferedReader(new FileReader("lense-examples/src/main/resources/ner/conll.iob.4class.train"));
+            BufferedReader br = new BufferedReader(new FileReader("src/main/resources/ner/conll.iob.4class.train"));
 
             List<String> tokens = new ArrayList<>();
             List<String> poss = new ArrayList<>();

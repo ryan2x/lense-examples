@@ -26,7 +26,7 @@ public class NERThresholdGameplayerSyntheticData extends NERStaticBatch {
 
     @Override
     public String getBatchFileLocation(){
-        return "lense-examples/src/main/resources/ner/batches/ner-batch-synthetic.ser";
+        return "src/main/resources/ner/batches/ner-batch-synthetic.ser";
     }
 
     @Override
@@ -36,7 +36,7 @@ public class NERThresholdGameplayerSyntheticData extends NERStaticBatch {
 
     @Override
     public String getPerformanceReportFolder() {
-        return "lense-examples/src/main/resources/ner/runs/threshold-gameplayer-synthetic-data";
+        return "src/main/resources/ner/runs/threshold-gameplayer-synthetic-data";
     }
 
     @Override

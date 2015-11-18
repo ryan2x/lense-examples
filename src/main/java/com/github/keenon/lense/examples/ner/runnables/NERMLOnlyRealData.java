@@ -70,7 +70,7 @@ public class NERMLOnlyRealData extends NERStaticBatch {
 
     @Override
     public String getBatchFileLocation(){
-        return "lense-examples/src/main/resources/ner/batches/ner-batch-5-vote.ser";
+        return "src/main/resources/ner/batches/ner-batch-5-vote.ser";
     }
 
     @Override
@@ -80,7 +80,7 @@ public class NERMLOnlyRealData extends NERStaticBatch {
 
     @Override
     public String getPerformanceReportFolder() {
-        return "lense-examples/src/main/resources/ner/runs/ml-only-real-data";
+        return "src/main/resources/ner/runs/ml-only-real-data";
     }
 
     @Override

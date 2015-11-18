@@ -10,7 +10,7 @@ import java.io.IOException;
  * Runs a simple, max-vote system, without involving any ML at all.
  */
 public class MaxVoteNoMLSyntheticData {
-    static String batchLocation = "lense-examples/src/main/resources/ner/batches/ner-batch-synthetic.ser";
+    static String batchLocation = "src/main/resources/ner/batches/ner-batch-synthetic.ser";
 
     static String[] CoNLLTags = new String[] {
             "PER",

@@ -73,7 +73,7 @@ public class SentimentMLOnly extends SentimentStaticBatch {
 
     @Override
     public String getBatchFileLocation(){
-        return "lense-examples/src/main/resources/sentiment/batches/sentiment.ser";
+        return "src/main/resources/sentiment/batches/sentiment.ser";
     }
 
     @Override
@@ -88,7 +88,7 @@ public class SentimentMLOnly extends SentimentStaticBatch {
 
     @Override
     public String getPerformanceReportFolder() {
-        return "lense-examples/src/main/resources/sentiment/runs/ml-only";
+        return "src/main/resources/sentiment/runs/ml-only";
     }
 
     @Override

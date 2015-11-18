@@ -36,12 +36,12 @@ public class NERAnnotator extends NERStaticBatch {
 
     @Override
     public String getBatchFileLocation() {
-        return "lense-examples/src/main/resources/ner/batches/ner-batch.ser";
+        return "src/main/resources/ner/batches/ner-batch.ser";
     }
 
     @Override
     public String getPerformanceReportFolder() {
-        return "lense-examples/src/main/resources/ner/runs/human-annotator";
+        return "src/main/resources/ner/runs/human-annotator";
     }
 
     @Override

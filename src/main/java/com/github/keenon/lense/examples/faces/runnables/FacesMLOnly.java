@@ -71,7 +71,7 @@ public class FacesMLOnly extends FacesStaticBatch {
 
     @Override
     public String getBatchFileLocation(){
-        return "lense-examples/src/main/resources/person_recognition/batches/person.ser";
+        return "src/main/resources/person_recognition/batches/person.ser";
     }
 
     @Override
@@ -86,7 +86,7 @@ public class FacesMLOnly extends FacesStaticBatch {
 
     @Override
     public String getPerformanceReportFolder() {
-        return "lense-examples/src/main/resources/person_recognition/runs/ml-only";
+        return "src/main/resources/person_recognition/runs/ml-only";
     }
 
     @Override
