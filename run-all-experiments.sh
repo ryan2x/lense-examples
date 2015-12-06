@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Package monolithic jar
+# mvn package
+
 ######## NER
 
 # Human only (Max vote)
