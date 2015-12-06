@@ -58,7 +58,12 @@ public class NERMLOnlyRealData extends NERStaticBatch {
         };
     }
 
+    static String sourceFolder = "src/main/resources/ner/batches";
+    static String destFolder = "src/main/resources/ner/runs";
+
     public static void main(String[] args) throws IOException {
+        if (args.length > 0) sourceFolder = args[0];
+        if (args.length > 1) destFolder = args[1];
         new NERMLOnlyRealData().run();
     }
 
@@ -70,7 +75,7 @@ public class NERMLOnlyRealData extends NERStaticBatch {
 
     @Override
     public String getBatchFileLocation(){
-        return "src/main/resources/ner/batches/ner-batch-5-vote.ser";
+        return sourceFolder+"/ner-batch-5-vote.ser";
     }
 
     @Override
@@ -80,7 +85,7 @@ public class NERMLOnlyRealData extends NERStaticBatch {
 
     @Override
     public String getPerformanceReportFolder() {
-        return "src/main/resources/ner/runs/ml-only-real-data";
+        return destFolder+"/ml-only-real-data";
     }
 
     @Override

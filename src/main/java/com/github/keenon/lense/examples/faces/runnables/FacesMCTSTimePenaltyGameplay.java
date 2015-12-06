@@ -16,7 +16,12 @@ import java.io.IOException;
  * Runs a simple face classification task
  */
 public class FacesMCTSTimePenaltyGameplay extends FacesStaticBatch {
+    static String sourceFolder = "src/main/resources/person_recognition/batches";
+    static String destFolder = "src/main/resources/person_recognition/runs";
+
     public static void main(String[] args) throws IOException {
+        if (args.length > 0) sourceFolder = args[0];
+        if (args.length > 1) destFolder = args[1];
         new FacesMCTSTimePenaltyGameplay().run();
     }
 
@@ -32,17 +37,17 @@ public class FacesMCTSTimePenaltyGameplay extends FacesStaticBatch {
 
     @Override
     public String getBatchFileLocation() {
-        return "src/main/resources/person_recognition/batches/person.ser";
+        return sourceFolder + "/person.ser";
     }
 
     @Override
     public String getModelDumpFileLocation() {
-        return "src/main/resources/person_recognition/batches/person-dump.txt";
+        return sourceFolder + "/person-dump.txt";
     }
 
     @Override
     public String getPerformanceReportFolder() {
-        return "src/main/resources/person_recognition/runs/threshold-gameplayer";
+        return destFolder + "/threshold-gameplayer";
     }
 
     @Override

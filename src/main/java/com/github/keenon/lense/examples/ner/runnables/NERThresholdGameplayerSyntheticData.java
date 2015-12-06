@@ -14,7 +14,13 @@ import java.io.IOException;
  * Replays the NER data we've accumulated and frozen using ModelTagsHumanSource, good for testing gameplayers.
  */
 public class NERThresholdGameplayerSyntheticData extends NERStaticBatch {
+
+    static String sourceFolder = "src/main/resources/ner/batches";
+    static String destFolder = "src/main/resources/ner/runs";
+
     public static void main(String[] args) throws IOException {
+        if (args.length > 0) sourceFolder = args[0];
+        if (args.length > 1) destFolder = args[1];
         new NERThresholdGameplayerSyntheticData().run();
     }
 
@@ -26,7 +32,7 @@ public class NERThresholdGameplayerSyntheticData extends NERStaticBatch {
 
     @Override
     public String getBatchFileLocation(){
-        return "src/main/resources/ner/batches/ner-batch-synthetic.ser";
+        return sourceFolder+"/ner-batch-synthetic.ser";
     }
 
     @Override
@@ -36,7 +42,7 @@ public class NERThresholdGameplayerSyntheticData extends NERStaticBatch {
 
     @Override
     public String getPerformanceReportFolder() {
-        return "src/main/resources/ner/runs/threshold-gameplayer-synthetic-data";
+        return destFolder+"/threshold-gameplayer-synthetic-data";
     }
 
     @Override

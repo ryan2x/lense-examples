@@ -12,7 +12,13 @@ import java.io.IOException;
  * Created by keenon on 10/28/15.
  */
 public class SentimentThresholdGameplayer extends SentimentStaticBatch {
+
+    static String sourceFolder = "src/main/resources/sentiment/batches";
+    static String destFolder = "src/main/resources/sentiment/runs";
+
     public static void main(String[] args) throws IOException {
+        if (args.length > 0) sourceFolder = args[0];
+        if (args.length > 1) destFolder = args[1];
         new SentimentThresholdGameplayer().run();
     }
 
@@ -31,16 +37,16 @@ public class SentimentThresholdGameplayer extends SentimentStaticBatch {
 
     @Override
     public String getBatchFileLocation() {
-        return "src/main/resources/sentiment/batches/sentiment.ser";
+        return sourceFolder+"/sentiment.ser";
     }
 
     @Override
     public String getModelDumpFileLocation() {
-        return "src/main/resources/sentiment/batches/sentiment-dump.txt";
+        return sourceFolder+"/sentiment-dump.txt";
     }
 
     @Override
     public String getPerformanceReportFolder() {
-        return "src/main/resources/sentiment/runs/threshold-gameplayer-balanced";
+        return destFolder+"/threshold-gameplayer-balanced";
     }
 }
