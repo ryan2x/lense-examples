@@ -19,7 +19,16 @@ public class MaxVoteNoMLSyntheticData {
             "O"
     };
 
+    static String sourceFolder = "src/main/resources/ner/batches";
+    static String destFolder = "src/main/resources/ner/runs";
+
     public static void main(String[] args) throws IOException {
+        if (args.length > 0) {
+            sourceFolder = args[0];
+            batchLocation = sourceFolder + "/ner-batch-synthetic.ser";
+        }
+        if (args.length > 1) destFolder = args[1];
+
         ModelBatch batch = new ModelBatch(batchLocation);
 
         MaxVoteNoMLRealData.maxVote(batch, 5);

@@ -13,8 +13,17 @@ import java.io.IOException;
 public class MaxVote {
     static int n = 1;
 
+    static String sourceFolder = "src/main/resources/person_recognition/batches";
+    static String destFolder = "src/main/resources/person_recognition/runs";
+
     public static void main(String[] args) throws IOException {
-        ModelBatch batch = new ModelBatch("src/main/resources/person_recognition/batches/person.ser");
+        String batchLocation = "src/main/resources/person_recognition/batches/person.ser";
+        if (args.length > 0) {
+            sourceFolder = args[0];
+            batchLocation = sourceFolder + "/person.ser";
+        }
+        if (args.length > 1) destFolder = args[1];
+        ModelBatch batch = new ModelBatch(batchLocation);
 
         int numCorrect = 0;
         int total = 0;

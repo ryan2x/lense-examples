@@ -31,7 +31,7 @@ public class CoNLLFeaturizer {
         if (embeddings == null) {
             ObjectInputStream ois = null;
             try {
-                ois = new ObjectInputStream(new GZIPInputStream(new FileInputStream("src/main/resources/ner/google-300-trimmed.ser.gz")));
+                ois = new ObjectInputStream(new GZIPInputStream(new FileInputStream(NERStaticBatch.sourceFolder + "/google-300-trimmed.ser.gz")));
                 embeddings = (Map<String,double[]>)ois.readObject();
             } catch (IOException | ClassNotFoundException e) {
                 e.printStackTrace();

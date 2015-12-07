@@ -17,7 +17,6 @@ import java.io.IOException;
  */
 public class NERMCTSGameplayerTimePenaltyRealData extends NERStaticBatch {
 
-    static String sourceFolder = "src/main/resources/ner/batches";
     static String destFolder = "src/main/resources/ner/runs";
 
     public static void main(String[] args) throws IOException {

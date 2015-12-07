@@ -38,6 +38,8 @@ public abstract class NERStaticBatch extends StaticBatchLense {
             "None of the above"
     };
 
+    public static String sourceFolder = "src/main/resources/ner/batches";
+
     @Override
     public String getModelDumpFileLocation() {
         return "src/main/resources/ner-dump.txt";
