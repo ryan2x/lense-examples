@@ -15,8 +15,10 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.keenon:lense:1.0'
-    compile 'com.github.keenon:loglinear:1.2.3'
+    compile project(":lense")
+    compile project(":loglinear")
+//    compile 'com.github.keenon:lense:1.0'
+//    compile 'com.github.keenon:loglinear:1.2.3'
     compile 'com.google.protobuf:protobuf-java:2.6.1'
     compile 'com.googlecode.json-simple:json-simple:1.1.1'
     testCompile 'com.pholser:junit-quickcheck-core:0.4-beta-3'
