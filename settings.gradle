@@ -2,8 +2,8 @@ rootProject.name = 'lense-examples'
 
 include ':lense'
 project(":lense").projectDir = file("../lense")
-
-include ':loglinear'
-project(":loglinear").projectDir = file ("../loglinear")
+//
+//include ':loglinear'
+//project(":loglinear").projectDir = file ("../loglinear")
 
 

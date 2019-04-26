@@ -7,6 +7,7 @@ import com.github.keenon.lense.gameplay.players.GamePlayer;
 import com.github.keenon.lense.gameplay.players.GamePlayerMCTS;
 import com.github.keenon.lense.human_source.HumanSource;
 import com.github.keenon.lense.human_source.ModelTagsHumanSource;
+import lombok.extern.slf4j.Slf4j;
 
 import java.io.IOException;
 
@@ -15,14 +16,16 @@ import java.io.IOException;
  *
  * Replays the NER data we've accumulated and frozen using ModelTagsHumanSource, good for testing gameplayers.
  */
+@Slf4j
 public class NERMCTSGameplayerRealData extends NERStaticBatch {
 
-    static String destFolder = "src/main/resources/ner/runs";
+    static String destFolder = "logs/ner/runs";
 
     public static void main(String[] args) throws IOException {
         if (args.length > 0) sourceFolder = args[0];
         if (args.length > 1) destFolder = args[1];
         new NERMCTSGameplayerRealData().run();
+        System.exit(0);
     }
 
     @Override
@@ -33,7 +36,9 @@ public class NERMCTSGameplayerRealData extends NERStaticBatch {
 
     @Override
     public String getBatchFileLocation(){
-        return sourceFolder+"/ner-batch-5-vote.ser";
+//        return sourceFolder+"/ner-batch-5-vote.ser";
+//        return sourceFolder+"/ner-batch-5-vote-original.ser";
+        return sourceFolder+"/ner-batch-subset.ser";
     }
 
     @Override
